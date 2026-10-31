@@ -2596,5 +2596,551 @@
   "izoh": "",
   "joy": "9-bob, 615",
   "holat": "TASDIQLANGAN"
+ },
+ "carbohydrates": {
+  "uz": "uglevodlar",
+  "izoh": "carbs ham",
+  "joy": "9-bob, 621",
+  "holat": "TASDIQLANGAN"
+ },
+ "sugar": {
+  "uz": "qand",
+  "izoh": "kimyoviy ma’noda; table sugar → oddiy shakar",
+  "joy": "9-bob, 619",
+  "holat": "TASDIQLANGAN"
+ },
+ "simple sugar": {
+  "uz": "oddiy qand",
+  "izoh": "",
+  "joy": "9-bob, 622",
+  "holat": "TASDIQLANGAN"
+ },
+ "complex sugar": {
+  "uz": "murakkab qand",
+  "izoh": "",
+  "joy": "9-bob, 622",
+  "holat": "TASDIQLANGAN"
+ },
+ "monomer": {
+  "uz": "monomer",
+  "izoh": "",
+  "joy": "9-bob, 624",
+  "holat": "TASDIQLANGAN"
+ },
+ "polymer": {
+  "uz": "polimer",
+  "izoh": "",
+  "joy": "9-bob, 624",
+  "holat": "TASDIQLANGAN"
+ },
+ "monosaccharide": {
+  "uz": "monosaxarid",
+  "izoh": "",
+  "joy": "9-bob, 624",
+  "holat": "TASDIQLANGAN"
+ },
+ "disaccharide": {
+  "uz": "disaxarid",
+  "izoh": "",
+  "joy": "9-bob, 623",
+  "holat": "TASDIQLANGAN"
+ },
+ "oligosaccharide": {
+  "uz": "oligosaxarid",
+  "izoh": "",
+  "joy": "9-bob, 627",
+  "holat": "TASDIQLANGAN"
+ },
+ "polysaccharide": {
+  "uz": "polisaxarid",
+  "izoh": "",
+  "joy": "9-bob, 628",
+  "holat": "TASDIQLANGAN"
+ },
+ "fructose / galactose": {
+  "uz": "fruktoza / galaktoza",
+  "izoh": "",
+  "joy": "9-bob, 624",
+  "holat": "TASDIQLANGAN"
+ },
+ "ribose / deoxyribose": {
+  "uz": "riboza / dezoksiriboza",
+  "izoh": "",
+  "joy": "9-bob, 624",
+  "holat": "TASDIQLANGAN"
+ },
+ "sucrose / lactose / maltose": {
+  "uz": "saxaroza / laktoza / maltoza",
+  "izoh": "",
+  "joy": "9-bob, 625",
+  "holat": "TASDIQLANGAN"
+ },
+ "glycogen": {
+  "uz": "glikogen",
+  "izoh": "",
+  "joy": "9-bob, 628",
+  "holat": "TASDIQLANGAN"
+ },
+ "cellulose": {
+  "uz": "sellyuloza",
+  "izoh": "",
+  "joy": "9-bob, 628",
+  "holat": "TASDIQLANGAN"
+ },
+ "amylose / amylopectin": {
+  "uz": "amiloza / amilopektin",
+  "izoh": "",
+  "joy": "9-bob, 628",
+  "holat": "TASDIQLANGAN"
+ },
+ "chitin": {
+  "uz": "xitin",
+  "izoh": "",
+  "joy": "9-bob, 628",
+  "holat": "TASDIQLANGAN"
+ },
+ "N-acetylglucosamine": {
+  "uz": "N-atsetilglyukozamin",
+  "izoh": "",
+  "joy": "9-bob, 628",
+  "holat": "TASDIQLANGAN"
+ },
+ "glycoprotein": {
+  "uz": "glikoprotein",
+  "izoh": "",
+  "joy": "9-bob, 630",
+  "holat": "TASDIQLANGAN"
+ },
+ "sorbitol / mannitol": {
+  "uz": "sorbit / mannit",
+  "izoh": "",
+  "joy": "9-bob, 632",
+  "holat": "TASDIQLANGAN"
+ },
+ "polyol": {
+  "uz": "poliol",
+  "izoh": "",
+  "joy": "9-bob, 632",
+  "holat": "TASDIQLANGAN"
+ },
+ "alcohol side chain": {
+  "uz": "spirt yon zanjiri",
+  "izoh": "",
+  "joy": "9-bob, 632",
+  "holat": "TASDIQLANGAN"
+ },
+ "D-sugar / L-sugar": {
+  "uz": "D-qand / L-qand",
+  "izoh": "dextro → dekstro, levo → levo; handedness → «qo‘llilik»",
+  "joy": "9-bob, 634",
+  "holat": "TASDIQLANGAN"
+ },
+ "enantiomers": {
+  "uz": "enantiomerlar",
+  "izoh": "",
+  "joy": "9-bob, 636",
+  "holat": "TASDIQLANGAN"
+ },
+ "pyranose ring": {
+  "uz": "piranoza halqasi",
+  "izoh": "",
+  "joy": "9-bob, 638",
+  "holat": "TASDIQLANGAN"
+ },
+ "hexose sugars": {
+  "uz": "geksoza qandlar",
+  "izoh": "",
+  "joy": "9-bob, 638",
+  "holat": "TASDIQLANGAN"
+ },
+ "furanose": {
+  "uz": "furanoza",
+  "izoh": "",
+  "joy": "9-bob, 638",
+  "holat": "TASDIQLANGAN"
+ },
+ "kilocalorie": {
+  "uz": "kilokaloriya",
+  "izoh": "",
+  "joy": "9-bob, 639",
+  "holat": "TASDIQLANGAN"
+ },
+ "GI tract": {
+  "uz": "oshqozon-ichak yo‘li",
+  "izoh": "",
+  "joy": "9-bob, 640",
+  "holat": "TASDIQLANGAN"
+ },
+ "insoluble fiber": {
+  "uz": "erimaydigan kletchatka",
+  "izoh": "dietary fiber → oziq tolalari",
+  "joy": "9-bob, 640",
+  "holat": "TASDIQLANGAN"
+ },
+ "low-carb diet": {
+  "uz": "kam uglevodli parhez",
+  "izoh": "",
+  "joy": "9-bob, 641",
+  "holat": "TASDIQLANGAN"
+ },
+ "osteoporosis": {
+  "uz": "osteoporoz",
+  "izoh": "",
+  "joy": "9-bob, 641",
+  "holat": "TASDIQLANGAN"
+ },
+ "protein": {
+  "uz": "oqsil",
+  "izoh": "",
+  "joy": "9-bob, 642",
+  "holat": "TASDIQLANGAN"
+ },
+ "polypeptide": {
+  "uz": "polipeptid",
+  "izoh": "",
+  "joy": "9-bob, 643",
+  "holat": "TASDIQLANGAN"
+ },
+ "structural proteins": {
+  "uz": "tuzilmaviy oqsillar",
+  "izoh": "",
+  "joy": "9-bob, 644",
+  "holat": "TASDIQLANGAN"
+ },
+ "neurotransmitter": {
+  "uz": "neyromediator",
+  "izoh": "",
+  "joy": "9-bob, 645",
+  "holat": "TASDIQLANGAN"
+ },
+ "immunoglobulins": {
+  "uz": "immunoglobulinlar",
+  "izoh": "",
+  "joy": "9-bob, 645",
+  "holat": "TASDIQLANGAN"
+ },
+ "antibodies": {
+  "uz": "antitanalar",
+  "izoh": "",
+  "joy": "9-bob, 645",
+  "holat": "TASDIQLANGAN"
+ },
+ "gluten": {
+  "uz": "gluten",
+  "izoh": "",
+  "joy": "9-bob, 645",
+  "holat": "TASDIQLANGAN"
+ },
+ "oligopeptide": {
+  "uz": "oligopeptid",
+  "izoh": "",
+  "joy": "9-bob, 646",
+  "holat": "TASDIQLANGAN"
+ },
+ "amine group": {
+  "uz": "amin guruhi",
+  "izoh": "",
+  "joy": "9-bob, 649",
+  "holat": "TASDIQLANGAN"
+ },
+ "carboxyl group": {
+  "uz": "karboksil guruhi",
+  "izoh": "",
+  "joy": "9-bob, 649",
+  "holat": "TASDIQLANGAN"
+ },
+ "alpha carbon": {
+  "uz": "alfa-uglerod",
+  "izoh": "",
+  "joy": "9-bob, 649",
+  "holat": "TASDIQLANGAN"
+ },
+ "R side chain": {
+  "uz": "R yon zanjiri",
+  "izoh": "side chain → yon zanjir",
+  "joy": "9-bob, 649",
+  "holat": "TASDIQLANGAN"
+ },
+ "glycine": {
+  "uz": "glitsin",
+  "izoh": "",
+  "joy": "9-bob, 650",
+  "holat": "TASDIQLANGAN"
+ },
+ "aromatic ring": {
+  "uz": "aromatik halqa",
+  "izoh": "",
+  "joy": "9-bob, 652",
+  "holat": "TASDIQLANGAN"
+ },
+ "peptide / peptide bond": {
+  "uz": "peptid / peptid bog‘",
+  "izoh": "",
+  "joy": "9-bob, 653",
+  "holat": "TASDIQLANGAN"
+ },
+ "protein backbone": {
+  "uz": "oqsil skeleti",
+  "izoh": "",
+  "joy": "9-bob, 655",
+  "holat": "TASDIQLANGAN"
+ },
+ "primary/secondary/tertiary/quaternary structure": {
+  "uz": "birlamchi/ikkilamchi/uchlamchi/to‘rtlamchi struktura",
+  "izoh": "",
+  "joy": "9-bob, 655",
+  "holat": "TASDIQLANGAN"
+ },
+ "beta-pleated shape": {
+  "uz": "beta-burmali shakl",
+  "izoh": "",
+  "joy": "9-bob, 655",
+  "holat": "TASDIQLANGAN"
+ },
+ "disulfide bond": {
+  "uz": "disulfid bog‘",
+  "izoh": "",
+  "joy": "9-bob, 655",
+  "holat": "TASDIQLANGAN"
+ },
+ "genetic code": {
+  "uz": "genetik kod",
+  "izoh": "",
+  "joy": "9-bob, 657",
+  "holat": "TASDIQLANGAN"
+ },
+ "transcribe / translate": {
+  "uz": "transkripsiya qilmoq / translyatsiya qilmoq",
+  "izoh": "",
+  "joy": "9-bob, 657",
+  "holat": "TASDIQLANGAN"
+ },
+ "fatty acid": {
+  "uz": "yog‘ kislotasi",
+  "izoh": "",
+  "joy": "9-bob, 661",
+  "holat": "TASDIQLANGAN"
+ },
+ "saturated / unsaturated fatty acid": {
+  "uz": "to‘yingan / to‘yinmagan yog‘ kislotasi",
+  "izoh": "",
+  "joy": "9-bob, 662",
+  "holat": "TASDIQLANGAN"
+ },
+ "polyunsaturated / monounsaturated fats": {
+  "uz": "ko‘p to‘yinmagan / bir to‘yinmagan yog‘lar",
+  "izoh": "",
+  "joy": "9-bob, 662",
+  "holat": "TASDIQLANGAN"
+ },
+ "cis-fatty acids": {
+  "uz": "sis-yog‘ kislotalari",
+  "izoh": "",
+  "joy": "9-bob, 664",
+  "holat": "TASDIQLANGAN"
+ },
+ "trans-fats": {
+  "uz": "trans-yog‘lar",
+  "izoh": "",
+  "joy": "9-bob, 664",
+  "holat": "TASDIQLANGAN"
+ },
+ "cholesterol": {
+  "uz": "xolesterin",
+  "izoh": "bad cholesterol → «yomon» xolesterin",
+  "joy": "9-bob, 666",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrogenate": {
+  "uz": "gidrogenlamoq",
+  "izoh": "",
+  "joy": "9-bob, 667",
+  "holat": "TASDIQLANGAN"
+ },
+ "Wilhelm Normann": {
+  "uz": "Vilgelm Normann",
+  "izoh": "birinchi uchraganda asli qavsda",
+  "joy": "9-bob, 667",
+  "holat": "TASDIQLANGAN"
+ },
+ "omega-3 / omega-6 fatty acids": {
+  "uz": "omega-3 / omega-6 yog‘ kislotalari",
+  "izoh": "omega carbon → omega-uglerod",
+  "joy": "9-bob, 668",
+  "holat": "TASDIQLANGAN"
+ },
+ "alpha-linolenic acid / linoleic acid": {
+  "uz": "alfa-linolen kislota / linol kislota",
+  "izoh": "",
+  "joy": "9-bob, 668",
+  "holat": "TASDIQLANGAN"
+ },
+ "waxes": {
+  "uz": "mumlar",
+  "izoh": "beeswax → asalari mumi",
+  "joy": "9-bob, 669",
+  "holat": "TASDIQLANGAN"
+ },
+ "sperm whale / spermaceti": {
+  "uz": "kashalot / spermatset",
+  "izoh": "",
+  "joy": "9-bob, 669",
+  "holat": "TASDIQLANGAN"
+ },
+ "sterols": {
+  "uz": "sterollar",
+  "izoh": "",
+  "joy": "9-bob, 670",
+  "holat": "TASDIQLANGAN"
+ },
+ "bile acids": {
+  "uz": "o‘t kislotalari",
+  "izoh": "",
+  "joy": "9-bob, 672",
+  "holat": "TASDIQLANGAN"
+ },
+ "glucocorticoids / mineralocorticoids": {
+  "uz": "glyukokortikoidlar / mineralokortikoidlar",
+  "izoh": "",
+  "joy": "9-bob, 673",
+  "holat": "TASDIQLANGAN"
+ },
+ "secosteroids": {
+  "uz": "sekosteroidlar",
+  "izoh": "",
+  "joy": "9-bob, 673",
+  "holat": "TASDIQLANGAN"
+ },
+ "steroid hormone": {
+  "uz": "steroid gormon",
+  "izoh": "",
+  "joy": "9-bob, 673",
+  "holat": "TASDIQLANGAN"
+ },
+ "fat-soluble vitamins": {
+  "uz": "yog‘da eriydigan vitaminlar",
+  "izoh": "Lipid-like Vitamins → lipidsimon vitaminlar",
+  "joy": "9-bob, 674",
+  "holat": "TASDIQLANGAN"
+ },
+ "triglycerides": {
+  "uz": "triglitseridlar",
+  "izoh": "mono-/diglycerides → mono-/diglitseridlar",
+  "joy": "9-bob, 676",
+  "holat": "TASDIQLANGAN"
+ },
+ "glycerol": {
+  "uz": "glitserin",
+  "izoh": "",
+  "joy": "9-bob, 676",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipid bilayer": {
+  "uz": "lipid qo‘sh qavati",
+  "izoh": "phospholipid bilayer → fosfolipid qo‘sh qavati",
+  "joy": "9-bob, 679",
+  "holat": "TASDIQLANGAN"
+ },
+ "calorie dense": {
+  "uz": "kaloriyaga boy",
+  "izoh": "",
+  "joy": "9-bob, 681",
+  "holat": "TASDIQLANGAN"
+ },
+ "fat cells": {
+  "uz": "yog‘ hujayralari",
+  "izoh": "",
+  "joy": "9-bob, 681",
+  "holat": "TASDIQLANGAN"
+ },
+ "organelle membranes": {
+  "uz": "organoid membranalari",
+  "izoh": "",
+  "joy": "9-bob, 682",
+  "holat": "TASDIQLANGAN"
+ },
+ "beta oxidation": {
+  "uz": "beta-oksidlanish",
+  "izoh": "",
+  "joy": "9-bob, 683",
+  "holat": "TASDIQLANGAN"
+ },
+ "metabolic pathway": {
+  "uz": "metabolik yo‘l",
+  "izoh": "",
+  "joy": "9-bob, 683",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleoside": {
+  "uz": "nukleozid",
+  "izoh": "",
+  "joy": "9-bob, 685",
+  "holat": "TASDIQLANGAN"
+ },
+ "adenine / guanine / cytosine / uracil / thymine": {
+  "uz": "adenin / guanin / sitozin / urasil / timin",
+  "izoh": "",
+  "joy": "9-bob, 688",
+  "holat": "TASDIQLANGAN"
+ },
+ "double-stranded / single-stranded": {
+  "uz": "qo‘sh zanjirli / bir zanjirli",
+  "izoh": "",
+  "joy": "9-bob, 689",
+  "holat": "TASDIQLANGAN"
+ },
+ "antiparallel strands": {
+  "uz": "antiparallel zanjirlar",
+  "izoh": "3’ to 5’ direction → 3’ dan 5’ ga yo‘nalish",
+  "joy": "9-bob, 691",
+  "holat": "TASDIQLANGAN"
+ },
+ "hairpin turns": {
+  "uz": "«shpilka» burilishlari",
+  "izoh": "",
+  "joy": "9-bob, 694",
+  "holat": "TASDIQLANGAN"
+ },
+ "ribosomal RNA": {
+  "uz": "ribosomal RNK",
+  "izoh": "",
+  "joy": "9-bob, 695",
+  "holat": "TASDIQLANGAN"
+ },
+ "transfer RNA": {
+  "uz": "transport RNK",
+  "izoh": "",
+  "joy": "9-bob, 695",
+  "holat": "TASDIQLANGAN"
+ },
+ "small nuclear RNA (snRNA)": {
+  "uz": "kichik yadro RNKsi (snRNK)",
+  "izoh": "",
+  "joy": "9-bob, 695",
+  "holat": "TASDIQLANGAN"
+ },
+ "histone proteins": {
+  "uz": "giston oqsillari",
+  "izoh": "",
+  "joy": "9-bob, 698",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleosome": {
+  "uz": "nukleosoma",
+  "izoh": "",
+  "joy": "9-bob, 698",
+  "holat": "TASDIQLANGAN"
+ },
+ "macronutrients": {
+  "uz": "makronutriyentlar",
+  "izoh": "",
+  "joy": "9-bob, 702",
+  "holat": "TASDIQLANGAN"
+ },
+ "food calorie": {
+  "uz": "oziq-ovqat kaloriyasi",
+  "izoh": "",
+  "joy": "9-bob, 702",
+  "holat": "TASDIQLANGAN"
  }
 }

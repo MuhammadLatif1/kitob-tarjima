@@ -1,0 +1,563 @@
+{
+ "noaniq": [
+  "622: asl matnda «carbon, hydrogen, and oxygen molecules» (aslida atomlar) — so‘zma-so‘z «molekulalari» deb berildi.",
+  "638: «an extra carbon sugar that isn’t included in the ring shape» — mazmunan halqadan tashqaridagi qo‘shimcha uglerod atomi nazarda tutilgan; so‘zma-so‘z «qo‘shimcha uglerod qandi» deb berildi.",
+  "650: «its R chain is just a hydrogen molecule» — aslida bitta vodorod atomi; so‘zma-so‘z berildi.",
+  "662, 687: «hydrogen ions» — aslida vodorod atomlari; so‘zma-so‘z «vodorod ionlari» deb berildi.",
+  "669: «in order to keep them water from evaporating» — asldagi xato; «suv bug‘lanib ketmasligi uchun» deb berildi.",
+  "689: «Adenine and thymine have one bond while guanine and cytosine have another» — noaniq (aslida A–T ikkita, G–C uchta vodorod bog‘); so‘zma-so‘z berildi.",
+  "702: «four kilocalories (one food calorie)» — faktik xato (1 oziq-ovqat kaloriyasi = 1 kkal); so‘zma-so‘z berildi.",
+  "701: asl matnda «In this section» (bob haqida) — «Ushbu bo‘limda» deb berildi (619 ham shunday).",
+  "626, 633, 635, 648, 651, 654, 656, 663, 665, 671, 675, 677, 680, 686, 690, 692, 696, 699: faqat rasm belgisi (harfsiz) — tarjima qilinmadi; rasmlar ichidagi yozuvlar (formulalar, tasnif jadvali, belgi nomlari) inglizcha qoldi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "carbohydrates",
+   "uz": "uglevodlar",
+   "izoh": "carbs ham",
+   "joy": "9-bob, 621"
+  },
+  {
+   "en": "sugar",
+   "uz": "qand",
+   "izoh": "kimyoviy ma’noda; table sugar → oddiy shakar",
+   "joy": "9-bob, 619"
+  },
+  {
+   "en": "simple sugar",
+   "uz": "oddiy qand",
+   "izoh": "",
+   "joy": "9-bob, 622"
+  },
+  {
+   "en": "complex sugar",
+   "uz": "murakkab qand",
+   "izoh": "",
+   "joy": "9-bob, 622"
+  },
+  {
+   "en": "monomer",
+   "uz": "monomer",
+   "izoh": "",
+   "joy": "9-bob, 624"
+  },
+  {
+   "en": "polymer",
+   "uz": "polimer",
+   "izoh": "",
+   "joy": "9-bob, 624"
+  },
+  {
+   "en": "monosaccharide",
+   "uz": "monosaxarid",
+   "izoh": "",
+   "joy": "9-bob, 624"
+  },
+  {
+   "en": "disaccharide",
+   "uz": "disaxarid",
+   "izoh": "",
+   "joy": "9-bob, 623"
+  },
+  {
+   "en": "oligosaccharide",
+   "uz": "oligosaxarid",
+   "izoh": "",
+   "joy": "9-bob, 627"
+  },
+  {
+   "en": "polysaccharide",
+   "uz": "polisaxarid",
+   "izoh": "",
+   "joy": "9-bob, 628"
+  },
+  {
+   "en": "fructose / galactose",
+   "uz": "fruktoza / galaktoza",
+   "izoh": "",
+   "joy": "9-bob, 624"
+  },
+  {
+   "en": "ribose / deoxyribose",
+   "uz": "riboza / dezoksiriboza",
+   "izoh": "",
+   "joy": "9-bob, 624"
+  },
+  {
+   "en": "sucrose / lactose / maltose",
+   "uz": "saxaroza / laktoza / maltoza",
+   "izoh": "",
+   "joy": "9-bob, 625"
+  },
+  {
+   "en": "glycogen",
+   "uz": "glikogen",
+   "izoh": "",
+   "joy": "9-bob, 628"
+  },
+  {
+   "en": "cellulose",
+   "uz": "sellyuloza",
+   "izoh": "",
+   "joy": "9-bob, 628"
+  },
+  {
+   "en": "amylose / amylopectin",
+   "uz": "amiloza / amilopektin",
+   "izoh": "",
+   "joy": "9-bob, 628"
+  },
+  {
+   "en": "chitin",
+   "uz": "xitin",
+   "izoh": "",
+   "joy": "9-bob, 628"
+  },
+  {
+   "en": "N-acetylglucosamine",
+   "uz": "N-atsetilglyukozamin",
+   "izoh": "",
+   "joy": "9-bob, 628"
+  },
+  {
+   "en": "glycoprotein",
+   "uz": "glikoprotein",
+   "izoh": "",
+   "joy": "9-bob, 630"
+  },
+  {
+   "en": "sorbitol / mannitol",
+   "uz": "sorbit / mannit",
+   "izoh": "",
+   "joy": "9-bob, 632"
+  },
+  {
+   "en": "polyol",
+   "uz": "poliol",
+   "izoh": "",
+   "joy": "9-bob, 632"
+  },
+  {
+   "en": "alcohol side chain",
+   "uz": "spirt yon zanjiri",
+   "izoh": "",
+   "joy": "9-bob, 632"
+  },
+  {
+   "en": "D-sugar / L-sugar",
+   "uz": "D-qand / L-qand",
+   "izoh": "dextro → dekstro, levo → levo; handedness → «qo‘llilik»",
+   "joy": "9-bob, 634"
+  },
+  {
+   "en": "enantiomers",
+   "uz": "enantiomerlar",
+   "izoh": "",
+   "joy": "9-bob, 636"
+  },
+  {
+   "en": "pyranose ring",
+   "uz": "piranoza halqasi",
+   "izoh": "",
+   "joy": "9-bob, 638"
+  },
+  {
+   "en": "hexose sugars",
+   "uz": "geksoza qandlar",
+   "izoh": "",
+   "joy": "9-bob, 638"
+  },
+  {
+   "en": "furanose",
+   "uz": "furanoza",
+   "izoh": "",
+   "joy": "9-bob, 638"
+  },
+  {
+   "en": "kilocalorie",
+   "uz": "kilokaloriya",
+   "izoh": "",
+   "joy": "9-bob, 639"
+  },
+  {
+   "en": "GI tract",
+   "uz": "oshqozon-ichak yo‘li",
+   "izoh": "",
+   "joy": "9-bob, 640"
+  },
+  {
+   "en": "insoluble fiber",
+   "uz": "erimaydigan kletchatka",
+   "izoh": "dietary fiber → oziq tolalari",
+   "joy": "9-bob, 640"
+  },
+  {
+   "en": "low-carb diet",
+   "uz": "kam uglevodli parhez",
+   "izoh": "",
+   "joy": "9-bob, 641"
+  },
+  {
+   "en": "osteoporosis",
+   "uz": "osteoporoz",
+   "izoh": "",
+   "joy": "9-bob, 641"
+  },
+  {
+   "en": "protein",
+   "uz": "oqsil",
+   "izoh": "",
+   "joy": "9-bob, 642"
+  },
+  {
+   "en": "polypeptide",
+   "uz": "polipeptid",
+   "izoh": "",
+   "joy": "9-bob, 643"
+  },
+  {
+   "en": "structural proteins",
+   "uz": "tuzilmaviy oqsillar",
+   "izoh": "",
+   "joy": "9-bob, 644"
+  },
+  {
+   "en": "neurotransmitter",
+   "uz": "neyromediator",
+   "izoh": "",
+   "joy": "9-bob, 645"
+  },
+  {
+   "en": "immunoglobulins",
+   "uz": "immunoglobulinlar",
+   "izoh": "",
+   "joy": "9-bob, 645"
+  },
+  {
+   "en": "antibodies",
+   "uz": "antitanalar",
+   "izoh": "",
+   "joy": "9-bob, 645"
+  },
+  {
+   "en": "gluten",
+   "uz": "gluten",
+   "izoh": "",
+   "joy": "9-bob, 645"
+  },
+  {
+   "en": "oligopeptide",
+   "uz": "oligopeptid",
+   "izoh": "",
+   "joy": "9-bob, 646"
+  },
+  {
+   "en": "amine group",
+   "uz": "amin guruhi",
+   "izoh": "",
+   "joy": "9-bob, 649"
+  },
+  {
+   "en": "carboxyl group",
+   "uz": "karboksil guruhi",
+   "izoh": "",
+   "joy": "9-bob, 649"
+  },
+  {
+   "en": "alpha carbon",
+   "uz": "alfa-uglerod",
+   "izoh": "",
+   "joy": "9-bob, 649"
+  },
+  {
+   "en": "R side chain",
+   "uz": "R yon zanjiri",
+   "izoh": "side chain → yon zanjir",
+   "joy": "9-bob, 649"
+  },
+  {
+   "en": "glycine",
+   "uz": "glitsin",
+   "izoh": "",
+   "joy": "9-bob, 650"
+  },
+  {
+   "en": "aromatic ring",
+   "uz": "aromatik halqa",
+   "izoh": "",
+   "joy": "9-bob, 652"
+  },
+  {
+   "en": "peptide / peptide bond",
+   "uz": "peptid / peptid bog‘",
+   "izoh": "",
+   "joy": "9-bob, 653"
+  },
+  {
+   "en": "protein backbone",
+   "uz": "oqsil skeleti",
+   "izoh": "",
+   "joy": "9-bob, 655"
+  },
+  {
+   "en": "primary/secondary/tertiary/quaternary structure",
+   "uz": "birlamchi/ikkilamchi/uchlamchi/to‘rtlamchi struktura",
+   "izoh": "",
+   "joy": "9-bob, 655"
+  },
+  {
+   "en": "beta-pleated shape",
+   "uz": "beta-burmali shakl",
+   "izoh": "",
+   "joy": "9-bob, 655"
+  },
+  {
+   "en": "disulfide bond",
+   "uz": "disulfid bog‘",
+   "izoh": "",
+   "joy": "9-bob, 655"
+  },
+  {
+   "en": "genetic code",
+   "uz": "genetik kod",
+   "izoh": "",
+   "joy": "9-bob, 657"
+  },
+  {
+   "en": "transcribe / translate",
+   "uz": "transkripsiya qilmoq / translyatsiya qilmoq",
+   "izoh": "",
+   "joy": "9-bob, 657"
+  },
+  {
+   "en": "fatty acid",
+   "uz": "yog‘ kislotasi",
+   "izoh": "",
+   "joy": "9-bob, 661"
+  },
+  {
+   "en": "saturated / unsaturated fatty acid",
+   "uz": "to‘yingan / to‘yinmagan yog‘ kislotasi",
+   "izoh": "",
+   "joy": "9-bob, 662"
+  },
+  {
+   "en": "polyunsaturated / monounsaturated fats",
+   "uz": "ko‘p to‘yinmagan / bir to‘yinmagan yog‘lar",
+   "izoh": "",
+   "joy": "9-bob, 662"
+  },
+  {
+   "en": "cis-fatty acids",
+   "uz": "sis-yog‘ kislotalari",
+   "izoh": "",
+   "joy": "9-bob, 664"
+  },
+  {
+   "en": "trans-fats",
+   "uz": "trans-yog‘lar",
+   "izoh": "",
+   "joy": "9-bob, 664"
+  },
+  {
+   "en": "cholesterol",
+   "uz": "xolesterin",
+   "izoh": "bad cholesterol → «yomon» xolesterin",
+   "joy": "9-bob, 666"
+  },
+  {
+   "en": "hydrogenate",
+   "uz": "gidrogenlamoq",
+   "izoh": "",
+   "joy": "9-bob, 667"
+  },
+  {
+   "en": "Wilhelm Normann",
+   "uz": "Vilgelm Normann",
+   "izoh": "birinchi uchraganda asli qavsda",
+   "joy": "9-bob, 667"
+  },
+  {
+   "en": "omega-3 / omega-6 fatty acids",
+   "uz": "omega-3 / omega-6 yog‘ kislotalari",
+   "izoh": "omega carbon → omega-uglerod",
+   "joy": "9-bob, 668"
+  },
+  {
+   "en": "alpha-linolenic acid / linoleic acid",
+   "uz": "alfa-linolen kislota / linol kislota",
+   "izoh": "",
+   "joy": "9-bob, 668"
+  },
+  {
+   "en": "waxes",
+   "uz": "mumlar",
+   "izoh": "beeswax → asalari mumi",
+   "joy": "9-bob, 669"
+  },
+  {
+   "en": "sperm whale / spermaceti",
+   "uz": "kashalot / spermatset",
+   "izoh": "",
+   "joy": "9-bob, 669"
+  },
+  {
+   "en": "sterols",
+   "uz": "sterollar",
+   "izoh": "",
+   "joy": "9-bob, 670"
+  },
+  {
+   "en": "bile acids",
+   "uz": "o‘t kislotalari",
+   "izoh": "",
+   "joy": "9-bob, 672"
+  },
+  {
+   "en": "glucocorticoids / mineralocorticoids",
+   "uz": "glyukokortikoidlar / mineralokortikoidlar",
+   "izoh": "",
+   "joy": "9-bob, 673"
+  },
+  {
+   "en": "secosteroids",
+   "uz": "sekosteroidlar",
+   "izoh": "",
+   "joy": "9-bob, 673"
+  },
+  {
+   "en": "steroid hormone",
+   "uz": "steroid gormon",
+   "izoh": "",
+   "joy": "9-bob, 673"
+  },
+  {
+   "en": "fat-soluble vitamins",
+   "uz": "yog‘da eriydigan vitaminlar",
+   "izoh": "Lipid-like Vitamins → lipidsimon vitaminlar",
+   "joy": "9-bob, 674"
+  },
+  {
+   "en": "triglycerides",
+   "uz": "triglitseridlar",
+   "izoh": "mono-/diglycerides → mono-/diglitseridlar",
+   "joy": "9-bob, 676"
+  },
+  {
+   "en": "glycerol",
+   "uz": "glitserin",
+   "izoh": "",
+   "joy": "9-bob, 676"
+  },
+  {
+   "en": "lipid bilayer",
+   "uz": "lipid qo‘sh qavati",
+   "izoh": "phospholipid bilayer → fosfolipid qo‘sh qavati",
+   "joy": "9-bob, 679"
+  },
+  {
+   "en": "calorie dense",
+   "uz": "kaloriyaga boy",
+   "izoh": "",
+   "joy": "9-bob, 681"
+  },
+  {
+   "en": "fat cells",
+   "uz": "yog‘ hujayralari",
+   "izoh": "",
+   "joy": "9-bob, 681"
+  },
+  {
+   "en": "organelle membranes",
+   "uz": "organoid membranalari",
+   "izoh": "",
+   "joy": "9-bob, 682"
+  },
+  {
+   "en": "beta oxidation",
+   "uz": "beta-oksidlanish",
+   "izoh": "",
+   "joy": "9-bob, 683"
+  },
+  {
+   "en": "metabolic pathway",
+   "uz": "metabolik yo‘l",
+   "izoh": "",
+   "joy": "9-bob, 683"
+  },
+  {
+   "en": "nucleoside",
+   "uz": "nukleozid",
+   "izoh": "",
+   "joy": "9-bob, 685"
+  },
+  {
+   "en": "adenine / guanine / cytosine / uracil / thymine",
+   "uz": "adenin / guanin / sitozin / urasil / timin",
+   "izoh": "",
+   "joy": "9-bob, 688"
+  },
+  {
+   "en": "double-stranded / single-stranded",
+   "uz": "qo‘sh zanjirli / bir zanjirli",
+   "izoh": "",
+   "joy": "9-bob, 689"
+  },
+  {
+   "en": "antiparallel strands",
+   "uz": "antiparallel zanjirlar",
+   "izoh": "3’ to 5’ direction → 3’ dan 5’ ga yo‘nalish",
+   "joy": "9-bob, 691"
+  },
+  {
+   "en": "hairpin turns",
+   "uz": "«shpilka» burilishlari",
+   "izoh": "",
+   "joy": "9-bob, 694"
+  },
+  {
+   "en": "ribosomal RNA",
+   "uz": "ribosomal RNK",
+   "izoh": "",
+   "joy": "9-bob, 695"
+  },
+  {
+   "en": "transfer RNA",
+   "uz": "transport RNK",
+   "izoh": "",
+   "joy": "9-bob, 695"
+  },
+  {
+   "en": "small nuclear RNA (snRNA)",
+   "uz": "kichik yadro RNKsi (snRNK)",
+   "izoh": "",
+   "joy": "9-bob, 695"
+  },
+  {
+   "en": "histone proteins",
+   "uz": "giston oqsillari",
+   "izoh": "",
+   "joy": "9-bob, 698"
+  },
+  {
+   "en": "nucleosome",
+   "uz": "nukleosoma",
+   "izoh": "",
+   "joy": "9-bob, 698"
+  },
+  {
+   "en": "macronutrients",
+   "uz": "makronutriyentlar",
+   "izoh": "",
+   "joy": "9-bob, 702"
+  },
+  {
+   "en": "food calorie",
+   "uz": "oziq-ovqat kaloriyasi",
+   "izoh": "",
+   "joy": "9-bob, 702"
+  }
+ ],
+ "tasdiq_kerak": []
+}
