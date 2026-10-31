@@ -5050,5 +5050,131 @@
   "izoh": "",
   "joy": "19-bob, 1313",
   "holat": "TASDIQLANGAN"
+ },
+ "oxidizer / reducer": {
+  "uz": "oksidlovchi / qaytaruvchi",
+  "izoh": "oxidative and reductive processes → oksidlovchi va qaytaruvchi jarayonlar",
+  "joy": "20-bob, 1323",
+  "holat": "TASDIQLANGAN"
+ },
+ "phototrophs": {
+  "uz": "fototroflar",
+  "izoh": "",
+  "joy": "Oltinchi bo‘lim, 1320",
+  "holat": "TASDIQLANGAN"
+ },
+ "heterotrophs": {
+  "uz": "geterotroflar",
+  "izoh": "",
+  "joy": "Oltinchi bo‘lim, 1320",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrogen sulfide": {
+  "uz": "vodorod sulfid",
+  "izoh": "",
+  "joy": "20-bob, 1328",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxygenated": {
+  "uz": "kislorodlangan",
+  "izoh": "",
+  "joy": "20-bob, 1336",
+  "holat": "TASDIQLANGAN"
+ },
+ "warm-blooded": {
+  "uz": "issiqqonli",
+  "izoh": "",
+  "joy": "20-bob, 1348",
+  "holat": "TASDIQLANGAN"
+ },
+ "phosphorylation": {
+  "uz": "fosforlanish",
+  "izoh": "",
+  "joy": "20-bob, 1355",
+  "holat": "TASDIQLANGAN"
+ },
+ "substrate-level phosphorylation": {
+  "uz": "substrat darajasidagi fosforlanish",
+  "izoh": "",
+  "joy": "20-bob, 1355",
+  "holat": "TASDIQLANGAN"
+ },
+ "inner mitochondrial membrane": {
+  "uz": "ichki mitoxondrial membrana",
+  "izoh": "",
+  "joy": "20-bob, 1362",
+  "holat": "TASDIQLANGAN"
+ },
+ "proton pump": {
+  "uz": "proton nasosi",
+  "izoh": "",
+  "joy": "20-bob, 1362",
+  "holat": "TASDIQLANGAN"
+ },
+ "chemiosmosis": {
+  "uz": "xemiosmos",
+  "izoh": "",
+  "joy": "20-bob, 1364",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrogen ions": {
+  "uz": "vodorod ionlari",
+  "izoh": "",
+  "joy": "20-bob, 1364",
+  "holat": "TASDIQLANGAN"
+ },
+ "chemical gradient / electrical gradient": {
+  "uz": "kimyoviy gradiyent / elektr gradiyenti",
+  "izoh": "",
+  "joy": "20-bob, 1366",
+  "holat": "TASDIQLANGAN"
+ },
+ "electron carriers": {
+  "uz": "elektron tashuvchilar",
+  "izoh": "",
+  "joy": "20-bob, 1367",
+  "holat": "TASDIQLANGAN"
+ },
+ "electron shuttles": {
+  "uz": "elektron mokilari",
+  "izoh": "electron carriers dan farqlash uchun",
+  "joy": "20-bob, 1368",
+  "holat": "TASDIQLANGAN"
+ },
+ "bucket brigade": {
+  "uz": "qo‘lma-qo‘l chelak uzatayotgan odamlar zanjiri",
+  "izoh": "o‘xshatish",
+  "joy": "20-bob, 1368",
+  "holat": "TASDIQLANGAN"
+ },
+ "nicotinamide adenine dinucleotide (NAD+)": {
+  "uz": "nikotinamidadenindinukleotid (NAD+)",
+  "izoh": "NADH o‘zgarishsiz",
+  "joy": "20-bob, 1372",
+  "holat": "TASDIQLANGAN"
+ },
+ "flavin adenine dinucleotide (FAD)": {
+  "uz": "flavinadenindinukleotid (FAD)",
+  "izoh": "FADH2 o‘zgarishsiz",
+  "joy": "20-bob, 1372",
+  "holat": "TASDIQLANGAN"
+ },
+ "final electron receptor": {
+  "uz": "yakuniy elektron akseptori",
+  "izoh": "",
+  "joy": "20-bob, 1372",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell catabolism": {
+  "uz": "hujayra katabolizmi",
+  "izoh": "",
+  "joy": "20-bob, 1376",
+  "holat": "TASDIQLANGAN"
+ },
+ "It’s All About the Electrons": {
+  "uz": "Hamma gap elektronlarda",
+  "izoh": "kichik sarlavha",
+  "joy": "20-bob, 1329",
+  "holat": "TASDIQLANGAN"
  }
 }

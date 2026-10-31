@@ -64,6 +64,25 @@ def lugat_tasdiqlangan():
     return natija
 
 
+# Ko'p ma'noli umumiy so'zlar: atama sifatida faqat shu kontekstda tekshiriladi
+ATAMA_KONTEKST = {
+    "order": r"\b(the|an?|each|same|new)\s+order\b(?!\s+(to|of|in)\b)|\border\s+[A-Z]",
+    "division": r"\bDivision\s+(One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)\b",
+    "section": r"\bSection\s+(One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven)\b",
+    "chapter": r"\bChapter\s+\d+",
+    "domain": r"\b(three|the)\s+domains?\b(?!\s+of\s+(the\s+)?protein)",
+    "replicate": r"\bviruse?s?\b.*\breplicat",
+}
+
+
+def atama_bor(en, matn):
+    k = ATAMA_KONTEKST.get(en.lower())
+    if k:
+        return re.search(k, matn) is not None
+    flag = 0 if en[:1].isupper() and " " not in en else re.I
+    return re.search(r"\b%s\b" % re.escape(en), matn, flag) is not None
+
+
 def sahifalar(docx):
     try:
         with tempfile.TemporaryDirectory() as d:
@@ -144,9 +163,11 @@ def main():
         if re.search(r"[“”\"]", t):
             xato.append("XATO %s: iqtibos «...» ichida emas" % u)
         for en, uzt in tasdiq:
-            if re.search(r"\b%s\b" % re.escape(en), toza(matn[u]), re.I):
-                ildiz = uzt.lower().split()[0][: max(4, len(uzt.split()[0]) - 2)]
-                if ildiz not in t.lower():
+            if atama_bor(en, toza(matn[u])):
+                soz = uzt.strip("«»\"' ").split()[0].strip("«»").lower()
+                soz = re.sub(r"(lar|moq|mak)$", "", soz)
+                ildiz = soz[: max(4, len(soz) - 1)]
+                if ildiz not in t.lower() and en.lower() not in t.lower():
                     xato.append("XATO %s: TASDIQLANGAN atama «%s → %s» ishlatilmagan" % (u, en, uzt))
     try:
         import docx

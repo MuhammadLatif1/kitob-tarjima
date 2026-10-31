@@ -2,7 +2,7 @@ TARJIMA HISOBOTI: Biology_Made_Easy_1_qisim
 
 1) QAMROV
    Xatboshi: 1378, jadval: 0, sahifa osti izohi: 0, rasm: 179 (asl bilan solishtirilgan)
-   Tarjima qilingan birliklar: 144 / 144 (qamrov: 1-146)
+   Tarjima qilingan birliklar: 1202 / 1202
 2) NOANIQ JOYLAR
    [0-qism (nom varag'i, ruxsatnoma, mundarija)] 4: «Written by the creators of» dan keyin logotip rasmi keladi; «Quyidagi loyiha yaratuvchilari tomonidan yozilgan:» deb berildi.
    [0-qism (nom varag'i, ruxsatnoma, mundarija)] 10: tashkilot nomi (National Council of State Boards of Nursing, Inc.) va savdo belgilari asl holida qoldirildi.
@@ -13,139 +13,975 @@ TARJIMA HISOBOTI: Biology_Made_Easy_1_qisim
    [Chapter 1: What is Biology?] 112: Ashanti DeSilva gen terapiyasi odatda 1990-yil deb ko‘rsatiladi; asldagi 1989 saqlandi.
    [Chapter 1: What is Biology?] 137: muallif Eukaryota ni «kingdom» (dunyo) deb atagan, 136-xatboshida esa domen; asl lafzga sodiq qolindi.
    [Chapter 1: What is Biology?] 124 va 5: rasm ichidagi yozuvlar tarjima qilinmadi.
+   [Chapter 2: The Study of Evolution] 157: aslida «1958» yozilgan (Darvin va Uolles maqolasi 1858-yil, «Turlarning kelib chiqishi» 1859-yil); raqam o‘zgartirilmadi, muallif xatosi ehtimoli tekshirilsin.
+   [Chapter 2: The Study of Evolution] 186: muallif 500 million yil avval qushlar va sutemizuvchilar bo‘lgan deydi (ilmiy jihatdan ancha keyin paydo bo‘lgan); asl lafzga sodiq qolindi.
+   [Chapter 2: The Study of Evolution] 151: Anaksimandr haqidagi «ancestor ... with features that did not involve being an infant» jumlasi «go‘daklik bosqichini boshdan kechirmaydigan ajdod» deb tushunib tarjima qilindi.
+   [Chapter 2: The Study of Evolution] 152: Anaksimandr davri (taxminan miloddan avvalgi 450-yil) asldagidek berildi (Anaksimandr odatda mil. avv. VI asrga oid).
+   [Chapter 2: The Study of Evolution] 164: muallif tanlanish ta’sirida gen chastotasining o‘zgarishini «genetic drift» deb atagan (ilmiy jihatdan bu tabiiy tanlanish); «genetik dreyf» deb asl lafzga sodiq tarjima qilindi.
+   [Chapter 2: The Study of Evolution] 183, 184, 185, 192: o‘nli kasrlar (4.5, 3.5, 2.4, 3.2, 1.7) asl yozuvida nuqta bilan qoldirildi.
+   [Chapter 2: The Study of Evolution] 187: «nitrous oxide» → azot(I) oksidi (N2O) deb berildi.
+   [Chapter 2: The Study of Evolution] 177: rasm (⟦x:1⟧, tabiiy tanlanish turlari) ichidagi yozuvlar tarjima qilinmadi.
+   [Chapter 3: What is Cell Biology?] 204: «term cell» — inglizcha cell so‘zi ⟦s1⟧ ichida saqlanib, «hujayra» ma’nosidagi deb berildi; Lotincha cellula ham o‘zgarmadi.
+   [Chapter 3: What is Cell Biology?] 205: Leeuwenhoek kuzatuvi «about nine years later» (1674 atrofida) deb aslidagidek berildi; tarixiy aniqlik muallif zimmasida.
+   [Chapter 3: What is Cell Biology?] 206: muallif Shleyden va Shvannning 1836-yilda «qahva ustida» uchrashganini yozadi (an’anaviy sana 1838); asldagidek tarjima qilindi.
+   [Chapter 3: What is Cell Biology?] 238: ⟦s1⟧ oralig‘i aslida «apoptosis. » nuqtani ham o‘raydi; tarjimada «apoptoz deyiladi. » shaklida o‘ralgan.
+   [Chapter 3: What is Cell Biology?] 219, 223, 229, 237: rasmlar (⟦x:1⟧); rasm ichidagi yozuvlar tarjima qilinmadi, tekshirilsin.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 258: «five acres of land» — akr o‘lchov birligi o‘zgartirilmadi (besh akr).
+   [Chapter 4: Genetics and Our Genetic Blueprints] 260: «until the first part of the 20th century» — «20-asrning birinchi yarmigacha» deb berildi; aslida Mendel ishi 1900-yilda qayta kashf etilgan (282 bilan mos), muallif lafzi saqlandi.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 260: «Natural History Society of Brno» — «Brno tabiatshunoslar jamiyati» deb berildi (asli: Naturforschender Verein in Brünn).
+   [Chapter 4: Genetics and Our Genetic Blueprints] 261: hawkweed (Hieracium) uchun o‘zbekcha nom «qirg‘iyo‘t» deb tanlandi, o‘rnashgan nom ekani tekshirilsin; inglizcha asli qavsda berildi.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 264: «unitary and discrete» — «ham yaxlit, ham alohida-alohida» deb berildi; ma’nosi: belgilar bo‘linmas va aniq farqlanuvchi.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 270: muallif Pennet panjarasini Mendel yaratgan deb yozadi (aslida uni Reginald Punnett 1905-yil atrofida taklif qilgan); asldagidek tarjima qilindi.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 292: kariotiplar muallif yozganidek «22, XX» va «22, XY» qoldirildi (odatiy yozuv 46,XX va 46,XY).
+   [Chapter 4: Genetics and Our Genetic Blueprints] 295: «There are those that not only have a ZW sex chromosome system, but the males are ZZ and the females are ZW» — gap tuzilishi chalkash; ma’no bo‘yicha «ZW tizimi bor, bunda erkaklar ZZ, urg‘ochilar ZW» deb berildi.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 298: «you would see no evidence of it unless that person had children who did not have the disease» — ma’no saqlanib, erkin tarjima qilindi.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 303: «half of all boys in the family would have the disease» — muallif lafzi saqlandi (statistik ehtimol ma’nosida).
+   [Chapter 4: Genetics and Our Genetic Blueprints] 259, 271, 294, 297, 302, 304, 307, 310: rasmlar (⟦x:1⟧); rasm ichidagi yozuvlar tarjima qilinmadi, tekshirilsin.
+   [Chapter 5: Getting Down with Atoms] 332: muallif «atomic number» ni daltonlardagi massa deb ataydi (aslida atom massasi); asl ma’no saqlab tarjima qilindi.
+   [Chapter 5: Getting Down with Atoms] 336: «atom massasini atom raqamidan ayirsangiz» — mantiqan teskari (atom raqamini atom massasidan ayirish kerak); asldagidek tarjima qilindi.
+   [Chapter 5: Getting Down with Atoms] 337: muallif davriy jadval ustunini «period» (davr) deb ataydi, aslida ustun — guruh, qator — davr; asldagidek «davr» berildi.
+   [Chapter 5: Getting Down with Atoms] 339: muallif vodorodning uchta «barqaror» izotopi deydi, tritiy aslida radioaktiv; asldagidek tarjima qilindi.
+   [Chapter 5: Getting Down with Atoms] 341, 343: «magnetism», «radioactivity» atamalari muallifning soddalashtirilgan talqinida; asldagidek berildi.
+   [Chapter 5: Getting Down with Atoms] 372: «px, py, pz» asl matnda indekssiz yozilgan; o‘zgartirilmadi.
+   [Chapter 5: Getting Down with Atoms] 382: asl matnda «2 s orbitals» (bo‘sh joy bilan) — asldagidek «2 s» qoldirildi.
+   [Chapter 5: Getting Down with Atoms] 386: asl matnda «is called is valency state» — xato, «its valency state» ma’nosida tarjima qilindi.
+   [Chapter 5: Getting Down with Atoms] 390: «Barcha neytral atomlarda protonlar va neytronlar soni bir xil» — muallif xatosi (elektronlar bo‘lishi kerak); asldagidek tarjima qilindi.
+   [Chapter 5: Getting Down with Atoms] 326, 331, 334, 340, 353, 356, 364, 370, 374, 377, 381: rasmlar (vodorod atomi, litiy ioni, kislorod katakchasi, vodorod izotoplari, to‘lqin, zarra, s orbital, p orbital, orbitallar to‘lish tartibi, energetik sathlar, H2 molekulasi) ichidagi yozuvlar tarjima qilinmadi.
+   [Chapter 6: How Chemical Bonds Combine Atoms] 413: asl matnda uglerodning valent qobig‘ida «ikkita elektron va yana to‘rttasi uchun joy» deyilgan (aslida 4 valent elektron); muallif lafzi saqlandi.
+   [Chapter 6: How Chemical Bonds Combine Atoms] 398: «chemical symbol for a number of elements» — mazmunan bir qator moddalar (izomerlar) nazarda tutilgan; «bir qator moddalarning kimyoviy formulasi» deb berildi.
+   [Chapter 6: How Chemical Bonds Combine Atoms] 433: «3.34×10−30Cm3.34×10⟦s2⟧−30⟦/s2⟧» qismida son ikki marta takrorlangan (formula va uning matn ko‘rinishi bo‘lsa kerak); asldagidek qoldirildi, joylashdan keyin Word da tekshirilsin.
+   [Chapter 6: How Chemical Bonds Combine Atoms] 440: asl matnda «ikki molekula o‘rtasidagi elektromanfiylik farqi» (aslida ikki atom); muallif lafzi saqlandi.
+   [Chapter 6: How Chemical Bonds Combine Atoms] 463: muallif ion bog‘lanishni ham Van-der-Vaals kuchlari qatoriga kiritgan; asldagidek tarjima qilindi.
+   [Chapter 6: How Chemical Bonds Combine Atoms] 471: «atoms are never completely distributed around a nucleus» va «some atoms will be unbalanced» — mazmunan elektronlar nazarda tutilgan; muallif lafzi (atomlar) saqlandi.
+   [Chapter 6: How Chemical Bonds Combine Atoms] 475: «87 degrees Kelvin», «1 degree Kelvin» — asldagidek «daraja Kelvin» deb berildi (geliy qaynash harorati aslida ~4 K).
+   [Chapter 6: How Chemical Bonds Combine Atoms] 489: asl matnda «repulson» imlo xatosi; tarjimada «itarilish».
+   [Chapter 6: How Chemical Bonds Combine Atoms] Rasmlar (400, 405, 407, 409, 416, 418, 423, 428, 432, 438, 446, 451, 457, 461, 469, 473, 480, 482, 484, 487): ichidagi yozuvlar (formulalar, jadval 438 dagi bog‘ turlari va elektromanfiylik farqlari) tarjima qilinmadi.
+   [Chapter 7: Water, Solutions, and Mixtures] 517: aslida «superheated stream» — «superheated steam» (o‘ta qizdirilgan bug‘) deb tushunilib tarjima qilindi.
+   [Chapter 7: Water, Solutions, and Mixtures] 544: aslida Lyuis asoslari «neutrophiles» deb atalgan; to‘g‘ri atama «nucleophiles», shuning uchun «nukleofillar» deb berildi.
+   [Chapter 7: Water, Solutions, and Mixtures] 544: «bases have a set of unpaired electrons» — kimyoviy jihatdan bo‘linmagan elektron juftlari nazarda tutilgan bo‘lishi mumkin; asldagidek «juftlashmagan elektronlar» qoldirildi.
+   [Chapter 7: Water, Solutions, and Mixtures] 553: aslida «a milligram of potassium ... as a milligram of potassium» — kontekstga ko‘ra natriy va kaliy solishtirilgani uchun «bir milligramm natriy va bir milligramm kaliy» deb tarjima qilindi.
+   [Chapter 7: Water, Solutions, and Mixtures] 553: kaliyning atom og‘irligida «gramm» so‘zi asl matnda yo‘q (39.0983 per mole), asldagidek qoldirildi.
+   [Chapter 7: Water, Solutions, and Mixtures] 513: tuz suvning zichligini «pasaytiradi» deyilgan (ilmiy jihatdan tuz zichlikni oshiradi); asldagidek tarjima qilindi.
+   [Chapter 7: Water, Solutions, and Mixtures] 556: asl matnda «Amadeo Avogadro»; o‘zbekcha o‘rnashgan shakl «Amedeo Avogadro» ishlatildi.
+   [Chapter 7: Water, Solutions, and Mixtures] 558: natriy xloridning «valentligi ikki» degan fikr asldagidek qoldirildi.
+   [Chapter 7: Water, Solutions, and Mixtures] 508: «a moderate as it is» — «as moderate as it is» deb tushunildi.
+   [Chapter 7: Water, Solutions, and Mixtures] Rasm ichidagi yozuvlar (502, 528, 536, 541, 550, 559 dagi ⟦x:1⟧ rasmlar, jumladan ekvivalent tenglamasi va pH shkalasi) tarjima qilinmadi.
+   [Chapter 8: Which Elements Are in Cells?] 578: muallif «oltilik»ka kalsiyni kiritgan, 571 va 617 da esa oltinchi element oltingugurt deyilgan; asldagidek tarjima qilindi.
+   [Chapter 8: Which Elements Are in Cells?] 583: «metabolize glucose into sugar» (glyukozani shakarga aylantirish) mantiqan noaniq; asldagidek tarjima qilindi.
+   [Chapter 8: Which Elements Are in Cells?] 583: «You have energy for about 90 seconds without oxygen» — asldagidek berildi.
+   [Chapter 8: Which Elements Are in Cells?] 593: vodorod gazi «koinotning boshqa joylarida juda ko‘p, lekin Yerda unchalik emas» degan jumla asldagi tartibda («not as much as on Earth») noaniq; mazmuniga ko‘ra tarjima qilindi.
+   [Chapter 8: Which Elements Are in Cells?] 600: «ammonia turns into nitrite ions, which is what plants use» — ilmiy jihatdan o‘simliklar asosan nitratlardan foydalanadi; asldagidek tarjima qilindi.
+   [Chapter 8: Which Elements Are in Cells?] 617: oltita element ro‘yxatida «phosphate» (fosfat) deb yozilgan, element nomi fosfor bo‘lishi kerak; asldagidek «fosfat» qoldirildi.
+   [Chapter 8: Which Elements Are in Cells?] 577: 0.004 raqami asl yozuvida qoldirildi; 588 da 1,000 ham shunday.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 622: asl matnda «carbon, hydrogen, and oxygen molecules» (aslida atomlar) — so‘zma-so‘z «molekulalari» deb berildi.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 638: «an extra carbon sugar that isn’t included in the ring shape» — mazmunan halqadan tashqaridagi qo‘shimcha uglerod atomi nazarda tutilgan; so‘zma-so‘z «qo‘shimcha uglerod qandi» deb berildi.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 650: «its R chain is just a hydrogen molecule» — aslida bitta vodorod atomi; so‘zma-so‘z berildi.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 662, 687: «hydrogen ions» — aslida vodorod atomlari; so‘zma-so‘z «vodorod ionlari» deb berildi.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 669: «in order to keep them water from evaporating» — asldagi xato; «suv bug‘lanib ketmasligi uchun» deb berildi.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 689: «Adenine and thymine have one bond while guanine and cytosine have another» — noaniq (aslida A–T ikkita, G–C uchta vodorod bog‘); so‘zma-so‘z berildi.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 702: «four kilocalories (one food calorie)» — faktik xato (1 oziq-ovqat kaloriyasi = 1 kkal); so‘zma-so‘z berildi.
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 701: asl matnda «In this section» (bob haqida) — «Ushbu bo‘limda» deb berildi (619 ham shunday).
+   [Chapter 9: Macromolecules Are the “Big” Molecules in Living Things] 626, 633, 635, 648, 651, 654, 656, 663, 665, 671, 675, 677, 680, 686, 690, 692, 696, 699: faqat rasm belgisi (harfsiz) — tarjima qilinmadi; rasmlar ichidagi yozuvlar (formulalar, tasnif jadvali, belgi nomlari) inglizcha qoldi.
+   [Chapter 10: Thermodynamics in Living Things] 713: asl matnda termodinamikaning dastlabki uchta qonuni «1700-yillarning boshida» ishlab chiqilgan deyilgan (aslida XIX asr); asldagidek berildi.
+   [Chapter 10: Thermodynamics in Living Things] 716: «-273 degrees Celsius» → «-273 Selsiy daraja» (raqam o‘zgartirilmadi).
+   [Chapter 10: Thermodynamics in Living Things] 723: «proverbial “uphill battle”» ibora sifatida «tog‘ni talqon qilish» deb berildi.
+   [Chapter 10: Thermodynamics in Living Things] 736: «5,730 years» raqami asl yozuvida (5,730) qoldirildi.
+   [Chapter 10: Thermodynamics in Living Things] 743: «A gas in a nonchanging space» — «o‘zgarmaydigan hajmdagi gaz» deb berildi.
+   [Chapter 10: Thermodynamics in Living Things] 773: «that energy and work are created» — mantiqan g‘alati (birinchi qonunga zid); so‘zma-so‘z «energiya va ish hosil qilinishiga» deb berildi.
+   [Chapter 10: Thermodynamics in Living Things] 745: «above image» — matnda porshenli rasm yuqorida yo‘q ko‘rinadi (diffuziya rasmlari bor); asldagidek berildi.
+   [Chapter 10: Thermodynamics in Living Things] 722, 729, 734, 740, 742, 749, 751, 760, 764, 772, 781: faqat rasm belgisi (harfsiz) — tarjima qilinmadi; rasmlar ichidagi yozuvlar (reaksiya diagrammalari, formulalar, ΔG grafigi) inglizcha qoldi.
+   [Chapter 11: ATP as “Fuel”] 795: «In eukaryotic cells, these are clustered into...» — gap tuzilishi o‘zgartirildi (ro‘yxat ikki nuqtadan keyin), ma’no saqlandi.
+   [Chapter 11: ATP as “Fuel”] 803: «The Krebs cycle is ultimately crucial to recycling the FADH2 and NADH» — mantiqan kislorod nazarda tutilgan bo‘lishi mumkin; asldagidek berildi.
+   [Chapter 11: ATP as “Fuel”] 805: «NAD+ and FADH» — biokimyoda FAD bo‘lishi kerak; asldagidek (FADH) qoldirildi.
+   [Chapter 11: ATP as “Fuel”] 808: «ATP is an enzyme» — aslida ATF-sintaza nazarda tutilgan; asldagidek «ATF» berildi.
+   [Chapter 11: ATP as “Fuel”] 809: «It’d made by» — matbaa xatosi («It’s made»), ma’nosi bo‘yicha tarjima qilindi.
+   [Chapter 11: ATP as “Fuel”] 831: «This negative charge on the outside compared to the inside» — mantiqan manfiy zaryad ichki tomonda; asldagidek berildi.
+   [Chapter 11: ATP as “Fuel”] 812: «with two phosphate groups» — ADF ta’rifi asldagidek («ATF molekulasining o‘zi, faqat unda ikkita fosfat guruhi bor»).
+   [Chapter 11: ATP as “Fuel”] 814: «0.2 moles» raqami asl yozuvida (0.2) qoldirildi.
+   [Chapter 11: ATP as “Fuel”] 840: «re-cocking of the bridge» → «ko‘prikchani qaytadan tarang holatga keltirish».
+   [Chapter 11: ATP as “Fuel”] 791, 797, 802, 811, 819, 823, 834, 837, 839: faqat rasm belgisi (harfsiz) — tarjima qilinmadi; rasmlar ichidagi yozuvlar (ATF tuzilishi, glikoliz, Krebs sikli, ATF-sintaza, kinaza/fosfataza, natriy-kaliy nasosi, sarkomer, ishchi harakat sxemalari) inglizcha qoldi.
+   [Chapter 12: Metabolism and Enzymes in the Cell] 855: asl jumla «either get metabolized further (or ...)» tugallanmagan (either ... or ikkinchi qismi yo‘q); tarjimada mavjud ma’no berildi.
+   [Chapter 12: Metabolism and Enzymes in the Cell] 881: muallif coenzymes va cofactors atamalarini aralashtirib ishlatgan; tarjimada asldagidek koferment/kofaktor deb qoldirildi.
+   [Chapter 12: Metabolism and Enzymes in the Cell] 884: «oxidize yet another molecule by passing its electron on» — elektron bergan molekula aslida boshqasini qaytaradi; muallif lafzi saqlandi.
+   [Chapter 12: Metabolism and Enzymes in the Cell] 886: oksidlanish darajasi haqidagi tushuntirish aslida chalkash; ma’noni o‘zgartirmay tarjima qilindi.
+   [Chapter 12: Metabolism and Enzymes in the Cell] 899: izomerazalarni «oxidoreductases within the same molecule» deb atash muallifning o‘z talqini; asldagidek berildi.
+   [Chapter 12: Metabolism and Enzymes in the Cell] 860: «fuel injector» — «yoqilg‘i purkagich» deb berildi (aslida qo‘shtirnoqsiz).
+   [Chapter 12: Metabolism and Enzymes in the Cell] 848, 850, 856, 872, 874, 877, 887: rasmlar; ichidagi yozuvlar (agar bo‘lsa) tarjima qilinmadi.
+   [Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells] 911: aslda «4 to 6 x 10^30 ... four to six quintillion» deyilgan; 10^30 aslida nonillion (kvintillion emas). Muallif lafzi saqlandi (kvintillion), tekshirilsin.
+   [Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells] 912: aslda eukariot hujayralar soni 10^7 (10,000,000) va nisbat 10^23:1 deyilgan; bu raqamlar ilmiy jihatdan shubhali, lekin o‘zgartirilmadi.
+   [Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells] 913: «350 to 550 peta-grams» → 350 dan 550 petagrammgacha deb berildi.
+   [Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells] 937: aslda «In eukaryotes, a few of these float in the cytoplasm, but in prokaryotes, they have no other choice» — ma’nosi: prokariotlarda ribosomalar faqat sitoplazmada erkin bo‘ladi; lafzga yaqin tarjima qilindi.
+   [Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells] 964: «de-evolved» → «regressiv evolyutsiyaga uchragan» deb berildi.
+   [Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells] 919, 921, 930, 934, 944, 949, 960: rasmlar (⟦x:1⟧); rasm ichidagi yozuvlar (bo‘lsa) tarjima qilinmadi.
+   [Chapter 14: The Structure of a Eukaryotic Cell] 980: aslda «These areas do have not ribosomes» (imlo xatosi) — «ribosomalar bo‘lmaydi» ma’nosida tarjima qilindi.
+   [Chapter 14: The Structure of a Eukaryotic Cell] 1028: aslda «Enzymes made out of RNA instead of DNA are called ribozymes» — mantiqan «oqsil o‘rniga» bo‘lishi kerak; muallif lafzi saqlandi («DNK o‘rniga»), tekshirilsin.
+   [Chapter 14: The Structure of a Eukaryotic Cell] 1047: «About one in 8,000 babies are born in the world each day with one of these storage diseases» — «har kuni tug‘iladigan chaqaloqlarning taxminan 8,000 tadan biri» deb berildi; aslidagi «each day» g‘alizroq.
+   [Chapter 14: The Structure of a Eukaryotic Cell] 1066: «We will talk next about the cell membrane» — «Keyingi safar» deb berildi (keyingi bob plazmatik membranaga bag‘ishlangan).
+   [Chapter 14: The Structure of a Eukaryotic Cell] 1010: aslda xolesterin past haroratda hujayraning «muzlab qolishiga» yo‘l qo‘ymasligi aytilgan (ilmiy jihatdan: membrana qotib qolishiga) — lafz saqlandi.
+   [Chapter 14: The Structure of a Eukaryotic Cell] 975, 991, 994, 997, 1004, 1009, 1014, 1019, 1023, 1029, 1033, 1038, 1041, 1054, 1057, 1059, 1061, 1064: rasmlar (⟦x:1⟧); rasm ichidagi yozuvlar (bo‘lsa) tarjima qilinmadi.
+   [Chapter 15: The Plasma Membrane: The Gatekeeper of the Cell] 1087: «vegetable shortening» → «qandolatchilik yog‘i», «lard» → «cho‘chqa yog‘i» deb berildi.
+   [Chapter 15: The Plasma Membrane: The Gatekeeper of the Cell] 1110: «telephone tag» o‘yini o‘zbekcha ekvivalenti «buzilgan telefon» bilan berildi (ma’nosi biroz farq qiladi: aslida bir-biriga qo‘ng‘iroq qilib ulana olmaslik).
+   [Chapter 15: The Plasma Membrane: The Gatekeeper of the Cell] 1114: asl matnda «at several point» (point birlikda): imlo xatosi, tarjimaga ta’sir qilmaydi.
+   [Chapter 15: The Plasma Membrane: The Gatekeeper of the Cell] 1086, 1089, 1093, 1095, 1097, 1102, 1112: rasmlar; ichidagi yozuvlar (agar bo‘lsa) tarjima qilinmadi.
+   [Chapter 16: Diffusion and Osmosis] 1133: muallif «diffundere» so‘zini yunoncha deydi, aslida bu lotincha so‘z; asl matndagidek «Yunonlar» qoldirildi.
+   [Chapter 16: Diffusion and Osmosis] 1135: «taxminan 100 yil oldin» — Robert Broun hodisani 1827-yilda kuzatgan; asl matndagi raqam o‘zgartirilmadi. Shuningdek, Broun hodisaga o‘zi nom bermagan, muallif fikri saqlandi.
+   [Chapter 16: Diffusion and Osmosis] 1140: «permittivity» (fizikada dielektrik singdiruvchanlik) muallif tomonidan «o‘tkazib yuborish» ma’nosida ishlatilgan; «o‘tkazib yuborish xususiyati» deb berildi.
+   [Chapter 16: Diffusion and Osmosis] 1161: ⟦s1⟧ oralig‘i asl matnda ikki gapni («isotonic solutions. Hypertonic solutions») qamraydi; tarjimada ham shunday saqlandi.
+   [Chapter 16: Diffusion and Osmosis] 1167: asl matnda «cells that are permeable to the membrane but not to those things that can’t cross it» mantiqan chalkash; «membranadan o‘ta oladigan narsalar bilan sodir bo‘ladi, o‘ta olmaydiganlar bilan sodir bo‘lmaydi» ma’nosida tarjima qilindi.
+   [Chapter 16: Diffusion and Osmosis] 1125: «Gay-Lussac’s Law» — aslida bosim va harorat proporsionalligi Gey-Lyussak (yoki Amonton) qonuni; asl matndagidek berildi.
+   [Chapter 17: Passive and Active Transport] 1176: aslida transporterlar kanal oqsillariga qaraganda sekinroq deyilgan, lekin «daqiqasiga 100-10,000 molekula» tezligi kanal oqsiliga nisbat berilgan (mantiqan bu tashuvchi oqsil tezligi bo‘lishi kerak). Asldagidek tarjima qilindi.
+   [Chapter 17: Passive and Active Transport] 1178: «Symporters also use two molecules» — oldin faqat uniporter tasvirlangan (bitta molekula), «also» ketma-ketligi asl matndagi tartibsizlik. Asldagidek berildi.
+   [Chapter 17: Passive and Active Transport] 1181: sarlavha «More on Symporters», lekin bo‘lim uniporterlar haqida. Asldagidek «Simporterlar haqida batafsil» deb tarjima qilindi.
+   [Chapter 17: Passive and Active Transport] 1198: asl matnda buyrak kanalchalari hujayralari va «ichak bo‘shlig‘idan organizm ichiga» aralash berilgan; asldagidek tarjima qilindi.
+   [Chapter 17: Passive and Active Transport] 1203: «Take a look at this image:» dan keyin rasm belgisi yo‘q (asl birlikda ham yo‘q).
+   [Chapter 17: Passive and Active Transport] 1206: «sodium-proton pump» — oldingi gapda antiporter deyilgan; asldagidek «nasos» qoldirildi.
+   [Chapter 18: Bulk Transport of Molecules Across a Membrane] 1226: «This isn’t a choosy thing» keyingi gap (retseptorlar kerak) va 1227 dagi «pinotsitoz unchalik tanlovchan emas» bilan zid ko‘rinadi; muallif fagotsitozni tanlovchan demoqchi bo‘lishi mumkin. Aynan asldagidek tarjima qilindi: «Bu tanlovchan jarayon emas».
+   [Chapter 18: Bulk Transport of Molecules Across a Membrane] 1241: qavs ichidagi izoh mantiqan ishlashi uchun «bitta molekulaning ommaviy tashilishi ... kuzatiladi» tarzida ochib berildi.
+   [Chapter 18: Bulk Transport of Molecules Across a Membrane] 1251: «discharge itself on the face of the cell that will respond to these protein-based cell signals» ma’nosi biroz noaniq; so‘zma-so‘z mazmuni berildi.
+   [Chapter 19: Cell Signaling] 1261: muallif «juxtracrine» deb yozgan (to‘g‘risi juxtacrine); «yukstakrin» deb berildi.
+   [Chapter 19: Cell Signaling] 1292: aslida «Second receptors» deyilgan, mazmunan «second messengers» (ikkilamchi messenjerlar) nazarda tutilgan bo‘lishi mumkin; asldagidek «Ikkilamchi retseptorlar» deb tarjima qilindi.
+   [Chapter 19: Cell Signaling] 1298: aslida PIP2 «phosphatidylinositol» deb izohlangan (aslida fosfatidilinozitol-4,5-bisfosfat), kalsiy «endosomalar ichida (endoplazmatik to‘r ichida)» deyilgan; muallif lafzi saqlandi. Asldagi ⟦s2⟧.⟦/s2⟧ nuqtasi gap tuzilishi sababli bo‘sh juft qoldirildi.
+   [Chapter 19: Cell Signaling] 1316: «The polar signaling cells are also called first messengers» — mazmunan qutbli signal molekulalari nazarda tutilgan; asldagidek tarjima qilindi.
+   [Chapter 19: Cell Signaling] 1302: kofeinning gipofiz orqali adrenalinga ta’siri muallif bayonicha berildi.
+   [Chapter 20: Oxidation and Reduction] 1336: asl matnda «CO2 dagi uglerod atomlari atrofida kislorod atomlari bor, uglerod atomlari yo‘q» deyilgan (mantiqan «vodorod atomlari yo‘q» bo‘lishi kerak); shuningdek «vodorod va kislorod molekulalari» deyilgan (atomlar nazarda tutilgan). Asldagidek tarjima qilindi.
+   [Chapter 20: Oxidation and Reduction] 1350: aslida «the breakdown or catabolize of glucose» grammatik xato; «parchalanishi, ya’ni katabolizmi» deb berildi.
+   [Chapter 20: Oxidation and Reduction] 1362: «34 molecules per glucose» — 1361 dagi 32-34 jami son bilan zid; asldagidek «34 tagacha molekula» deb berildi.
+   [Chapter 20: Oxidation and Reduction] 1363: «38.3 percent» raqami asl yozuvida (nuqta bilan) qoldirildi.
+   [Chapter 20: Oxidation and Reduction] 1368: «from glucose to carbon to oxygen» asldagidek «glyukozadan uglerodga, undan kislorodga» deb berildi; «gallon by gallon» o‘lchov birligi saqlandi.
+   [Chapter 20: Oxidation and Reduction] 1371/1373: aslida «NAD va FADH2», «FADH ... FADH2 ga aylanadi» (FAD → FADH2 bo‘lishi kerak) — asldagidek qoldirildi.
+   [Chapter 20: Oxidation and Reduction] 1372: «final electron receptor» (aslida akseptor) «yakuniy elektron akseptori» deb berildi.
+   [Chapter 20: Oxidation and Reduction] 1344: «ΔG=−686kcal/mol» formula sifatida o‘zgarishsiz qoldirildi; 1342 da matnda «kkal/mol».
+   [Chapter 20: Oxidation and Reduction] Rasmlar (1321, 1325, 1327, 1331, 1339, 1346, 1357, 1360, 1365, 1370): ichidagi yozuvlar (uglerod aylanishi, reaksiya tenglamalari, redoks sxemasi, energiya diagrammasi, fosforlanish, xemiosmos, elektron tashuvchilar, NAD+) tarjima qilinmadi.
 3) IQTIBOSLAR VA SAHIFA OSTI IZOHLARI
    [Chapter 1: What is Biology?] 90: «hayot haqidagi ta’limot» — biologiya so‘zining yunoncha ma’nosi (muallif izohi), manba ko‘rsatilmagan.
    [Chapter 1: What is Biology?] 107: «ifloslanish», «yomon havo» — miazma so‘zining ma’nosi, manba ko‘rsatilmagan.
    [Chapter 1: What is Biology?] 126: Karl Linney, «Tabiat tizimi» (Systema Naturae), 1735 — asar nomi; rasmiy o‘zbekcha nomi topilmadi, tarjima qilindi.
+   [Chapter 2: The Study of Evolution] 153, 156: «eng moslashganlarning yashab qolishi» (survival of the fittest) — Herbert Spenser iborasi, o‘zbek adabiyotidagi o‘rnashgan shakl tekshirilsin.
+   [Chapter 2: The Study of Evolution] 153: «ip» (filament) — Erazm Darvin atamasi, manba ko‘rsatilmagan.
+   [Chapter 2: The Study of Evolution] 157: Charlz Darvin, «Turlarning kelib chiqishi» (On the Origin of Species), 1859 — o‘rnashgan o‘zbekcha nomi ishlatildi.
+   [Chapter 2: The Study of Evolution] 175: 1956-yilgi «Toza havo to‘g‘risida»gi qonun (Clean Air Act 1956, Buyuk Britaniya) — qonun nomi tarjima qilindi.
+   [Chapter 2: The Study of Evolution] 183: «million yil avval» — mya qisqartmasining izohi (muallifniki).
+   [Chapter 2: The Study of Evolution] 185, 190, 196: «Kembriy portlashi», «RNK dunyosi», «Eski dunyo maymunlari» — atama nomlari qo‘shtirnoqda.
+   [Chapter 4: Genetics and Our Genetic Blueprints] 260: «O‘simlik duragaylari ustida tajribalar» (Experiments on Plant Hybridization) | Gregor Mendel maqolasi, asli nemischa: «Versuche über Pflanzen-Hybriden» (1866) | inglizcha nomdan tarjima qilindi, nemischa asl nomga mosligi tekshirilsin
+   [Chapter 4: Genetics and Our Genetic Blueprints] 260: «zamonaviy genetikaning otasi» | Mendelga beriladigan an’anaviy nom | yo‘q
+   [Chapter 4: Genetics and Our Genetic Blueprints] 254: «urug‘ atomlari», 255: «homila ruhi», 256: «preformatsiya nazariyasi» | muallif atamalari | yo‘q
+   [Chapter 6: How Chemical Bonds Combine Atoms] 444: «Oil and water do not mix» — xalq naqli | manba yo‘q | o‘zbekcha ekvivalent: «Moy bilan suv aralashmaydi»; asl lafz tekshirilishi shart emas
+   [Chapter 7: Water, Solutions, and Mixtures] 499: «universal erituvchi» | kimyogarlar ishlatadigan ibora | yo‘q
+   [Chapter 7: Water, Solutions, and Mixtures] 531: «vodorod kuchi» (power of hydrogen), nemischa «potenz», fransuzcha «puissance» | pH atamasining kelib chiqishi | yo‘q
+   [Chapter 19: Cell Signaling] 1304: «bas, yetarli!» (“enough already!”) | muallif matni | yo‘q
 4) LUG'ATGA QO'SHILGAN YANGI ATAMALAR
-   Biology Made Easy → «Oson biologiya» | kitob nomi (KITOB_HAQIDA.txt) | 0-qism, 1
-   Preface → So‘zboshi |  | 0-qism, 16
-   Table of Contents → Mundarija |  | 0-qism, 15
-   Division → qism | kitobning eng yirik bo‘linmasi (Division One → Birinchi qism) | 0-qism, 17
-   Section → bo‘lim | qism ichidagi bo‘linma (Section One → Birinchi bo‘lim) | 0-qism, 18
-   Chapter → bob | Chapter 1 → 1-bob | 0-qism, 19
-   Fun Factoid → Qiziqarli fakt | takrorlanuvchi rukn | 1-bob, 107
-   To Sum Things Up → Xulosa | bob yakunidagi sarlavha | 1-bob, 144
-   cell biology → hujayra biologiyasi |  | 0-qism, 18
-   living thing → tirik mavjudot |  | So‘zboshi, 77
-   blueprint → chizma | genetik «chizma» (genetic blueprint) | 0-qism, 22
-   homeostasis → gomeostaz |  | 1-bob, 116
-   metabolism → metabolizm | fe’l: metabolize → metabolizmga uchratish | 0-qism, 33
-   catabolism → katabolizm |  | 1-bob, 118
-   anabolism → anabolizm |  | 1-bob, 118
-   phototropism → fototropizm |  | 1-bob, 121
-   germ cells → jinsiy hujayralar |  | 1-bob, 106
-   somatic cells → somatik hujayralar |  | 1-bob, 106
-   germ theory → mikrob nazariyasi | germ theory of disease causation → kasalliklar kelib chiqishining mikrob nazariyasi | 1-bob, 106
-   miasma → miazma |  | 1-bob, 107
-   humors → xiltlar | qadimgi tibbiyot: qon, qora o‘t, sariq o‘t, balg‘am | 1-bob, 97
-   natural history → tabiat tarixi |  | 1-bob, 90
-   natural philosophy → natural falsafa |  | 1-bob, 90
-   natural theology → natural ilohiyot |  | 1-bob, 91
-   Renaissance → Uyg‘onish davri |  | 1-bob, 91
-   enzyme → ferment |  | 0-qism, 33
-   messenger RNA → informatsion RNK | muqobil: matritsa RNK (mRNK) | 1-bob, 110
-   DNA → DNK |  | 0-qism, 55
-   RNA → RNK |  | 0-qism, 55
-   ATP → ATF |  | 0-qism, 32
-   double helix → qo‘sh spiral |  | 1-bob, 110
-   x-ray crystallography → rentgen kristallografiyasi |  | 1-bob, 110
-   recombinant DNA → rekombinant DNK |  | 1-bob, 111
-   gene therapy → gen terapiyasi |  | 0-qism, 71
-   genetic engineering → genetik muhandislik |  | 0-qism, 68
-   taxonomy → taksonomiya |  | 1-bob, 103
-   binomial nomenclature → binar nomenklatura |  | 1-bob, 126
-   species → tur | taksonomik daraja | 1-bob, 127
-   genus → avlod | taksonomik daraja; muqobil: turkum (botanikada) | 1-bob, 127
-   family → oila | taksonomik daraja | 1-bob, 130
-   order → turkum | taksonomik daraja; muqobil: tartib (botanikada) | 1-bob, 131
-   class → sinf | taksonomik daraja | 1-bob, 132
-   phylum → tip | taksonomik daraja; muqobil: bo‘lim (botanikada) | 1-bob, 133
-   kingdom → dunyo | taksonomik daraja (Plantae dunyosi) | 1-bob, 134
-   domain → domen | taksonomik daraja | 1-bob, 136
-   empire → imperiya | eski tasnif (Empire Bacteria → Bakteriyalar imperiyasi) | 1-bob, 140
-   prokaryotes → prokariotlar | sifat: prokariot | 1-bob, 136
-   eukaryotes → eukariotlar | eukaryota ham; sifat: eukariot | 1-bob, 136
-   archaea → arxeyalar |  | 1-bob, 136
-   binary fission → ikkiga bo‘linish |  | 1-bob, 136
-   organelle → organoid |  | 1-bob, 137
-   protists → protistlar | protista lotincha shaklda qoldirildi | 1-bob, 139
-   chromista → xromistlar | lotincha nom (Chromista) bosh harf bilan kelganda o‘zgarmaydi | 1-bob, 142
-   chloroplast → xloroplast |  | 1-bob, 142
-   autotroph → avtotrof |  | 1-bob, 141
-   cell signaling → hujayra signalizatsiyasi |  | 0-qism, 43
-   cellular respiration → hujayra nafasi |  | 0-qism, 46
-   plasma membrane → plazmatik membrana |  | 0-qism, 39
-   stimuli → qo‘zg‘atuvchilar |  | 1-bob, 121
-   replicate → replikatsiyalanmoq | viruslar haqida (reproduce → ko‘paymoq) | 1-bob, 117
+   evolution → evolyutsiya | fe’l: evolve → evolyutsiyalashmoq | 2-bob, 147
+   natural selection → tabiiy tanlanish |  | 2-bob, 153
+   survival of the fittest → eng moslashganlarning yashab qolishi |  | 2-bob, 153
+   fitness → moslashganlik | fitter → moslashganroq | 2-bob, 156
+   artificial selection → sun’iy tanlash |  | 2-bob, 155
+   animal husbandry → chorvachilik |  | 2-bob, 155
+   modern synthesis → zamonaviy sintez | evolyutsiyaning sintetik nazariyasi | 2-bob, 159
+   Mendelian genetics → Mendel genetikasi |  | 2-bob, 159
+   genetic variation → genetik o‘zgaruvchanlik |  | 2-bob, 159
+   population → populyatsiya |  | 2-bob, 159
+   molecular clock → molekulyar soat |  | 2-bob, 161
+   evolutionary tree → evolyutsion daraxt |  | 2-bob, 161
+   reproductive success → reproduktiv muvaffaqiyat |  | 2-bob, 163
+   genetic drift → genetik dreyf |  | 2-bob, 164
+   selection pressure → tanlanish bosimi |  | 2-bob, 165
+   niche → ekologik nisha | qisqa: nisha | 2-bob, 166
+   speciation → turlanish | yangi turlarning paydo bo‘lishi | 2-bob, 169
+   phenotypic variation → fenotipik o‘zgaruvchanlik |  | 2-bob, 170
+   inheritance → irsiyat |  | 2-bob, 172
+   trait → belgi | irsiy belgi | 2-bob, 154
+   directional selection → harakatlantiruvchi tanlanish |  | 2-bob, 178
+   stabilizing selection → stabillashtiruvchi tanlanish |  | 2-bob, 179
+   disruptive selection → dizruptiv tanlanish |  | 2-bob, 179
+   geological time scale → geoxronologik shkala | geologic timeline → geologik vaqt chizig‘i | 2-bob, 183
+   photosynthesis → fotosintez | photosynthetic organisms → fotosintez qiluvchi organizmlar | 2-bob, 185
+   Cambrian explosion → Kembriy portlashi |  | 2-bob, 185
+   abiogenesis → abiogenez |  | 2-bob, 186
+   mass extinction → ommaviy qirilib ketish |  | 2-bob, 186
+   greenhouse gas → issiqxona gazi |  | 2-bob, 187
+   last common ancestor → so‘nggi umumiy ajdod |  | 2-bob, 188
+   fermentation → bijg‘ish |  | 2-bob, 188
+   aerobic respiration → aerob nafas | anaerobic respiration → anaerob nafas; aerobic metabolism → aerob metabolizm | 2-bob, 189
+   RNA world → RNK dunyosi |  | 2-bob, 190
+   mitochondria → mitoxondriyalar |  | 2-bob, 191
+   endosymbiosis → endosimbioz |  | 2-bob, 191
+   humanoid → odamsimon mavjudot | inson ajdodlari ma’nosida | 2-bob, 194
+   apes → odamsimon maymunlar |  | 2-bob, 195
+   Old World Monkeys → Eski dunyo maymunlari |  | 2-bob, 196
+   peppered moth → qayin odimchisi | Biston betularia; kapalak | 2-bob, 175
+   Java man → Yava odami |  | 2-bob, 158
+   Neanderthals → neandertallar |  | 2-bob, 158
+   Denisovans → denisovaliklar |  | 2-bob, 194
+   Anaximander → Anaksimandr | ism | 2-bob, 151
+   Comte de Buffon → Byuffon grafi | ism, birinchi uchraganda asli qavsda | 2-bob, 152
+   Erasmus Darwin → Erazm Darvin | ism, birinchi uchraganda asli qavsda | 2-bob, 153
+   Edward Blyth → Edvard Blit | ism, birinchi uchraganda asli qavsda | 2-bob, 155
+   Alfred Wallace → Alfred Uolles | ism, birinchi uchraganda asli qavsda | 2-bob, 157
+   Charles Darwin → Charlz Darvin | ism | 2-bob, 150
+   cell theory → hujayra nazariyasi |  | 3-bob, 207
+   spontaneous generation → o‘z-o‘zidan paydo bo‘lish |  | 3-bob, 210
+   cell division → hujayra bo‘linishi |  | 3-bob, 211
+   tissue culture → to‘qima kulturasi | cell culture → hujayra kulturasi; bacterial culture → bakteriya kulturasi | 3-bob, 214
+   HeLa cells → HeLa hujayralari |  | 3-bob, 215
+   cervical cancer → bachadon bo‘yni saratoni |  | 3-bob, 215
+   prokaryotic cell → prokariot hujayra |  | 3-bob, 218
+   eukaryotic cell → eukariot hujayra |  | 3-bob, 214
+   nucleoid → nukleoid |  | 3-bob, 220
+   ribosome → ribosoma |  | 3-bob, 220
+   cell membrane → hujayra membranasi |  | 3-bob, 221
+   cell wall → hujayra devori |  | 3-bob, 221
+   capsule → kapsula | bakteriya kapsulasi | 3-bob, 221
+   pili → pililar |  | 3-bob, 221
+   flagella → xivchinlar | birlik: xivchin | 3-bob, 221
+   vacuole → vakuola | water vacuole → suv vakuolasi | 3-bob, 224
+   turgor pressure → turgor bosimi |  | 3-bob, 224
+   glycolysis → glikoliz |  | 3-bob, 230
+   biochemical pathway → biokimyoviy yo‘l |  | 3-bob, 230
+   byproduct → qo‘shimcha mahsulot |  | 3-bob, 230
+   adenosine triphosphate → adenozintrifosfat | ATF | 3-bob, 228
+   autocrine signaling → autokrin signalizatsiya |  | 3-bob, 233
+   paracrine signaling → parakrin signalizatsiya |  | 3-bob, 234
+   endocrine signaling → endokrin signalizatsiya |  | 3-bob, 235
+   hormone → gormon |  | 3-bob, 235
+   cell cycle → hujayra sikli |  | 3-bob, 238
+   mitosis → mitoz |  | 3-bob, 238
+   cytokinesis → sitokinez |  | 3-bob, 238
+   apoptosis → apoptoz |  | 3-bob, 238
+   daughter cells → qiz hujayralar |  | 3-bob, 238
+   DNA replication → DNK replikatsiyasi |  | 3-bob, 242
+   gametes → gametalar |  | 3-bob, 242
+   offspring → nasl |  | 3-bob, 238
+   algae → suvo‘tlari |  | 3-bob, 205
+   Robert Hooke → Robert Guk | ism, birinchi uchraganda asli qavsda | 3-bob, 204
+   Anton van Leeuwenhoek → Antoni van Levenguk | ism, birinchi uchraganda asli qavsda | 3-bob, 205
+   Matthias Schleiden → Mattias Shleyden | ism, birinchi uchraganda asli qavsda | 3-bob, 206
+   Theodor Schwann → Teodor Shvann | ism, birinchi uchraganda asli qavsda | 3-bob, 206
+   Rudolph Virchow → Rudolf Virxov | ism, birinchi uchraganda asli qavsda | 3-bob, 206
+   Henrietta Lacks → Genrietta Laks | ism, birinchi uchraganda asli qavsda | 3-bob, 215
+   Spirogyra → spirogira | suvo‘ti avlodi, birinchi uchraganda lotincha qavsda | 3-bob, 205
+   genetics → genetika |  | 4-bob, 243
+   heredity → irsiyat | inherit → irsiylanmoq | 4-bob, 245
+   genetic diversity → genetik xilma-xillik |  | 4-bob, 245
+   sexual reproduction → jinsiy ko‘payish | asexual reproduction → jinsiz ko‘payish | 4-bob, 244
+   mutation → mutatsiya |  | 4-bob, 245
+   nucleotide → nukleotid |  | 4-bob, 247
+   gene → gen |  | 4-bob, 248
+   chromosome → xromosoma |  | 4-bob, 248
+   generation → bo‘g‘in | genetik chatishtirishda (parent generation → ota-ona bo‘g‘ini, F1 generation → F1 bo‘g‘in); umumiy ma’noda «avlod» (from one generation to the next → avloddan avlodga); genus → avlod bilan chalkashmasligi uchun | 4-bob, 252, 269
+   pangenesis → pangenez |  | 4-bob, 253
+   dominant trait → dominant belgi |  | 4-bob, 254
+   recessive trait → retsessiv belgi | recessive → retsessiv | 4-bob, 254
+   hemophilia → gemofiliya |  | 4-bob, 255
+   preformation theory → preformatsiya nazariyasi |  | 4-bob, 256
+   epigenesis → epigenez |  | 4-bob, 256
+   embryology → embriologiya |  | 4-bob, 256
+   Gregor Mendel → Gregor Mendel | ism | 4-bob, 252
+   pea plant → no‘xat o‘simligi | pea pods → no‘xat dukkaklari | 4-bob, 252
+   hybrid → duragay | hybridization → duragaylash | 4-bob, 260
+   cross → chatishtirmoq | chatishtirish | 4-bob, 269
+   purebred → sof liniyali |  | 4-bob, 269
+   allele → allel |  | 4-bob, 265
+   Punnett square → Pennet panjarasi | muqobil: Pennet katagi | 4-bob, 270
+   homozygous → gomozigota |  | 4-bob, 272
+   heterozygous → geterozigota |  | 4-bob, 272
+   genotype → genotip |  | 4-bob, 273
+   phenotype → fenotip | phenotypic → fenotipik | 4-bob, 273
+   fertilization → urug‘lanish |  | 4-bob, 273
+   pollen → chang |  | 4-bob, 273
+   Mendelian inheritance patterns → Mendel irsiylanish qonuniyatlari | Mendelian inheritance → Mendel irsiylanishi; Mendelian pattern → Mendel qonuniyati | 4-bob, 274
+   Law of Dominance and Uniformity → Dominantlik va bir xillik qonuni |  | 4-bob, 274
+   Law of Segregation → Ajralish qonuni |  | 4-bob, 275
+   Law of Independent Assortment → Mustaqil taqsimlanish qonuni | muqobil: belgilarning mustaqil irsiylanish qonuni | 4-bob, 277
+   dihybrid cross → digibrid chatishtirish |  | 4-bob, 277
+   meiosis → meyoz |  | 4-bob, 279
+   genetic linkage → genetik birikish | muqobil: genlarning birikkan holda irsiylanishi | 4-bob, 279
+   Mendelian trait → Mendel belgisi |  | 4-bob, 280
+   locus → lokus |  | 4-bob, 280
+   Tay-Sachs disease → Tey-Saks kasalligi |  | 4-bob, 280
+   sickle cell anemia → o‘roqsimon hujayrali anemiya |  | 4-bob, 280
+   obesity → semizlik |  | 4-bob, 280
+   diabetes → qandli diabet |  | 4-bob, 280
+   genome → genom |  | 4-bob, 282
+   fruit flies → meva pashshalari |  | 4-bob, 282
+   Lamarckism → lamarkizm |  | 4-bob, 283
+   August Weismann → Avgust Vaysman | ism, birinchi uchraganda asli qavsda | 4-bob, 283
+   classical genetics → klassik genetika |  | 4-bob, 285
+   molecular genetics → molekulyar genetika |  | 4-bob, 288
+   population genetics → populyatsion genetika |  | 4-bob, 289
+   diploid → diploid |  | 4-bob, 286
+   haploid → gaploid |  | 4-bob, 287
+   homologous genes → gomologik genlar |  | 4-bob, 286
+   zygote → zigota |  | 4-bob, 287
+   biotechnology → biotexnologiya |  | 4-bob, 288
+   recombinant drugs → rekombinant dori vositalari |  | 4-bob, 288
+   autosomal dominant → autosom-dominant | autosomal recessive → autosom-retsessiv; autosomal gene → autosom gen | 4-bob, 291
+   sex chromosomes → jinsiy xromosomalar |  | 4-bob, 292
+   karyotype → kariotip |  | 4-bob, 292
+   pedigree → shajara | genetik shajara (nasl-nasab sxemasi) | 4-bob, 296
+   carrier → tashuvchi | kasallik tashuvchisi | 4-bob, 301
+   incomplete dominance → chala dominantlik | muqobil: to‘liqsiz dominantlik | 4-bob, 299
+   snapdragon → arslonog‘iz | Antirrhinum | 4-bob, 299
+   phenylketonuria → fenilketonuriya |  | 4-bob, 300
+   phenylalanine → fenilalanin |  | 4-bob, 300
+   amino acid → aminokislota |  | 4-bob, 300
+   x-linked inheritance → X xromosomaga birikkan irsiylanish | x-linked trait → X xromosomaga birikkan belgi | 4-bob, 303
+   red-green colorblindness → qizil-yashil rang ko‘rlik | muqobil: daltonizm | 4-bob, 305
+   Duchenne muscular dystrophy → Dyushenn mushak distrofiyasi |  | 4-bob, 305
+   codominant inheritance → kodominant irsiylanish | codominant → kodominant | 4-bob, 306
+   blood type → qon guruhi |  | 4-bob, 306
+   red blood cells → qizil qon hujayralari | muqobil: eritrotsitlar | 4-bob, 306
+   lethal genes → letal genlar |  | 4-bob, 308
+   Huntington’s disease → Gentington kasalligi | muqobil: Xantington kasalligi | 4-bob, 311
+   dementia → demensiya |  | 4-bob, 311
+   cystic fibrosis → mukovissidoz | muqobil: kistoz fibroz | 4-bob, 312
+   polygenic inheritance → poligen irsiylanish | polygenic → poligen | 4-bob, 313
+   hawkweed → qirg‘iyo‘t | Hieracium; birinchi uchraganda inglizcha qavsda | 4-bob, 261
+   fern → qirqquloq |  | 4-bob, 249
+   atom → atom |  | 5-bob, 325
+   subatomic particles → subatom zarralar |  | 5-bob, 325
+   proton → proton |  | 5-bob, 325
+   neutron → neytron |  | 5-bob, 325
+   electron → elektron |  | 5-bob, 325
+   matter → materiya | fizik ma’noda; structure of matter → moddaning tuzilishi (sarlavhada) | 5-bob, 325
+   nucleus (atomic) → yadro | atom yadrosi; hujayra yadrosi bilan farqlash kerak bo‘lsa «atom yadrosi» | 5-bob, 329
+   ion → ion |  | 5-bob, 330
+   atomic mass unit (amu) → atom massa birligi (a.m.b.) |  | 5-bob, 332
+   Dalton → dalton | birlik nomi, kichik harf bilan | 5-bob, 332
+   atomic number → atom raqami | muqobil: tartib raqami | 5-bob, 332
+   atomic mass → atom massasi |  | 5-bob, 333
+   periodic table of the elements → kimyoviy elementlarning davriy jadvali | qisqa: davriy jadval | 5-bob, 333
+   period → davr | davriy jadvalda | 5-bob, 337
+   noble gases → inert gazlar | muqobil: asil gazlar | 5-bob, 337
+   isotope → izotop |  | 5-bob, 338
+   radioactivity → radioaktivlik | radioactive → radioaktiv | 5-bob, 338
+   protium → protiy | deuterium → deyteriy; tritium → tritiy | 5-bob, 339
+   electromagnetic force → elektromagnit kuch |  | 5-bob, 341
+   nuclear force → yadro kuchi |  | 5-bob, 341
+   fission → yadro bo‘linishi | nuclear power plant → atom elektr stansiyasi | 5-bob, 342
+   electronegativity → elektromanfiylik | electronegative → elektromanfiy | 5-bob, 344
+   Berkelium → berkliy | element; birinchi uchraganda lotincha qavsda | 5-bob, 347
+   half-life → yarim yemirilish davri |  | 5-bob, 347
+   orbital → orbital | orbit → orbita (sayyora orbitasi) bilan farqlanadi | 5-bob, 348
+   quantum mechanics → kvant mexanikasi |  | 5-bob, 351
+   particle-wave duality → korpuskulyar-to‘lqin dualizmi |  | 5-bob, 351
+   Werner Heisenberg → Verner Geyzenberg | ism, birinchi uchraganda asli qavsda | 5-bob, 359
+   momentum → impuls |  | 5-bob, 359
+   Heisenberg Uncertainty Principle → Geyzenbergning noaniqlik prinsipi |  | 5-bob, 360
+   s orbital → s orbital | p orbital, d orbital, f orbital shu tarzda | 5-bob, 363
+   spin → spin | positive and negative spin → musbat va manfiy spin | 5-bob, 366
+   energy level → energetik sath |  | 5-bob, 371
+   node → tugun | orbitaldagi tugun | 5-bob, 371
+   d block → d-blok | davriy jadvalda | 5-bob, 378
+   chemical bond → kimyoviy bog‘ | chemical bonding → kimyoviy bog‘lanish | 5-bob, 322
+   macromolecules → makromolekulalar |  | 5-bob, 322
+   methane → metan |  | 5-bob, 383
+   valency → valentlik | valency state → valentlik holati | 5-bob, 386
+   valence shell → valent qobiq |  | 5-bob, 387
+   valence electron → valent elektron |  | 5-bob, 387
+   hydrogen → vodorod | element nomlari: helium → geliy, lithium → litiy, oxygen → kislorod, carbon → uglerod, boron → bor, neon → neon, fluorine → ftor, sodium → natriy, scandium → skandiy | 5-bob, 325
+   Russian nesting dolls → matryoshkalar |  | 5-bob, 368
+   dandelion → qoqio‘t |  | 5-bob, 358
+   molecule → molekula |  | 6-bob, 395
+   polyatomic ions → ko‘p atomli ionlar |  | 6-bob, 395
+   homonuclear → gomoyadroli | homonuclear molecule → gomoyadroli molekula | 6-bob, 396
+   heteronuclear → geteroyadroli |  | 6-bob, 396
+   molecular formula → molekulyar formula |  | 6-bob, 398
+   glucose → glyukoza |  | 6-bob, 398
+   sigma bond → sigma bog‘ |  | 6-bob, 404
+   pi bond → pi bog‘ |  | 6-bob, 404
+   double bond → qo‘sh bog‘ | triple bond → uch karrali bog‘ | 6-bob, 408
+   ethylene → etilen |  | 6-bob, 408
+   covalent bonding → kovalent bog‘lanish | covalent bond → kovalent bog‘ | 6-bob, 413
+   shared electrons → umumiy elektronlar |  | 6-bob, 417
+   electron pairs → elektron juftlari |  | 6-bob, 417
+   Lewis dot structure → Lyuis nuqtali formulasi |  | 6-bob, 417
+   carbon dioxide → karbonat angidrid |  | 6-bob, 417
+   Gilbert Newton Lewis → Gilbert Nyuton Lyuis | birinchi uchraganda asli qavsda | 6-bob, 420
+   hydrogen cyanide → sianid vodorod |  | 6-bob, 420
+   ionic bonding → ion bog‘lanish | ionic bond → ion bog‘ | 6-bob, 422
+   sodium chloride → natriy xlorid |  | 6-bob, 422
+   halogen → galogen |  | 6-bob, 422
+   cation → kation |  | 6-bob, 424
+   anion → anion |  | 6-bob, 424
+   polar bond → qutbli bog‘ | polar → qutbli; polar bonding → qutbli bog‘lanish | 6-bob, 429
+   nonpolar → qutbsiz |  | 6-bob, 429
+   magnetic charge → magnit zaryadi | muallifning o‘xshatishi | 6-bob, 430
+   dipole moment → dipol momenti |  | 6-bob, 431
+   partial charge → qisman zaryad |  | 6-bob, 433
+   Debye unit → Debay birligi |  | 6-bob, 433
+   coulomb → kulon |  | 6-bob, 433
+   Linus Pauling → Laynus Poling | birinchi uchraganda asli qavsda | 6-bob, 436
+   electronegative → elektromanfiy | electron greedy → elektronga ochko‘z | 6-bob, 434
+   polar covalent bond → qutbli kovalent bog‘ |  | 6-bob, 437
+   hydrocarbon → uglevodorod |  | 6-bob, 441
+   lipids → lipidlar |  | 6-bob, 442
+   hydrophilic → gidrofil | «suvni sevuvchi» | 6-bob, 444
+   hydrophobic → gidrofob |  | 6-bob, 444
+   detergent → yuvish vositasi |  | 6-bob, 445
+   hydrogen bonding → vodorod bog‘lanish | hydrogen bond → vodorod bog‘ | 6-bob, 448
+   cohesiveness → kogeziya |  | 6-bob, 453
+   lattice → panjara | kristall panjara | 6-bob, 454
+   nitrogenous bases → azotli asoslar |  | 6-bob, 455
+   amide → amid |  | 6-bob, 459
+   alpha-helix → alfa-spiral |  | 6-bob, 459
+   beta-pleat → beta-burmali shakl | beta-pleated sheet | 6-bob, 459
+   intermolecular → molekulalararo |  | 6-bob, 459
+   van der Waals forces → Van-der-Vaals kuchlari |  | 6-bob, 462
+   dipole-dipole interactions → dipol-dipol ta’sirlashuvlari |  | 6-bob, 463
+   London dispersion forces → London dispersion kuchlari | London forces → London kuchlari; dispersion forces → dispersion kuchlar | 6-bob, 463
+   Coulomb’s law → Kulon qonuni |  | 6-bob, 466
+   instantaneous dipoles → bir lahzalik dipollar |  | 6-bob, 471
+   gecko → gekkon |  | 6-bob, 476
+   setae → setalar | juda ingichka tukchalar | 6-bob, 476
+   spatulae → spatulalar |  | 6-bob, 476
+   lowest energy state → eng past energetik holat |  | 6-bob, 478
+   bond angle → bog‘ burchagi |  | 6-bob, 479
+   trigonal planar shape → yassi uchburchak shakl |  | 6-bob, 481
+   sulfur trioxide → oltingugurt trioksidi |  | 6-bob, 481
+   bent / angular molecule → egilgan / burchakli molekula |  | 6-bob, 483
+   lone electron pairs → bo‘linmagan elektron juftlari | unshared electrons → bo‘linmagan elektronlar | 6-bob, 483
+   tetrahedral shape → tetraedr shakl |  | 6-bob, 486
+   trigonal pyramidal → uchburchakli piramida |  | 6-bob, 488
+   octahedral → oktaedr |  | 6-bob, 488
+   VSEPR theory → VSEPR nazariyasi | valent qobiq elektron juftlarining itarilish nazariyasi | 6-bob, 489
+   nucleic acid → nuklein kislota |  | 6-bob, 491
+   solvent → erituvchi | universal solvent → universal erituvchi | 7-bob, 497
+   solution → eritma | kimyoviy ma’noda; aqueous/watery solution → suvli eritma | 7-bob, 497
+   aqueous → suv asosidagi | watery (or aqueous) → suvli (yoki suv asosidagi) | 7-bob, 497
+   mixture → aralashma |  | 7-bob, 496
+   molarity → molyarlik |  | 7-bob, 497
+   molality → molyallik |  | 7-bob, 561
+   heat capacity → issiqlik sig‘imi | specific heat capacity → solishtirma issiqlik sig‘imi | 7-bob, 505
+   Joules → joul | energiya birligi | 7-bob, 505
+   phase change → fazaviy o‘tish |  | 7-bob, 506
+   heat of vaporization → bug‘lanish issiqligi |  | 7-bob, 506
+   polymorphs of ice → muzning polimorflari | amorphous ice → amorf muz; hexagonal ice → olti burchakli muz | 7-bob, 511
+   thermohaline circulation → termoxalin sirkulyatsiya |  | 7-bob, 514
+   miscible → aralashuvchan | immiscible → aralashmaydigan | 7-bob, 515
+   condensation → kondensatsiya |  | 7-bob, 516
+   wet steam → nam bug‘ | steam → bug‘; water vapor → suv bug‘i | 7-bob, 517
+   superheated steam → o‘ta qizdirilgan bug‘ | aslida «superheated stream» xatosi | 7-bob, 517
+   adhesion → adgeziya | cohesion → kogeziya (mavjud atama) | 7-bob, 520
+   surface tension → sirt tarangligi |  | 7-bob, 520
+   capillary action → kapillyar hodisa |  | 7-bob, 521
+   acid → kislota | acidic → kislotali; strong/weak acid → kuchli/kuchsiz kislota | 7-bob, 522
+   base → asos | kimyoviy ma’noda; basic → asosli; alkaline → ishqoriy | 7-bob, 522
+   pH scale → pH shkalasi |  | 7-bob, 524
+   log / logarithmic → logarifm | negative log → manfiy logarifm | 7-bob, 524
+   hydroxyl ion → gidroksil ioni | hydroxide ion → gidroksid ioni | 7-bob, 530
+   hydronium ion → gidroniy ioni |  | 7-bob, 535
+   Arrhenius theory → Arrenius nazariyasi |  | 7-bob, 533
+   Brønsted-Lowry theory → Brensted-Louri nazariyasi |  | 7-bob, 539
+   amphoteric molecule → amfoter molekula |  | 7-bob, 540
+   conjugate base → qo‘shma asos | conjugate acid → qo‘shma kislota | 7-bob, 542
+   dissociate → dissotsilanmoq |  | 7-bob, 543
+   electrophile → elektrofil |  | 7-bob, 544
+   nucleophile → nukleofil | aslida «neutrophiles» deb yozilgan | 7-bob, 544
+   Lewis acids → Lyuis kislotalari |  | 7-bob, 545
+   carbonic acid → karbonat kislota | hydrochloric acid → xlorid kislota; sulfuric acid → sulfat kislota; acetic acid → sirka kislota | 7-bob, 545
+   solute → erigan modda |  | 7-bob, 547
+   hydration shell → gidrat qobiq |  | 7-bob, 549
+   electrolytes → elektrolitlar |  | 7-bob, 551
+   milliequivalent → milliekvivalent | equivalent → ekvivalent; mEq/L o‘zgarmaydi | 7-bob, 552
+   atomic weight → atom og‘irligi |  | 7-bob, 553
+   mole → mol |  | 7-bob, 554
+   molar mass → molyar massa |  | 7-bob, 554
+   Avogadro’s number → Avogadro soni | Avogadro’s constant → Avogadro doimiysi | 7-bob, 556
+   valence (of ionic compound) → valentlik |  | 7-bob, 558
+   suspension → suspenziya | colloidal suspension → kolloid suspenziya | 7-bob, 563
+   colloid → kolloid |  | 7-bob, 563
+   emulsion → emulsiya | aerosol → aerozol | 7-bob, 565
+   Styrofoam → penoplast | birinchi uchraganda asli qavsda | 7-bob, 565
+   ammonia → ammiak | sodium hydroxide → natriy gidroksid; potassium permanganate → kaliy permanganat | 7-bob, 538
+   Søren Peder Lauritz Sørensen → Syoren Peder Lauris Syorensen | ism, birinchi uchraganda asli qavsda | 7-bob, 531
+   Carlsberg Laboratory → Carlsberg laboratoriyasi |  | 7-bob, 531
+   Svante Arrhenius → Svante Arrenius | ism, birinchi uchraganda asli qavsda | 7-bob, 533
+   Johannes Nicolaus Brønsted → Yoxannes Nikolaus Brensted | ism, birinchi uchraganda asli qavsda | 7-bob, 539
+   Thomas Martin Lowry → Tomas Martin Louri | ism, birinchi uchraganda asli qavsda | 7-bob, 539
+   Amadeo Avogadro → Amedeo Avogadro | ism | 7-bob, 556
+   Josef Loschmidt → Iozef Loshmidt | ism, birinchi uchraganda asli qavsda | 7-bob, 556
+   Jean Baptiste Perrin → Jan Batist Perren | ism, birinchi uchraganda asli qavsda | 7-bob, 556
+   carbon-based → uglerodga asoslangan |  | 9-bob, 573
+   biomolecules → biomolekulalar |  | 9-bob, 573
+   bonding site → bog‘lanish joyi | binding site ham | 9-bob, 573
+   backbone (molecular) → skelet | organik molekula skeleti | 9-bob, 573
+   cofactor → kofaktor |  | 9-bob, 574
+   action potential → harakat potensiali |  | 9-bob, 575
+   nerve impulse → nerv impulsi |  | 9-bob, 575
+   enamel → emal | tish emali | 9-bob, 575
+   hydroxyapatite → gidroksiapatit |  | 9-bob, 575
+   trace element → mikroelement |  | 9-bob, 577
+   hemoglobin → gemoglobin |  | 9-bob, 577
+   thyroid gland → qalqonsimon bez |  | 9-bob, 577
+   aerobic organisms → aerob organizmlar |  | 9-bob, 581
+   anaerobic → anaerob |  | 9-bob, 585
+   lactic acid → sut kislotasi |  | 9-bob, 585
+   carbon cycle → uglerod aylanishi | global/geologik va biologik uglerod aylanishi | 9-bob, 588
+   starch → kraxmal |  | 9-bob, 589
+   global warming → global isish |  | 9-bob, 590
+   Big Bang → Katta portlash |  | 9-bob, 592
+   fusion (nuclear) → termoyadro sintezi |  | 9-bob, 592
+   gas giants → gaz gigantlari |  | 9-bob, 592
+   hydrogen bomb → vodorod bombasi |  | 9-bob, 593
+   nitrogen cycle → azot aylanishi |  | 9-bob, 598
+   urea → mochevina |  | 9-bob, 598
+   metabolite → metabolit |  | 9-bob, 598
+   chlorophyll → xlorofill |  | 9-bob, 600
+   nitrate / nitrite → nitrat / nitrit |  | 9-bob, 600
+   ammonium → ammoniy |  | 9-bob, 596
+   cysteine → sistein |  | 9-bob, 603
+   methionine → metionin |  | 9-bob, 603
+   disulfide bridge → disulfid ko‘prigi |  | 9-bob, 603
+   essential amino acid → almashinmaydigan aminokislota |  | 9-bob, 604
+   sulfite oxidase → sulfitoksidaza |  | 9-bob, 604
+   coenzyme A → koferment A |  | 9-bob, 606
+   alpha-lipoic acid → alfa-lipoy kislota |  | 9-bob, 606
+   antioxidant → antioksidant |  | 9-bob, 606
+   phospholipids → fosfolipidlar |  | 9-bob, 608
+   lipid tail → lipid dumi |  | 9-bob, 608
+   phosphate head → fosfat boshchasi |  | 9-bob, 610
+   phosphodiester bond / bridge → fosfodiefir bog‘ / ko‘prigi |  | 9-bob, 611
+   calcium phosphate → kalsiy fosfat |  | 9-bob, 615
+   collagen → kollagen |  | 9-bob, 615
+   carbohydrates → uglevodlar | carbs ham | 9-bob, 621
+   sugar → qand | kimyoviy ma’noda; table sugar → oddiy shakar | 9-bob, 619
+   simple sugar → oddiy qand |  | 9-bob, 622
+   complex sugar → murakkab qand |  | 9-bob, 622
+   monomer → monomer |  | 9-bob, 624
+   polymer → polimer |  | 9-bob, 624
+   monosaccharide → monosaxarid |  | 9-bob, 624
+   disaccharide → disaxarid |  | 9-bob, 623
+   oligosaccharide → oligosaxarid |  | 9-bob, 627
+   polysaccharide → polisaxarid |  | 9-bob, 628
+   fructose / galactose → fruktoza / galaktoza |  | 9-bob, 624
+   ribose / deoxyribose → riboza / dezoksiriboza |  | 9-bob, 624
+   sucrose / lactose / maltose → saxaroza / laktoza / maltoza |  | 9-bob, 625
+   glycogen → glikogen |  | 9-bob, 628
+   cellulose → sellyuloza |  | 9-bob, 628
+   amylose / amylopectin → amiloza / amilopektin |  | 9-bob, 628
+   chitin → xitin |  | 9-bob, 628
+   N-acetylglucosamine → N-atsetilglyukozamin |  | 9-bob, 628
+   glycoprotein → glikoprotein |  | 9-bob, 630
+   sorbitol / mannitol → sorbit / mannit |  | 9-bob, 632
+   polyol → poliol |  | 9-bob, 632
+   alcohol side chain → spirt yon zanjiri |  | 9-bob, 632
+   D-sugar / L-sugar → D-qand / L-qand | dextro → dekstro, levo → levo; handedness → «qo‘llilik» | 9-bob, 634
+   enantiomers → enantiomerlar |  | 9-bob, 636
+   pyranose ring → piranoza halqasi |  | 9-bob, 638
+   hexose sugars → geksoza qandlar |  | 9-bob, 638
+   furanose → furanoza |  | 9-bob, 638
+   kilocalorie → kilokaloriya |  | 9-bob, 639
+   GI tract → oshqozon-ichak yo‘li |  | 9-bob, 640
+   insoluble fiber → erimaydigan kletchatka | dietary fiber → oziq tolalari | 9-bob, 640
+   low-carb diet → kam uglevodli parhez |  | 9-bob, 641
+   osteoporosis → osteoporoz |  | 9-bob, 641
+   protein → oqsil |  | 9-bob, 642
+   polypeptide → polipeptid |  | 9-bob, 643
+   structural proteins → tuzilmaviy oqsillar |  | 9-bob, 644
+   neurotransmitter → neyromediator |  | 9-bob, 645
+   immunoglobulins → immunoglobulinlar |  | 9-bob, 645
+   antibodies → antitanalar |  | 9-bob, 645
+   gluten → gluten |  | 9-bob, 645
+   oligopeptide → oligopeptid |  | 9-bob, 646
+   amine group → amin guruhi |  | 9-bob, 649
+   carboxyl group → karboksil guruhi |  | 9-bob, 649
+   alpha carbon → alfa-uglerod |  | 9-bob, 649
+   R side chain → R yon zanjiri | side chain → yon zanjir | 9-bob, 649
+   glycine → glitsin |  | 9-bob, 650
+   aromatic ring → aromatik halqa |  | 9-bob, 652
+   peptide / peptide bond → peptid / peptid bog‘ |  | 9-bob, 653
+   protein backbone → oqsil skeleti |  | 9-bob, 655
+   primary/secondary/tertiary/quaternary structure → birlamchi/ikkilamchi/uchlamchi/to‘rtlamchi struktura |  | 9-bob, 655
+   beta-pleated shape → beta-burmali shakl |  | 9-bob, 655
+   disulfide bond → disulfid bog‘ |  | 9-bob, 655
+   genetic code → genetik kod |  | 9-bob, 657
+   transcribe / translate → transkripsiya qilmoq / translyatsiya qilmoq |  | 9-bob, 657
+   fatty acid → yog‘ kislotasi |  | 9-bob, 661
+   saturated / unsaturated fatty acid → to‘yingan / to‘yinmagan yog‘ kislotasi |  | 9-bob, 662
+   polyunsaturated / monounsaturated fats → ko‘p to‘yinmagan / bir to‘yinmagan yog‘lar |  | 9-bob, 662
+   cis-fatty acids → sis-yog‘ kislotalari |  | 9-bob, 664
+   trans-fats → trans-yog‘lar |  | 9-bob, 664
+   cholesterol → xolesterin | bad cholesterol → «yomon» xolesterin | 9-bob, 666
+   hydrogenate → gidrogenlamoq |  | 9-bob, 667
+   Wilhelm Normann → Vilgelm Normann | birinchi uchraganda asli qavsda | 9-bob, 667
+   omega-3 / omega-6 fatty acids → omega-3 / omega-6 yog‘ kislotalari | omega carbon → omega-uglerod | 9-bob, 668
+   alpha-linolenic acid / linoleic acid → alfa-linolen kislota / linol kislota |  | 9-bob, 668
+   waxes → mumlar | beeswax → asalari mumi | 9-bob, 669
+   sperm whale / spermaceti → kashalot / spermatset |  | 9-bob, 669
+   sterols → sterollar |  | 9-bob, 670
+   bile acids → o‘t kislotalari |  | 9-bob, 672
+   glucocorticoids / mineralocorticoids → glyukokortikoidlar / mineralokortikoidlar |  | 9-bob, 673
+   secosteroids → sekosteroidlar |  | 9-bob, 673
+   steroid hormone → steroid gormon |  | 9-bob, 673
+   fat-soluble vitamins → yog‘da eriydigan vitaminlar | Lipid-like Vitamins → lipidsimon vitaminlar | 9-bob, 674
+   triglycerides → triglitseridlar | mono-/diglycerides → mono-/diglitseridlar | 9-bob, 676
+   glycerol → glitserin |  | 9-bob, 676
+   lipid bilayer → lipid qo‘sh qavati | phospholipid bilayer → fosfolipid qo‘sh qavati | 9-bob, 679
+   calorie dense → kaloriyaga boy |  | 9-bob, 681
+   fat cells → yog‘ hujayralari |  | 9-bob, 681
+   organelle membranes → organoid membranalari |  | 9-bob, 682
+   beta oxidation → beta-oksidlanish |  | 9-bob, 683
+   metabolic pathway → metabolik yo‘l |  | 9-bob, 683
+   nucleoside → nukleozid |  | 9-bob, 685
+   adenine / guanine / cytosine / uracil / thymine → adenin / guanin / sitozin / urasil / timin |  | 9-bob, 688
+   double-stranded / single-stranded → qo‘sh zanjirli / bir zanjirli |  | 9-bob, 689
+   antiparallel strands → antiparallel zanjirlar | 3’ to 5’ direction → 3’ dan 5’ ga yo‘nalish | 9-bob, 691
+   hairpin turns → «shpilka» burilishlari |  | 9-bob, 694
+   ribosomal RNA → ribosomal RNK |  | 9-bob, 695
+   transfer RNA → transport RNK |  | 9-bob, 695
+   small nuclear RNA (snRNA) → kichik yadro RNKsi (snRNK) |  | 9-bob, 695
+   histone proteins → giston oqsillari |  | 9-bob, 698
+   nucleosome → nukleosoma |  | 9-bob, 698
+   macronutrients → makronutriyentlar |  | 9-bob, 702
+   food calorie → oziq-ovqat kaloriyasi |  | 9-bob, 702
+   thermodynamics → termodinamika |  | Uchinchi bo‘lim, 705
+   energy molecules → energiya molekulalari |  | Uchinchi bo‘lim, 706
+   theory of everything → hamma narsa nazariyasi |  | 10-bob, 708
+   laws of thermodynamics → termodinamika qonunlari | Zeroth/First/Second/Third Law → nolinchi/birinchi/ikkinchi/uchinchi qonuni | 10-bob, 711
+   law of conservation of energy → energiyaning saqlanish qonuni |  | 10-bob, 714
+   entropy → entropiya |  | 10-bob, 715
+   anti-energy → antienergiya |  | 10-bob, 715
+   absolute zero → absolyut nol |  | 10-bob, 716
+   kinetics → kinetika |  | 10-bob, 718
+   reaction diagram → reaksiya diagrammasi |  | 10-bob, 721
+   reactants → reagentlar | reactant energy → reagentlar energiyasi | 10-bob, 721
+   products (of reaction) → mahsulotlar | product energy → mahsulotlar energiyasi | 10-bob, 721
+   activation energy → aktivlanish energiyasi |  | 10-bob, 721
+   thermodynamically favorable → termodinamik jihatdan qulay |  | 10-bob, 724
+   activated complex → aktivlangan kompleks |  | 10-bob, 725
+   Gibbs free energy → Gibbs erkin energiyasi | free energy → erkin energiya; ΔG | 10-bob, 726
+   equilibrium constant → muvozanat konstantasi | K | 10-bob, 727
+   catalyst / catalyze → katalizator / katalizlamoq |  | 10-bob, 728
+   active site → faol markaz | ferment faol markazi | 10-bob, 728
+   phase state → fazaviy holat |  | 10-bob, 732
+   spontaneous / nonspontaneous process → o‘z-o‘zidan boradigan / o‘z-o‘zidan bormaydigan jarayon | spontaneity → o‘z-o‘zidan borish | 10-bob, 733
+   carbon dating → radiouglerod usulida yosh aniqlash |  | 10-bob, 736
+   diffuse / diffusion → diffuziyalanmoq / diffuziya | Heat/Gas Diffusion → Issiqlik/Gaz diffuziyasi | 10-bob, 738
+   enthalpy → entalpiya |  | 10-bob, 743
+   endothermic / exothermic → endotermik / ekzotermik |  | 10-bob, 744
+   reversible / irreversible → qaytar / qaytmas |  | 10-bob, 745
+   disorder → tartibsizlik | entropiya ma’nosida | 10-bob, 747
+   translational / rotational / vibrational motion → ilgarilanma / aylanma / tebranma harakat |  | 10-bob, 765
+   molecular freedoms of motion → molekulaning harakat erkinlik darajalari |  | 10-bob, 765
+   equilibrium → muvozanat |  | 10-bob, 769
+   efficiency → samaradorlik |  | 10-bob, 774
+   home furnace → uydagi isitish qozoni |  | 10-bob, 775
+   incandescent / fluorescent bulb → cho‘g‘lanma / lyuminessent lampochka |  | 10-bob, 779
+   Ralph Fowler → Ralf Fauler | birinchi uchraganda asli qavsda | 10-bob, 713
+   J. Willard Gibbs → J. Uillard Gibbs | birinchi uchraganda asli qavsda | 10-bob, 767
+   adenosine triphosphate (ATP) → adenozintrifosfat (ATF) | oldingi boblardagidek | 11-bob, 788
+   ADP → ADF | dATP → dATF | 11-bob, 812
+   energy currency → energiya valyutasi |  | 11-bob, 788
+   citric acid cycle → limon kislota sikli |  | 11-bob, 795
+   Krebs cycle → Krebs sikli |  | 11-bob, 795
+   tricarboxylic acid cycle → trikarbon kislotalar sikli |  | 11-bob, 800
+   oxidative phosphorylation → oksidlovchi fosforlanish | phosphorylate → fosforlamoq | 11-bob, 795
+   electron transport chain → elektron tashish zanjiri |  | 11-bob, 804
+   anaerobic respiration → anaerob nafas | aerobic respiration → aerob nafas bilan mos | 11-bob, 798
+   pyruvate → piruvat |  | 11-bob, 796
+   acetyl-CoA / acetyl group → atsetil-KoA / atsetil guruhi |  | 11-bob, 800
+   oxaloacetate → oksaloatsetat |  | 11-bob, 800
+   citrate → sitrat |  | 11-bob, 800
+   precursor → o‘tmishdosh |  | 11-bob, 803
+   ATP synthase → ATF-sintaza |  | 11-bob, 805
+   proton motive force → proton harakatlantiruvchi kuch |  | 11-bob, 809
+   stator / rotor / axle → stator / rotor / o‘q | ATF-sintaza qismlari | 11-bob, 810
+   signaling molecule → signal molekulasi |  | 11-bob, 816
+   kinase / protein kinase → kinaza / oqsil kinaza |  | 11-bob, 816
+   phosphatase → fosfataza |  | 11-bob, 817
+   substrate → substrat |  | 11-bob, 818
+   activate / deactivate → faollashtirmoq / faolsizlantirmoq |  | 11-bob, 818
+   sodium-potassium ATPase pump → natriy-kaliy ATFaza nasosi |  | 11-bob, 821
+   channel protein / carrier channel protein → kanal oqsili / tashuvchi kanal oqsili |  | 11-bob, 825
+   affinity → moyillik |  | 11-bob, 828
+   membrane potential → membrana potensiali |  | 11-bob, 831
+   actin filament / myosin filament → aktin filamenti / miozin filamenti |  | 11-bob, 833
+   sarcomere → sarkomer |  | 11-bob, 833
+   skeletal muscle → skelet muskuli |  | 11-bob, 833
+   cross-bridge → ko‘ndalang ko‘prikcha |  | 11-bob, 835
+   ratchet wrench → treshotkali kalit |  | 11-bob, 835
+   power stroke → ishchi harakat |  | 11-bob, 838
+   hydrolyze → gidrolizlanmoq / gidrolizlamoq |  | 11-bob, 814
+   insulin → insulin | gormon | 12-bob, 858
+   glucagon → glyukagon | gormon | 12-bob, 858
+   pancreas → oshqozon osti bezi |  | 12-bob, 858
+   subcutaneous tissue / fat → teri osti to‘qimasi / yog‘i |  | 12-bob, 861
+   visceral fat → visseral yog‘ |  | 12-bob, 861
+   epinephrine → adrenalin |  | 12-bob, 865
+   cortisol → kortizol |  | 12-bob, 865
+   cytokines → sitokinlar |  | 12-bob, 865
+   autonomic nervous system → avtonom nerv tizimi |  | 12-bob, 865
+   biosynthesis → biosintez |  | 12-bob, 866
+   growth hormone → o‘sish gormoni |  | 12-bob, 866
+   insulin-like growth factor → insulinsimon o‘sish omili |  | 12-bob, 866
+   anabolic steroids → anabolik steroidlar |  | 12-bob, 867
+   catabolic / anabolic → katabolik / anabolik | sifat; catabolic hormones → katabolik gormonlar | 12-bob, 847
+   Regulation of Metabolism → Metabolizm regulyatsiyasi | sarlavha; matnda regulate → boshqarmoq | 12-bob, 864
+   globular proteins → globulyar oqsillar |  | 12-bob, 869
+   energy diagram → energiya diagrammasi |  | 12-bob, 871
+   end product → so‘nggi mahsulot |  | 12-bob, 875
+   active binding site → faol bog‘lanish markazi | active site → faol markaz | 12-bob, 878
+   lock and key → qulf va kalit | fermentlar modeli | 12-bob, 879
+   induced fit model → induksiyalangan moslashuv modeli |  | 12-bob, 879
+   van der Waals bonding → Van-der-Vaals bog‘lanish | van der Waals forces → Van-der-Vaals kuchlari | 12-bob, 880
+   coenzyme → koferment |  | 12-bob, 881
+   enzymatic reaction → fermentativ reaksiya |  | 12-bob, 881
+   metal ions → metall ionlari |  | 12-bob, 881
+   redox → redoks | redox reactions → redoks reaksiyalari | 12-bob, 882
+   oxidation / reduction → oksidlanish / qaytarilish | oxidize → oksidlamoq; reduce → qaytarmoq; reduced molecule → qaytarilgan molekula; oxidized form → oksidlangan shakl | 12-bob, 883
+   oxidation state → oksidlanish darajasi |  | 12-bob, 885
+   thiamine pyrophosphate → tiaminpirofosfat |  | 12-bob, 889
+   thiamine / niacin / biotin / folate → tiamin / niatsin / biotin / folat | vitaminlar; vitamin B1 → B1 vitamini | 12-bob, 889
+   tetrahydrofolate → tetragidrofolat |  | 12-bob, 889
+   feedback inhibition → teskari bog‘lanish bo‘yicha ingibirlanish | feed back → teskari ta’sir ko‘rsatmoq; inhibitor → ingibitor | 12-bob, 890
+   allosteric regulation / allosteric site → allosterik regulyatsiya / allosterik markaz |  | 12-bob, 891
+   regulatory molecule → regulyator molekula |  | 12-bob, 891
+   oxidase → oksidaza |  | 12-bob, 895
+   dehydrogenase → degidrogenaza |  | 12-bob, 895
+   oxidoreductase → oksidoreduktaza |  | 12-bob, 895
+   electron donor / acceptor molecule → elektron donori / akseptor molekula |  | 12-bob, 895
+   transferase → transferaza |  | 12-bob, 896
+   hexokinase → geksokinaza |  | 12-bob, 896
+   hydrolase → gidrolaza |  | 12-bob, 897
+   lyase → liaza |  | 12-bob, 898
+   isomerase → izomeraza |  | 12-bob, 899
+   ligase → ligaza |  | 12-bob, 900
+   condensation reactions → kondensatsiya reaksiyalari |  | 12-bob, 900
+   translocase → translokaza |  | 12-bob, 901
+   helper molecules → yordamchi molekulalar |  | 12-bob, 904
+   cilia → kipriklar | sing. cilium → kiprik | 13-bob, 925
+   peptidoglycan → peptidoglikan |  | 13-bob, 929
+   N-acetylmuramic acid (NAM) → N-atsetilmuram kislota (NAM) | NAG/NAM qisqartmalari saqlandi | 13-bob, 931
+   pseudomurein → psevdomurein |  | 13-bob, 931
+   flagellum → xivchin | ko‘plik: xivchinlar (flagella) | 13-bob, 932
+   flagellin → flagellin |  | 13-bob, 933
+   Mot complex → Mot kompleksi |  | 13-bob, 933
+   cytoplasm → sitoplazma |  | 13-bob, 924
+   subunit → subbirlik | 50S/30S subbirliklar; 70S ribosoma | 13-bob, 937
+   antibiotic → antibiotik |  | 13-bob, 938
+   tetracycline → tetrasiklin |  | 13-bob, 938
+   single-celled / unicellular organism → bir hujayrali organizm |  | 13-bob, 910
+   multicellular → ko‘p hujayrali |  | 4-bo‘lim, 908
+   cocci / coccus → kokklar / kokk |  | 13-bob, 943
+   bacilli / bacillus → batsillalar / batsilla |  | 13-bob, 943
+   vibrio → vibrionlar |  | 13-bob, 943
+   coccobacilli → kokkobatsillalar |  | 13-bob, 943
+   asexual division → jinssiz bo‘linish |  | 13-bob, 945
+   parent cell → ona hujayra |  | 13-bob, 945
+   bacterial conjugation → bakterial konyugatsiya |  | 13-bob, 946
+   transformation (bacterial) → transformatsiya |  | 13-bob, 946
+   transduction → transduksiya |  | 13-bob, 947
+   vector → vektor | DNK tashuvchi | 13-bob, 947
+   bacteriophage → bakteriofag |  | 13-bob, 947
+   horizontal gene transfer → gorizontal gen ko‘chishi |  | 13-bob, 948
+   plasmid → plazmida |  | 13-bob, 948
+   antibiotic resistance → antibiotiklarga chidamlilik |  | 13-bob, 950
+   biofilm → bioplyonka |  | 13-bob, 952
+   differentiation → differensiatsiya |  | 13-bob, 952
+   quorum sensing → kvorum sezish |  | 13-bob, 953
+   conservation (of the genetic code) → konservativlik | genetik kodning konservativligi | 13-bob, 959
+   symbiosis → simbioz |  | 13-bob, 963
+   de-evolved → regressiv evolyutsiyaga uchragan |  | 13-bob, 964
+   yeasts / amoeba / euglena / giardia → achitqilar / amyoba / evglena / lyambliya |  | 13-bob, 965
+   receptor → retseptor |  | 13-bob, 927
+   glycoproteins → glikoproteinlar |  | 13-bob, 928
+   eukaryotic cell structure → eukariot hujayraning tuzilishi | bob sarlavhasi | 14-bob, 970
+   vesicle → pufakcha | ko‘plik: pufakchalar; vesicle membrane → pufakcha membranasi | 14-bob, 973
+   semi-permeable / semipermeable → yarim o‘tkazuvchan | ot: yarim o‘tkazuvchanlik | 14-bob, 977
+   cytoskeleton → sitoskelet |  | 14-bob, 978
+   endoplasmic reticulum → endoplazmatik to‘r | muqobil: endoplazmatik retikulum | 14-bob, 980
+   rough endoplasmic reticulum (RER) → donador endoplazmatik to‘r (RER) | RER qisqartmasi saqlandi | 14-bob, 980
+   smooth endoplasmic reticulum (SER) → silliq endoplazmatik to‘r (SER) | SER qisqartmasi saqlandi | 14-bob, 980
+   Golgi complex / Golgi apparatus / Golgi body → Golji kompleksi / Golji apparati / Golji tanachasi |  | 14-bob, 981
+   cisternae → sisternalar |  | 14-bob, 981
+   centrioles → sentriolalar |  | 14-bob, 982
+   microtubules → mikronaychalar |  | 14-bob, 982
+   lysosomes → lizosomalar |  | 14-bob, 984
+   powerhouse of the cell → hujayraning energiya stansiyasi | mitoxondriya haqida | 14-bob, 985
+   nucleus (cell) → yadro | cell nucleus → hujayra yadrosi; atom yadrosidan farqli kontekst | 14-bob, 986
+   nuclear envelope → yadro qobig‘i |  | 14-bob, 986
+   nucleolus → yadrocha |  | 14-bob, 987
+   peroxisomes → peroksisomalar |  | 14-bob, 989
+   hydrogen peroxide → vodorod peroksid |  | 14-bob, 989
+   transmembrane proteins → transmembrana oqsillari |  | 14-bob, 1003
+   peripheral proteins → periferik oqsillar |  | 14-bob, 1003
+   sphingomyelin / phosphatidylethanolamine / phosphatidylserine / phosphatidylcholine / phosphatidylinositol → sfingomiyelin / fosfatidiletanolamin / fosfatidilserin / fosfatidilxolin / fosfatidilinozitol |  | 14-bob, 1006
+   glycolipids → glikolipidlar |  | 14-bob, 1007
+   extrinsic proteins → tashqi oqsillar |  | 14-bob, 1012
+   integral proteins → integral oqsillar |  | 14-bob, 1013
+   tonicity / maintaining tonicity → toniklik / toniklikni saqlash |  | 14-bob, 1015
+   osmosis → osmos |  | 14-bob, 1016
+   isotonic / hypotonic / hypertonic → izotonik / gipotonik / gipertonik |  | 14-bob, 1020
+   nucleopores → nukleoporalar |  | 14-bob, 1025
+   nucleoplasm → nukleoplazma |  | 14-bob, 1026
+   ribozymes → ribozimlar |  | 14-bob, 1028
+   post-translational modification → translyatsiyadan keyingi modifikatsiya |  | 14-bob, 1031
+   sarcoplasmic reticulum → sarkoplazmatik to‘r |  | 14-bob, 1034
+   cis face / trans face → sis-tomon / trans-tomon | Golji apparati | 14-bob, 1042
+   exocytosis / endocytosis / pinocytosis → ekzotsitoz / endotsitoz / pinotsitoz | pinocytosis «cell drinking» → «hujayraning suv ichishi» | 14-bob, 1043
+   lysosomal storage diseases → lizosomal to‘planish kasalliklari |  | 14-bob, 1047
+   reactive oxygen species → kislorodning faol shakllari |  | 14-bob, 1049
+   free radicals → erkin radikallar |  | 14-bob, 1050
+   mitochondrion / mitochondrial diseases → mitoxondriya / mitoxondrial kasalliklar |  | 14-bob, 1053
+   microfilaments → mikrofilamentlar |  | 14-bob, 1056
+   actin / myosin → aktin / miozin |  | 14-bob, 1056
+   intermediate filaments → oraliq filamentlar |  | 14-bob, 1058
+   alpha-tubulin / beta-tubulin → alfa-tubulin / beta-tubulin |  | 14-bob, 1060
+   pigment → pigment |  | 14-bob, 1063
+   intracellular transport → hujayra ichida tashish |  | 14-bob, 1066
+   dynein → dinein |  | 14-bob, 1072
+   cell compartmentalization → hujayra kompartmentalizatsiyasi |  | 14-bob, 1070
+   Section Five: Cell Transport and Communication → Beshinchi bo‘lim: Hujayra transporti va aloqasi | mundarija bo‘yicha | 16-bob, 1077
+   gatekeeper → darvozabon | plazmatik membrana obrazi | 16-bob, 1079
+   cytoplasmic membrane / plasmalemma → sitoplazmatik membrana / plazmalemma |  | 16-bob, 1081
+   fluid mosaic model → suyuq-mozaik model |  | 16-bob, 1081
+   lipid rafts → lipid sallari |  | 16-bob, 1088
+   antifreeze → antifriz |  | 16-bob, 1088
+   micelle → mitsella |  | 16-bob, 1092
+   lipoproteins → lipoproteinlar |  | 16-bob, 1096
+   cerebrosides / gangliosides → serebrozidlar / gangliozidlar |  | 16-bob, 1099
+   glycocalyx → glikokaliks |  | 16-bob, 1100
+   white blood cells / platelets → oq qon hujayralari / trombotsitlar |  | 16-bob, 1100
+   lipid-anchored proteins → lipid bilan bog‘langan oqsillar |  | 16-bob, 1106
+   ion channel / ion pump → ion kanali / ion nasosi |  | 16-bob, 1105
+   ligand → ligand |  | 16-bob, 1108
+   cell-to-cell signaling → hujayralararo signal uzatish |  | 16-bob, 1108
+   ACE2 receptor → ACE2 retseptori |  | 16-bob, 1109
+   carrier proteins → tashuvchi oqsillar |  | 16-bob, 1116
+   active transport → faol transport | mundarija: Passiv va faol transport | 16-bob, 1117
+   concentration gradient → konsentratsiya gradiyenti |  | 17-bob (16-bob: Diffuziya va osmos), 1122
+   Gay-Lussac's Law → Gey-Lyussak qonuni |  | 17-bob, 1125
+   bulk flow → yalpi oqim |  | 17-bob, 1134
+   alveoli → alveolalar | air sacs → havo pufakchalari | 17-bob, 1134
+   atomic diffusion / molecular diffusion → atom diffuziyasi / molekulyar diffuziya |  | 17-bob, 1135
+   Brownian motion → Broun harakati | Robert Brown → Robert Broun (Robert Brown) | 17-bob, 1135
+   random walk motion → tasodifiy daydish harakati |  | 17-bob, 1137
+   net diffusion / net movement → natijaviy diffuziya / natijaviy harakat |  | 17-bob, 1137
+   Remember this: → Esda tuting: | rukn yorlig‘i | 17-bob, 1138
+   permeability / permeable → o‘tkazuvchanlik / o‘tkazuvchan |  | 17-bob, 1140
+   permittivity → o‘tkazib yuborish xususiyati | muallif ma’nosida (permit) | 17-bob, 1140
+   simple diffusion / passive diffusion → oddiy diffuziya / passiv diffuziya |  | 17-bob, 1142
+   aquaporins → akvaporinlar |  | 17-bob, 1150
+   facilitated diffusion → yengillashtirilgan diffuziya |  | 17-bob, 1150
+   osmotic pressure → osmotik bosim |  | 17-bob, 1153
+   U-tube → U-simon nay |  | 17-bob, 1154
+   dilute solution / concentrated solution → suyultirilgan eritma / konsentrlangan eritma |  | 17-bob, 1160
+   turgid / flaccid → turgor holatidagi / bo‘shashgan |  | 17-bob, 1163
+   plasmolyzed → plazmolizga uchragan |  | 17-bob, 1163
+   passive transport → passiv transport | mundarija: Passiv va faol transport | 18-bob (17-bob), 1170
+   ATP-powered pump → ATF bilan ishlaydigan nasos |  | 18-bob (17-bob), 1174
+   transporter → transporter | carrier protein sinonimi | 18-bob (17-bob), 1174
+   uniporter / symporter / antiporter → uniporter / simporter / antiporter |  | 18-bob (17-bob), 1177
+   facilitated transport → yengillashtirilgan transport | facilitated diffusion → yengillashtirilgan diffuziya ga mos | 18-bob (17-bob), 1182
+   cotransport / cotransporter → kotransport / kotransporter |  | 18-bob (17-bob), 1195
+   intestinal epithelial cells → ichak epiteliy hujayralari | intestinal lumen → ichak bo‘shlig‘i | 18-bob (17-bob), 1187
+   GLUT1 transporter → GLUT1 transporteri |  | 18-bob (17-bob), 1188
+   glucose-1-phosphate → glyukoza-1-fosfat |  | 18-bob (17-bob), 1191
+   mannose → mannoza |  | 18-bob (17-bob), 1191
+   chiral molecule → xiral molekula |  | 18-bob (17-bob), 1192
+   two sodium/one glucose symporter → ikki natriy/bir glyukoza simporteri |  | 18-bob (17-bob), 1198
+   sodium-calcium antiporter → natriy-kalsiy antiporteri | sodium-proton antiporter → natriy-proton antiporteri | 18-bob (17-bob), 1201
+   AE1 protein → AE1 oqsili |  | 18-bob (17-bob), 1202
+   bicarbonate → bikarbonat |  | 18-bob (17-bob), 1202
+   carbonic anhydrase → karboangidraza |  | 18-bob (17-bob), 1203
+   sodium bicarbonate-chloride cotransporter → natriy bikarbonat-xlorid kotransporteri |  | 18-bob (17-bob), 1205
+   acidity → kislotalilik |  | 18-bob (17-bob), 1205
+   ATPase pump → ATFaza nasosi | P, F, V, ABC classes → P, F, V, ABC sinflari | 18-bob (17-bob), 1207
+   superfamily → superoila |  | 18-bob (17-bob), 1208
+   electrical neutrality → elektr neytralligi |  | 18-bob (17-bob), 1217
+   chloride-channel protein → xlorid kanali oqsili | CFTR gene → CFTR geni | 18-bob (17-bob), 1218
+   sweat glands → ter bezlari |  | 18-bob (17-bob), 1218
+   bulk transport → ommaviy transport | mundarija bo‘yicha; bulk transport of molecules → molekulalarning ommaviy tashilishi | 18-bob, 1222
+   phagocytosis → fagotsitoz | «cell-eating» → «hujayraning ovqat yeyishi» | 18-bob, 1226
+   cell leaving (exocytosis) → «hujayradan chiqish» |  | 18-bob, 1240
+   receptor-mediated endocytosis → retseptorlar vositasidagi endotsitoz |  | 18-bob, 1227
+   clathrin / clathrin-coated pits → klatrin / klatrin bilan qoplangan chuqurchalar |  | 18-bob, 1231
+   invagination → invaginatsiya |  | 18-bob, 1231
+   endosome → endosoma |  | 18-bob, 1233
+   low-density lipoprotein (LDL) → past zichlikdagi lipoprotein (LDL) | qisqartma LDL saqlandi; LDL receptor → LDL-retseptor | 18-bob, 1235
+   apolipoprotein B (Apo-B) → apolipoprotein B (Apo-B) |  | 18-bob, 1237
+   lipid droplets → lipid tomchilari |  | 18-bob, 1237
+   familial hypercholesterolemia → oilaviy giperxolesterinemiya |  | 18-bob, 1238
+   atherosclerosis → ateroskleroz | heart attack → yurak xuruji; stroke → insult | 18-bob, 1238
+   secretory vesicles → sekretor pufakchalar | secretion → sekretsiya | 18-bob, 1245
+   constitutive secretory pathway → konstitutiv sekretor yo‘l |  | 18-bob, 1244
+   lysosomal pathway → lizosomal yo‘l |  | 18-bob, 1244
+   regulated secretory pathway / regulated exocytosis → boshqariladigan sekretor yo‘l / boshqariladigan ekzotsitoz |  | 18-bob, 1244
+   mannose-6-phosphate → mannoza-6-fosfat |  | 18-bob, 1245
+   bud out (vesicles) → kurtaklanib ajralmoq |  | 18-bob, 1246
+   docking → doking | pufakchalarning membrana yaqinida to‘planishi | 18-bob, 1248
+   SNAREs → SNARE oqsillari |  | 18-bob, 1248
+   histamine → gistamin |  | 18-bob, 1250
+   mast cells → semiz hujayralar |  | 18-bob, 1250
+   hives → eshakemi |  | 18-bob, 1250
+   pathogens → patogenlar |  | 18-bob, 1226
+   immune cells → immun hujayralar |  | 18-bob, 1226
+   endocrine cells → endokrin hujayralar |  | 18-bob, 1253
+   juxtacrine (juxtracrine) signaling → yukstakrin signalizatsiya |  | 19-bob, 1261
+   gap junctions → tirqishli birikmalar |  | 19-bob, 1261
+   signaling cell → signal beruvchi hujayra |  | 19-bob, 1261
+   target cell → nishon hujayra |  | 19-bob, 1261
+   effector cell → effektor hujayra |  | 19-bob, 1263
+   main messenger / extracellular messenger → asosiy messenjer / hujayradan tashqari messenjer |  | 19-bob, 1265
+   first messengers / second messengers → birlamchi messenjerlar / ikkilamchi messenjerlar |  | 19-bob, 1266
+   growth factors → o‘sish omillari |  | 19-bob, 1265
+   cyclic AMP (cAMP) / cyclic GMP → siklik AMF (sAMF) / siklik GMF |  | 19-bob, 1266
+   GTP / GDP → GTF / GDF |  | 19-bob, 1284
+   nitric oxide → azot oksidi |  | 19-bob, 1266
+   phosphatidyl inositol / PIP2 → fosfatidilinozitol / PIP2 |  | 19-bob, 1266
+   surface receptors → yuza retseptorlari |  | 19-bob, 1274
+   G protein-coupled receptor (GPCR) → G oqsil bilan bog‘langan retseptor (GPCR) |  | 19-bob, 1276
+   enzyme-linked receptor → ferment bilan bog‘langan retseptor |  | 19-bob, 1277
+   ligand-gated ion channel → ligand bilan boshqariladigan ion kanali |  | 19-bob, 1278
+   pituitary gland → gipofiz |  | 19-bob, 1279
+   dopamine / adrenaline → dofamin / adrenalin |  | 19-bob, 1279
+   receptor tyrosine kinase / tyrosine kinase domains → retseptor tirozin kinaza / tirozin kinaza domenlari |  | 19-bob, 1287
+   inositol triphosphate (IP3) → inozitoltrifosfat (IP3) |  | 19-bob, 1292
+   adenylyl cyclase → adenilatsiklaza |  | 19-bob, 1293
+   protein kinase A / protein kinase C (PKC) → oqsil kinaza A / oqsil kinaza C (PKC) |  | 19-bob, 1295
+   phospholipase C (PLC) → fosfolipaza C (PLC) |  | 19-bob, 1298
+   diacyl glycerol (DAG) → diatsilglitserin (DAG) |  | 19-bob, 1298
+   phosphorylated → fosforlangan |  | 19-bob, 1299
+   caffeine / adenosine → kofein / adenozin |  | 19-bob, 1302
+   adrenal glands → buyrak usti bezlari |  | 19-bob, 1302
+   feedback system / negative / positive feedback → teskari bog‘lanish tizimi / manfiy / musbat teskari bog‘lanish |  | 19-bob, 1303
+   upregulation / downregulation → kuchaytiruvchi regulyatsiya / susaytiruvchi regulyatsiya | upregulating ham shunday | 19-bob, 1306
+   intracellular receptors → hujayra ichi retseptorlari |  | 19-bob, 1308
+   steroid hormones → steroid gormonlar |  | 19-bob, 1310
+   thyroid hormones / retinoids / reproductive hormones → qalqonsimon bez gormonlari / retinoidlar / jinsiy gormonlar |  | 19-bob, 1310
+   testosterone / estrogen / progesterone → testosteron / estrogen / progesteron |  | 19-bob, 1310
+   nuclear receptor → yadro retseptori |  | 19-bob, 1313
+   coactivator proteins → koaktivator oqsillar |  | 19-bob, 1313
+   oxidizer / reducer → oksidlovchi / qaytaruvchi | oxidative and reductive processes → oksidlovchi va qaytaruvchi jarayonlar | 20-bob, 1323
+   phototrophs → fototroflar |  | Oltinchi bo‘lim, 1320
+   heterotrophs → geterotroflar |  | Oltinchi bo‘lim, 1320
+   hydrogen sulfide → vodorod sulfid |  | 20-bob, 1328
+   oxygenated → kislorodlangan |  | 20-bob, 1336
+   warm-blooded → issiqqonli |  | 20-bob, 1348
+   phosphorylation → fosforlanish |  | 20-bob, 1355
+   substrate-level phosphorylation → substrat darajasidagi fosforlanish |  | 20-bob, 1355
+   inner mitochondrial membrane → ichki mitoxondrial membrana |  | 20-bob, 1362
+   proton pump → proton nasosi |  | 20-bob, 1362
+   chemiosmosis → xemiosmos |  | 20-bob, 1364
+   hydrogen ions → vodorod ionlari |  | 20-bob, 1364
+   chemical gradient / electrical gradient → kimyoviy gradiyent / elektr gradiyenti |  | 20-bob, 1366
+   electron carriers → elektron tashuvchilar |  | 20-bob, 1367
+   electron shuttles → elektron mokilari | electron carriers dan farqlash uchun | 20-bob, 1368
+   bucket brigade → qo‘lma-qo‘l chelak uzatayotgan odamlar zanjiri | o‘xshatish | 20-bob, 1368
+   nicotinamide adenine dinucleotide (NAD+) → nikotinamidadenindinukleotid (NAD+) | NADH o‘zgarishsiz | 20-bob, 1372
+   flavin adenine dinucleotide (FAD) → flavinadenindinukleotid (FAD) | FADH2 o‘zgarishsiz | 20-bob, 1372
+   final electron receptor → yakuniy elektron akseptori |  | 20-bob, 1372
+   cell catabolism → hujayra katabolizmi |  | 20-bob, 1376
+   It’s All About the Electrons → Hamma gap elektronlarda | kichik sarlavha | 20-bob, 1329
 5) TASDIQ KERAK ATAMALAR
-   Biology Made Easy → «Oson biologiya» | kitob nomi (KITOB_HAQIDA.txt) | 0-qism, 1
-   Preface → So‘zboshi |  | 0-qism, 16
-   Table of Contents → Mundarija |  | 0-qism, 15
-   Division → qism | kitobning eng yirik bo‘linmasi (Division One → Birinchi qism) | 0-qism, 17
-   Section → bo‘lim | qism ichidagi bo‘linma (Section One → Birinchi bo‘lim) | 0-qism, 18
-   Chapter → bob | Chapter 1 → 1-bob | 0-qism, 19
-   Fun Factoid → Qiziqarli fakt | takrorlanuvchi rukn | 1-bob, 107
-   To Sum Things Up → Xulosa | bob yakunidagi sarlavha | 1-bob, 144
-   cell biology → hujayra biologiyasi |  | 0-qism, 18
-   living thing → tirik mavjudot |  | So‘zboshi, 77
-   blueprint → chizma | genetik «chizma» (genetic blueprint) | 0-qism, 22
-   homeostasis → gomeostaz |  | 1-bob, 116
-   metabolism → metabolizm | fe’l: metabolize → metabolizmga uchratish | 0-qism, 33
-   catabolism → katabolizm |  | 1-bob, 118
-   anabolism → anabolizm |  | 1-bob, 118
-   phototropism → fototropizm |  | 1-bob, 121
-   germ cells → jinsiy hujayralar |  | 1-bob, 106
-   somatic cells → somatik hujayralar |  | 1-bob, 106
-   germ theory → mikrob nazariyasi | germ theory of disease causation → kasalliklar kelib chiqishining mikrob nazariyasi | 1-bob, 106
-   miasma → miazma |  | 1-bob, 107
-   humors → xiltlar | qadimgi tibbiyot: qon, qora o‘t, sariq o‘t, balg‘am | 1-bob, 97
-   natural history → tabiat tarixi |  | 1-bob, 90
-   natural philosophy → natural falsafa |  | 1-bob, 90
-   natural theology → natural ilohiyot |  | 1-bob, 91
-   Renaissance → Uyg‘onish davri |  | 1-bob, 91
-   enzyme → ferment |  | 0-qism, 33
-   messenger RNA → informatsion RNK | muqobil: matritsa RNK (mRNK) | 1-bob, 110
-   DNA → DNK |  | 0-qism, 55
-   RNA → RNK |  | 0-qism, 55
-   ATP → ATF |  | 0-qism, 32
-   double helix → qo‘sh spiral |  | 1-bob, 110
-   x-ray crystallography → rentgen kristallografiyasi |  | 1-bob, 110
-   recombinant DNA → rekombinant DNK |  | 1-bob, 111
-   gene therapy → gen terapiyasi |  | 0-qism, 71
-   genetic engineering → genetik muhandislik |  | 0-qism, 68
-   taxonomy → taksonomiya |  | 1-bob, 103
-   binomial nomenclature → binar nomenklatura |  | 1-bob, 126
-   species → tur | taksonomik daraja | 1-bob, 127
-   genus → avlod | taksonomik daraja; muqobil: turkum (botanikada) | 1-bob, 127
-   family → oila | taksonomik daraja | 1-bob, 130
-   order → turkum | taksonomik daraja; muqobil: tartib (botanikada) | 1-bob, 131
-   class → sinf | taksonomik daraja | 1-bob, 132
-   phylum → tip | taksonomik daraja; muqobil: bo‘lim (botanikada) | 1-bob, 133
-   kingdom → dunyo | taksonomik daraja (Plantae dunyosi) | 1-bob, 134
-   domain → domen | taksonomik daraja | 1-bob, 136
-   empire → imperiya | eski tasnif (Empire Bacteria → Bakteriyalar imperiyasi) | 1-bob, 140
-   prokaryotes → prokariotlar | sifat: prokariot | 1-bob, 136
-   eukaryotes → eukariotlar | eukaryota ham; sifat: eukariot | 1-bob, 136
-   archaea → arxeyalar |  | 1-bob, 136
-   binary fission → ikkiga bo‘linish |  | 1-bob, 136
-   organelle → organoid |  | 1-bob, 137
-   protists → protistlar | protista lotincha shaklda qoldirildi | 1-bob, 139
-   chromista → xromistlar | lotincha nom (Chromista) bosh harf bilan kelganda o‘zgarmaydi | 1-bob, 142
-   chloroplast → xloroplast |  | 1-bob, 142
-   autotroph → avtotrof |  | 1-bob, 141
-   cell signaling → hujayra signalizatsiyasi |  | 0-qism, 43
-   cellular respiration → hujayra nafasi |  | 0-qism, 46
-   plasma membrane → plazmatik membrana |  | 0-qism, 39
-   stimuli → qo‘zg‘atuvchilar |  | 1-bob, 121
-   replicate → replikatsiyalanmoq | viruslar haqida (reproduce → ko‘paymoq) | 1-bob, 117
+   Yo'q
 6) RASMLAR VA QO'LDA TEKSHIRISH
    word/media/ dagi 179 ta rasm o'zgarishsiz qoldi. Rasm ichidagi yozuvlar tarjima qilinmadi.
    Rasmlar: image1.jpeg, image2.jpeg, image3.jpeg, image4.jpeg, image5.jpeg, image6.jpeg, image7.jpeg, image8.jpeg, image9.jpeg, image10.jpeg, image11.jpeg, image12.jpeg, image13.jpeg, image14.jpeg, image15.jpeg, image16.jpeg, image17.jpeg, image18.jpeg, image19.jpeg, image20.jpeg, image21.jpeg, image22.jpeg, image23.jpeg, image24.jpeg, image25.jpeg, image26.jpeg, image27.jpeg, image28.jpeg, image29.jpeg, image30.jpeg, image31.jpeg, image32.jpeg, image33.jpeg, image34.jpeg, image35.jpeg, image36.jpeg, image37.jpeg, image38.jpeg, image39.jpeg, image40.jpeg, image41.jpeg, image42.jpeg, image43.jpeg, image44.jpeg, image45.jpeg, image46.jpeg, image47.jpeg, image48.jpeg, image49.jpeg, image50.jpeg, image51.jpeg, image52.jpeg, image53.jpeg, image54.jpeg, image55.jpeg, image56.jpeg, image57.jpeg, image58.jpeg, image59.jpeg, image60.jpeg, image61.jpeg, image62.jpeg, image63.jpeg, image64.jpeg, image65.jpeg, image66.jpeg, image67.jpeg, image68.jpeg, image69.jpeg, image70.jpeg, image71.jpeg, image72.jpeg, image73.jpeg, image74.jpeg, image75.jpeg, image76.jpeg, image77.jpeg, image78.jpeg, image79.jpeg, image80.jpeg, image81.jpeg, image82.jpeg, image83.jpeg, image84.jpeg, image85.jpeg, image86.jpeg, image87.jpeg, image88.jpeg, image89.jpeg, image90.jpeg, image91.jpeg, image92.jpeg, image93.jpeg, image94.jpeg, image95.jpeg, image96.jpeg, image97.jpeg, image98.jpeg, image99.jpeg, image100.jpeg, image101.jpeg, image102.jpeg, image103.jpeg, image104.jpeg, image105.jpeg, image106.jpeg, image107.jpeg, image108.jpeg, image109.jpeg, image110.jpeg, image111.jpeg, image112.jpeg, image113.jpeg, image114.jpeg, image115.jpeg, image116.jpeg, image117.jpeg, image118.jpeg, image119.jpeg, image120.jpeg, image121.jpeg, image122.jpeg, image123.jpeg, image124.jpeg, image125.jpeg, image126.jpeg, image127.jpeg, image128.jpeg, image129.jpeg, image130.jpeg, image131.jpeg, image132.jpeg, image133.jpeg, image134.jpeg, image135.jpeg, image136.jpeg, image137.jpeg, image138.jpeg, image139.jpeg, image140.jpeg, image141.jpeg, image142.jpeg, image143.jpeg, image144.jpeg, image145.jpeg, image146.jpeg, image147.jpeg, image148.jpeg, image149.jpeg, image150.jpeg, image151.jpeg, image152.jpeg, image153.jpeg, image154.jpeg, image155.jpeg, image156.jpeg, image157.jpeg, image158.jpeg, image159.jpeg, image160.jpeg, image161.jpeg, image162.jpeg, image163.jpeg, image164.jpeg, image165.jpeg, image166.jpeg, image167.jpeg, image168.jpeg, image169.jpeg, image170.jpeg, image171.jpeg, image172.jpeg, image173.jpeg, image174.jpeg, image175.jpeg, image176.jpeg, image177.jpeg, image178.jpeg, image179.jpeg
    Qo'lda: mundarija havolalari ishlashini Word da tekshiring; sahifa raqamlari maydon bo'lsa F9 bilan yangilang.
 7) SIFAT TEKSHIRUVI
    XATO 0
-   Sahifalar soni (LibreOffice PDF): asl 198, tarjima 198
+   Sahifalar soni (LibreOffice PDF): asl 198, tarjima 212
 8) BOBLARGA BO'LISH
     0. 0-qism (nom varag'i, ruxsatnoma, mundarija) (birliklar 1-71)
     1. Preface (birliklar 72-81)

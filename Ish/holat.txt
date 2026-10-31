@@ -1,7 +1,7 @@
 Fayl: Asl/Biology_Made_Easy_1_qisim.docx
 Boblar: Ish/boblar.json (22 ta: 0-qism, So'zboshi, 1-20-boblar), bo'lish tekshirilgan (XATO 0, TEKSHIRING 0).
-Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
-Keyingi: 21-raqamli bob (Chapter 20: Oxidation and Reduction), birlik 1318 dan
+Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21
+Keyingi: Biology_Made_Easy_1_qisim to‘liq tayyor (tekshir.py XATO 0, yakun.py bajarildi).
 Eslatma: bob sarlavhalari mundarija tarjimasi (Ish/boblar/bob_00.json, 16-71) bilan aynan bir xil bo'lsin.
 Foydalanuvchi so'rovi: hozircha faqat 2-bobgacha (1-146) tarjima ko'rsatildi.
 Atamalar: foydalanuvchi 1-fayl atamalarini tasdiqladi; yangi atamalar agent tomonidan to‘g‘ridan-to‘g‘ri TASDIQLANGAN ga kiritiladi.

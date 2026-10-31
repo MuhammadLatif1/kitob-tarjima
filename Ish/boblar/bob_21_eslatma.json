@@ -1,0 +1,143 @@
+{
+ "noaniq": [
+  "1336: asl matnda «CO2 dagi uglerod atomlari atrofida kislorod atomlari bor, uglerod atomlari yo‘q» deyilgan (mantiqan «vodorod atomlari yo‘q» bo‘lishi kerak); shuningdek «vodorod va kislorod molekulalari» deyilgan (atomlar nazarda tutilgan). Asldagidek tarjima qilindi.",
+  "1350: aslida «the breakdown or catabolize of glucose» grammatik xato; «parchalanishi, ya’ni katabolizmi» deb berildi.",
+  "1362: «34 molecules per glucose» — 1361 dagi 32-34 jami son bilan zid; asldagidek «34 tagacha molekula» deb berildi.",
+  "1363: «38.3 percent» raqami asl yozuvida (nuqta bilan) qoldirildi.",
+  "1368: «from glucose to carbon to oxygen» asldagidek «glyukozadan uglerodga, undan kislorodga» deb berildi; «gallon by gallon» o‘lchov birligi saqlandi.",
+  "1371/1373: aslida «NAD va FADH2», «FADH ... FADH2 ga aylanadi» (FAD → FADH2 bo‘lishi kerak) — asldagidek qoldirildi.",
+  "1372: «final electron receptor» (aslida akseptor) «yakuniy elektron akseptori» deb berildi.",
+  "1344: «ΔG=−686kcal/mol» formula sifatida o‘zgarishsiz qoldirildi; 1342 da matnda «kkal/mol».",
+  "Rasmlar (1321, 1325, 1327, 1331, 1339, 1346, 1357, 1360, 1365, 1370): ichidagi yozuvlar (uglerod aylanishi, reaksiya tenglamalari, redoks sxemasi, energiya diagrammasi, fosforlanish, xemiosmos, elektron tashuvchilar, NAD+) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "oxidizer / reducer",
+   "uz": "oksidlovchi / qaytaruvchi",
+   "izoh": "oxidative and reductive processes → oksidlovchi va qaytaruvchi jarayonlar",
+   "joy": "20-bob, 1323"
+  },
+  {
+   "en": "phototrophs",
+   "uz": "fototroflar",
+   "izoh": "",
+   "joy": "Oltinchi bo‘lim, 1320"
+  },
+  {
+   "en": "heterotrophs",
+   "uz": "geterotroflar",
+   "izoh": "",
+   "joy": "Oltinchi bo‘lim, 1320"
+  },
+  {
+   "en": "hydrogen sulfide",
+   "uz": "vodorod sulfid",
+   "izoh": "",
+   "joy": "20-bob, 1328"
+  },
+  {
+   "en": "oxygenated",
+   "uz": "kislorodlangan",
+   "izoh": "",
+   "joy": "20-bob, 1336"
+  },
+  {
+   "en": "warm-blooded",
+   "uz": "issiqqonli",
+   "izoh": "",
+   "joy": "20-bob, 1348"
+  },
+  {
+   "en": "phosphorylation",
+   "uz": "fosforlanish",
+   "izoh": "",
+   "joy": "20-bob, 1355"
+  },
+  {
+   "en": "substrate-level phosphorylation",
+   "uz": "substrat darajasidagi fosforlanish",
+   "izoh": "",
+   "joy": "20-bob, 1355"
+  },
+  {
+   "en": "inner mitochondrial membrane",
+   "uz": "ichki mitoxondrial membrana",
+   "izoh": "",
+   "joy": "20-bob, 1362"
+  },
+  {
+   "en": "proton pump",
+   "uz": "proton nasosi",
+   "izoh": "",
+   "joy": "20-bob, 1362"
+  },
+  {
+   "en": "chemiosmosis",
+   "uz": "xemiosmos",
+   "izoh": "",
+   "joy": "20-bob, 1364"
+  },
+  {
+   "en": "hydrogen ions",
+   "uz": "vodorod ionlari",
+   "izoh": "",
+   "joy": "20-bob, 1364"
+  },
+  {
+   "en": "chemical gradient / electrical gradient",
+   "uz": "kimyoviy gradiyent / elektr gradiyenti",
+   "izoh": "",
+   "joy": "20-bob, 1366"
+  },
+  {
+   "en": "electron carriers",
+   "uz": "elektron tashuvchilar",
+   "izoh": "",
+   "joy": "20-bob, 1367"
+  },
+  {
+   "en": "electron shuttles",
+   "uz": "elektron mokilari",
+   "izoh": "electron carriers dan farqlash uchun",
+   "joy": "20-bob, 1368"
+  },
+  {
+   "en": "bucket brigade",
+   "uz": "qo‘lma-qo‘l chelak uzatayotgan odamlar zanjiri",
+   "izoh": "o‘xshatish",
+   "joy": "20-bob, 1368"
+  },
+  {
+   "en": "nicotinamide adenine dinucleotide (NAD+)",
+   "uz": "nikotinamidadenindinukleotid (NAD+)",
+   "izoh": "NADH o‘zgarishsiz",
+   "joy": "20-bob, 1372"
+  },
+  {
+   "en": "flavin adenine dinucleotide (FAD)",
+   "uz": "flavinadenindinukleotid (FAD)",
+   "izoh": "FADH2 o‘zgarishsiz",
+   "joy": "20-bob, 1372"
+  },
+  {
+   "en": "final electron receptor",
+   "uz": "yakuniy elektron akseptori",
+   "izoh": "",
+   "joy": "20-bob, 1372"
+  },
+  {
+   "en": "cell catabolism",
+   "uz": "hujayra katabolizmi",
+   "izoh": "",
+   "joy": "20-bob, 1376"
+  },
+  {
+   "en": "It’s All About the Electrons",
+   "uz": "Hamma gap elektronlarda",
+   "izoh": "kichik sarlavha",
+   "joy": "20-bob, 1329"
+  }
+ ],
+ "tasdiq_kerak": []
+}
