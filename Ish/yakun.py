@@ -37,7 +37,7 @@ def main():
         if en.lower() in mavjud:
             continue
         q = "%s → %s | %s | %s" % (en, v["uz"], v.get("izoh", ""), v.get("joy", ""))
-        b["MUQOBIL VARIANTLAR" if v.get("holat") == "MUQOBIL" else "TAKLIF"].append(q)
+        b[{"MUQOBIL": "MUQOBIL VARIANTLAR", "TAKLIF": "TAKLIF"}.get(v.get("holat"), "TASDIQLANGAN")].append(q)
         yangi.append(q)
         mavjud.add(en.lower())
     bosh = [("Oxirgi yangilanish: %s" % nom) if q.startswith("Oxirgi yangilanish") else q for q in bosh]

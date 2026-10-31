@@ -120,7 +120,7 @@ Tarjima qoidalari kiritilgan alohida tarjimon yarat: `.claude/agents/tarjimon.md
 2. Har birini `Lugat.txt` va `Ish/atamalar_joriy.json` dan tekshir:
    - `TASDIQLANGAN`: aynan shu tarjimani ishlat, o'zgartirma. O'zgartirish kerak bo'lsa, faqat taklif qil va roziligini kut.
    - `TAKLIF`: shu tarjimani ishlat va hisobotda tasdiq so'ra.
-   - Yo'q: mos tarjimani tanla va `TAKLIF` ga qo'sh (bob davomida `atamalar_joriy.json` ga, fayl yakunida `Lugat.txt` ga).
+   - Yo'q: mos tarjimani o'zing tanla va to'g'ridan-to'g'ri `TASDIQLANGAN` ga qo'sh (bob davomida `atamalar_joriy.json` ga `"holat": "TASDIQLANGAN"` bilan, fayl yakunida `Lugat.txt` ga). Foydalanuvchi yangi atamalarni agent o'zi tanlab kiritishiga doimiy ruxsat bergan, tasdiq so'ralmaydi. Faqat haqiqatan ham shubhali atama bo'lsa (bir necha teng kuchli variant), uni `TAKLIF` ga qo'shib hisobotda ko'rsat.
 3. Bir so'z ikki xil ma'noda kelsa, ikkalasini alohida yoz va kontekstini ko'rsat.
 4. Foydalanuvchi «tasdiqlayman» desa, atamalarni `TAKLIF` dan `TASDIQLANGAN` ga ko'chir.
 5. O'zbek tilida o'rnashgan ilmiy ekvivalenti bor atama uchun yangi atama o'ylab topma. Bir necha variant bo'lsa, `MUQOBIL VARIANTLAR` ga yoz.
@@ -152,7 +152,7 @@ Skript topgan xatolarni agent tuzatadi (kerak bo'lsa tegishli bobning tarjima fa
 ## 9. Chatdagi javob va sessiya
 - Chatga faqat 1-3 gap yoz: nima tayyor bo'ldi, hisobot qayerda. Tarjima matnini chatga yozma.
 - Boblarga bo'lish tugagach, chatga bitta qisqa xabar yoz: nechta bob topildi (tarjima davom etadi). Tekshiruv toza bo'lsa, javob kutma.
-- Tugagan fayl oxirida shuni so'ra: `TAKLIF` atamalarni tasdiqlaysizmi?
+- Tugagan fayl oxirida faqat `TAKLIF` bo'limida atama qolgan bo'lsa, shuni so'ra: `TAKLIF` atamalarni tasdiqlaysizmi? Aks holda so'rama.
 - **Har fayl tugagach shu so'zlar bilan yakunla:** «Fayl tayyor. Tokenni tejash uchun yangi sessiya oching (`/clear`) va keyingi fayl nomi bilan "davom et" deb yozing.»
 - Hech qachon jumla o'rtasida to'xtama. To'xtashga majbur bo'lsang, faqat xatboshi oxirida to'xta va `Ish/holat.txt` ga joyni aniq yoz (bob raqami va birlik raqami).
 - Yangi sessiyada «davom et» desa, 3-bo'limdagi tartibda `holat.txt` ni o'qib aynan o'sha bob va o'sha joydan davom et. Oldingi suhbat esingda bo'lishiga tayanma, hamma narsa `holat.txt`, `Lugat.txt`, `Ish/boblar.json`, `Ish/atamalar_joriy.json` va `Ish/` dagi fayllarda.

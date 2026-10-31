@@ -3,8 +3,6 @@ Format: inglizcha atama → o'zbekcha tarjima | izoh | birinchi uchragan joy
 Oxirgi yangilanish: Biology_Made_Easy_1_qisim
 
 TASDIQLANGAN
-
-TAKLIF
 Biology Made Easy → «Oson biologiya» | kitob nomi (KITOB_HAQIDA.txt) | 0-qism, 1
 Preface → So‘zboshi |  | 0-qism, 16
 Table of Contents → Mundarija |  | 0-qism, 15
@@ -65,5 +63,7 @@ cellular respiration → hujayra nafasi |  | 0-qism, 46
 plasma membrane → plazmatik membrana |  | 0-qism, 39
 stimuli → qo‘zg‘atuvchilar |  | 1-bob, 121
 replicate → replikatsiyalanmoq | viruslar haqida (reproduce → ko‘paymoq) | 1-bob, 117
+
+TAKLIF
 
 MUQOBIL VARIANTLAR
