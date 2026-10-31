@@ -1360,5 +1360,269 @@
   "izoh": "",
   "joy": "4-bob, 249",
   "holat": "TASDIQLANGAN"
+ },
+ "atom": {
+  "uz": "atom",
+  "izoh": "",
+  "joy": "5-bob, 325",
+  "holat": "TASDIQLANGAN"
+ },
+ "subatomic particles": {
+  "uz": "subatom zarralar",
+  "izoh": "",
+  "joy": "5-bob, 325",
+  "holat": "TASDIQLANGAN"
+ },
+ "proton": {
+  "uz": "proton",
+  "izoh": "",
+  "joy": "5-bob, 325",
+  "holat": "TASDIQLANGAN"
+ },
+ "neutron": {
+  "uz": "neytron",
+  "izoh": "",
+  "joy": "5-bob, 325",
+  "holat": "TASDIQLANGAN"
+ },
+ "electron": {
+  "uz": "elektron",
+  "izoh": "",
+  "joy": "5-bob, 325",
+  "holat": "TASDIQLANGAN"
+ },
+ "matter": {
+  "uz": "materiya",
+  "izoh": "fizik ma’noda; structure of matter → moddaning tuzilishi (sarlavhada)",
+  "joy": "5-bob, 325",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleus (atomic)": {
+  "uz": "yadro",
+  "izoh": "atom yadrosi; hujayra yadrosi bilan farqlash kerak bo‘lsa «atom yadrosi»",
+  "joy": "5-bob, 329",
+  "holat": "TASDIQLANGAN"
+ },
+ "ion": {
+  "uz": "ion",
+  "izoh": "",
+  "joy": "5-bob, 330",
+  "holat": "TASDIQLANGAN"
+ },
+ "atomic mass unit (amu)": {
+  "uz": "atom massa birligi (a.m.b.)",
+  "izoh": "",
+  "joy": "5-bob, 332",
+  "holat": "TASDIQLANGAN"
+ },
+ "Dalton": {
+  "uz": "dalton",
+  "izoh": "birlik nomi, kichik harf bilan",
+  "joy": "5-bob, 332",
+  "holat": "TASDIQLANGAN"
+ },
+ "atomic number": {
+  "uz": "atom raqami",
+  "izoh": "muqobil: tartib raqami",
+  "joy": "5-bob, 332",
+  "holat": "TASDIQLANGAN"
+ },
+ "atomic mass": {
+  "uz": "atom massasi",
+  "izoh": "",
+  "joy": "5-bob, 333",
+  "holat": "TASDIQLANGAN"
+ },
+ "periodic table of the elements": {
+  "uz": "kimyoviy elementlarning davriy jadvali",
+  "izoh": "qisqa: davriy jadval",
+  "joy": "5-bob, 333",
+  "holat": "TASDIQLANGAN"
+ },
+ "period": {
+  "uz": "davr",
+  "izoh": "davriy jadvalda",
+  "joy": "5-bob, 337",
+  "holat": "TASDIQLANGAN"
+ },
+ "noble gases": {
+  "uz": "inert gazlar",
+  "izoh": "muqobil: asil gazlar",
+  "joy": "5-bob, 337",
+  "holat": "TASDIQLANGAN"
+ },
+ "isotope": {
+  "uz": "izotop",
+  "izoh": "",
+  "joy": "5-bob, 338",
+  "holat": "TASDIQLANGAN"
+ },
+ "radioactivity": {
+  "uz": "radioaktivlik",
+  "izoh": "radioactive → radioaktiv",
+  "joy": "5-bob, 338",
+  "holat": "TASDIQLANGAN"
+ },
+ "protium": {
+  "uz": "protiy",
+  "izoh": "deuterium → deyteriy; tritium → tritiy",
+  "joy": "5-bob, 339",
+  "holat": "TASDIQLANGAN"
+ },
+ "electromagnetic force": {
+  "uz": "elektromagnit kuch",
+  "izoh": "",
+  "joy": "5-bob, 341",
+  "holat": "TASDIQLANGAN"
+ },
+ "nuclear force": {
+  "uz": "yadro kuchi",
+  "izoh": "",
+  "joy": "5-bob, 341",
+  "holat": "TASDIQLANGAN"
+ },
+ "fission": {
+  "uz": "yadro bo‘linishi",
+  "izoh": "nuclear power plant → atom elektr stansiyasi",
+  "joy": "5-bob, 342",
+  "holat": "TASDIQLANGAN"
+ },
+ "electronegativity": {
+  "uz": "elektromanfiylik",
+  "izoh": "electronegative → elektromanfiy",
+  "joy": "5-bob, 344",
+  "holat": "TASDIQLANGAN"
+ },
+ "Berkelium": {
+  "uz": "berkliy",
+  "izoh": "element; birinchi uchraganda lotincha qavsda",
+  "joy": "5-bob, 347",
+  "holat": "TASDIQLANGAN"
+ },
+ "half-life": {
+  "uz": "yarim yemirilish davri",
+  "izoh": "",
+  "joy": "5-bob, 347",
+  "holat": "TASDIQLANGAN"
+ },
+ "orbital": {
+  "uz": "orbital",
+  "izoh": "orbit → orbita (sayyora orbitasi) bilan farqlanadi",
+  "joy": "5-bob, 348",
+  "holat": "TASDIQLANGAN"
+ },
+ "quantum mechanics": {
+  "uz": "kvant mexanikasi",
+  "izoh": "",
+  "joy": "5-bob, 351",
+  "holat": "TASDIQLANGAN"
+ },
+ "particle-wave duality": {
+  "uz": "korpuskulyar-to‘lqin dualizmi",
+  "izoh": "",
+  "joy": "5-bob, 351",
+  "holat": "TASDIQLANGAN"
+ },
+ "Werner Heisenberg": {
+  "uz": "Verner Geyzenberg",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "5-bob, 359",
+  "holat": "TASDIQLANGAN"
+ },
+ "momentum": {
+  "uz": "impuls",
+  "izoh": "",
+  "joy": "5-bob, 359",
+  "holat": "TASDIQLANGAN"
+ },
+ "Heisenberg Uncertainty Principle": {
+  "uz": "Geyzenbergning noaniqlik prinsipi",
+  "izoh": "",
+  "joy": "5-bob, 360",
+  "holat": "TASDIQLANGAN"
+ },
+ "s orbital": {
+  "uz": "s orbital",
+  "izoh": "p orbital, d orbital, f orbital shu tarzda",
+  "joy": "5-bob, 363",
+  "holat": "TASDIQLANGAN"
+ },
+ "spin": {
+  "uz": "spin",
+  "izoh": "positive and negative spin → musbat va manfiy spin",
+  "joy": "5-bob, 366",
+  "holat": "TASDIQLANGAN"
+ },
+ "energy level": {
+  "uz": "energetik sath",
+  "izoh": "",
+  "joy": "5-bob, 371",
+  "holat": "TASDIQLANGAN"
+ },
+ "node": {
+  "uz": "tugun",
+  "izoh": "orbitaldagi tugun",
+  "joy": "5-bob, 371",
+  "holat": "TASDIQLANGAN"
+ },
+ "d block": {
+  "uz": "d-blok",
+  "izoh": "davriy jadvalda",
+  "joy": "5-bob, 378",
+  "holat": "TASDIQLANGAN"
+ },
+ "chemical bond": {
+  "uz": "kimyoviy bog‘",
+  "izoh": "chemical bonding → kimyoviy bog‘lanish",
+  "joy": "5-bob, 322",
+  "holat": "TASDIQLANGAN"
+ },
+ "macromolecules": {
+  "uz": "makromolekulalar",
+  "izoh": "",
+  "joy": "5-bob, 322",
+  "holat": "TASDIQLANGAN"
+ },
+ "methane": {
+  "uz": "metan",
+  "izoh": "",
+  "joy": "5-bob, 383",
+  "holat": "TASDIQLANGAN"
+ },
+ "valency": {
+  "uz": "valentlik",
+  "izoh": "valency state → valentlik holati",
+  "joy": "5-bob, 386",
+  "holat": "TASDIQLANGAN"
+ },
+ "valence shell": {
+  "uz": "valent qobiq",
+  "izoh": "",
+  "joy": "5-bob, 387",
+  "holat": "TASDIQLANGAN"
+ },
+ "valence electron": {
+  "uz": "valent elektron",
+  "izoh": "",
+  "joy": "5-bob, 387",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrogen": {
+  "uz": "vodorod",
+  "izoh": "element nomlari: helium → geliy, lithium → litiy, oxygen → kislorod, carbon → uglerod, boron → bor, neon → neon, fluorine → ftor, sodium → natriy, scandium → skandiy",
+  "joy": "5-bob, 325",
+  "holat": "TASDIQLANGAN"
+ },
+ "Russian nesting dolls": {
+  "uz": "matryoshkalar",
+  "izoh": "",
+  "joy": "5-bob, 368",
+  "holat": "TASDIQLANGAN"
+ },
+ "dandelion": {
+  "uz": "qoqio‘t",
+  "izoh": "",
+  "joy": "5-bob, 358",
+  "holat": "TASDIQLANGAN"
  }
 }

@@ -1,0 +1,282 @@
+{
+ "noaniq": [
+  "332: muallif «atomic number» ni daltonlardagi massa deb ataydi (aslida atom massasi); asl ma’no saqlab tarjima qilindi.",
+  "336: «atom massasini atom raqamidan ayirsangiz» — mantiqan teskari (atom raqamini atom massasidan ayirish kerak); asldagidek tarjima qilindi.",
+  "337: muallif davriy jadval ustunini «period» (davr) deb ataydi, aslida ustun — guruh, qator — davr; asldagidek «davr» berildi.",
+  "339: muallif vodorodning uchta «barqaror» izotopi deydi, tritiy aslida radioaktiv; asldagidek tarjima qilindi.",
+  "341, 343: «magnetism», «radioactivity» atamalari muallifning soddalashtirilgan talqinida; asldagidek berildi.",
+  "372: «px, py, pz» asl matnda indekssiz yozilgan; o‘zgartirilmadi.",
+  "382: asl matnda «2 s orbitals» (bo‘sh joy bilan) — asldagidek «2 s» qoldirildi.",
+  "386: asl matnda «is called is valency state» — xato, «its valency state» ma’nosida tarjima qilindi.",
+  "390: «Barcha neytral atomlarda protonlar va neytronlar soni bir xil» — muallif xatosi (elektronlar bo‘lishi kerak); asldagidek tarjima qilindi.",
+  "326, 331, 334, 340, 353, 356, 364, 370, 374, 377, 381: rasmlar (vodorod atomi, litiy ioni, kislorod katakchasi, vodorod izotoplari, to‘lqin, zarra, s orbital, p orbital, orbitallar to‘lish tartibi, energetik sathlar, H2 molekulasi) ichidagi yozuvlar tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "atom",
+   "uz": "atom",
+   "izoh": "",
+   "joy": "5-bob, 325"
+  },
+  {
+   "en": "subatomic particles",
+   "uz": "subatom zarralar",
+   "izoh": "",
+   "joy": "5-bob, 325"
+  },
+  {
+   "en": "proton",
+   "uz": "proton",
+   "izoh": "",
+   "joy": "5-bob, 325"
+  },
+  {
+   "en": "neutron",
+   "uz": "neytron",
+   "izoh": "",
+   "joy": "5-bob, 325"
+  },
+  {
+   "en": "electron",
+   "uz": "elektron",
+   "izoh": "",
+   "joy": "5-bob, 325"
+  },
+  {
+   "en": "matter",
+   "uz": "materiya",
+   "izoh": "fizik ma’noda; structure of matter → moddaning tuzilishi (sarlavhada)",
+   "joy": "5-bob, 325"
+  },
+  {
+   "en": "nucleus (atomic)",
+   "uz": "yadro",
+   "izoh": "atom yadrosi; hujayra yadrosi bilan farqlash kerak bo‘lsa «atom yadrosi»",
+   "joy": "5-bob, 329"
+  },
+  {
+   "en": "ion",
+   "uz": "ion",
+   "izoh": "",
+   "joy": "5-bob, 330"
+  },
+  {
+   "en": "atomic mass unit (amu)",
+   "uz": "atom massa birligi (a.m.b.)",
+   "izoh": "",
+   "joy": "5-bob, 332"
+  },
+  {
+   "en": "Dalton",
+   "uz": "dalton",
+   "izoh": "birlik nomi, kichik harf bilan",
+   "joy": "5-bob, 332"
+  },
+  {
+   "en": "atomic number",
+   "uz": "atom raqami",
+   "izoh": "muqobil: tartib raqami",
+   "joy": "5-bob, 332"
+  },
+  {
+   "en": "atomic mass",
+   "uz": "atom massasi",
+   "izoh": "",
+   "joy": "5-bob, 333"
+  },
+  {
+   "en": "periodic table of the elements",
+   "uz": "kimyoviy elementlarning davriy jadvali",
+   "izoh": "qisqa: davriy jadval",
+   "joy": "5-bob, 333"
+  },
+  {
+   "en": "period",
+   "uz": "davr",
+   "izoh": "davriy jadvalda",
+   "joy": "5-bob, 337"
+  },
+  {
+   "en": "noble gases",
+   "uz": "inert gazlar",
+   "izoh": "muqobil: asil gazlar",
+   "joy": "5-bob, 337"
+  },
+  {
+   "en": "isotope",
+   "uz": "izotop",
+   "izoh": "",
+   "joy": "5-bob, 338"
+  },
+  {
+   "en": "radioactivity",
+   "uz": "radioaktivlik",
+   "izoh": "radioactive → radioaktiv",
+   "joy": "5-bob, 338"
+  },
+  {
+   "en": "protium",
+   "uz": "protiy",
+   "izoh": "deuterium → deyteriy; tritium → tritiy",
+   "joy": "5-bob, 339"
+  },
+  {
+   "en": "electromagnetic force",
+   "uz": "elektromagnit kuch",
+   "izoh": "",
+   "joy": "5-bob, 341"
+  },
+  {
+   "en": "nuclear force",
+   "uz": "yadro kuchi",
+   "izoh": "",
+   "joy": "5-bob, 341"
+  },
+  {
+   "en": "fission",
+   "uz": "yadro bo‘linishi",
+   "izoh": "nuclear power plant → atom elektr stansiyasi",
+   "joy": "5-bob, 342"
+  },
+  {
+   "en": "electronegativity",
+   "uz": "elektromanfiylik",
+   "izoh": "electronegative → elektromanfiy",
+   "joy": "5-bob, 344"
+  },
+  {
+   "en": "Berkelium",
+   "uz": "berkliy",
+   "izoh": "element; birinchi uchraganda lotincha qavsda",
+   "joy": "5-bob, 347"
+  },
+  {
+   "en": "half-life",
+   "uz": "yarim yemirilish davri",
+   "izoh": "",
+   "joy": "5-bob, 347"
+  },
+  {
+   "en": "orbital",
+   "uz": "orbital",
+   "izoh": "orbit → orbita (sayyora orbitasi) bilan farqlanadi",
+   "joy": "5-bob, 348"
+  },
+  {
+   "en": "quantum mechanics",
+   "uz": "kvant mexanikasi",
+   "izoh": "",
+   "joy": "5-bob, 351"
+  },
+  {
+   "en": "particle-wave duality",
+   "uz": "korpuskulyar-to‘lqin dualizmi",
+   "izoh": "",
+   "joy": "5-bob, 351"
+  },
+  {
+   "en": "Werner Heisenberg",
+   "uz": "Verner Geyzenberg",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "5-bob, 359"
+  },
+  {
+   "en": "momentum",
+   "uz": "impuls",
+   "izoh": "",
+   "joy": "5-bob, 359"
+  },
+  {
+   "en": "Heisenberg Uncertainty Principle",
+   "uz": "Geyzenbergning noaniqlik prinsipi",
+   "izoh": "",
+   "joy": "5-bob, 360"
+  },
+  {
+   "en": "s orbital",
+   "uz": "s orbital",
+   "izoh": "p orbital, d orbital, f orbital shu tarzda",
+   "joy": "5-bob, 363"
+  },
+  {
+   "en": "spin",
+   "uz": "spin",
+   "izoh": "positive and negative spin → musbat va manfiy spin",
+   "joy": "5-bob, 366"
+  },
+  {
+   "en": "energy level",
+   "uz": "energetik sath",
+   "izoh": "",
+   "joy": "5-bob, 371"
+  },
+  {
+   "en": "node",
+   "uz": "tugun",
+   "izoh": "orbitaldagi tugun",
+   "joy": "5-bob, 371"
+  },
+  {
+   "en": "d block",
+   "uz": "d-blok",
+   "izoh": "davriy jadvalda",
+   "joy": "5-bob, 378"
+  },
+  {
+   "en": "chemical bond",
+   "uz": "kimyoviy bog‘",
+   "izoh": "chemical bonding → kimyoviy bog‘lanish",
+   "joy": "5-bob, 322"
+  },
+  {
+   "en": "macromolecules",
+   "uz": "makromolekulalar",
+   "izoh": "",
+   "joy": "5-bob, 322"
+  },
+  {
+   "en": "methane",
+   "uz": "metan",
+   "izoh": "",
+   "joy": "5-bob, 383"
+  },
+  {
+   "en": "valency",
+   "uz": "valentlik",
+   "izoh": "valency state → valentlik holati",
+   "joy": "5-bob, 386"
+  },
+  {
+   "en": "valence shell",
+   "uz": "valent qobiq",
+   "izoh": "",
+   "joy": "5-bob, 387"
+  },
+  {
+   "en": "valence electron",
+   "uz": "valent elektron",
+   "izoh": "",
+   "joy": "5-bob, 387"
+  },
+  {
+   "en": "hydrogen",
+   "uz": "vodorod",
+   "izoh": "element nomlari: helium → geliy, lithium → litiy, oxygen → kislorod, carbon → uglerod, boron → bor, neon → neon, fluorine → ftor, sodium → natriy, scandium → skandiy",
+   "joy": "5-bob, 325"
+  },
+  {
+   "en": "Russian nesting dolls",
+   "uz": "matryoshkalar",
+   "izoh": "",
+   "joy": "5-bob, 368"
+  },
+  {
+   "en": "dandelion",
+   "uz": "qoqio‘t",
+   "izoh": "",
+   "joy": "5-bob, 358"
+  }
+ ],
+ "tasdiq_kerak": []
+}
