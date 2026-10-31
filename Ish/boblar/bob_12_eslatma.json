@@ -1,0 +1,216 @@
+{
+ "noaniq": [
+  "795: «In eukaryotic cells, these are clustered into...» — gap tuzilishi o‘zgartirildi (ro‘yxat ikki nuqtadan keyin), ma’no saqlandi.",
+  "803: «The Krebs cycle is ultimately crucial to recycling the FADH2 and NADH» — mantiqan kislorod nazarda tutilgan bo‘lishi mumkin; asldagidek berildi.",
+  "805: «NAD+ and FADH» — biokimyoda FAD bo‘lishi kerak; asldagidek (FADH) qoldirildi.",
+  "808: «ATP is an enzyme» — aslida ATF-sintaza nazarda tutilgan; asldagidek «ATF» berildi.",
+  "809: «It’d made by» — matbaa xatosi («It’s made»), ma’nosi bo‘yicha tarjima qilindi.",
+  "831: «This negative charge on the outside compared to the inside» — mantiqan manfiy zaryad ichki tomonda; asldagidek berildi.",
+  "812: «with two phosphate groups» — ADF ta’rifi asldagidek («ATF molekulasining o‘zi, faqat unda ikkita fosfat guruhi bor»).",
+  "814: «0.2 moles» raqami asl yozuvida (0.2) qoldirildi.",
+  "840: «re-cocking of the bridge» → «ko‘prikchani qaytadan tarang holatga keltirish».",
+  "791, 797, 802, 811, 819, 823, 834, 837, 839: faqat rasm belgisi (harfsiz) — tarjima qilinmadi; rasmlar ichidagi yozuvlar (ATF tuzilishi, glikoliz, Krebs sikli, ATF-sintaza, kinaza/fosfataza, natriy-kaliy nasosi, sarkomer, ishchi harakat sxemalari) inglizcha qoldi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "adenosine triphosphate (ATP)",
+   "uz": "adenozintrifosfat (ATF)",
+   "izoh": "oldingi boblardagidek",
+   "joy": "11-bob, 788"
+  },
+  {
+   "en": "ADP",
+   "uz": "ADF",
+   "izoh": "dATP → dATF",
+   "joy": "11-bob, 812"
+  },
+  {
+   "en": "energy currency",
+   "uz": "energiya valyutasi",
+   "izoh": "",
+   "joy": "11-bob, 788"
+  },
+  {
+   "en": "citric acid cycle",
+   "uz": "limon kislota sikli",
+   "izoh": "",
+   "joy": "11-bob, 795"
+  },
+  {
+   "en": "Krebs cycle",
+   "uz": "Krebs sikli",
+   "izoh": "",
+   "joy": "11-bob, 795"
+  },
+  {
+   "en": "tricarboxylic acid cycle",
+   "uz": "trikarbon kislotalar sikli",
+   "izoh": "",
+   "joy": "11-bob, 800"
+  },
+  {
+   "en": "oxidative phosphorylation",
+   "uz": "oksidlovchi fosforlanish",
+   "izoh": "phosphorylate → fosforlamoq",
+   "joy": "11-bob, 795"
+  },
+  {
+   "en": "electron transport chain",
+   "uz": "elektron tashish zanjiri",
+   "izoh": "",
+   "joy": "11-bob, 804"
+  },
+  {
+   "en": "anaerobic respiration",
+   "uz": "anaerob nafas",
+   "izoh": "aerobic respiration → aerob nafas bilan mos",
+   "joy": "11-bob, 798"
+  },
+  {
+   "en": "pyruvate",
+   "uz": "piruvat",
+   "izoh": "",
+   "joy": "11-bob, 796"
+  },
+  {
+   "en": "acetyl-CoA / acetyl group",
+   "uz": "atsetil-KoA / atsetil guruhi",
+   "izoh": "",
+   "joy": "11-bob, 800"
+  },
+  {
+   "en": "oxaloacetate",
+   "uz": "oksaloatsetat",
+   "izoh": "",
+   "joy": "11-bob, 800"
+  },
+  {
+   "en": "citrate",
+   "uz": "sitrat",
+   "izoh": "",
+   "joy": "11-bob, 800"
+  },
+  {
+   "en": "precursor",
+   "uz": "o‘tmishdosh",
+   "izoh": "",
+   "joy": "11-bob, 803"
+  },
+  {
+   "en": "ATP synthase",
+   "uz": "ATF-sintaza",
+   "izoh": "",
+   "joy": "11-bob, 805"
+  },
+  {
+   "en": "proton motive force",
+   "uz": "proton harakatlantiruvchi kuch",
+   "izoh": "",
+   "joy": "11-bob, 809"
+  },
+  {
+   "en": "stator / rotor / axle",
+   "uz": "stator / rotor / o‘q",
+   "izoh": "ATF-sintaza qismlari",
+   "joy": "11-bob, 810"
+  },
+  {
+   "en": "signaling molecule",
+   "uz": "signal molekulasi",
+   "izoh": "",
+   "joy": "11-bob, 816"
+  },
+  {
+   "en": "kinase / protein kinase",
+   "uz": "kinaza / oqsil kinaza",
+   "izoh": "",
+   "joy": "11-bob, 816"
+  },
+  {
+   "en": "phosphatase",
+   "uz": "fosfataza",
+   "izoh": "",
+   "joy": "11-bob, 817"
+  },
+  {
+   "en": "substrate",
+   "uz": "substrat",
+   "izoh": "",
+   "joy": "11-bob, 818"
+  },
+  {
+   "en": "activate / deactivate",
+   "uz": "faollashtirmoq / faolsizlantirmoq",
+   "izoh": "",
+   "joy": "11-bob, 818"
+  },
+  {
+   "en": "sodium-potassium ATPase pump",
+   "uz": "natriy-kaliy ATFaza nasosi",
+   "izoh": "",
+   "joy": "11-bob, 821"
+  },
+  {
+   "en": "channel protein / carrier channel protein",
+   "uz": "kanal oqsili / tashuvchi kanal oqsili",
+   "izoh": "",
+   "joy": "11-bob, 825"
+  },
+  {
+   "en": "affinity",
+   "uz": "moyillik",
+   "izoh": "",
+   "joy": "11-bob, 828"
+  },
+  {
+   "en": "membrane potential",
+   "uz": "membrana potensiali",
+   "izoh": "",
+   "joy": "11-bob, 831"
+  },
+  {
+   "en": "actin filament / myosin filament",
+   "uz": "aktin filamenti / miozin filamenti",
+   "izoh": "",
+   "joy": "11-bob, 833"
+  },
+  {
+   "en": "sarcomere",
+   "uz": "sarkomer",
+   "izoh": "",
+   "joy": "11-bob, 833"
+  },
+  {
+   "en": "skeletal muscle",
+   "uz": "skelet muskuli",
+   "izoh": "",
+   "joy": "11-bob, 833"
+  },
+  {
+   "en": "cross-bridge",
+   "uz": "ko‘ndalang ko‘prikcha",
+   "izoh": "",
+   "joy": "11-bob, 835"
+  },
+  {
+   "en": "ratchet wrench",
+   "uz": "treshotkali kalit",
+   "izoh": "",
+   "joy": "11-bob, 835"
+  },
+  {
+   "en": "power stroke",
+   "uz": "ishchi harakat",
+   "izoh": "",
+   "joy": "11-bob, 838"
+  },
+  {
+   "en": "hydrolyze",
+   "uz": "gidrolizlanmoq / gidrolizlamoq",
+   "izoh": "",
+   "joy": "11-bob, 814"
+  }
+ ],
+ "tasdiq_kerak": []
+}

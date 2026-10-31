@@ -3352,5 +3352,203 @@
   "izoh": "birinchi uchraganda asli qavsda",
   "joy": "10-bob, 767",
   "holat": "TASDIQLANGAN"
+ },
+ "adenosine triphosphate (ATP)": {
+  "uz": "adenozintrifosfat (ATF)",
+  "izoh": "oldingi boblardagidek",
+  "joy": "11-bob, 788",
+  "holat": "TASDIQLANGAN"
+ },
+ "ADP": {
+  "uz": "ADF",
+  "izoh": "dATP → dATF",
+  "joy": "11-bob, 812",
+  "holat": "TASDIQLANGAN"
+ },
+ "energy currency": {
+  "uz": "energiya valyutasi",
+  "izoh": "",
+  "joy": "11-bob, 788",
+  "holat": "TASDIQLANGAN"
+ },
+ "citric acid cycle": {
+  "uz": "limon kislota sikli",
+  "izoh": "",
+  "joy": "11-bob, 795",
+  "holat": "TASDIQLANGAN"
+ },
+ "Krebs cycle": {
+  "uz": "Krebs sikli",
+  "izoh": "",
+  "joy": "11-bob, 795",
+  "holat": "TASDIQLANGAN"
+ },
+ "tricarboxylic acid cycle": {
+  "uz": "trikarbon kislotalar sikli",
+  "izoh": "",
+  "joy": "11-bob, 800",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxidative phosphorylation": {
+  "uz": "oksidlovchi fosforlanish",
+  "izoh": "phosphorylate → fosforlamoq",
+  "joy": "11-bob, 795",
+  "holat": "TASDIQLANGAN"
+ },
+ "electron transport chain": {
+  "uz": "elektron tashish zanjiri",
+  "izoh": "",
+  "joy": "11-bob, 804",
+  "holat": "TASDIQLANGAN"
+ },
+ "anaerobic respiration": {
+  "uz": "anaerob nafas",
+  "izoh": "aerobic respiration → aerob nafas bilan mos",
+  "joy": "11-bob, 798",
+  "holat": "TASDIQLANGAN"
+ },
+ "pyruvate": {
+  "uz": "piruvat",
+  "izoh": "",
+  "joy": "11-bob, 796",
+  "holat": "TASDIQLANGAN"
+ },
+ "acetyl-CoA / acetyl group": {
+  "uz": "atsetil-KoA / atsetil guruhi",
+  "izoh": "",
+  "joy": "11-bob, 800",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxaloacetate": {
+  "uz": "oksaloatsetat",
+  "izoh": "",
+  "joy": "11-bob, 800",
+  "holat": "TASDIQLANGAN"
+ },
+ "citrate": {
+  "uz": "sitrat",
+  "izoh": "",
+  "joy": "11-bob, 800",
+  "holat": "TASDIQLANGAN"
+ },
+ "precursor": {
+  "uz": "o‘tmishdosh",
+  "izoh": "",
+  "joy": "11-bob, 803",
+  "holat": "TASDIQLANGAN"
+ },
+ "ATP synthase": {
+  "uz": "ATF-sintaza",
+  "izoh": "",
+  "joy": "11-bob, 805",
+  "holat": "TASDIQLANGAN"
+ },
+ "proton motive force": {
+  "uz": "proton harakatlantiruvchi kuch",
+  "izoh": "",
+  "joy": "11-bob, 809",
+  "holat": "TASDIQLANGAN"
+ },
+ "stator / rotor / axle": {
+  "uz": "stator / rotor / o‘q",
+  "izoh": "ATF-sintaza qismlari",
+  "joy": "11-bob, 810",
+  "holat": "TASDIQLANGAN"
+ },
+ "signaling molecule": {
+  "uz": "signal molekulasi",
+  "izoh": "",
+  "joy": "11-bob, 816",
+  "holat": "TASDIQLANGAN"
+ },
+ "kinase / protein kinase": {
+  "uz": "kinaza / oqsil kinaza",
+  "izoh": "",
+  "joy": "11-bob, 816",
+  "holat": "TASDIQLANGAN"
+ },
+ "phosphatase": {
+  "uz": "fosfataza",
+  "izoh": "",
+  "joy": "11-bob, 817",
+  "holat": "TASDIQLANGAN"
+ },
+ "substrate": {
+  "uz": "substrat",
+  "izoh": "",
+  "joy": "11-bob, 818",
+  "holat": "TASDIQLANGAN"
+ },
+ "activate / deactivate": {
+  "uz": "faollashtirmoq / faolsizlantirmoq",
+  "izoh": "",
+  "joy": "11-bob, 818",
+  "holat": "TASDIQLANGAN"
+ },
+ "sodium-potassium ATPase pump": {
+  "uz": "natriy-kaliy ATFaza nasosi",
+  "izoh": "",
+  "joy": "11-bob, 821",
+  "holat": "TASDIQLANGAN"
+ },
+ "channel protein / carrier channel protein": {
+  "uz": "kanal oqsili / tashuvchi kanal oqsili",
+  "izoh": "",
+  "joy": "11-bob, 825",
+  "holat": "TASDIQLANGAN"
+ },
+ "affinity": {
+  "uz": "moyillik",
+  "izoh": "",
+  "joy": "11-bob, 828",
+  "holat": "TASDIQLANGAN"
+ },
+ "membrane potential": {
+  "uz": "membrana potensiali",
+  "izoh": "",
+  "joy": "11-bob, 831",
+  "holat": "TASDIQLANGAN"
+ },
+ "actin filament / myosin filament": {
+  "uz": "aktin filamenti / miozin filamenti",
+  "izoh": "",
+  "joy": "11-bob, 833",
+  "holat": "TASDIQLANGAN"
+ },
+ "sarcomere": {
+  "uz": "sarkomer",
+  "izoh": "",
+  "joy": "11-bob, 833",
+  "holat": "TASDIQLANGAN"
+ },
+ "skeletal muscle": {
+  "uz": "skelet muskuli",
+  "izoh": "",
+  "joy": "11-bob, 833",
+  "holat": "TASDIQLANGAN"
+ },
+ "cross-bridge": {
+  "uz": "ko‘ndalang ko‘prikcha",
+  "izoh": "",
+  "joy": "11-bob, 835",
+  "holat": "TASDIQLANGAN"
+ },
+ "ratchet wrench": {
+  "uz": "treshotkali kalit",
+  "izoh": "",
+  "joy": "11-bob, 835",
+  "holat": "TASDIQLANGAN"
+ },
+ "power stroke": {
+  "uz": "ishchi harakat",
+  "izoh": "",
+  "joy": "11-bob, 838",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrolyze": {
+  "uz": "gidrolizlanmoq / gidrolizlamoq",
+  "izoh": "",
+  "joy": "11-bob, 814",
+  "holat": "TASDIQLANGAN"
  }
 }
