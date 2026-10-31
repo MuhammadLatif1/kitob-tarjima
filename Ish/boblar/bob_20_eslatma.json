@@ -1,0 +1,225 @@
+{
+ "noaniq": [
+  "1261: muallif «juxtracrine» deb yozgan (to‘g‘risi juxtacrine); «yukstakrin» deb berildi.",
+  "1292: aslida «Second receptors» deyilgan, mazmunan «second messengers» (ikkilamchi messenjerlar) nazarda tutilgan bo‘lishi mumkin; asldagidek «Ikkilamchi retseptorlar» deb tarjima qilindi.",
+  "1298: aslida PIP2 «phosphatidylinositol» deb izohlangan (aslida fosfatidilinozitol-4,5-bisfosfat), kalsiy «endosomalar ichida (endoplazmatik to‘r ichida)» deyilgan; muallif lafzi saqlandi. Asldagi ⟦s2⟧.⟦/s2⟧ nuqtasi gap tuzilishi sababli bo‘sh juft qoldirildi.",
+  "1316: «The polar signaling cells are also called first messengers» — mazmunan qutbli signal molekulalari nazarda tutilgan; asldagidek tarjima qilindi.",
+  "1302: kofeinning gipofiz orqali adrenalinga ta’siri muallif bayonicha berildi."
+ ],
+ "iqtiboslar": [
+  "1304: «bas, yetarli!» (“enough already!”) | muallif matni | yo‘q"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "juxtacrine (juxtracrine) signaling",
+   "uz": "yukstakrin signalizatsiya",
+   "izoh": "",
+   "joy": "19-bob, 1261"
+  },
+  {
+   "en": "gap junctions",
+   "uz": "tirqishli birikmalar",
+   "izoh": "",
+   "joy": "19-bob, 1261"
+  },
+  {
+   "en": "signaling cell",
+   "uz": "signal beruvchi hujayra",
+   "izoh": "",
+   "joy": "19-bob, 1261"
+  },
+  {
+   "en": "target cell",
+   "uz": "nishon hujayra",
+   "izoh": "",
+   "joy": "19-bob, 1261"
+  },
+  {
+   "en": "effector cell",
+   "uz": "effektor hujayra",
+   "izoh": "",
+   "joy": "19-bob, 1263"
+  },
+  {
+   "en": "main messenger / extracellular messenger",
+   "uz": "asosiy messenjer / hujayradan tashqari messenjer",
+   "izoh": "",
+   "joy": "19-bob, 1265"
+  },
+  {
+   "en": "first messengers / second messengers",
+   "uz": "birlamchi messenjerlar / ikkilamchi messenjerlar",
+   "izoh": "",
+   "joy": "19-bob, 1266"
+  },
+  {
+   "en": "growth factors",
+   "uz": "o‘sish omillari",
+   "izoh": "",
+   "joy": "19-bob, 1265"
+  },
+  {
+   "en": "cyclic AMP (cAMP) / cyclic GMP",
+   "uz": "siklik AMF (sAMF) / siklik GMF",
+   "izoh": "",
+   "joy": "19-bob, 1266"
+  },
+  {
+   "en": "GTP / GDP",
+   "uz": "GTF / GDF",
+   "izoh": "",
+   "joy": "19-bob, 1284"
+  },
+  {
+   "en": "nitric oxide",
+   "uz": "azot oksidi",
+   "izoh": "",
+   "joy": "19-bob, 1266"
+  },
+  {
+   "en": "phosphatidyl inositol / PIP2",
+   "uz": "fosfatidilinozitol / PIP2",
+   "izoh": "",
+   "joy": "19-bob, 1266"
+  },
+  {
+   "en": "surface receptors",
+   "uz": "yuza retseptorlari",
+   "izoh": "",
+   "joy": "19-bob, 1274"
+  },
+  {
+   "en": "G protein-coupled receptor (GPCR)",
+   "uz": "G oqsil bilan bog‘langan retseptor (GPCR)",
+   "izoh": "",
+   "joy": "19-bob, 1276"
+  },
+  {
+   "en": "enzyme-linked receptor",
+   "uz": "ferment bilan bog‘langan retseptor",
+   "izoh": "",
+   "joy": "19-bob, 1277"
+  },
+  {
+   "en": "ligand-gated ion channel",
+   "uz": "ligand bilan boshqariladigan ion kanali",
+   "izoh": "",
+   "joy": "19-bob, 1278"
+  },
+  {
+   "en": "pituitary gland",
+   "uz": "gipofiz",
+   "izoh": "",
+   "joy": "19-bob, 1279"
+  },
+  {
+   "en": "dopamine / adrenaline",
+   "uz": "dofamin / adrenalin",
+   "izoh": "",
+   "joy": "19-bob, 1279"
+  },
+  {
+   "en": "receptor tyrosine kinase / tyrosine kinase domains",
+   "uz": "retseptor tirozin kinaza / tirozin kinaza domenlari",
+   "izoh": "",
+   "joy": "19-bob, 1287"
+  },
+  {
+   "en": "inositol triphosphate (IP3)",
+   "uz": "inozitoltrifosfat (IP3)",
+   "izoh": "",
+   "joy": "19-bob, 1292"
+  },
+  {
+   "en": "adenylyl cyclase",
+   "uz": "adenilatsiklaza",
+   "izoh": "",
+   "joy": "19-bob, 1293"
+  },
+  {
+   "en": "protein kinase A / protein kinase C (PKC)",
+   "uz": "oqsil kinaza A / oqsil kinaza C (PKC)",
+   "izoh": "",
+   "joy": "19-bob, 1295"
+  },
+  {
+   "en": "phospholipase C (PLC)",
+   "uz": "fosfolipaza C (PLC)",
+   "izoh": "",
+   "joy": "19-bob, 1298"
+  },
+  {
+   "en": "diacyl glycerol (DAG)",
+   "uz": "diatsilglitserin (DAG)",
+   "izoh": "",
+   "joy": "19-bob, 1298"
+  },
+  {
+   "en": "phosphorylated",
+   "uz": "fosforlangan",
+   "izoh": "",
+   "joy": "19-bob, 1299"
+  },
+  {
+   "en": "caffeine / adenosine",
+   "uz": "kofein / adenozin",
+   "izoh": "",
+   "joy": "19-bob, 1302"
+  },
+  {
+   "en": "adrenal glands",
+   "uz": "buyrak usti bezlari",
+   "izoh": "",
+   "joy": "19-bob, 1302"
+  },
+  {
+   "en": "feedback system / negative / positive feedback",
+   "uz": "teskari bog‘lanish tizimi / manfiy / musbat teskari bog‘lanish",
+   "izoh": "",
+   "joy": "19-bob, 1303"
+  },
+  {
+   "en": "upregulation / downregulation",
+   "uz": "kuchaytiruvchi regulyatsiya / susaytiruvchi regulyatsiya",
+   "izoh": "upregulating ham shunday",
+   "joy": "19-bob, 1306"
+  },
+  {
+   "en": "intracellular receptors",
+   "uz": "hujayra ichi retseptorlari",
+   "izoh": "",
+   "joy": "19-bob, 1308"
+  },
+  {
+   "en": "steroid hormones",
+   "uz": "steroid gormonlar",
+   "izoh": "",
+   "joy": "19-bob, 1310"
+  },
+  {
+   "en": "thyroid hormones / retinoids / reproductive hormones",
+   "uz": "qalqonsimon bez gormonlari / retinoidlar / jinsiy gormonlar",
+   "izoh": "",
+   "joy": "19-bob, 1310"
+  },
+  {
+   "en": "testosterone / estrogen / progesterone",
+   "uz": "testosteron / estrogen / progesteron",
+   "izoh": "",
+   "joy": "19-bob, 1310"
+  },
+  {
+   "en": "nuclear receptor",
+   "uz": "yadro retseptori",
+   "izoh": "",
+   "joy": "19-bob, 1313"
+  },
+  {
+   "en": "coactivator proteins",
+   "uz": "koaktivator oqsillar",
+   "izoh": "",
+   "joy": "19-bob, 1313"
+  }
+ ],
+ "tasdiq_kerak": []
+}
