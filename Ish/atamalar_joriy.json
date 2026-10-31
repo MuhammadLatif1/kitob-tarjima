@@ -892,5 +892,473 @@
   "izoh": "suvo‘ti avlodi, birinchi uchraganda lotincha qavsda",
   "joy": "3-bob, 205",
   "holat": "TASDIQLANGAN"
+ },
+ "genetics": {
+  "uz": "genetika",
+  "izoh": "",
+  "joy": "4-bob, 243",
+  "holat": "TASDIQLANGAN"
+ },
+ "heredity": {
+  "uz": "irsiyat",
+  "izoh": "inherit → irsiylanmoq",
+  "joy": "4-bob, 245",
+  "holat": "TASDIQLANGAN"
+ },
+ "genetic diversity": {
+  "uz": "genetik xilma-xillik",
+  "izoh": "",
+  "joy": "4-bob, 245",
+  "holat": "TASDIQLANGAN"
+ },
+ "sexual reproduction": {
+  "uz": "jinsiy ko‘payish",
+  "izoh": "asexual reproduction → jinsiz ko‘payish",
+  "joy": "4-bob, 244",
+  "holat": "TASDIQLANGAN"
+ },
+ "mutation": {
+  "uz": "mutatsiya",
+  "izoh": "",
+  "joy": "4-bob, 245",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleotide": {
+  "uz": "nukleotid",
+  "izoh": "",
+  "joy": "4-bob, 247",
+  "holat": "TASDIQLANGAN"
+ },
+ "gene": {
+  "uz": "gen",
+  "izoh": "",
+  "joy": "4-bob, 248",
+  "holat": "TASDIQLANGAN"
+ },
+ "chromosome": {
+  "uz": "xromosoma",
+  "izoh": "",
+  "joy": "4-bob, 248",
+  "holat": "TASDIQLANGAN"
+ },
+ "generation": {
+  "uz": "bo‘g‘in",
+  "izoh": "genetik chatishtirishda (parent generation → ota-ona bo‘g‘ini, F1 generation → F1 bo‘g‘in); umumiy ma’noda «avlod» (from one generation to the next → avloddan avlodga); genus → avlod bilan chalkashmasligi uchun",
+  "joy": "4-bob, 252, 269",
+  "holat": "TASDIQLANGAN"
+ },
+ "pangenesis": {
+  "uz": "pangenez",
+  "izoh": "",
+  "joy": "4-bob, 253",
+  "holat": "TASDIQLANGAN"
+ },
+ "dominant trait": {
+  "uz": "dominant belgi",
+  "izoh": "",
+  "joy": "4-bob, 254",
+  "holat": "TASDIQLANGAN"
+ },
+ "recessive trait": {
+  "uz": "retsessiv belgi",
+  "izoh": "recessive → retsessiv",
+  "joy": "4-bob, 254",
+  "holat": "TASDIQLANGAN"
+ },
+ "hemophilia": {
+  "uz": "gemofiliya",
+  "izoh": "",
+  "joy": "4-bob, 255",
+  "holat": "TASDIQLANGAN"
+ },
+ "preformation theory": {
+  "uz": "preformatsiya nazariyasi",
+  "izoh": "",
+  "joy": "4-bob, 256",
+  "holat": "TASDIQLANGAN"
+ },
+ "epigenesis": {
+  "uz": "epigenez",
+  "izoh": "",
+  "joy": "4-bob, 256",
+  "holat": "TASDIQLANGAN"
+ },
+ "embryology": {
+  "uz": "embriologiya",
+  "izoh": "",
+  "joy": "4-bob, 256",
+  "holat": "TASDIQLANGAN"
+ },
+ "Gregor Mendel": {
+  "uz": "Gregor Mendel",
+  "izoh": "ism",
+  "joy": "4-bob, 252",
+  "holat": "TASDIQLANGAN"
+ },
+ "pea plant": {
+  "uz": "no‘xat o‘simligi",
+  "izoh": "pea pods → no‘xat dukkaklari",
+  "joy": "4-bob, 252",
+  "holat": "TASDIQLANGAN"
+ },
+ "hybrid": {
+  "uz": "duragay",
+  "izoh": "hybridization → duragaylash",
+  "joy": "4-bob, 260",
+  "holat": "TASDIQLANGAN"
+ },
+ "cross": {
+  "uz": "chatishtirmoq",
+  "izoh": "chatishtirish",
+  "joy": "4-bob, 269",
+  "holat": "TASDIQLANGAN"
+ },
+ "purebred": {
+  "uz": "sof liniyali",
+  "izoh": "",
+  "joy": "4-bob, 269",
+  "holat": "TASDIQLANGAN"
+ },
+ "allele": {
+  "uz": "allel",
+  "izoh": "",
+  "joy": "4-bob, 265",
+  "holat": "TASDIQLANGAN"
+ },
+ "Punnett square": {
+  "uz": "Pennet panjarasi",
+  "izoh": "muqobil: Pennet katagi",
+  "joy": "4-bob, 270",
+  "holat": "TASDIQLANGAN"
+ },
+ "homozygous": {
+  "uz": "gomozigota",
+  "izoh": "",
+  "joy": "4-bob, 272",
+  "holat": "TASDIQLANGAN"
+ },
+ "heterozygous": {
+  "uz": "geterozigota",
+  "izoh": "",
+  "joy": "4-bob, 272",
+  "holat": "TASDIQLANGAN"
+ },
+ "genotype": {
+  "uz": "genotip",
+  "izoh": "",
+  "joy": "4-bob, 273",
+  "holat": "TASDIQLANGAN"
+ },
+ "phenotype": {
+  "uz": "fenotip",
+  "izoh": "phenotypic → fenotipik",
+  "joy": "4-bob, 273",
+  "holat": "TASDIQLANGAN"
+ },
+ "fertilization": {
+  "uz": "urug‘lanish",
+  "izoh": "",
+  "joy": "4-bob, 273",
+  "holat": "TASDIQLANGAN"
+ },
+ "pollen": {
+  "uz": "chang",
+  "izoh": "",
+  "joy": "4-bob, 273",
+  "holat": "TASDIQLANGAN"
+ },
+ "Mendelian inheritance patterns": {
+  "uz": "Mendel irsiylanish qonuniyatlari",
+  "izoh": "Mendelian inheritance → Mendel irsiylanishi; Mendelian pattern → Mendel qonuniyati",
+  "joy": "4-bob, 274",
+  "holat": "TASDIQLANGAN"
+ },
+ "Law of Dominance and Uniformity": {
+  "uz": "Dominantlik va bir xillik qonuni",
+  "izoh": "",
+  "joy": "4-bob, 274",
+  "holat": "TASDIQLANGAN"
+ },
+ "Law of Segregation": {
+  "uz": "Ajralish qonuni",
+  "izoh": "",
+  "joy": "4-bob, 275",
+  "holat": "TASDIQLANGAN"
+ },
+ "Law of Independent Assortment": {
+  "uz": "Mustaqil taqsimlanish qonuni",
+  "izoh": "muqobil: belgilarning mustaqil irsiylanish qonuni",
+  "joy": "4-bob, 277",
+  "holat": "TASDIQLANGAN"
+ },
+ "dihybrid cross": {
+  "uz": "digibrid chatishtirish",
+  "izoh": "",
+  "joy": "4-bob, 277",
+  "holat": "TASDIQLANGAN"
+ },
+ "meiosis": {
+  "uz": "meyoz",
+  "izoh": "",
+  "joy": "4-bob, 279",
+  "holat": "TASDIQLANGAN"
+ },
+ "genetic linkage": {
+  "uz": "genetik birikish",
+  "izoh": "muqobil: genlarning birikkan holda irsiylanishi",
+  "joy": "4-bob, 279",
+  "holat": "TASDIQLANGAN"
+ },
+ "Mendelian trait": {
+  "uz": "Mendel belgisi",
+  "izoh": "",
+  "joy": "4-bob, 280",
+  "holat": "TASDIQLANGAN"
+ },
+ "locus": {
+  "uz": "lokus",
+  "izoh": "",
+  "joy": "4-bob, 280",
+  "holat": "TASDIQLANGAN"
+ },
+ "Tay-Sachs disease": {
+  "uz": "Tey-Saks kasalligi",
+  "izoh": "",
+  "joy": "4-bob, 280",
+  "holat": "TASDIQLANGAN"
+ },
+ "sickle cell anemia": {
+  "uz": "o‘roqsimon hujayrali anemiya",
+  "izoh": "",
+  "joy": "4-bob, 280",
+  "holat": "TASDIQLANGAN"
+ },
+ "obesity": {
+  "uz": "semizlik",
+  "izoh": "",
+  "joy": "4-bob, 280",
+  "holat": "TASDIQLANGAN"
+ },
+ "diabetes": {
+  "uz": "qandli diabet",
+  "izoh": "",
+  "joy": "4-bob, 280",
+  "holat": "TASDIQLANGAN"
+ },
+ "genome": {
+  "uz": "genom",
+  "izoh": "",
+  "joy": "4-bob, 282",
+  "holat": "TASDIQLANGAN"
+ },
+ "fruit flies": {
+  "uz": "meva pashshalari",
+  "izoh": "",
+  "joy": "4-bob, 282",
+  "holat": "TASDIQLANGAN"
+ },
+ "Lamarckism": {
+  "uz": "lamarkizm",
+  "izoh": "",
+  "joy": "4-bob, 283",
+  "holat": "TASDIQLANGAN"
+ },
+ "August Weismann": {
+  "uz": "Avgust Vaysman",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "4-bob, 283",
+  "holat": "TASDIQLANGAN"
+ },
+ "classical genetics": {
+  "uz": "klassik genetika",
+  "izoh": "",
+  "joy": "4-bob, 285",
+  "holat": "TASDIQLANGAN"
+ },
+ "molecular genetics": {
+  "uz": "molekulyar genetika",
+  "izoh": "",
+  "joy": "4-bob, 288",
+  "holat": "TASDIQLANGAN"
+ },
+ "population genetics": {
+  "uz": "populyatsion genetika",
+  "izoh": "",
+  "joy": "4-bob, 289",
+  "holat": "TASDIQLANGAN"
+ },
+ "diploid": {
+  "uz": "diploid",
+  "izoh": "",
+  "joy": "4-bob, 286",
+  "holat": "TASDIQLANGAN"
+ },
+ "haploid": {
+  "uz": "gaploid",
+  "izoh": "",
+  "joy": "4-bob, 287",
+  "holat": "TASDIQLANGAN"
+ },
+ "homologous genes": {
+  "uz": "gomologik genlar",
+  "izoh": "",
+  "joy": "4-bob, 286",
+  "holat": "TASDIQLANGAN"
+ },
+ "zygote": {
+  "uz": "zigota",
+  "izoh": "",
+  "joy": "4-bob, 287",
+  "holat": "TASDIQLANGAN"
+ },
+ "biotechnology": {
+  "uz": "biotexnologiya",
+  "izoh": "",
+  "joy": "4-bob, 288",
+  "holat": "TASDIQLANGAN"
+ },
+ "recombinant drugs": {
+  "uz": "rekombinant dori vositalari",
+  "izoh": "",
+  "joy": "4-bob, 288",
+  "holat": "TASDIQLANGAN"
+ },
+ "autosomal dominant": {
+  "uz": "autosom-dominant",
+  "izoh": "autosomal recessive → autosom-retsessiv; autosomal gene → autosom gen",
+  "joy": "4-bob, 291",
+  "holat": "TASDIQLANGAN"
+ },
+ "sex chromosomes": {
+  "uz": "jinsiy xromosomalar",
+  "izoh": "",
+  "joy": "4-bob, 292",
+  "holat": "TASDIQLANGAN"
+ },
+ "karyotype": {
+  "uz": "kariotip",
+  "izoh": "",
+  "joy": "4-bob, 292",
+  "holat": "TASDIQLANGAN"
+ },
+ "pedigree": {
+  "uz": "shajara",
+  "izoh": "genetik shajara (nasl-nasab sxemasi)",
+  "joy": "4-bob, 296",
+  "holat": "TASDIQLANGAN"
+ },
+ "carrier": {
+  "uz": "tashuvchi",
+  "izoh": "kasallik tashuvchisi",
+  "joy": "4-bob, 301",
+  "holat": "TASDIQLANGAN"
+ },
+ "incomplete dominance": {
+  "uz": "chala dominantlik",
+  "izoh": "muqobil: to‘liqsiz dominantlik",
+  "joy": "4-bob, 299",
+  "holat": "TASDIQLANGAN"
+ },
+ "snapdragon": {
+  "uz": "arslonog‘iz",
+  "izoh": "Antirrhinum",
+  "joy": "4-bob, 299",
+  "holat": "TASDIQLANGAN"
+ },
+ "phenylketonuria": {
+  "uz": "fenilketonuriya",
+  "izoh": "",
+  "joy": "4-bob, 300",
+  "holat": "TASDIQLANGAN"
+ },
+ "phenylalanine": {
+  "uz": "fenilalanin",
+  "izoh": "",
+  "joy": "4-bob, 300",
+  "holat": "TASDIQLANGAN"
+ },
+ "amino acid": {
+  "uz": "aminokislota",
+  "izoh": "",
+  "joy": "4-bob, 300",
+  "holat": "TASDIQLANGAN"
+ },
+ "x-linked inheritance": {
+  "uz": "X xromosomaga birikkan irsiylanish",
+  "izoh": "x-linked trait → X xromosomaga birikkan belgi",
+  "joy": "4-bob, 303",
+  "holat": "TASDIQLANGAN"
+ },
+ "red-green colorblindness": {
+  "uz": "qizil-yashil rang ko‘rlik",
+  "izoh": "muqobil: daltonizm",
+  "joy": "4-bob, 305",
+  "holat": "TASDIQLANGAN"
+ },
+ "Duchenne muscular dystrophy": {
+  "uz": "Dyushenn mushak distrofiyasi",
+  "izoh": "",
+  "joy": "4-bob, 305",
+  "holat": "TASDIQLANGAN"
+ },
+ "codominant inheritance": {
+  "uz": "kodominant irsiylanish",
+  "izoh": "codominant → kodominant",
+  "joy": "4-bob, 306",
+  "holat": "TASDIQLANGAN"
+ },
+ "blood type": {
+  "uz": "qon guruhi",
+  "izoh": "",
+  "joy": "4-bob, 306",
+  "holat": "TASDIQLANGAN"
+ },
+ "red blood cells": {
+  "uz": "qizil qon hujayralari",
+  "izoh": "muqobil: eritrotsitlar",
+  "joy": "4-bob, 306",
+  "holat": "TASDIQLANGAN"
+ },
+ "lethal genes": {
+  "uz": "letal genlar",
+  "izoh": "",
+  "joy": "4-bob, 308",
+  "holat": "TASDIQLANGAN"
+ },
+ "Huntington’s disease": {
+  "uz": "Gentington kasalligi",
+  "izoh": "muqobil: Xantington kasalligi",
+  "joy": "4-bob, 311",
+  "holat": "TASDIQLANGAN"
+ },
+ "dementia": {
+  "uz": "demensiya",
+  "izoh": "",
+  "joy": "4-bob, 311",
+  "holat": "TASDIQLANGAN"
+ },
+ "cystic fibrosis": {
+  "uz": "mukovissidoz",
+  "izoh": "muqobil: kistoz fibroz",
+  "joy": "4-bob, 312",
+  "holat": "TASDIQLANGAN"
+ },
+ "polygenic inheritance": {
+  "uz": "poligen irsiylanish",
+  "izoh": "polygenic → poligen",
+  "joy": "4-bob, 313",
+  "holat": "TASDIQLANGAN"
+ },
+ "hawkweed": {
+  "uz": "qirg‘iyo‘t",
+  "izoh": "Hieracium; birinchi uchraganda inglizcha qavsda",
+  "joy": "4-bob, 261",
+  "holat": "TASDIQLANGAN"
+ },
+ "fern": {
+  "uz": "qirqquloq",
+  "izoh": "",
+  "joy": "4-bob, 249",
+  "holat": "TASDIQLANGAN"
  }
 }

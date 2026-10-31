@@ -1,0 +1,569 @@
+{
+ "noaniq": [
+  "258: «five acres of land» — akr o‘lchov birligi o‘zgartirilmadi (besh akr).",
+  "260: «until the first part of the 20th century» — «20-asrning birinchi yarmigacha» deb berildi; aslida Mendel ishi 1900-yilda qayta kashf etilgan (282 bilan mos), muallif lafzi saqlandi.",
+  "260: «Natural History Society of Brno» — «Brno tabiatshunoslar jamiyati» deb berildi (asli: Naturforschender Verein in Brünn).",
+  "261: hawkweed (Hieracium) uchun o‘zbekcha nom «qirg‘iyo‘t» deb tanlandi, o‘rnashgan nom ekani tekshirilsin; inglizcha asli qavsda berildi.",
+  "264: «unitary and discrete» — «ham yaxlit, ham alohida-alohida» deb berildi; ma’nosi: belgilar bo‘linmas va aniq farqlanuvchi.",
+  "270: muallif Pennet panjarasini Mendel yaratgan deb yozadi (aslida uni Reginald Punnett 1905-yil atrofida taklif qilgan); asldagidek tarjima qilindi.",
+  "292: kariotiplar muallif yozganidek «22, XX» va «22, XY» qoldirildi (odatiy yozuv 46,XX va 46,XY).",
+  "295: «There are those that not only have a ZW sex chromosome system, but the males are ZZ and the females are ZW» — gap tuzilishi chalkash; ma’no bo‘yicha «ZW tizimi bor, bunda erkaklar ZZ, urg‘ochilar ZW» deb berildi.",
+  "298: «you would see no evidence of it unless that person had children who did not have the disease» — ma’no saqlanib, erkin tarjima qilindi.",
+  "303: «half of all boys in the family would have the disease» — muallif lafzi saqlandi (statistik ehtimol ma’nosida).",
+  "259, 271, 294, 297, 302, 304, 307, 310: rasmlar (⟦x:1⟧); rasm ichidagi yozuvlar tarjima qilinmadi, tekshirilsin."
+ ],
+ "iqtiboslar": [
+  "260: «O‘simlik duragaylari ustida tajribalar» (Experiments on Plant Hybridization) | Gregor Mendel maqolasi, asli nemischa: «Versuche über Pflanzen-Hybriden» (1866) | inglizcha nomdan tarjima qilindi, nemischa asl nomga mosligi tekshirilsin",
+  "260: «zamonaviy genetikaning otasi» | Mendelga beriladigan an’anaviy nom | yo‘q",
+  "254: «urug‘ atomlari», 255: «homila ruhi», 256: «preformatsiya nazariyasi» | muallif atamalari | yo‘q"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "genetics",
+   "uz": "genetika",
+   "izoh": "",
+   "joy": "4-bob, 243",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "heredity",
+   "uz": "irsiyat",
+   "izoh": "inherit → irsiylanmoq",
+   "joy": "4-bob, 245",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "genetic diversity",
+   "uz": "genetik xilma-xillik",
+   "izoh": "",
+   "joy": "4-bob, 245",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "sexual reproduction",
+   "uz": "jinsiy ko‘payish",
+   "izoh": "asexual reproduction → jinsiz ko‘payish",
+   "joy": "4-bob, 244",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "mutation",
+   "uz": "mutatsiya",
+   "izoh": "",
+   "joy": "4-bob, 245",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "nucleotide",
+   "uz": "nukleotid",
+   "izoh": "",
+   "joy": "4-bob, 247",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "gene",
+   "uz": "gen",
+   "izoh": "",
+   "joy": "4-bob, 248",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "chromosome",
+   "uz": "xromosoma",
+   "izoh": "",
+   "joy": "4-bob, 248",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "generation",
+   "uz": "bo‘g‘in",
+   "izoh": "genetik chatishtirishda (parent generation → ota-ona bo‘g‘ini, F1 generation → F1 bo‘g‘in); umumiy ma’noda «avlod» (from one generation to the next → avloddan avlodga); genus → avlod bilan chalkashmasligi uchun",
+   "joy": "4-bob, 252, 269",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "pangenesis",
+   "uz": "pangenez",
+   "izoh": "",
+   "joy": "4-bob, 253",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "dominant trait",
+   "uz": "dominant belgi",
+   "izoh": "",
+   "joy": "4-bob, 254",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "recessive trait",
+   "uz": "retsessiv belgi",
+   "izoh": "recessive → retsessiv",
+   "joy": "4-bob, 254",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "hemophilia",
+   "uz": "gemofiliya",
+   "izoh": "",
+   "joy": "4-bob, 255",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "preformation theory",
+   "uz": "preformatsiya nazariyasi",
+   "izoh": "",
+   "joy": "4-bob, 256",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "epigenesis",
+   "uz": "epigenez",
+   "izoh": "",
+   "joy": "4-bob, 256",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "embryology",
+   "uz": "embriologiya",
+   "izoh": "",
+   "joy": "4-bob, 256",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Gregor Mendel",
+   "uz": "Gregor Mendel",
+   "izoh": "ism",
+   "joy": "4-bob, 252",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "pea plant",
+   "uz": "no‘xat o‘simligi",
+   "izoh": "pea pods → no‘xat dukkaklari",
+   "joy": "4-bob, 252",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "hybrid",
+   "uz": "duragay",
+   "izoh": "hybridization → duragaylash",
+   "joy": "4-bob, 260",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cross",
+   "uz": "chatishtirmoq",
+   "izoh": "chatishtirish",
+   "joy": "4-bob, 269",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "purebred",
+   "uz": "sof liniyali",
+   "izoh": "",
+   "joy": "4-bob, 269",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "allele",
+   "uz": "allel",
+   "izoh": "",
+   "joy": "4-bob, 265",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Punnett square",
+   "uz": "Pennet panjarasi",
+   "izoh": "muqobil: Pennet katagi",
+   "joy": "4-bob, 270",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "homozygous",
+   "uz": "gomozigota",
+   "izoh": "",
+   "joy": "4-bob, 272",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "heterozygous",
+   "uz": "geterozigota",
+   "izoh": "",
+   "joy": "4-bob, 272",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "genotype",
+   "uz": "genotip",
+   "izoh": "",
+   "joy": "4-bob, 273",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "phenotype",
+   "uz": "fenotip",
+   "izoh": "phenotypic → fenotipik",
+   "joy": "4-bob, 273",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "fertilization",
+   "uz": "urug‘lanish",
+   "izoh": "",
+   "joy": "4-bob, 273",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "pollen",
+   "uz": "chang",
+   "izoh": "",
+   "joy": "4-bob, 273",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Mendelian inheritance patterns",
+   "uz": "Mendel irsiylanish qonuniyatlari",
+   "izoh": "Mendelian inheritance → Mendel irsiylanishi; Mendelian pattern → Mendel qonuniyati",
+   "joy": "4-bob, 274",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Law of Dominance and Uniformity",
+   "uz": "Dominantlik va bir xillik qonuni",
+   "izoh": "",
+   "joy": "4-bob, 274",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Law of Segregation",
+   "uz": "Ajralish qonuni",
+   "izoh": "",
+   "joy": "4-bob, 275",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Law of Independent Assortment",
+   "uz": "Mustaqil taqsimlanish qonuni",
+   "izoh": "muqobil: belgilarning mustaqil irsiylanish qonuni",
+   "joy": "4-bob, 277",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "dihybrid cross",
+   "uz": "digibrid chatishtirish",
+   "izoh": "",
+   "joy": "4-bob, 277",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "meiosis",
+   "uz": "meyoz",
+   "izoh": "",
+   "joy": "4-bob, 279",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "genetic linkage",
+   "uz": "genetik birikish",
+   "izoh": "muqobil: genlarning birikkan holda irsiylanishi",
+   "joy": "4-bob, 279",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Mendelian trait",
+   "uz": "Mendel belgisi",
+   "izoh": "",
+   "joy": "4-bob, 280",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "locus",
+   "uz": "lokus",
+   "izoh": "",
+   "joy": "4-bob, 280",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Tay-Sachs disease",
+   "uz": "Tey-Saks kasalligi",
+   "izoh": "",
+   "joy": "4-bob, 280",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "sickle cell anemia",
+   "uz": "o‘roqsimon hujayrali anemiya",
+   "izoh": "",
+   "joy": "4-bob, 280",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "obesity",
+   "uz": "semizlik",
+   "izoh": "",
+   "joy": "4-bob, 280",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "diabetes",
+   "uz": "qandli diabet",
+   "izoh": "",
+   "joy": "4-bob, 280",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "genome",
+   "uz": "genom",
+   "izoh": "",
+   "joy": "4-bob, 282",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "fruit flies",
+   "uz": "meva pashshalari",
+   "izoh": "",
+   "joy": "4-bob, 282",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Lamarckism",
+   "uz": "lamarkizm",
+   "izoh": "",
+   "joy": "4-bob, 283",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "August Weismann",
+   "uz": "Avgust Vaysman",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "4-bob, 283",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "classical genetics",
+   "uz": "klassik genetika",
+   "izoh": "",
+   "joy": "4-bob, 285",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "molecular genetics",
+   "uz": "molekulyar genetika",
+   "izoh": "",
+   "joy": "4-bob, 288",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "population genetics",
+   "uz": "populyatsion genetika",
+   "izoh": "",
+   "joy": "4-bob, 289",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "diploid",
+   "uz": "diploid",
+   "izoh": "",
+   "joy": "4-bob, 286",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "haploid",
+   "uz": "gaploid",
+   "izoh": "",
+   "joy": "4-bob, 287",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "homologous genes",
+   "uz": "gomologik genlar",
+   "izoh": "",
+   "joy": "4-bob, 286",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "zygote",
+   "uz": "zigota",
+   "izoh": "",
+   "joy": "4-bob, 287",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "biotechnology",
+   "uz": "biotexnologiya",
+   "izoh": "",
+   "joy": "4-bob, 288",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "recombinant drugs",
+   "uz": "rekombinant dori vositalari",
+   "izoh": "",
+   "joy": "4-bob, 288",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "autosomal dominant",
+   "uz": "autosom-dominant",
+   "izoh": "autosomal recessive → autosom-retsessiv; autosomal gene → autosom gen",
+   "joy": "4-bob, 291",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "sex chromosomes",
+   "uz": "jinsiy xromosomalar",
+   "izoh": "",
+   "joy": "4-bob, 292",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "karyotype",
+   "uz": "kariotip",
+   "izoh": "",
+   "joy": "4-bob, 292",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "pedigree",
+   "uz": "shajara",
+   "izoh": "genetik shajara (nasl-nasab sxemasi)",
+   "joy": "4-bob, 296",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "carrier",
+   "uz": "tashuvchi",
+   "izoh": "kasallik tashuvchisi",
+   "joy": "4-bob, 301",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "incomplete dominance",
+   "uz": "chala dominantlik",
+   "izoh": "muqobil: to‘liqsiz dominantlik",
+   "joy": "4-bob, 299",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "snapdragon",
+   "uz": "arslonog‘iz",
+   "izoh": "Antirrhinum",
+   "joy": "4-bob, 299",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "phenylketonuria",
+   "uz": "fenilketonuriya",
+   "izoh": "",
+   "joy": "4-bob, 300",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "phenylalanine",
+   "uz": "fenilalanin",
+   "izoh": "",
+   "joy": "4-bob, 300",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "amino acid",
+   "uz": "aminokislota",
+   "izoh": "",
+   "joy": "4-bob, 300",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "x-linked inheritance",
+   "uz": "X xromosomaga birikkan irsiylanish",
+   "izoh": "x-linked trait → X xromosomaga birikkan belgi",
+   "joy": "4-bob, 303",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "red-green colorblindness",
+   "uz": "qizil-yashil rang ko‘rlik",
+   "izoh": "muqobil: daltonizm",
+   "joy": "4-bob, 305",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Duchenne muscular dystrophy",
+   "uz": "Dyushenn mushak distrofiyasi",
+   "izoh": "",
+   "joy": "4-bob, 305",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "codominant inheritance",
+   "uz": "kodominant irsiylanish",
+   "izoh": "codominant → kodominant",
+   "joy": "4-bob, 306",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "blood type",
+   "uz": "qon guruhi",
+   "izoh": "",
+   "joy": "4-bob, 306",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "red blood cells",
+   "uz": "qizil qon hujayralari",
+   "izoh": "muqobil: eritrotsitlar",
+   "joy": "4-bob, 306",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "lethal genes",
+   "uz": "letal genlar",
+   "izoh": "",
+   "joy": "4-bob, 308",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Huntington’s disease",
+   "uz": "Gentington kasalligi",
+   "izoh": "muqobil: Xantington kasalligi",
+   "joy": "4-bob, 311",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "dementia",
+   "uz": "demensiya",
+   "izoh": "",
+   "joy": "4-bob, 311",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cystic fibrosis",
+   "uz": "mukovissidoz",
+   "izoh": "muqobil: kistoz fibroz",
+   "joy": "4-bob, 312",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "polygenic inheritance",
+   "uz": "poligen irsiylanish",
+   "izoh": "polygenic → poligen",
+   "joy": "4-bob, 313",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "hawkweed",
+   "uz": "qirg‘iyo‘t",
+   "izoh": "Hieracium; birinchi uchraganda inglizcha qavsda",
+   "joy": "4-bob, 261",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "fern",
+   "uz": "qirqquloq",
+   "izoh": "",
+   "joy": "4-bob, 249",
+   "holat": "TASDIQLANGAN"
+  }
+ ],
+ "tasdiq_kerak": []
+}
