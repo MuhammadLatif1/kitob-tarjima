@@ -1,0 +1,167 @@
+{
+ "noaniq": [
+  "1226: «This isn’t a choosy thing» keyingi gap (retseptorlar kerak) va 1227 dagi «pinotsitoz unchalik tanlovchan emas» bilan zid ko‘rinadi; muallif fagotsitozni tanlovchan demoqchi bo‘lishi mumkin. Aynan asldagidek tarjima qilindi: «Bu tanlovchan jarayon emas».",
+  "1241: qavs ichidagi izoh mantiqan ishlashi uchun «bitta molekulaning ommaviy tashilishi ... kuzatiladi» tarzida ochib berildi.",
+  "1251: «discharge itself on the face of the cell that will respond to these protein-based cell signals» ma’nosi biroz noaniq; so‘zma-so‘z mazmuni berildi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "bulk transport",
+   "uz": "ommaviy transport",
+   "izoh": "mundarija bo‘yicha; bulk transport of molecules → molekulalarning ommaviy tashilishi",
+   "joy": "18-bob, 1222"
+  },
+  {
+   "en": "phagocytosis",
+   "uz": "fagotsitoz",
+   "izoh": "«cell-eating» → «hujayraning ovqat yeyishi»",
+   "joy": "18-bob, 1226"
+  },
+  {
+   "en": "cell leaving (exocytosis)",
+   "uz": "«hujayradan chiqish»",
+   "izoh": "",
+   "joy": "18-bob, 1240"
+  },
+  {
+   "en": "receptor-mediated endocytosis",
+   "uz": "retseptorlar vositasidagi endotsitoz",
+   "izoh": "",
+   "joy": "18-bob, 1227"
+  },
+  {
+   "en": "clathrin / clathrin-coated pits",
+   "uz": "klatrin / klatrin bilan qoplangan chuqurchalar",
+   "izoh": "",
+   "joy": "18-bob, 1231"
+  },
+  {
+   "en": "invagination",
+   "uz": "invaginatsiya",
+   "izoh": "",
+   "joy": "18-bob, 1231"
+  },
+  {
+   "en": "endosome",
+   "uz": "endosoma",
+   "izoh": "",
+   "joy": "18-bob, 1233"
+  },
+  {
+   "en": "low-density lipoprotein (LDL)",
+   "uz": "past zichlikdagi lipoprotein (LDL)",
+   "izoh": "qisqartma LDL saqlandi; LDL receptor → LDL-retseptor",
+   "joy": "18-bob, 1235"
+  },
+  {
+   "en": "apolipoprotein B (Apo-B)",
+   "uz": "apolipoprotein B (Apo-B)",
+   "izoh": "",
+   "joy": "18-bob, 1237"
+  },
+  {
+   "en": "lipid droplets",
+   "uz": "lipid tomchilari",
+   "izoh": "",
+   "joy": "18-bob, 1237"
+  },
+  {
+   "en": "familial hypercholesterolemia",
+   "uz": "oilaviy giperxolesterinemiya",
+   "izoh": "",
+   "joy": "18-bob, 1238"
+  },
+  {
+   "en": "atherosclerosis",
+   "uz": "ateroskleroz",
+   "izoh": "heart attack → yurak xuruji; stroke → insult",
+   "joy": "18-bob, 1238"
+  },
+  {
+   "en": "secretory vesicles",
+   "uz": "sekretor pufakchalar",
+   "izoh": "secretion → sekretsiya",
+   "joy": "18-bob, 1245"
+  },
+  {
+   "en": "constitutive secretory pathway",
+   "uz": "konstitutiv sekretor yo‘l",
+   "izoh": "",
+   "joy": "18-bob, 1244"
+  },
+  {
+   "en": "lysosomal pathway",
+   "uz": "lizosomal yo‘l",
+   "izoh": "",
+   "joy": "18-bob, 1244"
+  },
+  {
+   "en": "regulated secretory pathway / regulated exocytosis",
+   "uz": "boshqariladigan sekretor yo‘l / boshqariladigan ekzotsitoz",
+   "izoh": "",
+   "joy": "18-bob, 1244"
+  },
+  {
+   "en": "mannose-6-phosphate",
+   "uz": "mannoza-6-fosfat",
+   "izoh": "",
+   "joy": "18-bob, 1245"
+  },
+  {
+   "en": "bud out (vesicles)",
+   "uz": "kurtaklanib ajralmoq",
+   "izoh": "",
+   "joy": "18-bob, 1246"
+  },
+  {
+   "en": "docking",
+   "uz": "doking",
+   "izoh": "pufakchalarning membrana yaqinida to‘planishi",
+   "joy": "18-bob, 1248"
+  },
+  {
+   "en": "SNAREs",
+   "uz": "SNARE oqsillari",
+   "izoh": "",
+   "joy": "18-bob, 1248"
+  },
+  {
+   "en": "histamine",
+   "uz": "gistamin",
+   "izoh": "",
+   "joy": "18-bob, 1250"
+  },
+  {
+   "en": "mast cells",
+   "uz": "semiz hujayralar",
+   "izoh": "",
+   "joy": "18-bob, 1250"
+  },
+  {
+   "en": "hives",
+   "uz": "eshakemi",
+   "izoh": "",
+   "joy": "18-bob, 1250"
+  },
+  {
+   "en": "pathogens",
+   "uz": "patogenlar",
+   "izoh": "",
+   "joy": "18-bob, 1226"
+  },
+  {
+   "en": "immune cells",
+   "uz": "immun hujayralar",
+   "izoh": "",
+   "joy": "18-bob, 1226"
+  },
+  {
+   "en": "endocrine cells",
+   "uz": "endokrin hujayralar",
+   "izoh": "",
+   "joy": "18-bob, 1253"
+  }
+ ],
+ "tasdiq_kerak": []
+}

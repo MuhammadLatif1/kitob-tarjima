@@ -4684,5 +4684,161 @@
   "izoh": "",
   "joy": "18-bob (17-bob), 1218",
   "holat": "TASDIQLANGAN"
+ },
+ "bulk transport": {
+  "uz": "ommaviy transport",
+  "izoh": "mundarija bo‘yicha; bulk transport of molecules → molekulalarning ommaviy tashilishi",
+  "joy": "18-bob, 1222",
+  "holat": "TASDIQLANGAN"
+ },
+ "phagocytosis": {
+  "uz": "fagotsitoz",
+  "izoh": "«cell-eating» → «hujayraning ovqat yeyishi»",
+  "joy": "18-bob, 1226",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell leaving (exocytosis)": {
+  "uz": "«hujayradan chiqish»",
+  "izoh": "",
+  "joy": "18-bob, 1240",
+  "holat": "TASDIQLANGAN"
+ },
+ "receptor-mediated endocytosis": {
+  "uz": "retseptorlar vositasidagi endotsitoz",
+  "izoh": "",
+  "joy": "18-bob, 1227",
+  "holat": "TASDIQLANGAN"
+ },
+ "clathrin / clathrin-coated pits": {
+  "uz": "klatrin / klatrin bilan qoplangan chuqurchalar",
+  "izoh": "",
+  "joy": "18-bob, 1231",
+  "holat": "TASDIQLANGAN"
+ },
+ "invagination": {
+  "uz": "invaginatsiya",
+  "izoh": "",
+  "joy": "18-bob, 1231",
+  "holat": "TASDIQLANGAN"
+ },
+ "endosome": {
+  "uz": "endosoma",
+  "izoh": "",
+  "joy": "18-bob, 1233",
+  "holat": "TASDIQLANGAN"
+ },
+ "low-density lipoprotein (LDL)": {
+  "uz": "past zichlikdagi lipoprotein (LDL)",
+  "izoh": "qisqartma LDL saqlandi; LDL receptor → LDL-retseptor",
+  "joy": "18-bob, 1235",
+  "holat": "TASDIQLANGAN"
+ },
+ "apolipoprotein B (Apo-B)": {
+  "uz": "apolipoprotein B (Apo-B)",
+  "izoh": "",
+  "joy": "18-bob, 1237",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipid droplets": {
+  "uz": "lipid tomchilari",
+  "izoh": "",
+  "joy": "18-bob, 1237",
+  "holat": "TASDIQLANGAN"
+ },
+ "familial hypercholesterolemia": {
+  "uz": "oilaviy giperxolesterinemiya",
+  "izoh": "",
+  "joy": "18-bob, 1238",
+  "holat": "TASDIQLANGAN"
+ },
+ "atherosclerosis": {
+  "uz": "ateroskleroz",
+  "izoh": "heart attack → yurak xuruji; stroke → insult",
+  "joy": "18-bob, 1238",
+  "holat": "TASDIQLANGAN"
+ },
+ "secretory vesicles": {
+  "uz": "sekretor pufakchalar",
+  "izoh": "secretion → sekretsiya",
+  "joy": "18-bob, 1245",
+  "holat": "TASDIQLANGAN"
+ },
+ "constitutive secretory pathway": {
+  "uz": "konstitutiv sekretor yo‘l",
+  "izoh": "",
+  "joy": "18-bob, 1244",
+  "holat": "TASDIQLANGAN"
+ },
+ "lysosomal pathway": {
+  "uz": "lizosomal yo‘l",
+  "izoh": "",
+  "joy": "18-bob, 1244",
+  "holat": "TASDIQLANGAN"
+ },
+ "regulated secretory pathway / regulated exocytosis": {
+  "uz": "boshqariladigan sekretor yo‘l / boshqariladigan ekzotsitoz",
+  "izoh": "",
+  "joy": "18-bob, 1244",
+  "holat": "TASDIQLANGAN"
+ },
+ "mannose-6-phosphate": {
+  "uz": "mannoza-6-fosfat",
+  "izoh": "",
+  "joy": "18-bob, 1245",
+  "holat": "TASDIQLANGAN"
+ },
+ "bud out (vesicles)": {
+  "uz": "kurtaklanib ajralmoq",
+  "izoh": "",
+  "joy": "18-bob, 1246",
+  "holat": "TASDIQLANGAN"
+ },
+ "docking": {
+  "uz": "doking",
+  "izoh": "pufakchalarning membrana yaqinida to‘planishi",
+  "joy": "18-bob, 1248",
+  "holat": "TASDIQLANGAN"
+ },
+ "SNAREs": {
+  "uz": "SNARE oqsillari",
+  "izoh": "",
+  "joy": "18-bob, 1248",
+  "holat": "TASDIQLANGAN"
+ },
+ "histamine": {
+  "uz": "gistamin",
+  "izoh": "",
+  "joy": "18-bob, 1250",
+  "holat": "TASDIQLANGAN"
+ },
+ "mast cells": {
+  "uz": "semiz hujayralar",
+  "izoh": "",
+  "joy": "18-bob, 1250",
+  "holat": "TASDIQLANGAN"
+ },
+ "hives": {
+  "uz": "eshakemi",
+  "izoh": "",
+  "joy": "18-bob, 1250",
+  "holat": "TASDIQLANGAN"
+ },
+ "pathogens": {
+  "uz": "patogenlar",
+  "izoh": "",
+  "joy": "18-bob, 1226",
+  "holat": "TASDIQLANGAN"
+ },
+ "immune cells": {
+  "uz": "immun hujayralar",
+  "izoh": "",
+  "joy": "18-bob, 1226",
+  "holat": "TASDIQLANGAN"
+ },
+ "endocrine cells": {
+  "uz": "endokrin hujayralar",
+  "izoh": "",
+  "joy": "18-bob, 1253",
+  "holat": "TASDIQLANGAN"
  }
 }
