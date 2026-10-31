@@ -358,5 +358,293 @@
   "izoh": "viruslar haqida (reproduce → ko‘paymoq)",
   "joy": "1-bob, 117",
   "holat": "TASDIQLANGAN"
+ },
+ "evolution": {
+  "uz": "evolyutsiya",
+  "izoh": "fe’l: evolve → evolyutsiyalashmoq",
+  "joy": "2-bob, 147",
+  "holat": "TASDIQLANGAN"
+ },
+ "natural selection": {
+  "uz": "tabiiy tanlanish",
+  "izoh": "",
+  "joy": "2-bob, 153",
+  "holat": "TASDIQLANGAN"
+ },
+ "survival of the fittest": {
+  "uz": "eng moslashganlarning yashab qolishi",
+  "izoh": "",
+  "joy": "2-bob, 153",
+  "holat": "TASDIQLANGAN"
+ },
+ "fitness": {
+  "uz": "moslashganlik",
+  "izoh": "fitter → moslashganroq",
+  "joy": "2-bob, 156",
+  "holat": "TASDIQLANGAN"
+ },
+ "artificial selection": {
+  "uz": "sun’iy tanlash",
+  "izoh": "",
+  "joy": "2-bob, 155",
+  "holat": "TASDIQLANGAN"
+ },
+ "animal husbandry": {
+  "uz": "chorvachilik",
+  "izoh": "",
+  "joy": "2-bob, 155",
+  "holat": "TASDIQLANGAN"
+ },
+ "modern synthesis": {
+  "uz": "zamonaviy sintez",
+  "izoh": "evolyutsiyaning sintetik nazariyasi",
+  "joy": "2-bob, 159",
+  "holat": "TASDIQLANGAN"
+ },
+ "Mendelian genetics": {
+  "uz": "Mendel genetikasi",
+  "izoh": "",
+  "joy": "2-bob, 159",
+  "holat": "TASDIQLANGAN"
+ },
+ "genetic variation": {
+  "uz": "genetik o‘zgaruvchanlik",
+  "izoh": "",
+  "joy": "2-bob, 159",
+  "holat": "TASDIQLANGAN"
+ },
+ "population": {
+  "uz": "populyatsiya",
+  "izoh": "",
+  "joy": "2-bob, 159",
+  "holat": "TASDIQLANGAN"
+ },
+ "molecular clock": {
+  "uz": "molekulyar soat",
+  "izoh": "",
+  "joy": "2-bob, 161",
+  "holat": "TASDIQLANGAN"
+ },
+ "evolutionary tree": {
+  "uz": "evolyutsion daraxt",
+  "izoh": "",
+  "joy": "2-bob, 161",
+  "holat": "TASDIQLANGAN"
+ },
+ "reproductive success": {
+  "uz": "reproduktiv muvaffaqiyat",
+  "izoh": "",
+  "joy": "2-bob, 163",
+  "holat": "TASDIQLANGAN"
+ },
+ "genetic drift": {
+  "uz": "genetik dreyf",
+  "izoh": "",
+  "joy": "2-bob, 164",
+  "holat": "TASDIQLANGAN"
+ },
+ "selection pressure": {
+  "uz": "tanlanish bosimi",
+  "izoh": "",
+  "joy": "2-bob, 165",
+  "holat": "TASDIQLANGAN"
+ },
+ "niche": {
+  "uz": "ekologik nisha",
+  "izoh": "qisqa: nisha",
+  "joy": "2-bob, 166",
+  "holat": "TASDIQLANGAN"
+ },
+ "speciation": {
+  "uz": "turlanish",
+  "izoh": "yangi turlarning paydo bo‘lishi",
+  "joy": "2-bob, 169",
+  "holat": "TASDIQLANGAN"
+ },
+ "phenotypic variation": {
+  "uz": "fenotipik o‘zgaruvchanlik",
+  "izoh": "",
+  "joy": "2-bob, 170",
+  "holat": "TASDIQLANGAN"
+ },
+ "inheritance": {
+  "uz": "irsiyat",
+  "izoh": "",
+  "joy": "2-bob, 172",
+  "holat": "TASDIQLANGAN"
+ },
+ "trait": {
+  "uz": "belgi",
+  "izoh": "irsiy belgi",
+  "joy": "2-bob, 154",
+  "holat": "TASDIQLANGAN"
+ },
+ "directional selection": {
+  "uz": "harakatlantiruvchi tanlanish",
+  "izoh": "",
+  "joy": "2-bob, 178",
+  "holat": "TASDIQLANGAN"
+ },
+ "stabilizing selection": {
+  "uz": "stabillashtiruvchi tanlanish",
+  "izoh": "",
+  "joy": "2-bob, 179",
+  "holat": "TASDIQLANGAN"
+ },
+ "disruptive selection": {
+  "uz": "dizruptiv tanlanish",
+  "izoh": "",
+  "joy": "2-bob, 179",
+  "holat": "TASDIQLANGAN"
+ },
+ "geological time scale": {
+  "uz": "geoxronologik shkala",
+  "izoh": "geologic timeline → geologik vaqt chizig‘i",
+  "joy": "2-bob, 183",
+  "holat": "TASDIQLANGAN"
+ },
+ "photosynthesis": {
+  "uz": "fotosintez",
+  "izoh": "photosynthetic organisms → fotosintez qiluvchi organizmlar",
+  "joy": "2-bob, 185",
+  "holat": "TASDIQLANGAN"
+ },
+ "Cambrian explosion": {
+  "uz": "Kembriy portlashi",
+  "izoh": "",
+  "joy": "2-bob, 185",
+  "holat": "TASDIQLANGAN"
+ },
+ "abiogenesis": {
+  "uz": "abiogenez",
+  "izoh": "",
+  "joy": "2-bob, 186",
+  "holat": "TASDIQLANGAN"
+ },
+ "mass extinction": {
+  "uz": "ommaviy qirilib ketish",
+  "izoh": "",
+  "joy": "2-bob, 186",
+  "holat": "TASDIQLANGAN"
+ },
+ "greenhouse gas": {
+  "uz": "issiqxona gazi",
+  "izoh": "",
+  "joy": "2-bob, 187",
+  "holat": "TASDIQLANGAN"
+ },
+ "last common ancestor": {
+  "uz": "so‘nggi umumiy ajdod",
+  "izoh": "",
+  "joy": "2-bob, 188",
+  "holat": "TASDIQLANGAN"
+ },
+ "fermentation": {
+  "uz": "bijg‘ish",
+  "izoh": "",
+  "joy": "2-bob, 188",
+  "holat": "TASDIQLANGAN"
+ },
+ "aerobic respiration": {
+  "uz": "aerob nafas",
+  "izoh": "anaerobic respiration → anaerob nafas; aerobic metabolism → aerob metabolizm",
+  "joy": "2-bob, 189",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA world": {
+  "uz": "RNK dunyosi",
+  "izoh": "",
+  "joy": "2-bob, 190",
+  "holat": "TASDIQLANGAN"
+ },
+ "mitochondria": {
+  "uz": "mitoxondriyalar",
+  "izoh": "",
+  "joy": "2-bob, 191",
+  "holat": "TASDIQLANGAN"
+ },
+ "endosymbiosis": {
+  "uz": "endosimbioz",
+  "izoh": "",
+  "joy": "2-bob, 191",
+  "holat": "TASDIQLANGAN"
+ },
+ "humanoid": {
+  "uz": "odamsimon mavjudot",
+  "izoh": "inson ajdodlari ma’nosida",
+  "joy": "2-bob, 194",
+  "holat": "TASDIQLANGAN"
+ },
+ "apes": {
+  "uz": "odamsimon maymunlar",
+  "izoh": "",
+  "joy": "2-bob, 195",
+  "holat": "TASDIQLANGAN"
+ },
+ "Old World Monkeys": {
+  "uz": "Eski dunyo maymunlari",
+  "izoh": "",
+  "joy": "2-bob, 196",
+  "holat": "TASDIQLANGAN"
+ },
+ "peppered moth": {
+  "uz": "qayin odimchisi",
+  "izoh": "Biston betularia; kapalak",
+  "joy": "2-bob, 175",
+  "holat": "TASDIQLANGAN"
+ },
+ "Java man": {
+  "uz": "Yava odami",
+  "izoh": "",
+  "joy": "2-bob, 158",
+  "holat": "TASDIQLANGAN"
+ },
+ "Neanderthals": {
+  "uz": "neandertallar",
+  "izoh": "",
+  "joy": "2-bob, 158",
+  "holat": "TASDIQLANGAN"
+ },
+ "Denisovans": {
+  "uz": "denisovaliklar",
+  "izoh": "",
+  "joy": "2-bob, 194",
+  "holat": "TASDIQLANGAN"
+ },
+ "Anaximander": {
+  "uz": "Anaksimandr",
+  "izoh": "ism",
+  "joy": "2-bob, 151",
+  "holat": "TASDIQLANGAN"
+ },
+ "Comte de Buffon": {
+  "uz": "Byuffon grafi",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "2-bob, 152",
+  "holat": "TASDIQLANGAN"
+ },
+ "Erasmus Darwin": {
+  "uz": "Erazm Darvin",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "2-bob, 153",
+  "holat": "TASDIQLANGAN"
+ },
+ "Edward Blyth": {
+  "uz": "Edvard Blit",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "2-bob, 155",
+  "holat": "TASDIQLANGAN"
+ },
+ "Alfred Wallace": {
+  "uz": "Alfred Uolles",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "2-bob, 157",
+  "holat": "TASDIQLANGAN"
+ },
+ "Charles Darwin": {
+  "uz": "Charlz Darvin",
+  "izoh": "ism",
+  "joy": "2-bob, 150",
+  "holat": "TASDIQLANGAN"
  }
 }

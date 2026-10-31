@@ -1,7 +1,7 @@
 Fayl: Asl/Biology_Made_Easy_1_qisim.docx
 Boblar: Ish/boblar.json (22 ta: 0-qism, So'zboshi, 1-20-boblar), bo'lish tekshirilgan (XATO 0, TEKSHIRING 0).
-Tugagan boblar: 0 (0-qism, 1-71), 1 (So'zboshi, 72-81), 2 (1-bob, 82-146).
-Keyingi: 3-bob (Chapter 2: The Study of Evolution), birlik 147 dan.
+Tugagan boblar: 0, 1, 2, 3
+Keyingi: 4-raqamli bob (Chapter 3: What is Cell Biology?), birlik 202 dan
 Eslatma: bob sarlavhalari mundarija tarjimasi (Ish/boblar/bob_00.json, 16-71) bilan aynan bir xil bo'lsin.
 Foydalanuvchi so'rovi: hozircha faqat 2-bobgacha (1-146) tarjima ko'rsatildi.
 Atamalar: foydalanuvchi 1-fayl atamalarini tasdiqladi; yangi atamalar agent tomonidan to‘g‘ridan-to‘g‘ri TASDIQLANGAN ga kiritiladi.

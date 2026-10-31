@@ -1,0 +1,311 @@
+{
+ "noaniq": [
+  "157: aslida «1958» yozilgan (Darvin va Uolles maqolasi 1858-yil, «Turlarning kelib chiqishi» 1859-yil); raqam o‘zgartirilmadi, muallif xatosi ehtimoli tekshirilsin.",
+  "186: muallif 500 million yil avval qushlar va sutemizuvchilar bo‘lgan deydi (ilmiy jihatdan ancha keyin paydo bo‘lgan); asl lafzga sodiq qolindi.",
+  "151: Anaksimandr haqidagi «ancestor ... with features that did not involve being an infant» jumlasi «go‘daklik bosqichini boshdan kechirmaydigan ajdod» deb tushunib tarjima qilindi.",
+  "152: Anaksimandr davri (taxminan miloddan avvalgi 450-yil) asldagidek berildi (Anaksimandr odatda mil. avv. VI asrga oid).",
+  "164: muallif tanlanish ta’sirida gen chastotasining o‘zgarishini «genetic drift» deb atagan (ilmiy jihatdan bu tabiiy tanlanish); «genetik dreyf» deb asl lafzga sodiq tarjima qilindi.",
+  "183, 184, 185, 192: o‘nli kasrlar (4.5, 3.5, 2.4, 3.2, 1.7) asl yozuvida nuqta bilan qoldirildi.",
+  "187: «nitrous oxide» → azot(I) oksidi (N2O) deb berildi.",
+  "177: rasm (⟦x:1⟧, tabiiy tanlanish turlari) ichidagi yozuvlar tarjima qilinmadi."
+ ],
+ "iqtiboslar": [
+  "153, 156: «eng moslashganlarning yashab qolishi» (survival of the fittest) — Herbert Spenser iborasi, o‘zbek adabiyotidagi o‘rnashgan shakl tekshirilsin.",
+  "153: «ip» (filament) — Erazm Darvin atamasi, manba ko‘rsatilmagan.",
+  "157: Charlz Darvin, «Turlarning kelib chiqishi» (On the Origin of Species), 1859 — o‘rnashgan o‘zbekcha nomi ishlatildi.",
+  "175: 1956-yilgi «Toza havo to‘g‘risida»gi qonun (Clean Air Act 1956, Buyuk Britaniya) — qonun nomi tarjima qilindi.",
+  "183: «million yil avval» — mya qisqartmasining izohi (muallifniki).",
+  "185, 190, 196: «Kembriy portlashi», «RNK dunyosi», «Eski dunyo maymunlari» — atama nomlari qo‘shtirnoqda."
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "evolution",
+   "uz": "evolyutsiya",
+   "izoh": "fe’l: evolve → evolyutsiyalashmoq",
+   "joy": "2-bob, 147"
+  },
+  {
+   "en": "natural selection",
+   "uz": "tabiiy tanlanish",
+   "izoh": "",
+   "joy": "2-bob, 153"
+  },
+  {
+   "en": "survival of the fittest",
+   "uz": "eng moslashganlarning yashab qolishi",
+   "izoh": "",
+   "joy": "2-bob, 153"
+  },
+  {
+   "en": "fitness",
+   "uz": "moslashganlik",
+   "izoh": "fitter → moslashganroq",
+   "joy": "2-bob, 156"
+  },
+  {
+   "en": "artificial selection",
+   "uz": "sun’iy tanlash",
+   "izoh": "",
+   "joy": "2-bob, 155"
+  },
+  {
+   "en": "animal husbandry",
+   "uz": "chorvachilik",
+   "izoh": "",
+   "joy": "2-bob, 155"
+  },
+  {
+   "en": "modern synthesis",
+   "uz": "zamonaviy sintez",
+   "izoh": "evolyutsiyaning sintetik nazariyasi",
+   "joy": "2-bob, 159"
+  },
+  {
+   "en": "Mendelian genetics",
+   "uz": "Mendel genetikasi",
+   "izoh": "",
+   "joy": "2-bob, 159"
+  },
+  {
+   "en": "genetic variation",
+   "uz": "genetik o‘zgaruvchanlik",
+   "izoh": "",
+   "joy": "2-bob, 159"
+  },
+  {
+   "en": "population",
+   "uz": "populyatsiya",
+   "izoh": "",
+   "joy": "2-bob, 159"
+  },
+  {
+   "en": "molecular clock",
+   "uz": "molekulyar soat",
+   "izoh": "",
+   "joy": "2-bob, 161"
+  },
+  {
+   "en": "evolutionary tree",
+   "uz": "evolyutsion daraxt",
+   "izoh": "",
+   "joy": "2-bob, 161"
+  },
+  {
+   "en": "reproductive success",
+   "uz": "reproduktiv muvaffaqiyat",
+   "izoh": "",
+   "joy": "2-bob, 163"
+  },
+  {
+   "en": "genetic drift",
+   "uz": "genetik dreyf",
+   "izoh": "",
+   "joy": "2-bob, 164"
+  },
+  {
+   "en": "selection pressure",
+   "uz": "tanlanish bosimi",
+   "izoh": "",
+   "joy": "2-bob, 165"
+  },
+  {
+   "en": "niche",
+   "uz": "ekologik nisha",
+   "izoh": "qisqa: nisha",
+   "joy": "2-bob, 166"
+  },
+  {
+   "en": "speciation",
+   "uz": "turlanish",
+   "izoh": "yangi turlarning paydo bo‘lishi",
+   "joy": "2-bob, 169"
+  },
+  {
+   "en": "phenotypic variation",
+   "uz": "fenotipik o‘zgaruvchanlik",
+   "izoh": "",
+   "joy": "2-bob, 170"
+  },
+  {
+   "en": "inheritance",
+   "uz": "irsiyat",
+   "izoh": "",
+   "joy": "2-bob, 172"
+  },
+  {
+   "en": "trait",
+   "uz": "belgi",
+   "izoh": "irsiy belgi",
+   "joy": "2-bob, 154"
+  },
+  {
+   "en": "directional selection",
+   "uz": "harakatlantiruvchi tanlanish",
+   "izoh": "",
+   "joy": "2-bob, 178"
+  },
+  {
+   "en": "stabilizing selection",
+   "uz": "stabillashtiruvchi tanlanish",
+   "izoh": "",
+   "joy": "2-bob, 179"
+  },
+  {
+   "en": "disruptive selection",
+   "uz": "dizruptiv tanlanish",
+   "izoh": "",
+   "joy": "2-bob, 179"
+  },
+  {
+   "en": "geological time scale",
+   "uz": "geoxronologik shkala",
+   "izoh": "geologic timeline → geologik vaqt chizig‘i",
+   "joy": "2-bob, 183"
+  },
+  {
+   "en": "photosynthesis",
+   "uz": "fotosintez",
+   "izoh": "photosynthetic organisms → fotosintez qiluvchi organizmlar",
+   "joy": "2-bob, 185"
+  },
+  {
+   "en": "Cambrian explosion",
+   "uz": "Kembriy portlashi",
+   "izoh": "",
+   "joy": "2-bob, 185"
+  },
+  {
+   "en": "abiogenesis",
+   "uz": "abiogenez",
+   "izoh": "",
+   "joy": "2-bob, 186"
+  },
+  {
+   "en": "mass extinction",
+   "uz": "ommaviy qirilib ketish",
+   "izoh": "",
+   "joy": "2-bob, 186"
+  },
+  {
+   "en": "greenhouse gas",
+   "uz": "issiqxona gazi",
+   "izoh": "",
+   "joy": "2-bob, 187"
+  },
+  {
+   "en": "last common ancestor",
+   "uz": "so‘nggi umumiy ajdod",
+   "izoh": "",
+   "joy": "2-bob, 188"
+  },
+  {
+   "en": "fermentation",
+   "uz": "bijg‘ish",
+   "izoh": "",
+   "joy": "2-bob, 188"
+  },
+  {
+   "en": "aerobic respiration",
+   "uz": "aerob nafas",
+   "izoh": "anaerobic respiration → anaerob nafas; aerobic metabolism → aerob metabolizm",
+   "joy": "2-bob, 189"
+  },
+  {
+   "en": "RNA world",
+   "uz": "RNK dunyosi",
+   "izoh": "",
+   "joy": "2-bob, 190"
+  },
+  {
+   "en": "mitochondria",
+   "uz": "mitoxondriyalar",
+   "izoh": "",
+   "joy": "2-bob, 191"
+  },
+  {
+   "en": "endosymbiosis",
+   "uz": "endosimbioz",
+   "izoh": "",
+   "joy": "2-bob, 191"
+  },
+  {
+   "en": "humanoid",
+   "uz": "odamsimon mavjudot",
+   "izoh": "inson ajdodlari ma’nosida",
+   "joy": "2-bob, 194"
+  },
+  {
+   "en": "apes",
+   "uz": "odamsimon maymunlar",
+   "izoh": "",
+   "joy": "2-bob, 195"
+  },
+  {
+   "en": "Old World Monkeys",
+   "uz": "Eski dunyo maymunlari",
+   "izoh": "",
+   "joy": "2-bob, 196"
+  },
+  {
+   "en": "peppered moth",
+   "uz": "qayin odimchisi",
+   "izoh": "Biston betularia; kapalak",
+   "joy": "2-bob, 175"
+  },
+  {
+   "en": "Java man",
+   "uz": "Yava odami",
+   "izoh": "",
+   "joy": "2-bob, 158"
+  },
+  {
+   "en": "Neanderthals",
+   "uz": "neandertallar",
+   "izoh": "",
+   "joy": "2-bob, 158"
+  },
+  {
+   "en": "Denisovans",
+   "uz": "denisovaliklar",
+   "izoh": "",
+   "joy": "2-bob, 194"
+  },
+  {
+   "en": "Anaximander",
+   "uz": "Anaksimandr",
+   "izoh": "ism",
+   "joy": "2-bob, 151"
+  },
+  {
+   "en": "Comte de Buffon",
+   "uz": "Byuffon grafi",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "2-bob, 152"
+  },
+  {
+   "en": "Erasmus Darwin",
+   "uz": "Erazm Darvin",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "2-bob, 153"
+  },
+  {
+   "en": "Edward Blyth",
+   "uz": "Edvard Blit",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "2-bob, 155"
+  },
+  {
+   "en": "Alfred Wallace",
+   "uz": "Alfred Uolles",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "2-bob, 157"
+  },
+  {
+   "en": "Charles Darwin",
+   "uz": "Charlz Darvin",
+   "izoh": "ism",
+   "joy": "2-bob, 150"
+  }
+ ],
+ "tasdiq_kerak": []
+}
