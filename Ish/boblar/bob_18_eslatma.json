@@ -1,0 +1,161 @@
+{
+ "noaniq": [
+  "1176: aslida transporterlar kanal oqsillariga qaraganda sekinroq deyilgan, lekin «daqiqasiga 100-10,000 molekula» tezligi kanal oqsiliga nisbat berilgan (mantiqan bu tashuvchi oqsil tezligi bo‘lishi kerak). Asldagidek tarjima qilindi.",
+  "1178: «Symporters also use two molecules» — oldin faqat uniporter tasvirlangan (bitta molekula), «also» ketma-ketligi asl matndagi tartibsizlik. Asldagidek berildi.",
+  "1181: sarlavha «More on Symporters», lekin bo‘lim uniporterlar haqida. Asldagidek «Simporterlar haqida batafsil» deb tarjima qilindi.",
+  "1198: asl matnda buyrak kanalchalari hujayralari va «ichak bo‘shlig‘idan organizm ichiga» aralash berilgan; asldagidek tarjima qilindi.",
+  "1203: «Take a look at this image:» dan keyin rasm belgisi yo‘q (asl birlikda ham yo‘q).",
+  "1206: «sodium-proton pump» — oldingi gapda antiporter deyilgan; asldagidek «nasos» qoldirildi."
+ ],
+ "iqtiboslar": [],
+ "rasm_ichidagi_yozuvlar": [
+  "1173, 1180, 1189, 1193, 1200, 1209: rasmlar (ichidagi yozuvlar tarjima qilinmadi)"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "passive transport",
+   "uz": "passiv transport",
+   "izoh": "mundarija: Passiv va faol transport",
+   "joy": "18-bob (17-bob), 1170"
+  },
+  {
+   "en": "ATP-powered pump",
+   "uz": "ATF bilan ishlaydigan nasos",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1174"
+  },
+  {
+   "en": "transporter",
+   "uz": "transporter",
+   "izoh": "carrier protein sinonimi",
+   "joy": "18-bob (17-bob), 1174"
+  },
+  {
+   "en": "uniporter / symporter / antiporter",
+   "uz": "uniporter / simporter / antiporter",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1177"
+  },
+  {
+   "en": "facilitated transport",
+   "uz": "yengillashtirilgan transport",
+   "izoh": "facilitated diffusion → yengillashtirilgan diffuziya ga mos",
+   "joy": "18-bob (17-bob), 1182"
+  },
+  {
+   "en": "cotransport / cotransporter",
+   "uz": "kotransport / kotransporter",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1195"
+  },
+  {
+   "en": "intestinal epithelial cells",
+   "uz": "ichak epiteliy hujayralari",
+   "izoh": "intestinal lumen → ichak bo‘shlig‘i",
+   "joy": "18-bob (17-bob), 1187"
+  },
+  {
+   "en": "GLUT1 transporter",
+   "uz": "GLUT1 transporteri",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1188"
+  },
+  {
+   "en": "glucose-1-phosphate",
+   "uz": "glyukoza-1-fosfat",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1191"
+  },
+  {
+   "en": "mannose",
+   "uz": "mannoza",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1191"
+  },
+  {
+   "en": "enantiomers",
+   "uz": "enantiomerlar",
+   "izoh": "mirror image → ko‘zgu aksi",
+   "joy": "18-bob (17-bob), 1192"
+  },
+  {
+   "en": "chiral molecule",
+   "uz": "xiral molekula",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1192"
+  },
+  {
+   "en": "two sodium/one glucose symporter",
+   "uz": "ikki natriy/bir glyukoza simporteri",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1198"
+  },
+  {
+   "en": "sodium-calcium antiporter",
+   "uz": "natriy-kalsiy antiporteri",
+   "izoh": "sodium-proton antiporter → natriy-proton antiporteri",
+   "joy": "18-bob (17-bob), 1201"
+  },
+  {
+   "en": "AE1 protein",
+   "uz": "AE1 oqsili",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1202"
+  },
+  {
+   "en": "bicarbonate",
+   "uz": "bikarbonat",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1202"
+  },
+  {
+   "en": "carbonic anhydrase",
+   "uz": "karboangidraza",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1203"
+  },
+  {
+   "en": "sodium bicarbonate-chloride cotransporter",
+   "uz": "natriy bikarbonat-xlorid kotransporteri",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1205"
+  },
+  {
+   "en": "acidity",
+   "uz": "kislotalilik",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1205"
+  },
+  {
+   "en": "ATPase pump",
+   "uz": "ATFaza nasosi",
+   "izoh": "P, F, V, ABC classes → P, F, V, ABC sinflari",
+   "joy": "18-bob (17-bob), 1207"
+  },
+  {
+   "en": "superfamily",
+   "uz": "superoila",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1208"
+  },
+  {
+   "en": "electrical neutrality",
+   "uz": "elektr neytralligi",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1217"
+  },
+  {
+   "en": "chloride-channel protein",
+   "uz": "xlorid kanali oqsili",
+   "izoh": "CFTR gene → CFTR geni",
+   "joy": "18-bob (17-bob), 1218"
+  },
+  {
+   "en": "sweat glands",
+   "uz": "ter bezlari",
+   "izoh": "",
+   "joy": "18-bob (17-bob), 1218"
+  }
+ ],
+ "tasdiq_kerak": []
+}

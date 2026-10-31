@@ -4546,5 +4546,143 @@
   "izoh": "",
   "joy": "17-bob, 1163",
   "holat": "TASDIQLANGAN"
+ },
+ "passive transport": {
+  "uz": "passiv transport",
+  "izoh": "mundarija: Passiv va faol transport",
+  "joy": "18-bob (17-bob), 1170",
+  "holat": "TASDIQLANGAN"
+ },
+ "ATP-powered pump": {
+  "uz": "ATF bilan ishlaydigan nasos",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1174",
+  "holat": "TASDIQLANGAN"
+ },
+ "transporter": {
+  "uz": "transporter",
+  "izoh": "carrier protein sinonimi",
+  "joy": "18-bob (17-bob), 1174",
+  "holat": "TASDIQLANGAN"
+ },
+ "uniporter / symporter / antiporter": {
+  "uz": "uniporter / simporter / antiporter",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1177",
+  "holat": "TASDIQLANGAN"
+ },
+ "facilitated transport": {
+  "uz": "yengillashtirilgan transport",
+  "izoh": "facilitated diffusion → yengillashtirilgan diffuziya ga mos",
+  "joy": "18-bob (17-bob), 1182",
+  "holat": "TASDIQLANGAN"
+ },
+ "cotransport / cotransporter": {
+  "uz": "kotransport / kotransporter",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1195",
+  "holat": "TASDIQLANGAN"
+ },
+ "intestinal epithelial cells": {
+  "uz": "ichak epiteliy hujayralari",
+  "izoh": "intestinal lumen → ichak bo‘shlig‘i",
+  "joy": "18-bob (17-bob), 1187",
+  "holat": "TASDIQLANGAN"
+ },
+ "GLUT1 transporter": {
+  "uz": "GLUT1 transporteri",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1188",
+  "holat": "TASDIQLANGAN"
+ },
+ "glucose-1-phosphate": {
+  "uz": "glyukoza-1-fosfat",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1191",
+  "holat": "TASDIQLANGAN"
+ },
+ "mannose": {
+  "uz": "mannoza",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1191",
+  "holat": "TASDIQLANGAN"
+ },
+ "chiral molecule": {
+  "uz": "xiral molekula",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1192",
+  "holat": "TASDIQLANGAN"
+ },
+ "two sodium/one glucose symporter": {
+  "uz": "ikki natriy/bir glyukoza simporteri",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1198",
+  "holat": "TASDIQLANGAN"
+ },
+ "sodium-calcium antiporter": {
+  "uz": "natriy-kalsiy antiporteri",
+  "izoh": "sodium-proton antiporter → natriy-proton antiporteri",
+  "joy": "18-bob (17-bob), 1201",
+  "holat": "TASDIQLANGAN"
+ },
+ "AE1 protein": {
+  "uz": "AE1 oqsili",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1202",
+  "holat": "TASDIQLANGAN"
+ },
+ "bicarbonate": {
+  "uz": "bikarbonat",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1202",
+  "holat": "TASDIQLANGAN"
+ },
+ "carbonic anhydrase": {
+  "uz": "karboangidraza",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1203",
+  "holat": "TASDIQLANGAN"
+ },
+ "sodium bicarbonate-chloride cotransporter": {
+  "uz": "natriy bikarbonat-xlorid kotransporteri",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1205",
+  "holat": "TASDIQLANGAN"
+ },
+ "acidity": {
+  "uz": "kislotalilik",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1205",
+  "holat": "TASDIQLANGAN"
+ },
+ "ATPase pump": {
+  "uz": "ATFaza nasosi",
+  "izoh": "P, F, V, ABC classes → P, F, V, ABC sinflari",
+  "joy": "18-bob (17-bob), 1207",
+  "holat": "TASDIQLANGAN"
+ },
+ "superfamily": {
+  "uz": "superoila",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1208",
+  "holat": "TASDIQLANGAN"
+ },
+ "electrical neutrality": {
+  "uz": "elektr neytralligi",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1217",
+  "holat": "TASDIQLANGAN"
+ },
+ "chloride-channel protein": {
+  "uz": "xlorid kanali oqsili",
+  "izoh": "CFTR gene → CFTR geni",
+  "joy": "18-bob (17-bob), 1218",
+  "holat": "TASDIQLANGAN"
+ },
+ "sweat glands": {
+  "uz": "ter bezlari",
+  "izoh": "",
+  "joy": "18-bob (17-bob), 1218",
+  "holat": "TASDIQLANGAN"
  }
 }
