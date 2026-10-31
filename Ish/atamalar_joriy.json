@@ -2008,5 +2008,341 @@
   "izoh": "",
   "joy": "6-bob, 491",
   "holat": "TASDIQLANGAN"
+ },
+ "solvent": {
+  "uz": "erituvchi",
+  "izoh": "universal solvent → universal erituvchi",
+  "joy": "7-bob, 497",
+  "holat": "TASDIQLANGAN"
+ },
+ "solution": {
+  "uz": "eritma",
+  "izoh": "kimyoviy ma’noda; aqueous/watery solution → suvli eritma",
+  "joy": "7-bob, 497",
+  "holat": "TASDIQLANGAN"
+ },
+ "aqueous": {
+  "uz": "suv asosidagi",
+  "izoh": "watery (or aqueous) → suvli (yoki suv asosidagi)",
+  "joy": "7-bob, 497",
+  "holat": "TASDIQLANGAN"
+ },
+ "mixture": {
+  "uz": "aralashma",
+  "izoh": "",
+  "joy": "7-bob, 496",
+  "holat": "TASDIQLANGAN"
+ },
+ "molarity": {
+  "uz": "molyarlik",
+  "izoh": "",
+  "joy": "7-bob, 497",
+  "holat": "TASDIQLANGAN"
+ },
+ "molality": {
+  "uz": "molyallik",
+  "izoh": "",
+  "joy": "7-bob, 561",
+  "holat": "TASDIQLANGAN"
+ },
+ "heat capacity": {
+  "uz": "issiqlik sig‘imi",
+  "izoh": "specific heat capacity → solishtirma issiqlik sig‘imi",
+  "joy": "7-bob, 505",
+  "holat": "TASDIQLANGAN"
+ },
+ "Joules": {
+  "uz": "joul",
+  "izoh": "energiya birligi",
+  "joy": "7-bob, 505",
+  "holat": "TASDIQLANGAN"
+ },
+ "phase change": {
+  "uz": "fazaviy o‘tish",
+  "izoh": "",
+  "joy": "7-bob, 506",
+  "holat": "TASDIQLANGAN"
+ },
+ "heat of vaporization": {
+  "uz": "bug‘lanish issiqligi",
+  "izoh": "",
+  "joy": "7-bob, 506",
+  "holat": "TASDIQLANGAN"
+ },
+ "polymorphs of ice": {
+  "uz": "muzning polimorflari",
+  "izoh": "amorphous ice → amorf muz; hexagonal ice → olti burchakli muz",
+  "joy": "7-bob, 511",
+  "holat": "TASDIQLANGAN"
+ },
+ "thermohaline circulation": {
+  "uz": "termoxalin sirkulyatsiya",
+  "izoh": "",
+  "joy": "7-bob, 514",
+  "holat": "TASDIQLANGAN"
+ },
+ "miscible": {
+  "uz": "aralashuvchan",
+  "izoh": "immiscible → aralashmaydigan",
+  "joy": "7-bob, 515",
+  "holat": "TASDIQLANGAN"
+ },
+ "condensation": {
+  "uz": "kondensatsiya",
+  "izoh": "",
+  "joy": "7-bob, 516",
+  "holat": "TASDIQLANGAN"
+ },
+ "wet steam": {
+  "uz": "nam bug‘",
+  "izoh": "steam → bug‘; water vapor → suv bug‘i",
+  "joy": "7-bob, 517",
+  "holat": "TASDIQLANGAN"
+ },
+ "superheated steam": {
+  "uz": "o‘ta qizdirilgan bug‘",
+  "izoh": "aslida «superheated stream» xatosi",
+  "joy": "7-bob, 517",
+  "holat": "TASDIQLANGAN"
+ },
+ "adhesion": {
+  "uz": "adgeziya",
+  "izoh": "cohesion → kogeziya (mavjud atama)",
+  "joy": "7-bob, 520",
+  "holat": "TASDIQLANGAN"
+ },
+ "surface tension": {
+  "uz": "sirt tarangligi",
+  "izoh": "",
+  "joy": "7-bob, 520",
+  "holat": "TASDIQLANGAN"
+ },
+ "capillary action": {
+  "uz": "kapillyar hodisa",
+  "izoh": "",
+  "joy": "7-bob, 521",
+  "holat": "TASDIQLANGAN"
+ },
+ "acid": {
+  "uz": "kislota",
+  "izoh": "acidic → kislotali; strong/weak acid → kuchli/kuchsiz kislota",
+  "joy": "7-bob, 522",
+  "holat": "TASDIQLANGAN"
+ },
+ "base": {
+  "uz": "asos",
+  "izoh": "kimyoviy ma’noda; basic → asosli; alkaline → ishqoriy",
+  "joy": "7-bob, 522",
+  "holat": "TASDIQLANGAN"
+ },
+ "pH scale": {
+  "uz": "pH shkalasi",
+  "izoh": "",
+  "joy": "7-bob, 524",
+  "holat": "TASDIQLANGAN"
+ },
+ "log / logarithmic": {
+  "uz": "logarifm",
+  "izoh": "negative log → manfiy logarifm",
+  "joy": "7-bob, 524",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydroxyl ion": {
+  "uz": "gidroksil ioni",
+  "izoh": "hydroxide ion → gidroksid ioni",
+  "joy": "7-bob, 530",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydronium ion": {
+  "uz": "gidroniy ioni",
+  "izoh": "",
+  "joy": "7-bob, 535",
+  "holat": "TASDIQLANGAN"
+ },
+ "Arrhenius theory": {
+  "uz": "Arrenius nazariyasi",
+  "izoh": "",
+  "joy": "7-bob, 533",
+  "holat": "TASDIQLANGAN"
+ },
+ "Brønsted-Lowry theory": {
+  "uz": "Brensted-Louri nazariyasi",
+  "izoh": "",
+  "joy": "7-bob, 539",
+  "holat": "TASDIQLANGAN"
+ },
+ "amphoteric molecule": {
+  "uz": "amfoter molekula",
+  "izoh": "",
+  "joy": "7-bob, 540",
+  "holat": "TASDIQLANGAN"
+ },
+ "conjugate base": {
+  "uz": "qo‘shma asos",
+  "izoh": "conjugate acid → qo‘shma kislota",
+  "joy": "7-bob, 542",
+  "holat": "TASDIQLANGAN"
+ },
+ "dissociate": {
+  "uz": "dissotsilanmoq",
+  "izoh": "",
+  "joy": "7-bob, 543",
+  "holat": "TASDIQLANGAN"
+ },
+ "electrophile": {
+  "uz": "elektrofil",
+  "izoh": "",
+  "joy": "7-bob, 544",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleophile": {
+  "uz": "nukleofil",
+  "izoh": "aslida «neutrophiles» deb yozilgan",
+  "joy": "7-bob, 544",
+  "holat": "TASDIQLANGAN"
+ },
+ "Lewis acids": {
+  "uz": "Lyuis kislotalari",
+  "izoh": "",
+  "joy": "7-bob, 545",
+  "holat": "TASDIQLANGAN"
+ },
+ "carbonic acid": {
+  "uz": "karbonat kislota",
+  "izoh": "hydrochloric acid → xlorid kislota; sulfuric acid → sulfat kislota; acetic acid → sirka kislota",
+  "joy": "7-bob, 545",
+  "holat": "TASDIQLANGAN"
+ },
+ "solute": {
+  "uz": "erigan modda",
+  "izoh": "",
+  "joy": "7-bob, 547",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydration shell": {
+  "uz": "gidrat qobiq",
+  "izoh": "",
+  "joy": "7-bob, 549",
+  "holat": "TASDIQLANGAN"
+ },
+ "electrolytes": {
+  "uz": "elektrolitlar",
+  "izoh": "",
+  "joy": "7-bob, 551",
+  "holat": "TASDIQLANGAN"
+ },
+ "milliequivalent": {
+  "uz": "milliekvivalent",
+  "izoh": "equivalent → ekvivalent; mEq/L o‘zgarmaydi",
+  "joy": "7-bob, 552",
+  "holat": "TASDIQLANGAN"
+ },
+ "atomic weight": {
+  "uz": "atom og‘irligi",
+  "izoh": "",
+  "joy": "7-bob, 553",
+  "holat": "TASDIQLANGAN"
+ },
+ "mole": {
+  "uz": "mol",
+  "izoh": "",
+  "joy": "7-bob, 554",
+  "holat": "TASDIQLANGAN"
+ },
+ "molar mass": {
+  "uz": "molyar massa",
+  "izoh": "",
+  "joy": "7-bob, 554",
+  "holat": "TASDIQLANGAN"
+ },
+ "Avogadro’s number": {
+  "uz": "Avogadro soni",
+  "izoh": "Avogadro’s constant → Avogadro doimiysi",
+  "joy": "7-bob, 556",
+  "holat": "TASDIQLANGAN"
+ },
+ "valence (of ionic compound)": {
+  "uz": "valentlik",
+  "izoh": "",
+  "joy": "7-bob, 558",
+  "holat": "TASDIQLANGAN"
+ },
+ "suspension": {
+  "uz": "suspenziya",
+  "izoh": "colloidal suspension → kolloid suspenziya",
+  "joy": "7-bob, 563",
+  "holat": "TASDIQLANGAN"
+ },
+ "colloid": {
+  "uz": "kolloid",
+  "izoh": "",
+  "joy": "7-bob, 563",
+  "holat": "TASDIQLANGAN"
+ },
+ "emulsion": {
+  "uz": "emulsiya",
+  "izoh": "aerosol → aerozol",
+  "joy": "7-bob, 565",
+  "holat": "TASDIQLANGAN"
+ },
+ "Styrofoam": {
+  "uz": "penoplast",
+  "izoh": "birinchi uchraganda asli qavsda",
+  "joy": "7-bob, 565",
+  "holat": "TASDIQLANGAN"
+ },
+ "ammonia": {
+  "uz": "ammiak",
+  "izoh": "sodium hydroxide → natriy gidroksid; potassium permanganate → kaliy permanganat",
+  "joy": "7-bob, 538",
+  "holat": "TASDIQLANGAN"
+ },
+ "Søren Peder Lauritz Sørensen": {
+  "uz": "Syoren Peder Lauris Syorensen",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "7-bob, 531",
+  "holat": "TASDIQLANGAN"
+ },
+ "Carlsberg Laboratory": {
+  "uz": "Carlsberg laboratoriyasi",
+  "izoh": "",
+  "joy": "7-bob, 531",
+  "holat": "TASDIQLANGAN"
+ },
+ "Svante Arrhenius": {
+  "uz": "Svante Arrenius",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "7-bob, 533",
+  "holat": "TASDIQLANGAN"
+ },
+ "Johannes Nicolaus Brønsted": {
+  "uz": "Yoxannes Nikolaus Brensted",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "7-bob, 539",
+  "holat": "TASDIQLANGAN"
+ },
+ "Thomas Martin Lowry": {
+  "uz": "Tomas Martin Louri",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "7-bob, 539",
+  "holat": "TASDIQLANGAN"
+ },
+ "Amadeo Avogadro": {
+  "uz": "Amedeo Avogadro",
+  "izoh": "ism",
+  "joy": "7-bob, 556",
+  "holat": "TASDIQLANGAN"
+ },
+ "Josef Loschmidt": {
+  "uz": "Iozef Loshmidt",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "7-bob, 556",
+  "holat": "TASDIQLANGAN"
+ },
+ "Jean Baptiste Perrin": {
+  "uz": "Jan Batist Perren",
+  "izoh": "ism, birinchi uchraganda asli qavsda",
+  "joy": "7-bob, 556",
+  "holat": "TASDIQLANGAN"
  }
 }
