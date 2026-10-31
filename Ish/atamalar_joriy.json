@@ -1624,5 +1624,389 @@
   "izoh": "",
   "joy": "5-bob, 358",
   "holat": "TASDIQLANGAN"
+ },
+ "molecule": {
+  "uz": "molekula",
+  "izoh": "",
+  "joy": "6-bob, 395",
+  "holat": "TASDIQLANGAN"
+ },
+ "polyatomic ions": {
+  "uz": "ko‘p atomli ionlar",
+  "izoh": "",
+  "joy": "6-bob, 395",
+  "holat": "TASDIQLANGAN"
+ },
+ "homonuclear": {
+  "uz": "gomoyadroli",
+  "izoh": "homonuclear molecule → gomoyadroli molekula",
+  "joy": "6-bob, 396",
+  "holat": "TASDIQLANGAN"
+ },
+ "heteronuclear": {
+  "uz": "geteroyadroli",
+  "izoh": "",
+  "joy": "6-bob, 396",
+  "holat": "TASDIQLANGAN"
+ },
+ "molecular formula": {
+  "uz": "molekulyar formula",
+  "izoh": "",
+  "joy": "6-bob, 398",
+  "holat": "TASDIQLANGAN"
+ },
+ "glucose": {
+  "uz": "glyukoza",
+  "izoh": "",
+  "joy": "6-bob, 398",
+  "holat": "TASDIQLANGAN"
+ },
+ "sigma bond": {
+  "uz": "sigma bog‘",
+  "izoh": "",
+  "joy": "6-bob, 404",
+  "holat": "TASDIQLANGAN"
+ },
+ "pi bond": {
+  "uz": "pi bog‘",
+  "izoh": "",
+  "joy": "6-bob, 404",
+  "holat": "TASDIQLANGAN"
+ },
+ "double bond": {
+  "uz": "qo‘sh bog‘",
+  "izoh": "triple bond → uch karrali bog‘",
+  "joy": "6-bob, 408",
+  "holat": "TASDIQLANGAN"
+ },
+ "ethylene": {
+  "uz": "etilen",
+  "izoh": "",
+  "joy": "6-bob, 408",
+  "holat": "TASDIQLANGAN"
+ },
+ "covalent bonding": {
+  "uz": "kovalent bog‘lanish",
+  "izoh": "covalent bond → kovalent bog‘",
+  "joy": "6-bob, 413",
+  "holat": "TASDIQLANGAN"
+ },
+ "shared electrons": {
+  "uz": "umumiy elektronlar",
+  "izoh": "",
+  "joy": "6-bob, 417",
+  "holat": "TASDIQLANGAN"
+ },
+ "electron pairs": {
+  "uz": "elektron juftlari",
+  "izoh": "",
+  "joy": "6-bob, 417",
+  "holat": "TASDIQLANGAN"
+ },
+ "Lewis dot structure": {
+  "uz": "Lyuis nuqtali formulasi",
+  "izoh": "",
+  "joy": "6-bob, 417",
+  "holat": "TASDIQLANGAN"
+ },
+ "carbon dioxide": {
+  "uz": "karbonat angidrid",
+  "izoh": "",
+  "joy": "6-bob, 417",
+  "holat": "TASDIQLANGAN"
+ },
+ "Gilbert Newton Lewis": {
+  "uz": "Gilbert Nyuton Lyuis",
+  "izoh": "birinchi uchraganda asli qavsda",
+  "joy": "6-bob, 420",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrogen cyanide": {
+  "uz": "sianid vodorod",
+  "izoh": "",
+  "joy": "6-bob, 420",
+  "holat": "TASDIQLANGAN"
+ },
+ "ionic bonding": {
+  "uz": "ion bog‘lanish",
+  "izoh": "ionic bond → ion bog‘",
+  "joy": "6-bob, 422",
+  "holat": "TASDIQLANGAN"
+ },
+ "sodium chloride": {
+  "uz": "natriy xlorid",
+  "izoh": "",
+  "joy": "6-bob, 422",
+  "holat": "TASDIQLANGAN"
+ },
+ "halogen": {
+  "uz": "galogen",
+  "izoh": "",
+  "joy": "6-bob, 422",
+  "holat": "TASDIQLANGAN"
+ },
+ "cation": {
+  "uz": "kation",
+  "izoh": "",
+  "joy": "6-bob, 424",
+  "holat": "TASDIQLANGAN"
+ },
+ "anion": {
+  "uz": "anion",
+  "izoh": "",
+  "joy": "6-bob, 424",
+  "holat": "TASDIQLANGAN"
+ },
+ "polar bond": {
+  "uz": "qutbli bog‘",
+  "izoh": "polar → qutbli; polar bonding → qutbli bog‘lanish",
+  "joy": "6-bob, 429",
+  "holat": "TASDIQLANGAN"
+ },
+ "nonpolar": {
+  "uz": "qutbsiz",
+  "izoh": "",
+  "joy": "6-bob, 429",
+  "holat": "TASDIQLANGAN"
+ },
+ "magnetic charge": {
+  "uz": "magnit zaryadi",
+  "izoh": "muallifning o‘xshatishi",
+  "joy": "6-bob, 430",
+  "holat": "TASDIQLANGAN"
+ },
+ "dipole moment": {
+  "uz": "dipol momenti",
+  "izoh": "",
+  "joy": "6-bob, 431",
+  "holat": "TASDIQLANGAN"
+ },
+ "partial charge": {
+  "uz": "qisman zaryad",
+  "izoh": "",
+  "joy": "6-bob, 433",
+  "holat": "TASDIQLANGAN"
+ },
+ "Debye unit": {
+  "uz": "Debay birligi",
+  "izoh": "",
+  "joy": "6-bob, 433",
+  "holat": "TASDIQLANGAN"
+ },
+ "coulomb": {
+  "uz": "kulon",
+  "izoh": "",
+  "joy": "6-bob, 433",
+  "holat": "TASDIQLANGAN"
+ },
+ "Linus Pauling": {
+  "uz": "Laynus Poling",
+  "izoh": "birinchi uchraganda asli qavsda",
+  "joy": "6-bob, 436",
+  "holat": "TASDIQLANGAN"
+ },
+ "electronegative": {
+  "uz": "elektromanfiy",
+  "izoh": "electron greedy → elektronga ochko‘z",
+  "joy": "6-bob, 434",
+  "holat": "TASDIQLANGAN"
+ },
+ "polar covalent bond": {
+  "uz": "qutbli kovalent bog‘",
+  "izoh": "",
+  "joy": "6-bob, 437",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrocarbon": {
+  "uz": "uglevodorod",
+  "izoh": "",
+  "joy": "6-bob, 441",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipids": {
+  "uz": "lipidlar",
+  "izoh": "",
+  "joy": "6-bob, 442",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrophilic": {
+  "uz": "gidrofil",
+  "izoh": "«suvni sevuvchi»",
+  "joy": "6-bob, 444",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrophobic": {
+  "uz": "gidrofob",
+  "izoh": "",
+  "joy": "6-bob, 444",
+  "holat": "TASDIQLANGAN"
+ },
+ "detergent": {
+  "uz": "yuvish vositasi",
+  "izoh": "",
+  "joy": "6-bob, 445",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrogen bonding": {
+  "uz": "vodorod bog‘lanish",
+  "izoh": "hydrogen bond → vodorod bog‘",
+  "joy": "6-bob, 448",
+  "holat": "TASDIQLANGAN"
+ },
+ "cohesiveness": {
+  "uz": "kogeziya",
+  "izoh": "",
+  "joy": "6-bob, 453",
+  "holat": "TASDIQLANGAN"
+ },
+ "lattice": {
+  "uz": "panjara",
+  "izoh": "kristall panjara",
+  "joy": "6-bob, 454",
+  "holat": "TASDIQLANGAN"
+ },
+ "nitrogenous bases": {
+  "uz": "azotli asoslar",
+  "izoh": "",
+  "joy": "6-bob, 455",
+  "holat": "TASDIQLANGAN"
+ },
+ "amide": {
+  "uz": "amid",
+  "izoh": "",
+  "joy": "6-bob, 459",
+  "holat": "TASDIQLANGAN"
+ },
+ "alpha-helix": {
+  "uz": "alfa-spiral",
+  "izoh": "",
+  "joy": "6-bob, 459",
+  "holat": "TASDIQLANGAN"
+ },
+ "beta-pleat": {
+  "uz": "beta-burmali shakl",
+  "izoh": "beta-pleated sheet",
+  "joy": "6-bob, 459",
+  "holat": "TASDIQLANGAN"
+ },
+ "intermolecular": {
+  "uz": "molekulalararo",
+  "izoh": "",
+  "joy": "6-bob, 459",
+  "holat": "TASDIQLANGAN"
+ },
+ "van der Waals forces": {
+  "uz": "Van-der-Vaals kuchlari",
+  "izoh": "",
+  "joy": "6-bob, 462",
+  "holat": "TASDIQLANGAN"
+ },
+ "dipole-dipole interactions": {
+  "uz": "dipol-dipol ta’sirlashuvlari",
+  "izoh": "",
+  "joy": "6-bob, 463",
+  "holat": "TASDIQLANGAN"
+ },
+ "London dispersion forces": {
+  "uz": "London dispersion kuchlari",
+  "izoh": "London forces → London kuchlari; dispersion forces → dispersion kuchlar",
+  "joy": "6-bob, 463",
+  "holat": "TASDIQLANGAN"
+ },
+ "Coulomb’s law": {
+  "uz": "Kulon qonuni",
+  "izoh": "",
+  "joy": "6-bob, 466",
+  "holat": "TASDIQLANGAN"
+ },
+ "instantaneous dipoles": {
+  "uz": "bir lahzalik dipollar",
+  "izoh": "",
+  "joy": "6-bob, 471",
+  "holat": "TASDIQLANGAN"
+ },
+ "gecko": {
+  "uz": "gekkon",
+  "izoh": "",
+  "joy": "6-bob, 476",
+  "holat": "TASDIQLANGAN"
+ },
+ "setae": {
+  "uz": "setalar",
+  "izoh": "juda ingichka tukchalar",
+  "joy": "6-bob, 476",
+  "holat": "TASDIQLANGAN"
+ },
+ "spatulae": {
+  "uz": "spatulalar",
+  "izoh": "",
+  "joy": "6-bob, 476",
+  "holat": "TASDIQLANGAN"
+ },
+ "lowest energy state": {
+  "uz": "eng past energetik holat",
+  "izoh": "",
+  "joy": "6-bob, 478",
+  "holat": "TASDIQLANGAN"
+ },
+ "bond angle": {
+  "uz": "bog‘ burchagi",
+  "izoh": "",
+  "joy": "6-bob, 479",
+  "holat": "TASDIQLANGAN"
+ },
+ "trigonal planar shape": {
+  "uz": "yassi uchburchak shakl",
+  "izoh": "",
+  "joy": "6-bob, 481",
+  "holat": "TASDIQLANGAN"
+ },
+ "sulfur trioxide": {
+  "uz": "oltingugurt trioksidi",
+  "izoh": "",
+  "joy": "6-bob, 481",
+  "holat": "TASDIQLANGAN"
+ },
+ "bent / angular molecule": {
+  "uz": "egilgan / burchakli molekula",
+  "izoh": "",
+  "joy": "6-bob, 483",
+  "holat": "TASDIQLANGAN"
+ },
+ "lone electron pairs": {
+  "uz": "bo‘linmagan elektron juftlari",
+  "izoh": "unshared electrons → bo‘linmagan elektronlar",
+  "joy": "6-bob, 483",
+  "holat": "TASDIQLANGAN"
+ },
+ "tetrahedral shape": {
+  "uz": "tetraedr shakl",
+  "izoh": "",
+  "joy": "6-bob, 486",
+  "holat": "TASDIQLANGAN"
+ },
+ "trigonal pyramidal": {
+  "uz": "uchburchakli piramida",
+  "izoh": "",
+  "joy": "6-bob, 488",
+  "holat": "TASDIQLANGAN"
+ },
+ "octahedral": {
+  "uz": "oktaedr",
+  "izoh": "",
+  "joy": "6-bob, 488",
+  "holat": "TASDIQLANGAN"
+ },
+ "VSEPR theory": {
+  "uz": "VSEPR nazariyasi",
+  "izoh": "valent qobiq elektron juftlarining itarilish nazariyasi",
+  "joy": "6-bob, 489",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleic acid": {
+  "uz": "nuklein kislota",
+  "izoh": "",
+  "joy": "6-bob, 491",
+  "holat": "TASDIQLANGAN"
  }
 }

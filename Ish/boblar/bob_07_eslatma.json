@@ -1,0 +1,403 @@
+{
+ "noaniq": [
+  "413: asl matnda uglerodning valent qobig‘ida «ikkita elektron va yana to‘rttasi uchun joy» deyilgan (aslida 4 valent elektron); muallif lafzi saqlandi.",
+  "398: «chemical symbol for a number of elements» — mazmunan bir qator moddalar (izomerlar) nazarda tutilgan; «bir qator moddalarning kimyoviy formulasi» deb berildi.",
+  "433: «3.34×10−30Cm3.34×10⟦s2⟧−30⟦/s2⟧» qismida son ikki marta takrorlangan (formula va uning matn ko‘rinishi bo‘lsa kerak); asldagidek qoldirildi, joylashdan keyin Word da tekshirilsin.",
+  "440: asl matnda «ikki molekula o‘rtasidagi elektromanfiylik farqi» (aslida ikki atom); muallif lafzi saqlandi.",
+  "463: muallif ion bog‘lanishni ham Van-der-Vaals kuchlari qatoriga kiritgan; asldagidek tarjima qilindi.",
+  "471: «atoms are never completely distributed around a nucleus» va «some atoms will be unbalanced» — mazmunan elektronlar nazarda tutilgan; muallif lafzi (atomlar) saqlandi.",
+  "475: «87 degrees Kelvin», «1 degree Kelvin» — asldagidek «daraja Kelvin» deb berildi (geliy qaynash harorati aslida ~4 K).",
+  "489: asl matnda «repulson» imlo xatosi; tarjimada «itarilish».",
+  "Rasmlar (400, 405, 407, 409, 416, 418, 423, 428, 432, 438, 446, 451, 457, 461, 469, 473, 480, 482, 484, 487): ichidagi yozuvlar (formulalar, jadval 438 dagi bog‘ turlari va elektromanfiylik farqlari) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [
+  "444: «Oil and water do not mix» — xalq naqli | manba yo‘q | o‘zbekcha ekvivalent: «Moy bilan suv aralashmaydi»; asl lafz tekshirilishi shart emas"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "molecule",
+   "uz": "molekula",
+   "izoh": "",
+   "joy": "6-bob, 395"
+  },
+  {
+   "en": "polyatomic ions",
+   "uz": "ko‘p atomli ionlar",
+   "izoh": "",
+   "joy": "6-bob, 395"
+  },
+  {
+   "en": "homonuclear",
+   "uz": "gomoyadroli",
+   "izoh": "homonuclear molecule → gomoyadroli molekula",
+   "joy": "6-bob, 396"
+  },
+  {
+   "en": "heteronuclear",
+   "uz": "geteroyadroli",
+   "izoh": "",
+   "joy": "6-bob, 396"
+  },
+  {
+   "en": "molecular formula",
+   "uz": "molekulyar formula",
+   "izoh": "",
+   "joy": "6-bob, 398"
+  },
+  {
+   "en": "glucose",
+   "uz": "glyukoza",
+   "izoh": "",
+   "joy": "6-bob, 398"
+  },
+  {
+   "en": "sigma bond",
+   "uz": "sigma bog‘",
+   "izoh": "",
+   "joy": "6-bob, 404"
+  },
+  {
+   "en": "pi bond",
+   "uz": "pi bog‘",
+   "izoh": "",
+   "joy": "6-bob, 404"
+  },
+  {
+   "en": "double bond",
+   "uz": "qo‘sh bog‘",
+   "izoh": "triple bond → uch karrali bog‘",
+   "joy": "6-bob, 408"
+  },
+  {
+   "en": "ethylene",
+   "uz": "etilen",
+   "izoh": "",
+   "joy": "6-bob, 408"
+  },
+  {
+   "en": "covalent bonding",
+   "uz": "kovalent bog‘lanish",
+   "izoh": "covalent bond → kovalent bog‘",
+   "joy": "6-bob, 413"
+  },
+  {
+   "en": "shared electrons",
+   "uz": "umumiy elektronlar",
+   "izoh": "",
+   "joy": "6-bob, 417"
+  },
+  {
+   "en": "electron pairs",
+   "uz": "elektron juftlari",
+   "izoh": "",
+   "joy": "6-bob, 417"
+  },
+  {
+   "en": "Lewis dot structure",
+   "uz": "Lyuis nuqtali formulasi",
+   "izoh": "",
+   "joy": "6-bob, 417"
+  },
+  {
+   "en": "carbon dioxide",
+   "uz": "karbonat angidrid",
+   "izoh": "",
+   "joy": "6-bob, 417"
+  },
+  {
+   "en": "Gilbert Newton Lewis",
+   "uz": "Gilbert Nyuton Lyuis",
+   "izoh": "birinchi uchraganda asli qavsda",
+   "joy": "6-bob, 420"
+  },
+  {
+   "en": "hydrogen cyanide",
+   "uz": "sianid vodorod",
+   "izoh": "",
+   "joy": "6-bob, 420"
+  },
+  {
+   "en": "ionic bonding",
+   "uz": "ion bog‘lanish",
+   "izoh": "ionic bond → ion bog‘",
+   "joy": "6-bob, 422"
+  },
+  {
+   "en": "sodium chloride",
+   "uz": "natriy xlorid",
+   "izoh": "",
+   "joy": "6-bob, 422"
+  },
+  {
+   "en": "halogen",
+   "uz": "galogen",
+   "izoh": "",
+   "joy": "6-bob, 422"
+  },
+  {
+   "en": "cation",
+   "uz": "kation",
+   "izoh": "",
+   "joy": "6-bob, 424"
+  },
+  {
+   "en": "anion",
+   "uz": "anion",
+   "izoh": "",
+   "joy": "6-bob, 424"
+  },
+  {
+   "en": "polar bond",
+   "uz": "qutbli bog‘",
+   "izoh": "polar → qutbli; polar bonding → qutbli bog‘lanish",
+   "joy": "6-bob, 429"
+  },
+  {
+   "en": "nonpolar",
+   "uz": "qutbsiz",
+   "izoh": "",
+   "joy": "6-bob, 429"
+  },
+  {
+   "en": "magnetic charge",
+   "uz": "magnit zaryadi",
+   "izoh": "muallifning o‘xshatishi",
+   "joy": "6-bob, 430"
+  },
+  {
+   "en": "dipole moment",
+   "uz": "dipol momenti",
+   "izoh": "",
+   "joy": "6-bob, 431"
+  },
+  {
+   "en": "partial charge",
+   "uz": "qisman zaryad",
+   "izoh": "",
+   "joy": "6-bob, 433"
+  },
+  {
+   "en": "Debye unit",
+   "uz": "Debay birligi",
+   "izoh": "",
+   "joy": "6-bob, 433"
+  },
+  {
+   "en": "coulomb",
+   "uz": "kulon",
+   "izoh": "",
+   "joy": "6-bob, 433"
+  },
+  {
+   "en": "Linus Pauling",
+   "uz": "Laynus Poling",
+   "izoh": "birinchi uchraganda asli qavsda",
+   "joy": "6-bob, 436"
+  },
+  {
+   "en": "electronegative",
+   "uz": "elektromanfiy",
+   "izoh": "electron greedy → elektronga ochko‘z",
+   "joy": "6-bob, 434"
+  },
+  {
+   "en": "polar covalent bond",
+   "uz": "qutbli kovalent bog‘",
+   "izoh": "",
+   "joy": "6-bob, 437"
+  },
+  {
+   "en": "hydrocarbon",
+   "uz": "uglevodorod",
+   "izoh": "",
+   "joy": "6-bob, 441"
+  },
+  {
+   "en": "lipids",
+   "uz": "lipidlar",
+   "izoh": "",
+   "joy": "6-bob, 442"
+  },
+  {
+   "en": "hydrophilic",
+   "uz": "gidrofil",
+   "izoh": "«suvni sevuvchi»",
+   "joy": "6-bob, 444"
+  },
+  {
+   "en": "hydrophobic",
+   "uz": "gidrofob",
+   "izoh": "",
+   "joy": "6-bob, 444"
+  },
+  {
+   "en": "detergent",
+   "uz": "yuvish vositasi",
+   "izoh": "",
+   "joy": "6-bob, 445"
+  },
+  {
+   "en": "hydrogen bonding",
+   "uz": "vodorod bog‘lanish",
+   "izoh": "hydrogen bond → vodorod bog‘",
+   "joy": "6-bob, 448"
+  },
+  {
+   "en": "cohesiveness",
+   "uz": "kogeziya",
+   "izoh": "",
+   "joy": "6-bob, 453"
+  },
+  {
+   "en": "lattice",
+   "uz": "panjara",
+   "izoh": "kristall panjara",
+   "joy": "6-bob, 454"
+  },
+  {
+   "en": "nitrogenous bases",
+   "uz": "azotli asoslar",
+   "izoh": "",
+   "joy": "6-bob, 455"
+  },
+  {
+   "en": "amide",
+   "uz": "amid",
+   "izoh": "",
+   "joy": "6-bob, 459"
+  },
+  {
+   "en": "alpha-helix",
+   "uz": "alfa-spiral",
+   "izoh": "",
+   "joy": "6-bob, 459"
+  },
+  {
+   "en": "beta-pleat",
+   "uz": "beta-burmali shakl",
+   "izoh": "beta-pleated sheet",
+   "joy": "6-bob, 459"
+  },
+  {
+   "en": "intermolecular",
+   "uz": "molekulalararo",
+   "izoh": "",
+   "joy": "6-bob, 459"
+  },
+  {
+   "en": "van der Waals forces",
+   "uz": "Van-der-Vaals kuchlari",
+   "izoh": "",
+   "joy": "6-bob, 462"
+  },
+  {
+   "en": "dipole-dipole interactions",
+   "uz": "dipol-dipol ta’sirlashuvlari",
+   "izoh": "",
+   "joy": "6-bob, 463"
+  },
+  {
+   "en": "London dispersion forces",
+   "uz": "London dispersion kuchlari",
+   "izoh": "London forces → London kuchlari; dispersion forces → dispersion kuchlar",
+   "joy": "6-bob, 463"
+  },
+  {
+   "en": "Coulomb’s law",
+   "uz": "Kulon qonuni",
+   "izoh": "",
+   "joy": "6-bob, 466"
+  },
+  {
+   "en": "instantaneous dipoles",
+   "uz": "bir lahzalik dipollar",
+   "izoh": "",
+   "joy": "6-bob, 471"
+  },
+  {
+   "en": "gecko",
+   "uz": "gekkon",
+   "izoh": "",
+   "joy": "6-bob, 476"
+  },
+  {
+   "en": "setae",
+   "uz": "setalar",
+   "izoh": "juda ingichka tukchalar",
+   "joy": "6-bob, 476"
+  },
+  {
+   "en": "spatulae",
+   "uz": "spatulalar",
+   "izoh": "",
+   "joy": "6-bob, 476"
+  },
+  {
+   "en": "lowest energy state",
+   "uz": "eng past energetik holat",
+   "izoh": "",
+   "joy": "6-bob, 478"
+  },
+  {
+   "en": "bond angle",
+   "uz": "bog‘ burchagi",
+   "izoh": "",
+   "joy": "6-bob, 479"
+  },
+  {
+   "en": "trigonal planar shape",
+   "uz": "yassi uchburchak shakl",
+   "izoh": "",
+   "joy": "6-bob, 481"
+  },
+  {
+   "en": "sulfur trioxide",
+   "uz": "oltingugurt trioksidi",
+   "izoh": "",
+   "joy": "6-bob, 481"
+  },
+  {
+   "en": "bent / angular molecule",
+   "uz": "egilgan / burchakli molekula",
+   "izoh": "",
+   "joy": "6-bob, 483"
+  },
+  {
+   "en": "lone electron pairs",
+   "uz": "bo‘linmagan elektron juftlari",
+   "izoh": "unshared electrons → bo‘linmagan elektronlar",
+   "joy": "6-bob, 483"
+  },
+  {
+   "en": "tetrahedral shape",
+   "uz": "tetraedr shakl",
+   "izoh": "",
+   "joy": "6-bob, 486"
+  },
+  {
+   "en": "trigonal pyramidal",
+   "uz": "uchburchakli piramida",
+   "izoh": "",
+   "joy": "6-bob, 488"
+  },
+  {
+   "en": "octahedral",
+   "uz": "oktaedr",
+   "izoh": "",
+   "joy": "6-bob, 488"
+  },
+  {
+   "en": "VSEPR theory",
+   "uz": "VSEPR nazariyasi",
+   "izoh": "valent qobiq elektron juftlarining itarilish nazariyasi",
+   "joy": "6-bob, 489"
+  },
+  {
+   "en": "nucleic acid",
+   "uz": "nuklein kislota",
+   "izoh": "",
+   "joy": "6-bob, 491"
+  }
+ ],
+ "tasdiq_kerak": []
+}
