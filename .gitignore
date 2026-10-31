@@ -1,1 +1,7 @@
 Asl/*.docx
+Tarjima/*.docx
+Ish/__pycache__/
+Ish/matn.json
+Ish/meta.json
+Ish/tarjima.json
+*.tmp

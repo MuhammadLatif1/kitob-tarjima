@@ -6,10 +6,10 @@ Janr / auditoriya: o'quv qo'llanma (hujayra va molekulyar biologiya), talabalar 
 Fayl: Asl/Biology_Made_Easy_1_qisim.docx (1-qism)
 
 USLUB TALABLARI
-Alifbo: [lotin / kirill]
-Imlo: [masalan: 1995-yilgi lotin imlo qoidalari]
-Apostrof turi: [o‘ g‘ va tutuq belgisi uchun qaysi belgi: ‘ va ’ / oddiy ' ]
-Murojaat shakli: [siz / sen]
+Alifbo: lotin
+Imlo: amaldagi lotin yozuvidagi o'zbek imlo qoidalari
+Apostrof turi: o‘ va g‘ uchun ‘ (U+2018); tutuq belgisi uchun ’ (U+2019)
+Murojaat shakli: siz
 Iqtibos qo'shtirnog'i: «...»
-Kitob nomi o'zbekcha: [masalan: «Biologiya oson» yoki tarjima qilinmasin]
-Qo'shimcha talablar: [bo'lsa yozing, bo'lmasa "Yo'q"]
+Kitob nomi o'zbekcha: «Oson biologiya»
+Qo'shimcha talablar: Yo'q

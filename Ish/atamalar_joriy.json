@@ -1,0 +1,362 @@
+{
+ "Biology Made Easy": {
+  "uz": "«Oson biologiya»",
+  "izoh": "kitob nomi (KITOB_HAQIDA.txt)",
+  "joy": "0-qism, 1",
+  "holat": "TAKLIF"
+ },
+ "Preface": {
+  "uz": "So‘zboshi",
+  "izoh": "",
+  "joy": "0-qism, 16",
+  "holat": "TAKLIF"
+ },
+ "Table of Contents": {
+  "uz": "Mundarija",
+  "izoh": "",
+  "joy": "0-qism, 15",
+  "holat": "TAKLIF"
+ },
+ "Division": {
+  "uz": "qism",
+  "izoh": "kitobning eng yirik bo‘linmasi (Division One → Birinchi qism)",
+  "joy": "0-qism, 17",
+  "holat": "TAKLIF"
+ },
+ "Section": {
+  "uz": "bo‘lim",
+  "izoh": "qism ichidagi bo‘linma (Section One → Birinchi bo‘lim)",
+  "joy": "0-qism, 18",
+  "holat": "TAKLIF"
+ },
+ "Chapter": {
+  "uz": "bob",
+  "izoh": "Chapter 1 → 1-bob",
+  "joy": "0-qism, 19",
+  "holat": "TAKLIF"
+ },
+ "Fun Factoid": {
+  "uz": "Qiziqarli fakt",
+  "izoh": "takrorlanuvchi rukn",
+  "joy": "1-bob, 107",
+  "holat": "TAKLIF"
+ },
+ "To Sum Things Up": {
+  "uz": "Xulosa",
+  "izoh": "bob yakunidagi sarlavha",
+  "joy": "1-bob, 144",
+  "holat": "TAKLIF"
+ },
+ "cell biology": {
+  "uz": "hujayra biologiyasi",
+  "izoh": "",
+  "joy": "0-qism, 18",
+  "holat": "TAKLIF"
+ },
+ "living thing": {
+  "uz": "tirik mavjudot",
+  "izoh": "",
+  "joy": "So‘zboshi, 77",
+  "holat": "TAKLIF"
+ },
+ "blueprint": {
+  "uz": "chizma",
+  "izoh": "genetik «chizma» (genetic blueprint)",
+  "joy": "0-qism, 22",
+  "holat": "TAKLIF"
+ },
+ "homeostasis": {
+  "uz": "gomeostaz",
+  "izoh": "",
+  "joy": "1-bob, 116",
+  "holat": "TAKLIF"
+ },
+ "metabolism": {
+  "uz": "metabolizm",
+  "izoh": "fe’l: metabolize → metabolizmga uchratish",
+  "joy": "0-qism, 33",
+  "holat": "TAKLIF"
+ },
+ "catabolism": {
+  "uz": "katabolizm",
+  "izoh": "",
+  "joy": "1-bob, 118",
+  "holat": "TAKLIF"
+ },
+ "anabolism": {
+  "uz": "anabolizm",
+  "izoh": "",
+  "joy": "1-bob, 118",
+  "holat": "TAKLIF"
+ },
+ "phototropism": {
+  "uz": "fototropizm",
+  "izoh": "",
+  "joy": "1-bob, 121",
+  "holat": "TAKLIF"
+ },
+ "germ cells": {
+  "uz": "jinsiy hujayralar",
+  "izoh": "",
+  "joy": "1-bob, 106",
+  "holat": "TAKLIF"
+ },
+ "somatic cells": {
+  "uz": "somatik hujayralar",
+  "izoh": "",
+  "joy": "1-bob, 106",
+  "holat": "TAKLIF"
+ },
+ "germ theory": {
+  "uz": "mikrob nazariyasi",
+  "izoh": "germ theory of disease causation → kasalliklar kelib chiqishining mikrob nazariyasi",
+  "joy": "1-bob, 106",
+  "holat": "TAKLIF"
+ },
+ "miasma": {
+  "uz": "miazma",
+  "izoh": "",
+  "joy": "1-bob, 107",
+  "holat": "TAKLIF"
+ },
+ "humors": {
+  "uz": "xiltlar",
+  "izoh": "qadimgi tibbiyot: qon, qora o‘t, sariq o‘t, balg‘am",
+  "joy": "1-bob, 97",
+  "holat": "TAKLIF"
+ },
+ "natural history": {
+  "uz": "tabiat tarixi",
+  "izoh": "",
+  "joy": "1-bob, 90",
+  "holat": "TAKLIF"
+ },
+ "natural philosophy": {
+  "uz": "natural falsafa",
+  "izoh": "",
+  "joy": "1-bob, 90",
+  "holat": "TAKLIF"
+ },
+ "natural theology": {
+  "uz": "natural ilohiyot",
+  "izoh": "",
+  "joy": "1-bob, 91",
+  "holat": "TAKLIF"
+ },
+ "Renaissance": {
+  "uz": "Uyg‘onish davri",
+  "izoh": "",
+  "joy": "1-bob, 91",
+  "holat": "TAKLIF"
+ },
+ "enzyme": {
+  "uz": "ferment",
+  "izoh": "",
+  "joy": "0-qism, 33",
+  "holat": "TAKLIF"
+ },
+ "messenger RNA": {
+  "uz": "informatsion RNK",
+  "izoh": "muqobil: matritsa RNK (mRNK)",
+  "joy": "1-bob, 110",
+  "holat": "TAKLIF"
+ },
+ "DNA": {
+  "uz": "DNK",
+  "izoh": "",
+  "joy": "0-qism, 55",
+  "holat": "TAKLIF"
+ },
+ "RNA": {
+  "uz": "RNK",
+  "izoh": "",
+  "joy": "0-qism, 55",
+  "holat": "TAKLIF"
+ },
+ "ATP": {
+  "uz": "ATF",
+  "izoh": "",
+  "joy": "0-qism, 32",
+  "holat": "TAKLIF"
+ },
+ "double helix": {
+  "uz": "qo‘sh spiral",
+  "izoh": "",
+  "joy": "1-bob, 110",
+  "holat": "TAKLIF"
+ },
+ "x-ray crystallography": {
+  "uz": "rentgen kristallografiyasi",
+  "izoh": "",
+  "joy": "1-bob, 110",
+  "holat": "TAKLIF"
+ },
+ "recombinant DNA": {
+  "uz": "rekombinant DNK",
+  "izoh": "",
+  "joy": "1-bob, 111",
+  "holat": "TAKLIF"
+ },
+ "gene therapy": {
+  "uz": "gen terapiyasi",
+  "izoh": "",
+  "joy": "0-qism, 71",
+  "holat": "TAKLIF"
+ },
+ "genetic engineering": {
+  "uz": "genetik muhandislik",
+  "izoh": "",
+  "joy": "0-qism, 68",
+  "holat": "TAKLIF"
+ },
+ "taxonomy": {
+  "uz": "taksonomiya",
+  "izoh": "",
+  "joy": "1-bob, 103",
+  "holat": "TAKLIF"
+ },
+ "binomial nomenclature": {
+  "uz": "binar nomenklatura",
+  "izoh": "",
+  "joy": "1-bob, 126",
+  "holat": "TAKLIF"
+ },
+ "species": {
+  "uz": "tur",
+  "izoh": "taksonomik daraja",
+  "joy": "1-bob, 127",
+  "holat": "TAKLIF"
+ },
+ "genus": {
+  "uz": "avlod",
+  "izoh": "taksonomik daraja; muqobil: turkum (botanikada)",
+  "joy": "1-bob, 127",
+  "holat": "TAKLIF"
+ },
+ "family": {
+  "uz": "oila",
+  "izoh": "taksonomik daraja",
+  "joy": "1-bob, 130",
+  "holat": "TAKLIF"
+ },
+ "order": {
+  "uz": "turkum",
+  "izoh": "taksonomik daraja; muqobil: tartib (botanikada)",
+  "joy": "1-bob, 131",
+  "holat": "TAKLIF"
+ },
+ "class": {
+  "uz": "sinf",
+  "izoh": "taksonomik daraja",
+  "joy": "1-bob, 132",
+  "holat": "TAKLIF"
+ },
+ "phylum": {
+  "uz": "tip",
+  "izoh": "taksonomik daraja; muqobil: bo‘lim (botanikada)",
+  "joy": "1-bob, 133",
+  "holat": "TAKLIF"
+ },
+ "kingdom": {
+  "uz": "dunyo",
+  "izoh": "taksonomik daraja (Plantae dunyosi)",
+  "joy": "1-bob, 134",
+  "holat": "TAKLIF"
+ },
+ "domain": {
+  "uz": "domen",
+  "izoh": "taksonomik daraja",
+  "joy": "1-bob, 136",
+  "holat": "TAKLIF"
+ },
+ "empire": {
+  "uz": "imperiya",
+  "izoh": "eski tasnif (Empire Bacteria → Bakteriyalar imperiyasi)",
+  "joy": "1-bob, 140",
+  "holat": "TAKLIF"
+ },
+ "prokaryotes": {
+  "uz": "prokariotlar",
+  "izoh": "sifat: prokariot",
+  "joy": "1-bob, 136",
+  "holat": "TAKLIF"
+ },
+ "eukaryotes": {
+  "uz": "eukariotlar",
+  "izoh": "eukaryota ham; sifat: eukariot",
+  "joy": "1-bob, 136",
+  "holat": "TAKLIF"
+ },
+ "archaea": {
+  "uz": "arxeyalar",
+  "izoh": "",
+  "joy": "1-bob, 136",
+  "holat": "TAKLIF"
+ },
+ "binary fission": {
+  "uz": "ikkiga bo‘linish",
+  "izoh": "",
+  "joy": "1-bob, 136",
+  "holat": "TAKLIF"
+ },
+ "organelle": {
+  "uz": "organoid",
+  "izoh": "",
+  "joy": "1-bob, 137",
+  "holat": "TAKLIF"
+ },
+ "protists": {
+  "uz": "protistlar",
+  "izoh": "protista lotincha shaklda qoldirildi",
+  "joy": "1-bob, 139",
+  "holat": "TAKLIF"
+ },
+ "chromista": {
+  "uz": "xromistlar",
+  "izoh": "lotincha nom (Chromista) bosh harf bilan kelganda o‘zgarmaydi",
+  "joy": "1-bob, 142",
+  "holat": "TAKLIF"
+ },
+ "chloroplast": {
+  "uz": "xloroplast",
+  "izoh": "",
+  "joy": "1-bob, 142",
+  "holat": "TAKLIF"
+ },
+ "autotroph": {
+  "uz": "avtotrof",
+  "izoh": "",
+  "joy": "1-bob, 141",
+  "holat": "TAKLIF"
+ },
+ "cell signaling": {
+  "uz": "hujayra signalizatsiyasi",
+  "izoh": "",
+  "joy": "0-qism, 43",
+  "holat": "TAKLIF"
+ },
+ "cellular respiration": {
+  "uz": "hujayra nafasi",
+  "izoh": "",
+  "joy": "0-qism, 46",
+  "holat": "TAKLIF"
+ },
+ "plasma membrane": {
+  "uz": "plazmatik membrana",
+  "izoh": "",
+  "joy": "0-qism, 39",
+  "holat": "TAKLIF"
+ },
+ "stimuli": {
+  "uz": "qo‘zg‘atuvchilar",
+  "izoh": "",
+  "joy": "1-bob, 121",
+  "holat": "TAKLIF"
+ },
+ "replicate": {
+  "uz": "replikatsiyalanmoq",
+  "izoh": "viruslar haqida (reproduce → ko‘paymoq)",
+  "joy": "1-bob, 117",
+  "holat": "TAKLIF"
+ }
+}

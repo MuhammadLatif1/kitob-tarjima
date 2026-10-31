@@ -1,0 +1,156 @@
+[
+ {
+  "raqam": 0,
+  "nom": "0-qism (nom varag'i, ruxsatnoma, mundarija)",
+  "boshlanish": 1,
+  "tugash": 71,
+  "birlik_soni": 71
+ },
+ {
+  "raqam": 1,
+  "nom": "Preface",
+  "boshlanish": 72,
+  "tugash": 81,
+  "birlik_soni": 10
+ },
+ {
+  "raqam": 2,
+  "nom": "Chapter 1: What is Biology?",
+  "boshlanish": 82,
+  "tugash": 146,
+  "birlik_soni": 65
+ },
+ {
+  "raqam": 3,
+  "nom": "Chapter 2: The Study of Evolution",
+  "boshlanish": 147,
+  "tugash": 201,
+  "birlik_soni": 55
+ },
+ {
+  "raqam": 4,
+  "nom": "Chapter 3: What is Cell Biology?",
+  "boshlanish": 202,
+  "tugash": 242,
+  "birlik_soni": 41
+ },
+ {
+  "raqam": 5,
+  "nom": "Chapter 4: Genetics and Our Genetic Blueprints",
+  "boshlanish": 243,
+  "tugash": 317,
+  "birlik_soni": 75
+ },
+ {
+  "raqam": 6,
+  "nom": "Chapter 5: Getting Down with Atoms",
+  "boshlanish": 318,
+  "tugash": 392,
+  "birlik_soni": 75
+ },
+ {
+  "raqam": 7,
+  "nom": "Chapter 6: How Chemical Bonds Combine Atoms",
+  "boshlanish": 393,
+  "tugash": 495,
+  "birlik_soni": 103
+ },
+ {
+  "raqam": 8,
+  "nom": "Chapter 7: Water, Solutions, and Mixtures",
+  "boshlanish": 496,
+  "tugash": 569,
+  "birlik_soni": 74
+ },
+ {
+  "raqam": 9,
+  "nom": "Chapter 8: Which Elements Are in Cells?",
+  "boshlanish": 570,
+  "tugash": 617,
+  "birlik_soni": 48
+ },
+ {
+  "raqam": 10,
+  "nom": "Chapter 9: Macromolecules Are the “Big” Molecules in Living Things",
+  "boshlanish": 618,
+  "tugash": 702,
+  "birlik_soni": 85
+ },
+ {
+  "raqam": 11,
+  "nom": "Chapter 10: Thermodynamics in Living Things",
+  "boshlanish": 703,
+  "tugash": 785,
+  "birlik_soni": 83
+ },
+ {
+  "raqam": 12,
+  "nom": "Chapter 11: ATP as “Fuel”",
+  "boshlanish": 786,
+  "tugash": 844,
+  "birlik_soni": 59
+ },
+ {
+  "raqam": 13,
+  "nom": "Chapter 12: Metabolism and Enzymes in the Cell",
+  "boshlanish": 845,
+  "tugash": 904,
+  "birlik_soni": 60
+ },
+ {
+  "raqam": 14,
+  "nom": "Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells",
+  "boshlanish": 905,
+  "tugash": 969,
+  "birlik_soni": 65
+ },
+ {
+  "raqam": 15,
+  "nom": "Chapter 14: The Structure of a Eukaryotic Cell",
+  "boshlanish": 970,
+  "tugash": 1076,
+  "birlik_soni": 107
+ },
+ {
+  "raqam": 16,
+  "nom": "Chapter 15: The Plasma Membrane: The Gatekeeper of the Cell",
+  "boshlanish": 1077,
+  "tugash": 1120,
+  "birlik_soni": 44
+ },
+ {
+  "raqam": 17,
+  "nom": "Chapter 16: Diffusion and Osmosis",
+  "boshlanish": 1121,
+  "tugash": 1168,
+  "birlik_soni": 48
+ },
+ {
+  "raqam": 18,
+  "nom": "Chapter 17: Passive and Active Transport",
+  "boshlanish": 1169,
+  "tugash": 1221,
+  "birlik_soni": 53
+ },
+ {
+  "raqam": 19,
+  "nom": "Chapter 18: Bulk Transport of Molecules Across a Membrane",
+  "boshlanish": 1222,
+  "tugash": 1258,
+  "birlik_soni": 37
+ },
+ {
+  "raqam": 20,
+  "nom": "Chapter 19: Cell Signaling",
+  "boshlanish": 1259,
+  "tugash": 1317,
+  "birlik_soni": 59
+ },
+ {
+  "raqam": 21,
+  "nom": "Chapter 20: Oxidation and Reduction",
+  "boshlanish": 1318,
+  "tugash": 1378,
+  "birlik_soni": 61
+ }
+]

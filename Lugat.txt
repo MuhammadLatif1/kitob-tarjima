@@ -1,9 +1,69 @@
 ATAMALAR LUG'ATI
 Format: inglizcha atama → o'zbekcha tarjima | izoh | birinchi uchragan joy
-Oxirgi yangilanish: -
+Oxirgi yangilanish: Biology_Made_Easy_1_qisim
 
 TASDIQLANGAN
 
 TAKLIF
+Biology Made Easy → «Oson biologiya» | kitob nomi (KITOB_HAQIDA.txt) | 0-qism, 1
+Preface → So‘zboshi |  | 0-qism, 16
+Table of Contents → Mundarija |  | 0-qism, 15
+Division → qism | kitobning eng yirik bo‘linmasi (Division One → Birinchi qism) | 0-qism, 17
+Section → bo‘lim | qism ichidagi bo‘linma (Section One → Birinchi bo‘lim) | 0-qism, 18
+Chapter → bob | Chapter 1 → 1-bob | 0-qism, 19
+Fun Factoid → Qiziqarli fakt | takrorlanuvchi rukn | 1-bob, 107
+To Sum Things Up → Xulosa | bob yakunidagi sarlavha | 1-bob, 144
+cell biology → hujayra biologiyasi |  | 0-qism, 18
+living thing → tirik mavjudot |  | So‘zboshi, 77
+blueprint → chizma | genetik «chizma» (genetic blueprint) | 0-qism, 22
+homeostasis → gomeostaz |  | 1-bob, 116
+metabolism → metabolizm | fe’l: metabolize → metabolizmga uchratish | 0-qism, 33
+catabolism → katabolizm |  | 1-bob, 118
+anabolism → anabolizm |  | 1-bob, 118
+phototropism → fototropizm |  | 1-bob, 121
+germ cells → jinsiy hujayralar |  | 1-bob, 106
+somatic cells → somatik hujayralar |  | 1-bob, 106
+germ theory → mikrob nazariyasi | germ theory of disease causation → kasalliklar kelib chiqishining mikrob nazariyasi | 1-bob, 106
+miasma → miazma |  | 1-bob, 107
+humors → xiltlar | qadimgi tibbiyot: qon, qora o‘t, sariq o‘t, balg‘am | 1-bob, 97
+natural history → tabiat tarixi |  | 1-bob, 90
+natural philosophy → natural falsafa |  | 1-bob, 90
+natural theology → natural ilohiyot |  | 1-bob, 91
+Renaissance → Uyg‘onish davri |  | 1-bob, 91
+enzyme → ferment |  | 0-qism, 33
+messenger RNA → informatsion RNK | muqobil: matritsa RNK (mRNK) | 1-bob, 110
+DNA → DNK |  | 0-qism, 55
+RNA → RNK |  | 0-qism, 55
+ATP → ATF |  | 0-qism, 32
+double helix → qo‘sh spiral |  | 1-bob, 110
+x-ray crystallography → rentgen kristallografiyasi |  | 1-bob, 110
+recombinant DNA → rekombinant DNK |  | 1-bob, 111
+gene therapy → gen terapiyasi |  | 0-qism, 71
+genetic engineering → genetik muhandislik |  | 0-qism, 68
+taxonomy → taksonomiya |  | 1-bob, 103
+binomial nomenclature → binar nomenklatura |  | 1-bob, 126
+species → tur | taksonomik daraja | 1-bob, 127
+genus → avlod | taksonomik daraja; muqobil: turkum (botanikada) | 1-bob, 127
+family → oila | taksonomik daraja | 1-bob, 130
+order → turkum | taksonomik daraja; muqobil: tartib (botanikada) | 1-bob, 131
+class → sinf | taksonomik daraja | 1-bob, 132
+phylum → tip | taksonomik daraja; muqobil: bo‘lim (botanikada) | 1-bob, 133
+kingdom → dunyo | taksonomik daraja (Plantae dunyosi) | 1-bob, 134
+domain → domen | taksonomik daraja | 1-bob, 136
+empire → imperiya | eski tasnif (Empire Bacteria → Bakteriyalar imperiyasi) | 1-bob, 140
+prokaryotes → prokariotlar | sifat: prokariot | 1-bob, 136
+eukaryotes → eukariotlar | eukaryota ham; sifat: eukariot | 1-bob, 136
+archaea → arxeyalar |  | 1-bob, 136
+binary fission → ikkiga bo‘linish |  | 1-bob, 136
+organelle → organoid |  | 1-bob, 137
+protists → protistlar | protista lotincha shaklda qoldirildi | 1-bob, 139
+chromista → xromistlar | lotincha nom (Chromista) bosh harf bilan kelganda o‘zgarmaydi | 1-bob, 142
+chloroplast → xloroplast |  | 1-bob, 142
+autotroph → avtotrof |  | 1-bob, 141
+cell signaling → hujayra signalizatsiyasi |  | 0-qism, 43
+cellular respiration → hujayra nafasi |  | 0-qism, 46
+plasma membrane → plazmatik membrana |  | 0-qism, 39
+stimuli → qo‘zg‘atuvchilar |  | 1-bob, 121
+replicate → replikatsiyalanmoq | viruslar haqida (reproduce → ko‘paymoq) | 1-bob, 117
 
 MUQOBIL VARIANTLAR
