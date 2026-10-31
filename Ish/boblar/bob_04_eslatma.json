@@ -1,0 +1,300 @@
+{
+ "noaniq": [
+  "204: «term cell» — inglizcha cell so‘zi ⟦s1⟧ ichida saqlanib, «hujayra» ma’nosidagi deb berildi; Lotincha cellula ham o‘zgarmadi.",
+  "205: Leeuwenhoek kuzatuvi «about nine years later» (1674 atrofida) deb aslidagidek berildi; tarixiy aniqlik muallif zimmasida.",
+  "206: muallif Shleyden va Shvannning 1836-yilda «qahva ustida» uchrashganini yozadi (an’anaviy sana 1838); asldagidek tarjima qilindi.",
+  "238: ⟦s1⟧ oralig‘i aslida «apoptosis. » nuqtani ham o‘raydi; tarjimada «apoptoz deyiladi. » shaklida o‘ralgan.",
+  "219, 223, 229, 237: rasmlar (⟦x:1⟧); rasm ichidagi yozuvlar tarjima qilinmadi, tekshirilsin."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "cell theory",
+   "uz": "hujayra nazariyasi",
+   "izoh": "",
+   "joy": "3-bob, 207",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "spontaneous generation",
+   "uz": "o‘z-o‘zidan paydo bo‘lish",
+   "izoh": "",
+   "joy": "3-bob, 210",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cell division",
+   "uz": "hujayra bo‘linishi",
+   "izoh": "",
+   "joy": "3-bob, 211",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "tissue culture",
+   "uz": "to‘qima kulturasi",
+   "izoh": "cell culture → hujayra kulturasi; bacterial culture → bakteriya kulturasi",
+   "joy": "3-bob, 214",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "HeLa cells",
+   "uz": "HeLa hujayralari",
+   "izoh": "",
+   "joy": "3-bob, 215",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cervical cancer",
+   "uz": "bachadon bo‘yni saratoni",
+   "izoh": "",
+   "joy": "3-bob, 215",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "prokaryotic cell",
+   "uz": "prokariot hujayra",
+   "izoh": "",
+   "joy": "3-bob, 218",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "eukaryotic cell",
+   "uz": "eukariot hujayra",
+   "izoh": "",
+   "joy": "3-bob, 214",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "nucleoid",
+   "uz": "nukleoid",
+   "izoh": "",
+   "joy": "3-bob, 220",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "ribosome",
+   "uz": "ribosoma",
+   "izoh": "",
+   "joy": "3-bob, 220",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cell membrane",
+   "uz": "hujayra membranasi",
+   "izoh": "",
+   "joy": "3-bob, 221",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cell wall",
+   "uz": "hujayra devori",
+   "izoh": "",
+   "joy": "3-bob, 221",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "capsule",
+   "uz": "kapsula",
+   "izoh": "bakteriya kapsulasi",
+   "joy": "3-bob, 221",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "pili",
+   "uz": "pililar",
+   "izoh": "",
+   "joy": "3-bob, 221",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "flagella",
+   "uz": "xivchinlar",
+   "izoh": "birlik: xivchin",
+   "joy": "3-bob, 221",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "vacuole",
+   "uz": "vakuola",
+   "izoh": "water vacuole → suv vakuolasi",
+   "joy": "3-bob, 224",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "turgor pressure",
+   "uz": "turgor bosimi",
+   "izoh": "",
+   "joy": "3-bob, 224",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "glycolysis",
+   "uz": "glikoliz",
+   "izoh": "",
+   "joy": "3-bob, 230",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "biochemical pathway",
+   "uz": "biokimyoviy yo‘l",
+   "izoh": "",
+   "joy": "3-bob, 230",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "byproduct",
+   "uz": "qo‘shimcha mahsulot",
+   "izoh": "",
+   "joy": "3-bob, 230",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "adenosine triphosphate",
+   "uz": "adenozintrifosfat",
+   "izoh": "ATF",
+   "joy": "3-bob, 228",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "autocrine signaling",
+   "uz": "autokrin signalizatsiya",
+   "izoh": "",
+   "joy": "3-bob, 233",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "paracrine signaling",
+   "uz": "parakrin signalizatsiya",
+   "izoh": "",
+   "joy": "3-bob, 234",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "endocrine signaling",
+   "uz": "endokrin signalizatsiya",
+   "izoh": "",
+   "joy": "3-bob, 235",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "hormone",
+   "uz": "gormon",
+   "izoh": "",
+   "joy": "3-bob, 235",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cell cycle",
+   "uz": "hujayra sikli",
+   "izoh": "",
+   "joy": "3-bob, 238",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "mitosis",
+   "uz": "mitoz",
+   "izoh": "",
+   "joy": "3-bob, 238",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "cytokinesis",
+   "uz": "sitokinez",
+   "izoh": "",
+   "joy": "3-bob, 238",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "apoptosis",
+   "uz": "apoptoz",
+   "izoh": "",
+   "joy": "3-bob, 238",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "daughter cells",
+   "uz": "qiz hujayralar",
+   "izoh": "",
+   "joy": "3-bob, 238",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "DNA replication",
+   "uz": "DNK replikatsiyasi",
+   "izoh": "",
+   "joy": "3-bob, 242",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "gametes",
+   "uz": "gametalar",
+   "izoh": "",
+   "joy": "3-bob, 242",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "offspring",
+   "uz": "nasl",
+   "izoh": "",
+   "joy": "3-bob, 238",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "algae",
+   "uz": "suvo‘tlari",
+   "izoh": "",
+   "joy": "3-bob, 205",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Robert Hooke",
+   "uz": "Robert Guk",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "3-bob, 204",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Anton van Leeuwenhoek",
+   "uz": "Antoni van Levenguk",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "3-bob, 205",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Matthias Schleiden",
+   "uz": "Mattias Shleyden",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "3-bob, 206",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Theodor Schwann",
+   "uz": "Teodor Shvann",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "3-bob, 206",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Rudolph Virchow",
+   "uz": "Rudolf Virxov",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "3-bob, 206",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Henrietta Lacks",
+   "uz": "Genrietta Laks",
+   "izoh": "ism, birinchi uchraganda asli qavsda",
+   "joy": "3-bob, 215",
+   "holat": "TASDIQLANGAN"
+  },
+  {
+   "en": "Spirogyra",
+   "uz": "spirogira",
+   "izoh": "suvo‘ti avlodi, birinchi uchraganda lotincha qavsda",
+   "joy": "3-bob, 205",
+   "holat": "TASDIQLANGAN"
+  }
+ ],
+ "tasdiq_kerak": []
+}
