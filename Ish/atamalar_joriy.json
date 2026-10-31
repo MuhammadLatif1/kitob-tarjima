@@ -4324,5 +4324,113 @@
   "izoh": "",
   "joy": "14-bob, 1070",
   "holat": "TASDIQLANGAN"
+ },
+ "Section Five: Cell Transport and Communication": {
+  "uz": "Beshinchi bo‘lim: Hujayra transporti va aloqasi",
+  "izoh": "mundarija bo‘yicha",
+  "joy": "16-bob, 1077",
+  "holat": "TASDIQLANGAN"
+ },
+ "gatekeeper": {
+  "uz": "darvozabon",
+  "izoh": "plazmatik membrana obrazi",
+  "joy": "16-bob, 1079",
+  "holat": "TASDIQLANGAN"
+ },
+ "cytoplasmic membrane / plasmalemma": {
+  "uz": "sitoplazmatik membrana / plazmalemma",
+  "izoh": "",
+  "joy": "16-bob, 1081",
+  "holat": "TASDIQLANGAN"
+ },
+ "fluid mosaic model": {
+  "uz": "suyuq-mozaik model",
+  "izoh": "",
+  "joy": "16-bob, 1081",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipid rafts": {
+  "uz": "lipid sallari",
+  "izoh": "",
+  "joy": "16-bob, 1088",
+  "holat": "TASDIQLANGAN"
+ },
+ "antifreeze": {
+  "uz": "antifriz",
+  "izoh": "",
+  "joy": "16-bob, 1088",
+  "holat": "TASDIQLANGAN"
+ },
+ "micelle": {
+  "uz": "mitsella",
+  "izoh": "",
+  "joy": "16-bob, 1092",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipoproteins": {
+  "uz": "lipoproteinlar",
+  "izoh": "",
+  "joy": "16-bob, 1096",
+  "holat": "TASDIQLANGAN"
+ },
+ "cerebrosides / gangliosides": {
+  "uz": "serebrozidlar / gangliozidlar",
+  "izoh": "",
+  "joy": "16-bob, 1099",
+  "holat": "TASDIQLANGAN"
+ },
+ "glycocalyx": {
+  "uz": "glikokaliks",
+  "izoh": "",
+  "joy": "16-bob, 1100",
+  "holat": "TASDIQLANGAN"
+ },
+ "white blood cells / platelets": {
+  "uz": "oq qon hujayralari / trombotsitlar",
+  "izoh": "",
+  "joy": "16-bob, 1100",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipid-anchored proteins": {
+  "uz": "lipid bilan bog‘langan oqsillar",
+  "izoh": "",
+  "joy": "16-bob, 1106",
+  "holat": "TASDIQLANGAN"
+ },
+ "ion channel / ion pump": {
+  "uz": "ion kanali / ion nasosi",
+  "izoh": "",
+  "joy": "16-bob, 1105",
+  "holat": "TASDIQLANGAN"
+ },
+ "ligand": {
+  "uz": "ligand",
+  "izoh": "",
+  "joy": "16-bob, 1108",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell-to-cell signaling": {
+  "uz": "hujayralararo signal uzatish",
+  "izoh": "",
+  "joy": "16-bob, 1108",
+  "holat": "TASDIQLANGAN"
+ },
+ "ACE2 receptor": {
+  "uz": "ACE2 retseptori",
+  "izoh": "",
+  "joy": "16-bob, 1109",
+  "holat": "TASDIQLANGAN"
+ },
+ "carrier proteins": {
+  "uz": "tashuvchi oqsillar",
+  "izoh": "",
+  "joy": "16-bob, 1116",
+  "holat": "TASDIQLANGAN"
+ },
+ "active transport": {
+  "uz": "faol transport",
+  "izoh": "mundarija: Passiv va faol transport",
+  "joy": "16-bob, 1117",
+  "holat": "TASDIQLANGAN"
  }
 }

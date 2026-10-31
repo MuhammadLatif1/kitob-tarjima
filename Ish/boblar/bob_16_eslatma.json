@@ -1,0 +1,120 @@
+{
+ "noaniq": [
+  "1087: «vegetable shortening» → «qandolatchilik yog‘i», «lard» → «cho‘chqa yog‘i» deb berildi.",
+  "1110: «telephone tag» o‘yini o‘zbekcha ekvivalenti «buzilgan telefon» bilan berildi (ma’nosi biroz farq qiladi: aslida bir-biriga qo‘ng‘iroq qilib ulana olmaslik).",
+  "1114: asl matnda «at several point» (point birlikda): imlo xatosi, tarjimaga ta’sir qilmaydi.",
+  "1086, 1089, 1093, 1095, 1097, 1102, 1112: rasmlar; ichidagi yozuvlar (agar bo‘lsa) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "Section Five: Cell Transport and Communication",
+   "uz": "Beshinchi bo‘lim: Hujayra transporti va aloqasi",
+   "izoh": "mundarija bo‘yicha",
+   "joy": "16-bob, 1077"
+  },
+  {
+   "en": "gatekeeper",
+   "uz": "darvozabon",
+   "izoh": "plazmatik membrana obrazi",
+   "joy": "16-bob, 1079"
+  },
+  {
+   "en": "cytoplasmic membrane / plasmalemma",
+   "uz": "sitoplazmatik membrana / plazmalemma",
+   "izoh": "",
+   "joy": "16-bob, 1081"
+  },
+  {
+   "en": "fluid mosaic model",
+   "uz": "suyuq-mozaik model",
+   "izoh": "",
+   "joy": "16-bob, 1081"
+  },
+  {
+   "en": "lipid rafts",
+   "uz": "lipid sallari",
+   "izoh": "",
+   "joy": "16-bob, 1088"
+  },
+  {
+   "en": "antifreeze",
+   "uz": "antifriz",
+   "izoh": "",
+   "joy": "16-bob, 1088"
+  },
+  {
+   "en": "micelle",
+   "uz": "mitsella",
+   "izoh": "",
+   "joy": "16-bob, 1092"
+  },
+  {
+   "en": "lipoproteins",
+   "uz": "lipoproteinlar",
+   "izoh": "",
+   "joy": "16-bob, 1096"
+  },
+  {
+   "en": "cerebrosides / gangliosides",
+   "uz": "serebrozidlar / gangliozidlar",
+   "izoh": "",
+   "joy": "16-bob, 1099"
+  },
+  {
+   "en": "glycocalyx",
+   "uz": "glikokaliks",
+   "izoh": "",
+   "joy": "16-bob, 1100"
+  },
+  {
+   "en": "white blood cells / platelets",
+   "uz": "oq qon hujayralari / trombotsitlar",
+   "izoh": "",
+   "joy": "16-bob, 1100"
+  },
+  {
+   "en": "lipid-anchored proteins",
+   "uz": "lipid bilan bog‘langan oqsillar",
+   "izoh": "",
+   "joy": "16-bob, 1106"
+  },
+  {
+   "en": "ion channel / ion pump",
+   "uz": "ion kanali / ion nasosi",
+   "izoh": "",
+   "joy": "16-bob, 1105"
+  },
+  {
+   "en": "ligand",
+   "uz": "ligand",
+   "izoh": "",
+   "joy": "16-bob, 1108"
+  },
+  {
+   "en": "cell-to-cell signaling",
+   "uz": "hujayralararo signal uzatish",
+   "izoh": "",
+   "joy": "16-bob, 1108"
+  },
+  {
+   "en": "ACE2 receptor",
+   "uz": "ACE2 retseptori",
+   "izoh": "",
+   "joy": "16-bob, 1109"
+  },
+  {
+   "en": "carrier proteins",
+   "uz": "tashuvchi oqsillar",
+   "izoh": "",
+   "joy": "16-bob, 1116"
+  },
+  {
+   "en": "active transport",
+   "uz": "faol transport",
+   "izoh": "mundarija: Passiv va faol transport",
+   "joy": "16-bob, 1117"
+  }
+ ],
+ "tasdiq_kerak": []
+}
