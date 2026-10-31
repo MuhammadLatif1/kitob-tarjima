@@ -3832,5 +3832,221 @@
   "izoh": "",
   "joy": "12-bob, 904",
   "holat": "TASDIQLANGAN"
+ },
+ "cilia": {
+  "uz": "kipriklar",
+  "izoh": "sing. cilium → kiprik",
+  "joy": "13-bob, 925",
+  "holat": "TASDIQLANGAN"
+ },
+ "peptidoglycan": {
+  "uz": "peptidoglikan",
+  "izoh": "",
+  "joy": "13-bob, 929",
+  "holat": "TASDIQLANGAN"
+ },
+ "N-acetylmuramic acid (NAM)": {
+  "uz": "N-atsetilmuram kislota (NAM)",
+  "izoh": "NAG/NAM qisqartmalari saqlandi",
+  "joy": "13-bob, 931",
+  "holat": "TASDIQLANGAN"
+ },
+ "pseudomurein": {
+  "uz": "psevdomurein",
+  "izoh": "",
+  "joy": "13-bob, 931",
+  "holat": "TASDIQLANGAN"
+ },
+ "flagellum": {
+  "uz": "xivchin",
+  "izoh": "ko‘plik: xivchinlar (flagella)",
+  "joy": "13-bob, 932",
+  "holat": "TASDIQLANGAN"
+ },
+ "flagellin": {
+  "uz": "flagellin",
+  "izoh": "",
+  "joy": "13-bob, 933",
+  "holat": "TASDIQLANGAN"
+ },
+ "Mot complex": {
+  "uz": "Mot kompleksi",
+  "izoh": "",
+  "joy": "13-bob, 933",
+  "holat": "TASDIQLANGAN"
+ },
+ "cytoplasm": {
+  "uz": "sitoplazma",
+  "izoh": "",
+  "joy": "13-bob, 924",
+  "holat": "TASDIQLANGAN"
+ },
+ "subunit": {
+  "uz": "subbirlik",
+  "izoh": "50S/30S subbirliklar; 70S ribosoma",
+  "joy": "13-bob, 937",
+  "holat": "TASDIQLANGAN"
+ },
+ "antibiotic": {
+  "uz": "antibiotik",
+  "izoh": "",
+  "joy": "13-bob, 938",
+  "holat": "TASDIQLANGAN"
+ },
+ "tetracycline": {
+  "uz": "tetrasiklin",
+  "izoh": "",
+  "joy": "13-bob, 938",
+  "holat": "TASDIQLANGAN"
+ },
+ "single-celled / unicellular organism": {
+  "uz": "bir hujayrali organizm",
+  "izoh": "",
+  "joy": "13-bob, 910",
+  "holat": "TASDIQLANGAN"
+ },
+ "multicellular": {
+  "uz": "ko‘p hujayrali",
+  "izoh": "",
+  "joy": "4-bo‘lim, 908",
+  "holat": "TASDIQLANGAN"
+ },
+ "cocci / coccus": {
+  "uz": "kokklar / kokk",
+  "izoh": "",
+  "joy": "13-bob, 943",
+  "holat": "TASDIQLANGAN"
+ },
+ "bacilli / bacillus": {
+  "uz": "batsillalar / batsilla",
+  "izoh": "",
+  "joy": "13-bob, 943",
+  "holat": "TASDIQLANGAN"
+ },
+ "vibrio": {
+  "uz": "vibrionlar",
+  "izoh": "",
+  "joy": "13-bob, 943",
+  "holat": "TASDIQLANGAN"
+ },
+ "coccobacilli": {
+  "uz": "kokkobatsillalar",
+  "izoh": "",
+  "joy": "13-bob, 943",
+  "holat": "TASDIQLANGAN"
+ },
+ "asexual division": {
+  "uz": "jinssiz bo‘linish",
+  "izoh": "",
+  "joy": "13-bob, 945",
+  "holat": "TASDIQLANGAN"
+ },
+ "parent cell": {
+  "uz": "ona hujayra",
+  "izoh": "",
+  "joy": "13-bob, 945",
+  "holat": "TASDIQLANGAN"
+ },
+ "bacterial conjugation": {
+  "uz": "bakterial konyugatsiya",
+  "izoh": "",
+  "joy": "13-bob, 946",
+  "holat": "TASDIQLANGAN"
+ },
+ "transformation (bacterial)": {
+  "uz": "transformatsiya",
+  "izoh": "",
+  "joy": "13-bob, 946",
+  "holat": "TASDIQLANGAN"
+ },
+ "transduction": {
+  "uz": "transduksiya",
+  "izoh": "",
+  "joy": "13-bob, 947",
+  "holat": "TASDIQLANGAN"
+ },
+ "vector": {
+  "uz": "vektor",
+  "izoh": "DNK tashuvchi",
+  "joy": "13-bob, 947",
+  "holat": "TASDIQLANGAN"
+ },
+ "bacteriophage": {
+  "uz": "bakteriofag",
+  "izoh": "",
+  "joy": "13-bob, 947",
+  "holat": "TASDIQLANGAN"
+ },
+ "horizontal gene transfer": {
+  "uz": "gorizontal gen ko‘chishi",
+  "izoh": "",
+  "joy": "13-bob, 948",
+  "holat": "TASDIQLANGAN"
+ },
+ "plasmid": {
+  "uz": "plazmida",
+  "izoh": "",
+  "joy": "13-bob, 948",
+  "holat": "TASDIQLANGAN"
+ },
+ "antibiotic resistance": {
+  "uz": "antibiotiklarga chidamlilik",
+  "izoh": "",
+  "joy": "13-bob, 950",
+  "holat": "TASDIQLANGAN"
+ },
+ "biofilm": {
+  "uz": "bioplyonka",
+  "izoh": "",
+  "joy": "13-bob, 952",
+  "holat": "TASDIQLANGAN"
+ },
+ "differentiation": {
+  "uz": "differensiatsiya",
+  "izoh": "",
+  "joy": "13-bob, 952",
+  "holat": "TASDIQLANGAN"
+ },
+ "quorum sensing": {
+  "uz": "kvorum sezish",
+  "izoh": "",
+  "joy": "13-bob, 953",
+  "holat": "TASDIQLANGAN"
+ },
+ "conservation (of the genetic code)": {
+  "uz": "konservativlik",
+  "izoh": "genetik kodning konservativligi",
+  "joy": "13-bob, 959",
+  "holat": "TASDIQLANGAN"
+ },
+ "symbiosis": {
+  "uz": "simbioz",
+  "izoh": "",
+  "joy": "13-bob, 963",
+  "holat": "TASDIQLANGAN"
+ },
+ "de-evolved": {
+  "uz": "regressiv evolyutsiyaga uchragan",
+  "izoh": "",
+  "joy": "13-bob, 964",
+  "holat": "TASDIQLANGAN"
+ },
+ "yeasts / amoeba / euglena / giardia": {
+  "uz": "achitqilar / amyoba / evglena / lyambliya",
+  "izoh": "",
+  "joy": "13-bob, 965",
+  "holat": "TASDIQLANGAN"
+ },
+ "receptor": {
+  "uz": "retseptor",
+  "izoh": "",
+  "joy": "13-bob, 927",
+  "holat": "TASDIQLANGAN"
+ },
+ "glycoproteins": {
+  "uz": "glikoproteinlar",
+  "izoh": "",
+  "joy": "13-bob, 928",
+  "holat": "TASDIQLANGAN"
  }
 }

@@ -1,0 +1,230 @@
+{
+ "noaniq": [
+  "911: aslda «4 to 6 x 10^30 ... four to six quintillion» deyilgan; 10^30 aslida nonillion (kvintillion emas). Muallif lafzi saqlandi (kvintillion), tekshirilsin.",
+  "912: aslda eukariot hujayralar soni 10^7 (10,000,000) va nisbat 10^23:1 deyilgan; bu raqamlar ilmiy jihatdan shubhali, lekin o‘zgartirilmadi.",
+  "913: «350 to 550 peta-grams» → 350 dan 550 petagrammgacha deb berildi.",
+  "937: aslda «In eukaryotes, a few of these float in the cytoplasm, but in prokaryotes, they have no other choice» — ma’nosi: prokariotlarda ribosomalar faqat sitoplazmada erkin bo‘ladi; lafzga yaqin tarjima qilindi.",
+  "964: «de-evolved» → «regressiv evolyutsiyaga uchragan» deb berildi.",
+  "919, 921, 930, 934, 944, 949, 960: rasmlar (⟦x:1⟧); rasm ichidagi yozuvlar (bo‘lsa) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "cilia",
+   "uz": "kipriklar",
+   "izoh": "sing. cilium → kiprik",
+   "joy": "13-bob, 925"
+  },
+  {
+   "en": "peptidoglycan",
+   "uz": "peptidoglikan",
+   "izoh": "",
+   "joy": "13-bob, 929"
+  },
+  {
+   "en": "N-acetylmuramic acid (NAM)",
+   "uz": "N-atsetilmuram kislota (NAM)",
+   "izoh": "NAG/NAM qisqartmalari saqlandi",
+   "joy": "13-bob, 931"
+  },
+  {
+   "en": "pseudomurein",
+   "uz": "psevdomurein",
+   "izoh": "",
+   "joy": "13-bob, 931"
+  },
+  {
+   "en": "flagellum",
+   "uz": "xivchin",
+   "izoh": "ko‘plik: xivchinlar (flagella)",
+   "joy": "13-bob, 932"
+  },
+  {
+   "en": "flagellin",
+   "uz": "flagellin",
+   "izoh": "",
+   "joy": "13-bob, 933"
+  },
+  {
+   "en": "Mot complex",
+   "uz": "Mot kompleksi",
+   "izoh": "",
+   "joy": "13-bob, 933"
+  },
+  {
+   "en": "cytoplasm",
+   "uz": "sitoplazma",
+   "izoh": "",
+   "joy": "13-bob, 924"
+  },
+  {
+   "en": "subunit",
+   "uz": "subbirlik",
+   "izoh": "50S/30S subbirliklar; 70S ribosoma",
+   "joy": "13-bob, 937"
+  },
+  {
+   "en": "antibiotic",
+   "uz": "antibiotik",
+   "izoh": "",
+   "joy": "13-bob, 938"
+  },
+  {
+   "en": "tetracycline",
+   "uz": "tetrasiklin",
+   "izoh": "",
+   "joy": "13-bob, 938"
+  },
+  {
+   "en": "single-celled / unicellular organism",
+   "uz": "bir hujayrali organizm",
+   "izoh": "",
+   "joy": "13-bob, 910"
+  },
+  {
+   "en": "multicellular",
+   "uz": "ko‘p hujayrali",
+   "izoh": "",
+   "joy": "4-bo‘lim, 908"
+  },
+  {
+   "en": "cocci / coccus",
+   "uz": "kokklar / kokk",
+   "izoh": "",
+   "joy": "13-bob, 943"
+  },
+  {
+   "en": "bacilli / bacillus",
+   "uz": "batsillalar / batsilla",
+   "izoh": "",
+   "joy": "13-bob, 943"
+  },
+  {
+   "en": "vibrio",
+   "uz": "vibrionlar",
+   "izoh": "",
+   "joy": "13-bob, 943"
+  },
+  {
+   "en": "coccobacilli",
+   "uz": "kokkobatsillalar",
+   "izoh": "",
+   "joy": "13-bob, 943"
+  },
+  {
+   "en": "asexual division",
+   "uz": "jinssiz bo‘linish",
+   "izoh": "",
+   "joy": "13-bob, 945"
+  },
+  {
+   "en": "parent cell",
+   "uz": "ona hujayra",
+   "izoh": "",
+   "joy": "13-bob, 945"
+  },
+  {
+   "en": "bacterial conjugation",
+   "uz": "bakterial konyugatsiya",
+   "izoh": "",
+   "joy": "13-bob, 946"
+  },
+  {
+   "en": "transformation (bacterial)",
+   "uz": "transformatsiya",
+   "izoh": "",
+   "joy": "13-bob, 946"
+  },
+  {
+   "en": "transduction",
+   "uz": "transduksiya",
+   "izoh": "",
+   "joy": "13-bob, 947"
+  },
+  {
+   "en": "vector",
+   "uz": "vektor",
+   "izoh": "DNK tashuvchi",
+   "joy": "13-bob, 947"
+  },
+  {
+   "en": "bacteriophage",
+   "uz": "bakteriofag",
+   "izoh": "",
+   "joy": "13-bob, 947"
+  },
+  {
+   "en": "horizontal gene transfer",
+   "uz": "gorizontal gen ko‘chishi",
+   "izoh": "",
+   "joy": "13-bob, 948"
+  },
+  {
+   "en": "plasmid",
+   "uz": "plazmida",
+   "izoh": "",
+   "joy": "13-bob, 948"
+  },
+  {
+   "en": "antibiotic resistance",
+   "uz": "antibiotiklarga chidamlilik",
+   "izoh": "",
+   "joy": "13-bob, 950"
+  },
+  {
+   "en": "biofilm",
+   "uz": "bioplyonka",
+   "izoh": "",
+   "joy": "13-bob, 952"
+  },
+  {
+   "en": "differentiation",
+   "uz": "differensiatsiya",
+   "izoh": "",
+   "joy": "13-bob, 952"
+  },
+  {
+   "en": "quorum sensing",
+   "uz": "kvorum sezish",
+   "izoh": "",
+   "joy": "13-bob, 953"
+  },
+  {
+   "en": "conservation (of the genetic code)",
+   "uz": "konservativlik",
+   "izoh": "genetik kodning konservativligi",
+   "joy": "13-bob, 959"
+  },
+  {
+   "en": "symbiosis",
+   "uz": "simbioz",
+   "izoh": "",
+   "joy": "13-bob, 963"
+  },
+  {
+   "en": "de-evolved",
+   "uz": "regressiv evolyutsiyaga uchragan",
+   "izoh": "",
+   "joy": "13-bob, 964"
+  },
+  {
+   "en": "yeasts / amoeba / euglena / giardia",
+   "uz": "achitqilar / amyoba / evglena / lyambliya",
+   "izoh": "",
+   "joy": "13-bob, 965"
+  },
+  {
+   "en": "receptor",
+   "uz": "retseptor",
+   "izoh": "",
+   "joy": "13-bob, 927"
+  },
+  {
+   "en": "glycoproteins",
+   "uz": "glikoproteinlar",
+   "izoh": "",
+   "joy": "13-bob, 928"
+  }
+ ],
+ "tasdiq_kerak": []
+}

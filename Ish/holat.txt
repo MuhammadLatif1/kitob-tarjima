@@ -1,7 +1,7 @@
 Fayl: Asl/Biology_Made_Easy_1_qisim.docx
 Boblar: Ish/boblar.json (22 ta: 0-qism, So'zboshi, 1-20-boblar), bo'lish tekshirilgan (XATO 0, TEKSHIRING 0).
-Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
-Keyingi: 14-raqamli bob (Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells), birlik 905 dan
+Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+Keyingi: 15-raqamli bob (Chapter 14: The Structure of a Eukaryotic Cell), birlik 970 dan
 Eslatma: bob sarlavhalari mundarija tarjimasi (Ish/boblar/bob_00.json, 16-71) bilan aynan bir xil bo'lsin.
 Foydalanuvchi so'rovi: hozircha faqat 2-bobgacha (1-146) tarjima ko'rsatildi.
 Atamalar: foydalanuvchi 1-fayl atamalarini tasdiqladi; yangi atamalar agent tomonidan to‘g‘ridan-to‘g‘ri TASDIQLANGAN ga kiritiladi.
