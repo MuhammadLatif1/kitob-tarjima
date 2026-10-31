@@ -1,0 +1,128 @@
+{
+ "noaniq": [
+  "1133: muallif «diffundere» so‘zini yunoncha deydi, aslida bu lotincha so‘z; asl matndagidek «Yunonlar» qoldirildi.",
+  "1135: «taxminan 100 yil oldin» — Robert Broun hodisani 1827-yilda kuzatgan; asl matndagi raqam o‘zgartirilmadi. Shuningdek, Broun hodisaga o‘zi nom bermagan, muallif fikri saqlandi.",
+  "1140: «permittivity» (fizikada dielektrik singdiruvchanlik) muallif tomonidan «o‘tkazib yuborish» ma’nosida ishlatilgan; «o‘tkazib yuborish xususiyati» deb berildi.",
+  "1161: ⟦s1⟧ oralig‘i asl matnda ikki gapni («isotonic solutions. Hypertonic solutions») qamraydi; tarjimada ham shunday saqlandi.",
+  "1167: asl matnda «cells that are permeable to the membrane but not to those things that can’t cross it» mantiqan chalkash; «membranadan o‘ta oladigan narsalar bilan sodir bo‘ladi, o‘ta olmaydiganlar bilan sodir bo‘lmaydi» ma’nosida tarjima qilindi.",
+  "1125: «Gay-Lussac’s Law» — aslida bosim va harorat proporsionalligi Gey-Lyussak (yoki Amonton) qonuni; asl matndagidek berildi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "concentration gradient",
+   "uz": "konsentratsiya gradiyenti",
+   "izoh": "",
+   "joy": "17-bob (16-bob: Diffuziya va osmos), 1122"
+  },
+  {
+   "en": "Gay-Lussac's Law",
+   "uz": "Gey-Lyussak qonuni",
+   "izoh": "",
+   "joy": "17-bob, 1125"
+  },
+  {
+   "en": "bulk flow",
+   "uz": "yalpi oqim",
+   "izoh": "",
+   "joy": "17-bob, 1134"
+  },
+  {
+   "en": "alveoli",
+   "uz": "alveolalar",
+   "izoh": "air sacs → havo pufakchalari",
+   "joy": "17-bob, 1134"
+  },
+  {
+   "en": "atomic diffusion / molecular diffusion",
+   "uz": "atom diffuziyasi / molekulyar diffuziya",
+   "izoh": "",
+   "joy": "17-bob, 1135"
+  },
+  {
+   "en": "Brownian motion",
+   "uz": "Broun harakati",
+   "izoh": "Robert Brown → Robert Broun (Robert Brown)",
+   "joy": "17-bob, 1135"
+  },
+  {
+   "en": "random walk motion",
+   "uz": "tasodifiy daydish harakati",
+   "izoh": "",
+   "joy": "17-bob, 1137"
+  },
+  {
+   "en": "net diffusion / net movement",
+   "uz": "natijaviy diffuziya / natijaviy harakat",
+   "izoh": "",
+   "joy": "17-bob, 1137"
+  },
+  {
+   "en": "Remember this:",
+   "uz": "Esda tuting:",
+   "izoh": "rukn yorlig‘i",
+   "joy": "17-bob, 1138"
+  },
+  {
+   "en": "permeability / permeable",
+   "uz": "o‘tkazuvchanlik / o‘tkazuvchan",
+   "izoh": "",
+   "joy": "17-bob, 1140"
+  },
+  {
+   "en": "permittivity",
+   "uz": "o‘tkazib yuborish xususiyati",
+   "izoh": "muallif ma’nosida (permit)",
+   "joy": "17-bob, 1140"
+  },
+  {
+   "en": "simple diffusion / passive diffusion",
+   "uz": "oddiy diffuziya / passiv diffuziya",
+   "izoh": "",
+   "joy": "17-bob, 1142"
+  },
+  {
+   "en": "aquaporins",
+   "uz": "akvaporinlar",
+   "izoh": "",
+   "joy": "17-bob, 1150"
+  },
+  {
+   "en": "facilitated diffusion",
+   "uz": "yengillashtirilgan diffuziya",
+   "izoh": "",
+   "joy": "17-bob, 1150"
+  },
+  {
+   "en": "osmotic pressure",
+   "uz": "osmotik bosim",
+   "izoh": "",
+   "joy": "17-bob, 1153"
+  },
+  {
+   "en": "U-tube",
+   "uz": "U-simon nay",
+   "izoh": "",
+   "joy": "17-bob, 1154"
+  },
+  {
+   "en": "dilute solution / concentrated solution",
+   "uz": "suyultirilgan eritma / konsentrlangan eritma",
+   "izoh": "",
+   "joy": "17-bob, 1160"
+  },
+  {
+   "en": "turgid / flaccid",
+   "uz": "turgor holatidagi / bo‘shashgan",
+   "izoh": "",
+   "joy": "17-bob, 1163"
+  },
+  {
+   "en": "plasmolyzed",
+   "uz": "plazmolizga uchragan",
+   "izoh": "",
+   "joy": "17-bob, 1163"
+  }
+ ],
+ "tasdiq_kerak": []
+}

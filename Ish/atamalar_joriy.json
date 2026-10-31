@@ -4432,5 +4432,119 @@
   "izoh": "mundarija: Passiv va faol transport",
   "joy": "16-bob, 1117",
   "holat": "TASDIQLANGAN"
+ },
+ "concentration gradient": {
+  "uz": "konsentratsiya gradiyenti",
+  "izoh": "",
+  "joy": "17-bob (16-bob: Diffuziya va osmos), 1122",
+  "holat": "TASDIQLANGAN"
+ },
+ "Gay-Lussac's Law": {
+  "uz": "Gey-Lyussak qonuni",
+  "izoh": "",
+  "joy": "17-bob, 1125",
+  "holat": "TASDIQLANGAN"
+ },
+ "bulk flow": {
+  "uz": "yalpi oqim",
+  "izoh": "",
+  "joy": "17-bob, 1134",
+  "holat": "TASDIQLANGAN"
+ },
+ "alveoli": {
+  "uz": "alveolalar",
+  "izoh": "air sacs → havo pufakchalari",
+  "joy": "17-bob, 1134",
+  "holat": "TASDIQLANGAN"
+ },
+ "atomic diffusion / molecular diffusion": {
+  "uz": "atom diffuziyasi / molekulyar diffuziya",
+  "izoh": "",
+  "joy": "17-bob, 1135",
+  "holat": "TASDIQLANGAN"
+ },
+ "Brownian motion": {
+  "uz": "Broun harakati",
+  "izoh": "Robert Brown → Robert Broun (Robert Brown)",
+  "joy": "17-bob, 1135",
+  "holat": "TASDIQLANGAN"
+ },
+ "random walk motion": {
+  "uz": "tasodifiy daydish harakati",
+  "izoh": "",
+  "joy": "17-bob, 1137",
+  "holat": "TASDIQLANGAN"
+ },
+ "net diffusion / net movement": {
+  "uz": "natijaviy diffuziya / natijaviy harakat",
+  "izoh": "",
+  "joy": "17-bob, 1137",
+  "holat": "TASDIQLANGAN"
+ },
+ "Remember this:": {
+  "uz": "Esda tuting:",
+  "izoh": "rukn yorlig‘i",
+  "joy": "17-bob, 1138",
+  "holat": "TASDIQLANGAN"
+ },
+ "permeability / permeable": {
+  "uz": "o‘tkazuvchanlik / o‘tkazuvchan",
+  "izoh": "",
+  "joy": "17-bob, 1140",
+  "holat": "TASDIQLANGAN"
+ },
+ "permittivity": {
+  "uz": "o‘tkazib yuborish xususiyati",
+  "izoh": "muallif ma’nosida (permit)",
+  "joy": "17-bob, 1140",
+  "holat": "TASDIQLANGAN"
+ },
+ "simple diffusion / passive diffusion": {
+  "uz": "oddiy diffuziya / passiv diffuziya",
+  "izoh": "",
+  "joy": "17-bob, 1142",
+  "holat": "TASDIQLANGAN"
+ },
+ "aquaporins": {
+  "uz": "akvaporinlar",
+  "izoh": "",
+  "joy": "17-bob, 1150",
+  "holat": "TASDIQLANGAN"
+ },
+ "facilitated diffusion": {
+  "uz": "yengillashtirilgan diffuziya",
+  "izoh": "",
+  "joy": "17-bob, 1150",
+  "holat": "TASDIQLANGAN"
+ },
+ "osmotic pressure": {
+  "uz": "osmotik bosim",
+  "izoh": "",
+  "joy": "17-bob, 1153",
+  "holat": "TASDIQLANGAN"
+ },
+ "U-tube": {
+  "uz": "U-simon nay",
+  "izoh": "",
+  "joy": "17-bob, 1154",
+  "holat": "TASDIQLANGAN"
+ },
+ "dilute solution / concentrated solution": {
+  "uz": "suyultirilgan eritma / konsentrlangan eritma",
+  "izoh": "",
+  "joy": "17-bob, 1160",
+  "holat": "TASDIQLANGAN"
+ },
+ "turgid / flaccid": {
+  "uz": "turgor holatidagi / bo‘shashgan",
+  "izoh": "",
+  "joy": "17-bob, 1163",
+  "holat": "TASDIQLANGAN"
+ },
+ "plasmolyzed": {
+  "uz": "plazmolizga uchragan",
+  "izoh": "",
+  "joy": "17-bob, 1163",
+  "holat": "TASDIQLANGAN"
  }
 }
