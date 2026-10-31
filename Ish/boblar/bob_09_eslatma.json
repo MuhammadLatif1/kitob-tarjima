@@ -1,0 +1,279 @@
+{
+ "noaniq": [
+  "578: muallif «oltilik»ka kalsiyni kiritgan, 571 va 617 da esa oltinchi element oltingugurt deyilgan; asldagidek tarjima qilindi.",
+  "583: «metabolize glucose into sugar» (glyukozani shakarga aylantirish) mantiqan noaniq; asldagidek tarjima qilindi.",
+  "583: «You have energy for about 90 seconds without oxygen» — asldagidek berildi.",
+  "593: vodorod gazi «koinotning boshqa joylarida juda ko‘p, lekin Yerda unchalik emas» degan jumla asldagi tartibda («not as much as on Earth») noaniq; mazmuniga ko‘ra tarjima qilindi.",
+  "600: «ammonia turns into nitrite ions, which is what plants use» — ilmiy jihatdan o‘simliklar asosan nitratlardan foydalanadi; asldagidek tarjima qilindi.",
+  "617: oltita element ro‘yxatida «phosphate» (fosfat) deb yozilgan, element nomi fosfor bo‘lishi kerak; asldagidek «fosfat» qoldirildi.",
+  "577: 0.004 raqami asl yozuvida qoldirildi; 588 da 1,000 ham shunday."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "half-life",
+   "uz": "yarim yemirilish davri",
+   "izoh": "oldingi bobdagidek",
+   "joy": "9-bob, 571"
+  },
+  {
+   "en": "carbon-based",
+   "uz": "uglerodga asoslangan",
+   "izoh": "",
+   "joy": "9-bob, 573"
+  },
+  {
+   "en": "biomolecules",
+   "uz": "biomolekulalar",
+   "izoh": "",
+   "joy": "9-bob, 573"
+  },
+  {
+   "en": "bonding site",
+   "uz": "bog‘lanish joyi",
+   "izoh": "binding site ham",
+   "joy": "9-bob, 573"
+  },
+  {
+   "en": "backbone (molecular)",
+   "uz": "skelet",
+   "izoh": "organik molekula skeleti",
+   "joy": "9-bob, 573"
+  },
+  {
+   "en": "cofactor",
+   "uz": "kofaktor",
+   "izoh": "",
+   "joy": "9-bob, 574"
+  },
+  {
+   "en": "action potential",
+   "uz": "harakat potensiali",
+   "izoh": "",
+   "joy": "9-bob, 575"
+  },
+  {
+   "en": "nerve impulse",
+   "uz": "nerv impulsi",
+   "izoh": "",
+   "joy": "9-bob, 575"
+  },
+  {
+   "en": "enamel",
+   "uz": "emal",
+   "izoh": "tish emali",
+   "joy": "9-bob, 575"
+  },
+  {
+   "en": "hydroxyapatite",
+   "uz": "gidroksiapatit",
+   "izoh": "",
+   "joy": "9-bob, 575"
+  },
+  {
+   "en": "trace element",
+   "uz": "mikroelement",
+   "izoh": "",
+   "joy": "9-bob, 577"
+  },
+  {
+   "en": "hemoglobin",
+   "uz": "gemoglobin",
+   "izoh": "",
+   "joy": "9-bob, 577"
+  },
+  {
+   "en": "thyroid gland",
+   "uz": "qalqonsimon bez",
+   "izoh": "",
+   "joy": "9-bob, 577"
+  },
+  {
+   "en": "aerobic organisms",
+   "uz": "aerob organizmlar",
+   "izoh": "",
+   "joy": "9-bob, 581"
+  },
+  {
+   "en": "anaerobic",
+   "uz": "anaerob",
+   "izoh": "",
+   "joy": "9-bob, 585"
+  },
+  {
+   "en": "lactic acid",
+   "uz": "sut kislotasi",
+   "izoh": "",
+   "joy": "9-bob, 585"
+  },
+  {
+   "en": "red blood cells",
+   "uz": "qizil qon hujayralari",
+   "izoh": "",
+   "joy": "9-bob, 584"
+  },
+  {
+   "en": "carbon cycle",
+   "uz": "uglerod aylanishi",
+   "izoh": "global/geologik va biologik uglerod aylanishi",
+   "joy": "9-bob, 588"
+  },
+  {
+   "en": "starch",
+   "uz": "kraxmal",
+   "izoh": "",
+   "joy": "9-bob, 589"
+  },
+  {
+   "en": "global warming",
+   "uz": "global isish",
+   "izoh": "",
+   "joy": "9-bob, 590"
+  },
+  {
+   "en": "Big Bang",
+   "uz": "Katta portlash",
+   "izoh": "",
+   "joy": "9-bob, 592"
+  },
+  {
+   "en": "fusion (nuclear)",
+   "uz": "termoyadro sintezi",
+   "izoh": "",
+   "joy": "9-bob, 592"
+  },
+  {
+   "en": "gas giants",
+   "uz": "gaz gigantlari",
+   "izoh": "",
+   "joy": "9-bob, 592"
+  },
+  {
+   "en": "hydrogen bomb",
+   "uz": "vodorod bombasi",
+   "izoh": "",
+   "joy": "9-bob, 593"
+  },
+  {
+   "en": "nitrogen cycle",
+   "uz": "azot aylanishi",
+   "izoh": "",
+   "joy": "9-bob, 598"
+  },
+  {
+   "en": "urea",
+   "uz": "mochevina",
+   "izoh": "",
+   "joy": "9-bob, 598"
+  },
+  {
+   "en": "metabolite",
+   "uz": "metabolit",
+   "izoh": "",
+   "joy": "9-bob, 598"
+  },
+  {
+   "en": "chlorophyll",
+   "uz": "xlorofill",
+   "izoh": "",
+   "joy": "9-bob, 600"
+  },
+  {
+   "en": "nitrate / nitrite",
+   "uz": "nitrat / nitrit",
+   "izoh": "",
+   "joy": "9-bob, 600"
+  },
+  {
+   "en": "ammonium",
+   "uz": "ammoniy",
+   "izoh": "",
+   "joy": "9-bob, 596"
+  },
+  {
+   "en": "cysteine",
+   "uz": "sistein",
+   "izoh": "",
+   "joy": "9-bob, 603"
+  },
+  {
+   "en": "methionine",
+   "uz": "metionin",
+   "izoh": "",
+   "joy": "9-bob, 603"
+  },
+  {
+   "en": "disulfide bridge",
+   "uz": "disulfid ko‘prigi",
+   "izoh": "",
+   "joy": "9-bob, 603"
+  },
+  {
+   "en": "essential amino acid",
+   "uz": "almashinmaydigan aminokislota",
+   "izoh": "",
+   "joy": "9-bob, 604"
+  },
+  {
+   "en": "sulfite oxidase",
+   "uz": "sulfitoksidaza",
+   "izoh": "",
+   "joy": "9-bob, 604"
+  },
+  {
+   "en": "coenzyme A",
+   "uz": "koferment A",
+   "izoh": "",
+   "joy": "9-bob, 606"
+  },
+  {
+   "en": "alpha-lipoic acid",
+   "uz": "alfa-lipoy kislota",
+   "izoh": "",
+   "joy": "9-bob, 606"
+  },
+  {
+   "en": "antioxidant",
+   "uz": "antioksidant",
+   "izoh": "",
+   "joy": "9-bob, 606"
+  },
+  {
+   "en": "phospholipids",
+   "uz": "fosfolipidlar",
+   "izoh": "",
+   "joy": "9-bob, 608"
+  },
+  {
+   "en": "lipid tail",
+   "uz": "lipid dumi",
+   "izoh": "",
+   "joy": "9-bob, 608"
+  },
+  {
+   "en": "phosphate head",
+   "uz": "fosfat boshchasi",
+   "izoh": "",
+   "joy": "9-bob, 610"
+  },
+  {
+   "en": "phosphodiester bond / bridge",
+   "uz": "fosfodiefir bog‘ / ko‘prigi",
+   "izoh": "",
+   "joy": "9-bob, 611"
+  },
+  {
+   "en": "calcium phosphate",
+   "uz": "kalsiy fosfat",
+   "izoh": "",
+   "joy": "9-bob, 615"
+  },
+  {
+   "en": "collagen",
+   "uz": "kollagen",
+   "izoh": "",
+   "joy": "9-bob, 615"
+  }
+ ],
+ "tasdiq_kerak": []
+}

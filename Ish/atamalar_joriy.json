@@ -2344,5 +2344,257 @@
   "izoh": "ism, birinchi uchraganda asli qavsda",
   "joy": "7-bob, 556",
   "holat": "TASDIQLANGAN"
+ },
+ "carbon-based": {
+  "uz": "uglerodga asoslangan",
+  "izoh": "",
+  "joy": "9-bob, 573",
+  "holat": "TASDIQLANGAN"
+ },
+ "biomolecules": {
+  "uz": "biomolekulalar",
+  "izoh": "",
+  "joy": "9-bob, 573",
+  "holat": "TASDIQLANGAN"
+ },
+ "bonding site": {
+  "uz": "bog‘lanish joyi",
+  "izoh": "binding site ham",
+  "joy": "9-bob, 573",
+  "holat": "TASDIQLANGAN"
+ },
+ "backbone (molecular)": {
+  "uz": "skelet",
+  "izoh": "organik molekula skeleti",
+  "joy": "9-bob, 573",
+  "holat": "TASDIQLANGAN"
+ },
+ "cofactor": {
+  "uz": "kofaktor",
+  "izoh": "",
+  "joy": "9-bob, 574",
+  "holat": "TASDIQLANGAN"
+ },
+ "action potential": {
+  "uz": "harakat potensiali",
+  "izoh": "",
+  "joy": "9-bob, 575",
+  "holat": "TASDIQLANGAN"
+ },
+ "nerve impulse": {
+  "uz": "nerv impulsi",
+  "izoh": "",
+  "joy": "9-bob, 575",
+  "holat": "TASDIQLANGAN"
+ },
+ "enamel": {
+  "uz": "emal",
+  "izoh": "tish emali",
+  "joy": "9-bob, 575",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydroxyapatite": {
+  "uz": "gidroksiapatit",
+  "izoh": "",
+  "joy": "9-bob, 575",
+  "holat": "TASDIQLANGAN"
+ },
+ "trace element": {
+  "uz": "mikroelement",
+  "izoh": "",
+  "joy": "9-bob, 577",
+  "holat": "TASDIQLANGAN"
+ },
+ "hemoglobin": {
+  "uz": "gemoglobin",
+  "izoh": "",
+  "joy": "9-bob, 577",
+  "holat": "TASDIQLANGAN"
+ },
+ "thyroid gland": {
+  "uz": "qalqonsimon bez",
+  "izoh": "",
+  "joy": "9-bob, 577",
+  "holat": "TASDIQLANGAN"
+ },
+ "aerobic organisms": {
+  "uz": "aerob organizmlar",
+  "izoh": "",
+  "joy": "9-bob, 581",
+  "holat": "TASDIQLANGAN"
+ },
+ "anaerobic": {
+  "uz": "anaerob",
+  "izoh": "",
+  "joy": "9-bob, 585",
+  "holat": "TASDIQLANGAN"
+ },
+ "lactic acid": {
+  "uz": "sut kislotasi",
+  "izoh": "",
+  "joy": "9-bob, 585",
+  "holat": "TASDIQLANGAN"
+ },
+ "carbon cycle": {
+  "uz": "uglerod aylanishi",
+  "izoh": "global/geologik va biologik uglerod aylanishi",
+  "joy": "9-bob, 588",
+  "holat": "TASDIQLANGAN"
+ },
+ "starch": {
+  "uz": "kraxmal",
+  "izoh": "",
+  "joy": "9-bob, 589",
+  "holat": "TASDIQLANGAN"
+ },
+ "global warming": {
+  "uz": "global isish",
+  "izoh": "",
+  "joy": "9-bob, 590",
+  "holat": "TASDIQLANGAN"
+ },
+ "Big Bang": {
+  "uz": "Katta portlash",
+  "izoh": "",
+  "joy": "9-bob, 592",
+  "holat": "TASDIQLANGAN"
+ },
+ "fusion (nuclear)": {
+  "uz": "termoyadro sintezi",
+  "izoh": "",
+  "joy": "9-bob, 592",
+  "holat": "TASDIQLANGAN"
+ },
+ "gas giants": {
+  "uz": "gaz gigantlari",
+  "izoh": "",
+  "joy": "9-bob, 592",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrogen bomb": {
+  "uz": "vodorod bombasi",
+  "izoh": "",
+  "joy": "9-bob, 593",
+  "holat": "TASDIQLANGAN"
+ },
+ "nitrogen cycle": {
+  "uz": "azot aylanishi",
+  "izoh": "",
+  "joy": "9-bob, 598",
+  "holat": "TASDIQLANGAN"
+ },
+ "urea": {
+  "uz": "mochevina",
+  "izoh": "",
+  "joy": "9-bob, 598",
+  "holat": "TASDIQLANGAN"
+ },
+ "metabolite": {
+  "uz": "metabolit",
+  "izoh": "",
+  "joy": "9-bob, 598",
+  "holat": "TASDIQLANGAN"
+ },
+ "chlorophyll": {
+  "uz": "xlorofill",
+  "izoh": "",
+  "joy": "9-bob, 600",
+  "holat": "TASDIQLANGAN"
+ },
+ "nitrate / nitrite": {
+  "uz": "nitrat / nitrit",
+  "izoh": "",
+  "joy": "9-bob, 600",
+  "holat": "TASDIQLANGAN"
+ },
+ "ammonium": {
+  "uz": "ammoniy",
+  "izoh": "",
+  "joy": "9-bob, 596",
+  "holat": "TASDIQLANGAN"
+ },
+ "cysteine": {
+  "uz": "sistein",
+  "izoh": "",
+  "joy": "9-bob, 603",
+  "holat": "TASDIQLANGAN"
+ },
+ "methionine": {
+  "uz": "metionin",
+  "izoh": "",
+  "joy": "9-bob, 603",
+  "holat": "TASDIQLANGAN"
+ },
+ "disulfide bridge": {
+  "uz": "disulfid ko‘prigi",
+  "izoh": "",
+  "joy": "9-bob, 603",
+  "holat": "TASDIQLANGAN"
+ },
+ "essential amino acid": {
+  "uz": "almashinmaydigan aminokislota",
+  "izoh": "",
+  "joy": "9-bob, 604",
+  "holat": "TASDIQLANGAN"
+ },
+ "sulfite oxidase": {
+  "uz": "sulfitoksidaza",
+  "izoh": "",
+  "joy": "9-bob, 604",
+  "holat": "TASDIQLANGAN"
+ },
+ "coenzyme A": {
+  "uz": "koferment A",
+  "izoh": "",
+  "joy": "9-bob, 606",
+  "holat": "TASDIQLANGAN"
+ },
+ "alpha-lipoic acid": {
+  "uz": "alfa-lipoy kislota",
+  "izoh": "",
+  "joy": "9-bob, 606",
+  "holat": "TASDIQLANGAN"
+ },
+ "antioxidant": {
+  "uz": "antioksidant",
+  "izoh": "",
+  "joy": "9-bob, 606",
+  "holat": "TASDIQLANGAN"
+ },
+ "phospholipids": {
+  "uz": "fosfolipidlar",
+  "izoh": "",
+  "joy": "9-bob, 608",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipid tail": {
+  "uz": "lipid dumi",
+  "izoh": "",
+  "joy": "9-bob, 608",
+  "holat": "TASDIQLANGAN"
+ },
+ "phosphate head": {
+  "uz": "fosfat boshchasi",
+  "izoh": "",
+  "joy": "9-bob, 610",
+  "holat": "TASDIQLANGAN"
+ },
+ "phosphodiester bond / bridge": {
+  "uz": "fosfodiefir bog‘ / ko‘prigi",
+  "izoh": "",
+  "joy": "9-bob, 611",
+  "holat": "TASDIQLANGAN"
+ },
+ "calcium phosphate": {
+  "uz": "kalsiy fosfat",
+  "izoh": "",
+  "joy": "9-bob, 615",
+  "holat": "TASDIQLANGAN"
+ },
+ "collagen": {
+  "uz": "kollagen",
+  "izoh": "",
+  "joy": "9-bob, 615",
+  "holat": "TASDIQLANGAN"
  }
 }
