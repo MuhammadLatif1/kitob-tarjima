@@ -1,0 +1,226 @@
+{
+ "noaniq": [
+  "713: asl matnda termodinamikaning dastlabki uchta qonuni «1700-yillarning boshida» ishlab chiqilgan deyilgan (aslida XIX asr); asldagidek berildi.",
+  "716: «-273 degrees Celsius» → «-273 Selsiy daraja» (raqam o‘zgartirilmadi).",
+  "723: «proverbial “uphill battle”» ibora sifatida «tog‘ni talqon qilish» deb berildi.",
+  "736: «5,730 years» raqami asl yozuvida (5,730) qoldirildi.",
+  "743: «A gas in a nonchanging space» — «o‘zgarmaydigan hajmdagi gaz» deb berildi.",
+  "773: «that energy and work are created» — mantiqan g‘alati (birinchi qonunga zid); so‘zma-so‘z «energiya va ish hosil qilinishiga» deb berildi.",
+  "745: «above image» — matnda porshenli rasm yuqorida yo‘q ko‘rinadi (diffuziya rasmlari bor); asldagidek berildi.",
+  "722, 729, 734, 740, 742, 749, 751, 760, 764, 772, 781: faqat rasm belgisi (harfsiz) — tarjima qilinmadi; rasmlar ichidagi yozuvlar (reaksiya diagrammalari, formulalar, ΔG grafigi) inglizcha qoldi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "thermodynamics",
+   "uz": "termodinamika",
+   "izoh": "",
+   "joy": "Uchinchi bo‘lim, 705"
+  },
+  {
+   "en": "energy molecules",
+   "uz": "energiya molekulalari",
+   "izoh": "",
+   "joy": "Uchinchi bo‘lim, 706"
+  },
+  {
+   "en": "theory of everything",
+   "uz": "hamma narsa nazariyasi",
+   "izoh": "",
+   "joy": "10-bob, 708"
+  },
+  {
+   "en": "laws of thermodynamics",
+   "uz": "termodinamika qonunlari",
+   "izoh": "Zeroth/First/Second/Third Law → nolinchi/birinchi/ikkinchi/uchinchi qonuni",
+   "joy": "10-bob, 711"
+  },
+  {
+   "en": "law of conservation of energy",
+   "uz": "energiyaning saqlanish qonuni",
+   "izoh": "",
+   "joy": "10-bob, 714"
+  },
+  {
+   "en": "entropy",
+   "uz": "entropiya",
+   "izoh": "",
+   "joy": "10-bob, 715"
+  },
+  {
+   "en": "anti-energy",
+   "uz": "antienergiya",
+   "izoh": "",
+   "joy": "10-bob, 715"
+  },
+  {
+   "en": "absolute zero",
+   "uz": "absolyut nol",
+   "izoh": "",
+   "joy": "10-bob, 716"
+  },
+  {
+   "en": "kinetics",
+   "uz": "kinetika",
+   "izoh": "",
+   "joy": "10-bob, 718"
+  },
+  {
+   "en": "reaction diagram",
+   "uz": "reaksiya diagrammasi",
+   "izoh": "",
+   "joy": "10-bob, 721"
+  },
+  {
+   "en": "reactants",
+   "uz": "reagentlar",
+   "izoh": "reactant energy → reagentlar energiyasi",
+   "joy": "10-bob, 721"
+  },
+  {
+   "en": "products (of reaction)",
+   "uz": "mahsulotlar",
+   "izoh": "product energy → mahsulotlar energiyasi",
+   "joy": "10-bob, 721"
+  },
+  {
+   "en": "activation energy",
+   "uz": "aktivlanish energiyasi",
+   "izoh": "",
+   "joy": "10-bob, 721"
+  },
+  {
+   "en": "thermodynamically favorable",
+   "uz": "termodinamik jihatdan qulay",
+   "izoh": "",
+   "joy": "10-bob, 724"
+  },
+  {
+   "en": "activated complex",
+   "uz": "aktivlangan kompleks",
+   "izoh": "",
+   "joy": "10-bob, 725"
+  },
+  {
+   "en": "Gibbs free energy",
+   "uz": "Gibbs erkin energiyasi",
+   "izoh": "free energy → erkin energiya; ΔG",
+   "joy": "10-bob, 726"
+  },
+  {
+   "en": "equilibrium constant",
+   "uz": "muvozanat konstantasi",
+   "izoh": "K",
+   "joy": "10-bob, 727"
+  },
+  {
+   "en": "catalyst / catalyze",
+   "uz": "katalizator / katalizlamoq",
+   "izoh": "",
+   "joy": "10-bob, 728"
+  },
+  {
+   "en": "active site",
+   "uz": "faol markaz",
+   "izoh": "ferment faol markazi",
+   "joy": "10-bob, 728"
+  },
+  {
+   "en": "phase state",
+   "uz": "fazaviy holat",
+   "izoh": "",
+   "joy": "10-bob, 732"
+  },
+  {
+   "en": "spontaneous / nonspontaneous process",
+   "uz": "o‘z-o‘zidan boradigan / o‘z-o‘zidan bormaydigan jarayon",
+   "izoh": "spontaneity → o‘z-o‘zidan borish",
+   "joy": "10-bob, 733"
+  },
+  {
+   "en": "carbon dating",
+   "uz": "radiouglerod usulida yosh aniqlash",
+   "izoh": "",
+   "joy": "10-bob, 736"
+  },
+  {
+   "en": "diffuse / diffusion",
+   "uz": "diffuziyalanmoq / diffuziya",
+   "izoh": "Heat/Gas Diffusion → Issiqlik/Gaz diffuziyasi",
+   "joy": "10-bob, 738"
+  },
+  {
+   "en": "enthalpy",
+   "uz": "entalpiya",
+   "izoh": "",
+   "joy": "10-bob, 743"
+  },
+  {
+   "en": "endothermic / exothermic",
+   "uz": "endotermik / ekzotermik",
+   "izoh": "",
+   "joy": "10-bob, 744"
+  },
+  {
+   "en": "reversible / irreversible",
+   "uz": "qaytar / qaytmas",
+   "izoh": "",
+   "joy": "10-bob, 745"
+  },
+  {
+   "en": "disorder",
+   "uz": "tartibsizlik",
+   "izoh": "entropiya ma’nosida",
+   "joy": "10-bob, 747"
+  },
+  {
+   "en": "translational / rotational / vibrational motion",
+   "uz": "ilgarilanma / aylanma / tebranma harakat",
+   "izoh": "",
+   "joy": "10-bob, 765"
+  },
+  {
+   "en": "molecular freedoms of motion",
+   "uz": "molekulaning harakat erkinlik darajalari",
+   "izoh": "",
+   "joy": "10-bob, 765"
+  },
+  {
+   "en": "equilibrium",
+   "uz": "muvozanat",
+   "izoh": "",
+   "joy": "10-bob, 769"
+  },
+  {
+   "en": "efficiency",
+   "uz": "samaradorlik",
+   "izoh": "",
+   "joy": "10-bob, 774"
+  },
+  {
+   "en": "home furnace",
+   "uz": "uydagi isitish qozoni",
+   "izoh": "",
+   "joy": "10-bob, 775"
+  },
+  {
+   "en": "incandescent / fluorescent bulb",
+   "uz": "cho‘g‘lanma / lyuminessent lampochka",
+   "izoh": "",
+   "joy": "10-bob, 779"
+  },
+  {
+   "en": "Ralph Fowler",
+   "uz": "Ralf Fauler",
+   "izoh": "birinchi uchraganda asli qavsda",
+   "joy": "10-bob, 713"
+  },
+  {
+   "en": "J. Willard Gibbs",
+   "uz": "J. Uillard Gibbs",
+   "izoh": "birinchi uchraganda asli qavsda",
+   "joy": "10-bob, 767"
+  }
+ ],
+ "tasdiq_kerak": []
+}

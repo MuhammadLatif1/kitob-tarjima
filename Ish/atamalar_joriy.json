@@ -3142,5 +3142,215 @@
   "izoh": "",
   "joy": "9-bob, 702",
   "holat": "TASDIQLANGAN"
+ },
+ "thermodynamics": {
+  "uz": "termodinamika",
+  "izoh": "",
+  "joy": "Uchinchi bo‘lim, 705",
+  "holat": "TASDIQLANGAN"
+ },
+ "energy molecules": {
+  "uz": "energiya molekulalari",
+  "izoh": "",
+  "joy": "Uchinchi bo‘lim, 706",
+  "holat": "TASDIQLANGAN"
+ },
+ "theory of everything": {
+  "uz": "hamma narsa nazariyasi",
+  "izoh": "",
+  "joy": "10-bob, 708",
+  "holat": "TASDIQLANGAN"
+ },
+ "laws of thermodynamics": {
+  "uz": "termodinamika qonunlari",
+  "izoh": "Zeroth/First/Second/Third Law → nolinchi/birinchi/ikkinchi/uchinchi qonuni",
+  "joy": "10-bob, 711",
+  "holat": "TASDIQLANGAN"
+ },
+ "law of conservation of energy": {
+  "uz": "energiyaning saqlanish qonuni",
+  "izoh": "",
+  "joy": "10-bob, 714",
+  "holat": "TASDIQLANGAN"
+ },
+ "entropy": {
+  "uz": "entropiya",
+  "izoh": "",
+  "joy": "10-bob, 715",
+  "holat": "TASDIQLANGAN"
+ },
+ "anti-energy": {
+  "uz": "antienergiya",
+  "izoh": "",
+  "joy": "10-bob, 715",
+  "holat": "TASDIQLANGAN"
+ },
+ "absolute zero": {
+  "uz": "absolyut nol",
+  "izoh": "",
+  "joy": "10-bob, 716",
+  "holat": "TASDIQLANGAN"
+ },
+ "kinetics": {
+  "uz": "kinetika",
+  "izoh": "",
+  "joy": "10-bob, 718",
+  "holat": "TASDIQLANGAN"
+ },
+ "reaction diagram": {
+  "uz": "reaksiya diagrammasi",
+  "izoh": "",
+  "joy": "10-bob, 721",
+  "holat": "TASDIQLANGAN"
+ },
+ "reactants": {
+  "uz": "reagentlar",
+  "izoh": "reactant energy → reagentlar energiyasi",
+  "joy": "10-bob, 721",
+  "holat": "TASDIQLANGAN"
+ },
+ "products (of reaction)": {
+  "uz": "mahsulotlar",
+  "izoh": "product energy → mahsulotlar energiyasi",
+  "joy": "10-bob, 721",
+  "holat": "TASDIQLANGAN"
+ },
+ "activation energy": {
+  "uz": "aktivlanish energiyasi",
+  "izoh": "",
+  "joy": "10-bob, 721",
+  "holat": "TASDIQLANGAN"
+ },
+ "thermodynamically favorable": {
+  "uz": "termodinamik jihatdan qulay",
+  "izoh": "",
+  "joy": "10-bob, 724",
+  "holat": "TASDIQLANGAN"
+ },
+ "activated complex": {
+  "uz": "aktivlangan kompleks",
+  "izoh": "",
+  "joy": "10-bob, 725",
+  "holat": "TASDIQLANGAN"
+ },
+ "Gibbs free energy": {
+  "uz": "Gibbs erkin energiyasi",
+  "izoh": "free energy → erkin energiya; ΔG",
+  "joy": "10-bob, 726",
+  "holat": "TASDIQLANGAN"
+ },
+ "equilibrium constant": {
+  "uz": "muvozanat konstantasi",
+  "izoh": "K",
+  "joy": "10-bob, 727",
+  "holat": "TASDIQLANGAN"
+ },
+ "catalyst / catalyze": {
+  "uz": "katalizator / katalizlamoq",
+  "izoh": "",
+  "joy": "10-bob, 728",
+  "holat": "TASDIQLANGAN"
+ },
+ "active site": {
+  "uz": "faol markaz",
+  "izoh": "ferment faol markazi",
+  "joy": "10-bob, 728",
+  "holat": "TASDIQLANGAN"
+ },
+ "phase state": {
+  "uz": "fazaviy holat",
+  "izoh": "",
+  "joy": "10-bob, 732",
+  "holat": "TASDIQLANGAN"
+ },
+ "spontaneous / nonspontaneous process": {
+  "uz": "o‘z-o‘zidan boradigan / o‘z-o‘zidan bormaydigan jarayon",
+  "izoh": "spontaneity → o‘z-o‘zidan borish",
+  "joy": "10-bob, 733",
+  "holat": "TASDIQLANGAN"
+ },
+ "carbon dating": {
+  "uz": "radiouglerod usulida yosh aniqlash",
+  "izoh": "",
+  "joy": "10-bob, 736",
+  "holat": "TASDIQLANGAN"
+ },
+ "diffuse / diffusion": {
+  "uz": "diffuziyalanmoq / diffuziya",
+  "izoh": "Heat/Gas Diffusion → Issiqlik/Gaz diffuziyasi",
+  "joy": "10-bob, 738",
+  "holat": "TASDIQLANGAN"
+ },
+ "enthalpy": {
+  "uz": "entalpiya",
+  "izoh": "",
+  "joy": "10-bob, 743",
+  "holat": "TASDIQLANGAN"
+ },
+ "endothermic / exothermic": {
+  "uz": "endotermik / ekzotermik",
+  "izoh": "",
+  "joy": "10-bob, 744",
+  "holat": "TASDIQLANGAN"
+ },
+ "reversible / irreversible": {
+  "uz": "qaytar / qaytmas",
+  "izoh": "",
+  "joy": "10-bob, 745",
+  "holat": "TASDIQLANGAN"
+ },
+ "disorder": {
+  "uz": "tartibsizlik",
+  "izoh": "entropiya ma’nosida",
+  "joy": "10-bob, 747",
+  "holat": "TASDIQLANGAN"
+ },
+ "translational / rotational / vibrational motion": {
+  "uz": "ilgarilanma / aylanma / tebranma harakat",
+  "izoh": "",
+  "joy": "10-bob, 765",
+  "holat": "TASDIQLANGAN"
+ },
+ "molecular freedoms of motion": {
+  "uz": "molekulaning harakat erkinlik darajalari",
+  "izoh": "",
+  "joy": "10-bob, 765",
+  "holat": "TASDIQLANGAN"
+ },
+ "equilibrium": {
+  "uz": "muvozanat",
+  "izoh": "",
+  "joy": "10-bob, 769",
+  "holat": "TASDIQLANGAN"
+ },
+ "efficiency": {
+  "uz": "samaradorlik",
+  "izoh": "",
+  "joy": "10-bob, 774",
+  "holat": "TASDIQLANGAN"
+ },
+ "home furnace": {
+  "uz": "uydagi isitish qozoni",
+  "izoh": "",
+  "joy": "10-bob, 775",
+  "holat": "TASDIQLANGAN"
+ },
+ "incandescent / fluorescent bulb": {
+  "uz": "cho‘g‘lanma / lyuminessent lampochka",
+  "izoh": "",
+  "joy": "10-bob, 779",
+  "holat": "TASDIQLANGAN"
+ },
+ "Ralph Fowler": {
+  "uz": "Ralf Fauler",
+  "izoh": "birinchi uchraganda asli qavsda",
+  "joy": "10-bob, 713",
+  "holat": "TASDIQLANGAN"
+ },
+ "J. Willard Gibbs": {
+  "uz": "J. Uillard Gibbs",
+  "izoh": "birinchi uchraganda asli qavsda",
+  "joy": "10-bob, 767",
+  "holat": "TASDIQLANGAN"
  }
 }
