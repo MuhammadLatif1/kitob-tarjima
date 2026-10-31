@@ -3550,5 +3550,287 @@
   "izoh": "",
   "joy": "11-bob, 814",
   "holat": "TASDIQLANGAN"
+ },
+ "insulin": {
+  "uz": "insulin",
+  "izoh": "gormon",
+  "joy": "12-bob, 858",
+  "holat": "TASDIQLANGAN"
+ },
+ "glucagon": {
+  "uz": "glyukagon",
+  "izoh": "gormon",
+  "joy": "12-bob, 858",
+  "holat": "TASDIQLANGAN"
+ },
+ "pancreas": {
+  "uz": "oshqozon osti bezi",
+  "izoh": "",
+  "joy": "12-bob, 858",
+  "holat": "TASDIQLANGAN"
+ },
+ "subcutaneous tissue / fat": {
+  "uz": "teri osti to‘qimasi / yog‘i",
+  "izoh": "",
+  "joy": "12-bob, 861",
+  "holat": "TASDIQLANGAN"
+ },
+ "visceral fat": {
+  "uz": "visseral yog‘",
+  "izoh": "",
+  "joy": "12-bob, 861",
+  "holat": "TASDIQLANGAN"
+ },
+ "epinephrine": {
+  "uz": "adrenalin",
+  "izoh": "",
+  "joy": "12-bob, 865",
+  "holat": "TASDIQLANGAN"
+ },
+ "cortisol": {
+  "uz": "kortizol",
+  "izoh": "",
+  "joy": "12-bob, 865",
+  "holat": "TASDIQLANGAN"
+ },
+ "cytokines": {
+  "uz": "sitokinlar",
+  "izoh": "",
+  "joy": "12-bob, 865",
+  "holat": "TASDIQLANGAN"
+ },
+ "autonomic nervous system": {
+  "uz": "avtonom nerv tizimi",
+  "izoh": "",
+  "joy": "12-bob, 865",
+  "holat": "TASDIQLANGAN"
+ },
+ "biosynthesis": {
+  "uz": "biosintez",
+  "izoh": "",
+  "joy": "12-bob, 866",
+  "holat": "TASDIQLANGAN"
+ },
+ "growth hormone": {
+  "uz": "o‘sish gormoni",
+  "izoh": "",
+  "joy": "12-bob, 866",
+  "holat": "TASDIQLANGAN"
+ },
+ "insulin-like growth factor": {
+  "uz": "insulinsimon o‘sish omili",
+  "izoh": "",
+  "joy": "12-bob, 866",
+  "holat": "TASDIQLANGAN"
+ },
+ "anabolic steroids": {
+  "uz": "anabolik steroidlar",
+  "izoh": "",
+  "joy": "12-bob, 867",
+  "holat": "TASDIQLANGAN"
+ },
+ "catabolic / anabolic": {
+  "uz": "katabolik / anabolik",
+  "izoh": "sifat; catabolic hormones → katabolik gormonlar",
+  "joy": "12-bob, 847",
+  "holat": "TASDIQLANGAN"
+ },
+ "Regulation of Metabolism": {
+  "uz": "Metabolizm regulyatsiyasi",
+  "izoh": "sarlavha; matnda regulate → boshqarmoq",
+  "joy": "12-bob, 864",
+  "holat": "TASDIQLANGAN"
+ },
+ "globular proteins": {
+  "uz": "globulyar oqsillar",
+  "izoh": "",
+  "joy": "12-bob, 869",
+  "holat": "TASDIQLANGAN"
+ },
+ "energy diagram": {
+  "uz": "energiya diagrammasi",
+  "izoh": "",
+  "joy": "12-bob, 871",
+  "holat": "TASDIQLANGAN"
+ },
+ "end product": {
+  "uz": "so‘nggi mahsulot",
+  "izoh": "",
+  "joy": "12-bob, 875",
+  "holat": "TASDIQLANGAN"
+ },
+ "active binding site": {
+  "uz": "faol bog‘lanish markazi",
+  "izoh": "active site → faol markaz",
+  "joy": "12-bob, 878",
+  "holat": "TASDIQLANGAN"
+ },
+ "lock and key": {
+  "uz": "qulf va kalit",
+  "izoh": "fermentlar modeli",
+  "joy": "12-bob, 879",
+  "holat": "TASDIQLANGAN"
+ },
+ "induced fit model": {
+  "uz": "induksiyalangan moslashuv modeli",
+  "izoh": "",
+  "joy": "12-bob, 879",
+  "holat": "TASDIQLANGAN"
+ },
+ "van der Waals bonding": {
+  "uz": "Van-der-Vaals bog‘lanish",
+  "izoh": "van der Waals forces → Van-der-Vaals kuchlari",
+  "joy": "12-bob, 880",
+  "holat": "TASDIQLANGAN"
+ },
+ "coenzyme": {
+  "uz": "koferment",
+  "izoh": "",
+  "joy": "12-bob, 881",
+  "holat": "TASDIQLANGAN"
+ },
+ "enzymatic reaction": {
+  "uz": "fermentativ reaksiya",
+  "izoh": "",
+  "joy": "12-bob, 881",
+  "holat": "TASDIQLANGAN"
+ },
+ "metal ions": {
+  "uz": "metall ionlari",
+  "izoh": "",
+  "joy": "12-bob, 881",
+  "holat": "TASDIQLANGAN"
+ },
+ "redox": {
+  "uz": "redoks",
+  "izoh": "redox reactions → redoks reaksiyalari",
+  "joy": "12-bob, 882",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxidation / reduction": {
+  "uz": "oksidlanish / qaytarilish",
+  "izoh": "oxidize → oksidlamoq; reduce → qaytarmoq; reduced molecule → qaytarilgan molekula; oxidized form → oksidlangan shakl",
+  "joy": "12-bob, 883",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxidation state": {
+  "uz": "oksidlanish darajasi",
+  "izoh": "",
+  "joy": "12-bob, 885",
+  "holat": "TASDIQLANGAN"
+ },
+ "thiamine pyrophosphate": {
+  "uz": "tiaminpirofosfat",
+  "izoh": "",
+  "joy": "12-bob, 889",
+  "holat": "TASDIQLANGAN"
+ },
+ "thiamine / niacin / biotin / folate": {
+  "uz": "tiamin / niatsin / biotin / folat",
+  "izoh": "vitaminlar; vitamin B1 → B1 vitamini",
+  "joy": "12-bob, 889",
+  "holat": "TASDIQLANGAN"
+ },
+ "tetrahydrofolate": {
+  "uz": "tetragidrofolat",
+  "izoh": "",
+  "joy": "12-bob, 889",
+  "holat": "TASDIQLANGAN"
+ },
+ "feedback inhibition": {
+  "uz": "teskari bog‘lanish bo‘yicha ingibirlanish",
+  "izoh": "feed back → teskari ta’sir ko‘rsatmoq; inhibitor → ingibitor",
+  "joy": "12-bob, 890",
+  "holat": "TASDIQLANGAN"
+ },
+ "allosteric regulation / allosteric site": {
+  "uz": "allosterik regulyatsiya / allosterik markaz",
+  "izoh": "",
+  "joy": "12-bob, 891",
+  "holat": "TASDIQLANGAN"
+ },
+ "regulatory molecule": {
+  "uz": "regulyator molekula",
+  "izoh": "",
+  "joy": "12-bob, 891",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxidase": {
+  "uz": "oksidaza",
+  "izoh": "",
+  "joy": "12-bob, 895",
+  "holat": "TASDIQLANGAN"
+ },
+ "dehydrogenase": {
+  "uz": "degidrogenaza",
+  "izoh": "",
+  "joy": "12-bob, 895",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxidoreductase": {
+  "uz": "oksidoreduktaza",
+  "izoh": "",
+  "joy": "12-bob, 895",
+  "holat": "TASDIQLANGAN"
+ },
+ "electron donor / acceptor molecule": {
+  "uz": "elektron donori / akseptor molekula",
+  "izoh": "",
+  "joy": "12-bob, 895",
+  "holat": "TASDIQLANGAN"
+ },
+ "transferase": {
+  "uz": "transferaza",
+  "izoh": "",
+  "joy": "12-bob, 896",
+  "holat": "TASDIQLANGAN"
+ },
+ "hexokinase": {
+  "uz": "geksokinaza",
+  "izoh": "",
+  "joy": "12-bob, 896",
+  "holat": "TASDIQLANGAN"
+ },
+ "hydrolase": {
+  "uz": "gidrolaza",
+  "izoh": "",
+  "joy": "12-bob, 897",
+  "holat": "TASDIQLANGAN"
+ },
+ "lyase": {
+  "uz": "liaza",
+  "izoh": "",
+  "joy": "12-bob, 898",
+  "holat": "TASDIQLANGAN"
+ },
+ "isomerase": {
+  "uz": "izomeraza",
+  "izoh": "",
+  "joy": "12-bob, 899",
+  "holat": "TASDIQLANGAN"
+ },
+ "ligase": {
+  "uz": "ligaza",
+  "izoh": "",
+  "joy": "12-bob, 900",
+  "holat": "TASDIQLANGAN"
+ },
+ "condensation reactions": {
+  "uz": "kondensatsiya reaksiyalari",
+  "izoh": "",
+  "joy": "12-bob, 900",
+  "holat": "TASDIQLANGAN"
+ },
+ "translocase": {
+  "uz": "translokaza",
+  "izoh": "",
+  "joy": "12-bob, 901",
+  "holat": "TASDIQLANGAN"
+ },
+ "helper molecules": {
+  "uz": "yordamchi molekulalar",
+  "izoh": "",
+  "joy": "12-bob, 904",
+  "holat": "TASDIQLANGAN"
  }
 }

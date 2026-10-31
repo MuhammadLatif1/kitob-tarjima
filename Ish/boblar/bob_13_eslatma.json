@@ -1,0 +1,297 @@
+{
+ "noaniq": [
+  "855: asl jumla «either get metabolized further (or ...)» tugallanmagan (either ... or ikkinchi qismi yo‘q); tarjimada mavjud ma’no berildi.",
+  "881: muallif coenzymes va cofactors atamalarini aralashtirib ishlatgan; tarjimada asldagidek koferment/kofaktor deb qoldirildi.",
+  "884: «oxidize yet another molecule by passing its electron on» — elektron bergan molekula aslida boshqasini qaytaradi; muallif lafzi saqlandi.",
+  "886: oksidlanish darajasi haqidagi tushuntirish aslida chalkash; ma’noni o‘zgartirmay tarjima qilindi.",
+  "899: izomerazalarni «oxidoreductases within the same molecule» deb atash muallifning o‘z talqini; asldagidek berildi.",
+  "860: «fuel injector» — «yoqilg‘i purkagich» deb berildi (aslida qo‘shtirnoqsiz).",
+  "848, 850, 856, 872, 874, 877, 887: rasmlar; ichidagi yozuvlar (agar bo‘lsa) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "insulin",
+   "uz": "insulin",
+   "izoh": "gormon",
+   "joy": "12-bob, 858"
+  },
+  {
+   "en": "glucagon",
+   "uz": "glyukagon",
+   "izoh": "gormon",
+   "joy": "12-bob, 858"
+  },
+  {
+   "en": "pancreas",
+   "uz": "oshqozon osti bezi",
+   "izoh": "",
+   "joy": "12-bob, 858"
+  },
+  {
+   "en": "subcutaneous tissue / fat",
+   "uz": "teri osti to‘qimasi / yog‘i",
+   "izoh": "",
+   "joy": "12-bob, 861"
+  },
+  {
+   "en": "visceral fat",
+   "uz": "visseral yog‘",
+   "izoh": "",
+   "joy": "12-bob, 861"
+  },
+  {
+   "en": "epinephrine",
+   "uz": "adrenalin",
+   "izoh": "",
+   "joy": "12-bob, 865"
+  },
+  {
+   "en": "cortisol",
+   "uz": "kortizol",
+   "izoh": "",
+   "joy": "12-bob, 865"
+  },
+  {
+   "en": "cytokines",
+   "uz": "sitokinlar",
+   "izoh": "",
+   "joy": "12-bob, 865"
+  },
+  {
+   "en": "autonomic nervous system",
+   "uz": "avtonom nerv tizimi",
+   "izoh": "",
+   "joy": "12-bob, 865"
+  },
+  {
+   "en": "biosynthesis",
+   "uz": "biosintez",
+   "izoh": "",
+   "joy": "12-bob, 866"
+  },
+  {
+   "en": "growth hormone",
+   "uz": "o‘sish gormoni",
+   "izoh": "",
+   "joy": "12-bob, 866"
+  },
+  {
+   "en": "insulin-like growth factor",
+   "uz": "insulinsimon o‘sish omili",
+   "izoh": "",
+   "joy": "12-bob, 866"
+  },
+  {
+   "en": "anabolic steroids",
+   "uz": "anabolik steroidlar",
+   "izoh": "",
+   "joy": "12-bob, 867"
+  },
+  {
+   "en": "catabolic / anabolic",
+   "uz": "katabolik / anabolik",
+   "izoh": "sifat; catabolic hormones → katabolik gormonlar",
+   "joy": "12-bob, 847"
+  },
+  {
+   "en": "Regulation of Metabolism",
+   "uz": "Metabolizm regulyatsiyasi",
+   "izoh": "sarlavha; matnda regulate → boshqarmoq",
+   "joy": "12-bob, 864"
+  },
+  {
+   "en": "globular proteins",
+   "uz": "globulyar oqsillar",
+   "izoh": "",
+   "joy": "12-bob, 869"
+  },
+  {
+   "en": "energy diagram",
+   "uz": "energiya diagrammasi",
+   "izoh": "",
+   "joy": "12-bob, 871"
+  },
+  {
+   "en": "end product",
+   "uz": "so‘nggi mahsulot",
+   "izoh": "",
+   "joy": "12-bob, 875"
+  },
+  {
+   "en": "active binding site",
+   "uz": "faol bog‘lanish markazi",
+   "izoh": "active site → faol markaz",
+   "joy": "12-bob, 878"
+  },
+  {
+   "en": "lock and key",
+   "uz": "qulf va kalit",
+   "izoh": "fermentlar modeli",
+   "joy": "12-bob, 879"
+  },
+  {
+   "en": "induced fit model",
+   "uz": "induksiyalangan moslashuv modeli",
+   "izoh": "",
+   "joy": "12-bob, 879"
+  },
+  {
+   "en": "van der Waals bonding",
+   "uz": "Van-der-Vaals bog‘lanish",
+   "izoh": "van der Waals forces → Van-der-Vaals kuchlari",
+   "joy": "12-bob, 880"
+  },
+  {
+   "en": "coenzyme",
+   "uz": "koferment",
+   "izoh": "",
+   "joy": "12-bob, 881"
+  },
+  {
+   "en": "enzymatic reaction",
+   "uz": "fermentativ reaksiya",
+   "izoh": "",
+   "joy": "12-bob, 881"
+  },
+  {
+   "en": "metal ions",
+   "uz": "metall ionlari",
+   "izoh": "",
+   "joy": "12-bob, 881"
+  },
+  {
+   "en": "redox",
+   "uz": "redoks",
+   "izoh": "redox reactions → redoks reaksiyalari",
+   "joy": "12-bob, 882"
+  },
+  {
+   "en": "oxidation / reduction",
+   "uz": "oksidlanish / qaytarilish",
+   "izoh": "oxidize → oksidlamoq; reduce → qaytarmoq; reduced molecule → qaytarilgan molekula; oxidized form → oksidlangan shakl",
+   "joy": "12-bob, 883"
+  },
+  {
+   "en": "oxidation state",
+   "uz": "oksidlanish darajasi",
+   "izoh": "",
+   "joy": "12-bob, 885"
+  },
+  {
+   "en": "thiamine pyrophosphate",
+   "uz": "tiaminpirofosfat",
+   "izoh": "",
+   "joy": "12-bob, 889"
+  },
+  {
+   "en": "thiamine / niacin / biotin / folate",
+   "uz": "tiamin / niatsin / biotin / folat",
+   "izoh": "vitaminlar; vitamin B1 → B1 vitamini",
+   "joy": "12-bob, 889"
+  },
+  {
+   "en": "tetrahydrofolate",
+   "uz": "tetragidrofolat",
+   "izoh": "",
+   "joy": "12-bob, 889"
+  },
+  {
+   "en": "feedback inhibition",
+   "uz": "teskari bog‘lanish bo‘yicha ingibirlanish",
+   "izoh": "feed back → teskari ta’sir ko‘rsatmoq; inhibitor → ingibitor",
+   "joy": "12-bob, 890"
+  },
+  {
+   "en": "allosteric regulation / allosteric site",
+   "uz": "allosterik regulyatsiya / allosterik markaz",
+   "izoh": "",
+   "joy": "12-bob, 891"
+  },
+  {
+   "en": "regulatory molecule",
+   "uz": "regulyator molekula",
+   "izoh": "",
+   "joy": "12-bob, 891"
+  },
+  {
+   "en": "oxidase",
+   "uz": "oksidaza",
+   "izoh": "",
+   "joy": "12-bob, 895"
+  },
+  {
+   "en": "dehydrogenase",
+   "uz": "degidrogenaza",
+   "izoh": "",
+   "joy": "12-bob, 895"
+  },
+  {
+   "en": "oxidoreductase",
+   "uz": "oksidoreduktaza",
+   "izoh": "",
+   "joy": "12-bob, 895"
+  },
+  {
+   "en": "electron donor / acceptor molecule",
+   "uz": "elektron donori / akseptor molekula",
+   "izoh": "",
+   "joy": "12-bob, 895"
+  },
+  {
+   "en": "transferase",
+   "uz": "transferaza",
+   "izoh": "",
+   "joy": "12-bob, 896"
+  },
+  {
+   "en": "hexokinase",
+   "uz": "geksokinaza",
+   "izoh": "",
+   "joy": "12-bob, 896"
+  },
+  {
+   "en": "hydrolase",
+   "uz": "gidrolaza",
+   "izoh": "",
+   "joy": "12-bob, 897"
+  },
+  {
+   "en": "lyase",
+   "uz": "liaza",
+   "izoh": "",
+   "joy": "12-bob, 898"
+  },
+  {
+   "en": "isomerase",
+   "uz": "izomeraza",
+   "izoh": "",
+   "joy": "12-bob, 899"
+  },
+  {
+   "en": "ligase",
+   "uz": "ligaza",
+   "izoh": "",
+   "joy": "12-bob, 900"
+  },
+  {
+   "en": "condensation reactions",
+   "uz": "kondensatsiya reaksiyalari",
+   "izoh": "",
+   "joy": "12-bob, 900"
+  },
+  {
+   "en": "translocase",
+   "uz": "translokaza",
+   "izoh": "",
+   "joy": "12-bob, 901"
+  },
+  {
+   "en": "helper molecules",
+   "uz": "yordamchi molekulalar",
+   "izoh": "",
+   "joy": "12-bob, 904"
+  }
+ ],
+ "tasdiq_kerak": []
+}
