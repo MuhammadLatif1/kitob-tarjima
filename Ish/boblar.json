@@ -1,156 +1,142 @@
 [
  {
-  "raqam": 0,
-  "nom": "0-qism (nom varag'i, ruxsatnoma, mundarija)",
-  "boshlanish": 1,
-  "tugash": 71,
-  "birlik_soni": 71
- },
- {
   "raqam": 1,
-  "nom": "Preface",
-  "boshlanish": 72,
-  "tugash": 81,
-  "birlik_soni": 10
+  "nom": "Chapter 21: Steps of Cellular Respiration",
+  "boshlanish": 1,
+  "tugash": 64,
+  "birlik_soni": 64
  },
  {
   "raqam": 2,
-  "nom": "Chapter 1: What is Biology?",
-  "boshlanish": 82,
-  "tugash": 146,
-  "birlik_soni": 65
+  "nom": "Chapter 22: Introduction to Photosynthesis",
+  "boshlanish": 65,
+  "tugash": 88,
+  "birlik_soni": 24
  },
  {
   "raqam": 3,
-  "nom": "Chapter 2: The Study of Evolution",
-  "boshlanish": 147,
-  "tugash": 201,
-  "birlik_soni": 55
+  "nom": "Chapter 23: Light-Dependent Reactions",
+  "boshlanish": 89,
+  "tugash": 128,
+  "birlik_soni": 40
  },
  {
   "raqam": 4,
-  "nom": "Chapter 3: What is Cell Biology?",
-  "boshlanish": 202,
-  "tugash": 242,
-  "birlik_soni": 41
+  "nom": "Chapter 24: Calvin Cycle",
+  "boshlanish": 129,
+  "tugash": 155,
+  "birlik_soni": 27
  },
  {
   "raqam": 5,
-  "nom": "Chapter 4: Genetics and Our Genetic Blueprints",
-  "boshlanish": 243,
-  "tugash": 317,
-  "birlik_soni": 75
+  "nom": "Chapter 25: Cytoskeleton",
+  "boshlanish": 156,
+  "tugash": 239,
+  "birlik_soni": 84
  },
  {
   "raqam": 6,
-  "nom": "Chapter 5: Getting Down with Atoms",
-  "boshlanish": 318,
-  "tugash": 392,
-  "birlik_soni": 75
+  "nom": "Chapter 26: How Cells Move",
+  "boshlanish": 240,
+  "tugash": 272,
+  "birlik_soni": 33
  },
  {
   "raqam": 7,
-  "nom": "Chapter 6: How Chemical Bonds Combine Atoms",
-  "boshlanish": 393,
-  "tugash": 495,
-  "birlik_soni": 103
+  "nom": "Chapter 27: Cellular Digestion",
+  "boshlanish": 273,
+  "tugash": 300,
+  "birlik_soni": 28
  },
  {
   "raqam": 8,
-  "nom": "Chapter 7: Water, Solutions, and Mixtures",
-  "boshlanish": 496,
-  "tugash": 569,
-  "birlik_soni": 74
+  "nom": "Chapter 28: What is Genetic Material?",
+  "boshlanish": 301,
+  "tugash": 334,
+  "birlik_soni": 34
  },
  {
   "raqam": 9,
-  "nom": "Chapter 8: Which Elements Are in Cells?",
-  "boshlanish": 570,
-  "tugash": 617,
-  "birlik_soni": 48
+  "nom": "Chapter 29: The Replication of DNA",
+  "boshlanish": 335,
+  "tugash": 354,
+  "birlik_soni": 20
  },
  {
   "raqam": 10,
-  "nom": "Chapter 9: Macromolecules Are the “Big” Molecules in Living Things",
-  "boshlanish": 618,
-  "tugash": 702,
-  "birlik_soni": 85
+  "nom": "Chapter 30: What is Cell Reproduction?",
+  "boshlanish": 355,
+  "tugash": 387,
+  "birlik_soni": 33
  },
  {
   "raqam": 11,
-  "nom": "Chapter 10: Thermodynamics in Living Things",
-  "boshlanish": 703,
-  "tugash": 785,
-  "birlik_soni": 83
+  "nom": "Chapter 31: The Cell Cycle and Mitosis",
+  "boshlanish": 388,
+  "tugash": 456,
+  "birlik_soni": 69
  },
  {
   "raqam": 12,
-  "nom": "Chapter 11: ATP as “Fuel”",
-  "boshlanish": 786,
-  "tugash": 844,
-  "birlik_soni": 59
+  "nom": "Chapter 32: Meiosis",
+  "boshlanish": 457,
+  "tugash": 496,
+  "birlik_soni": 40
  },
  {
   "raqam": 13,
-  "nom": "Chapter 12: Metabolism and Enzymes in the Cell",
-  "boshlanish": 845,
-  "tugash": 904,
-  "birlik_soni": 60
- },
- {
-  "raqam": 14,
-  "nom": "Chapter 13: The Difference Between Prokaryotic and Eukaryotic Cells",
-  "boshlanish": 905,
-  "tugash": 969,
-  "birlik_soni": 65
- },
- {
-  "raqam": 15,
-  "nom": "Chapter 14: The Structure of a Eukaryotic Cell",
-  "boshlanish": 970,
-  "tugash": 1076,
-  "birlik_soni": 107
- },
- {
-  "raqam": 16,
-  "nom": "Chapter 15: The Plasma Membrane: The Gatekeeper of the Cell",
-  "boshlanish": 1077,
-  "tugash": 1120,
-  "birlik_soni": 44
- },
- {
-  "raqam": 17,
-  "nom": "Chapter 16: Diffusion and Osmosis",
-  "boshlanish": 1121,
-  "tugash": 1168,
-  "birlik_soni": 48
- },
- {
-  "raqam": 18,
-  "nom": "Chapter 17: Passive and Active Transport",
-  "boshlanish": 1169,
-  "tugash": 1221,
+  "nom": "Chapter 33: Cell Communities",
+  "boshlanish": 497,
+  "tugash": 549,
   "birlik_soni": 53
  },
  {
+  "raqam": 14,
+  "nom": "Chapter 34: Central Dogma",
+  "boshlanish": 550,
+  "tugash": 630,
+  "birlik_soni": 81
+ },
+ {
+  "raqam": 15,
+  "nom": "Chapter 35: Genes Make Proteins Through This Process",
+  "boshlanish": 631,
+  "tugash": 709,
+  "birlik_soni": 79
+ },
+ {
+  "raqam": 16,
+  "nom": "Chapter 36: DNA Repair and Recombination",
+  "boshlanish": 710,
+  "tugash": 748,
+  "birlik_soni": 39
+ },
+ {
+  "raqam": 17,
+  "nom": "Chapter 37: Gene Regulation",
+  "boshlanish": 749,
+  "tugash": 799,
+  "birlik_soni": 51
+ },
+ {
+  "raqam": 18,
+  "nom": "Chapter 38: Genetic Engineering of Plants",
+  "boshlanish": 800,
+  "tugash": 833,
+  "birlik_soni": 34
+ },
+ {
   "raqam": 19,
-  "nom": "Chapter 18: Bulk Transport of Molecules Across a Membrane",
-  "boshlanish": 1222,
-  "tugash": 1258,
-  "birlik_soni": 37
+  "nom": "Chapter 39: Using Genetic Engineering in Animals and Humans",
+  "boshlanish": 834,
+  "tugash": 877,
+  "birlik_soni": 44
  },
  {
   "raqam": 20,
-  "nom": "Chapter 19: Cell Signaling",
-  "boshlanish": 1259,
-  "tugash": 1317,
-  "birlik_soni": 59
- },
- {
-  "raqam": 21,
-  "nom": "Chapter 20: Oxidation and Reduction",
-  "boshlanish": 1318,
-  "tugash": 1378,
-  "birlik_soni": 61
+  "nom": "Chapter 40: What is Gene Therapy?",
+  "boshlanish": 878,
+  "tugash": 912,
+  "birlik_soni": 35
  }
 ]
