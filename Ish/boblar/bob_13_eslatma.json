@@ -1,0 +1,121 @@
+{
+ "noaniq": [
+  "500: «pond scum» «hovuz yuzasidagi shilimshiq parda» deb berildi.",
+  "519: asl matnda «even blood cells» ham epiteliy to‘qimasidan iborat deyilgan; bu biologik jihatdan noaniq (ehtimol qon tomirlari endoteliysi nazarda tutilgan), ammo muallif fikri o‘zgartirilmay tarjima qilindi.",
+  "533: «fluid-based, skeletal, fibrous» «suyuq, skelet va tolali» deb berildi.",
+  "541: «nerve tissue» «nerv to‘qimasi», muqobil nomi «nervous tissue» esa farqni saqlash uchun «asab to‘qimasi» deb berildi; 547 da «nervous» «nerv to‘qimalari» deb berildi.",
+  "503, 517, 522, 534, 539, 543: rasmlar ichidagi yozuvlar (agar bo‘lsa) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "extracellular polymeric substance (EPS)",
+   "uz": "hujayradan tashqari polimer modda (EPS)",
+   "izoh": "bioplyonka «yelimi»",
+   "joy": "33-bob: Hujayra jamoalari, 501"
+  },
+  {
+   "en": "planktonic state / biofilm state",
+   "uz": "planktonik holat / bioplyonka holati",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 502"
+  },
+  {
+   "en": "persisters",
+   "uz": "persistorlar",
+   "izoh": "bo‘linmaydigan, ammo tinim holatida bo‘lmagan bakteriyalar",
+   "joy": "33-bob: Hujayra jamoalari, 507"
+  },
+  {
+   "en": "dental plaque",
+   "uz": "tish karashi",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 500"
+  },
+  {
+   "en": "extracellular matrix",
+   "uz": "hujayradan tashqari matriks",
+   "izoh": "to‘qimalarni birlashtiruvchi modda",
+   "joy": "33-bob: Hujayra jamoalari, 514"
+  },
+  {
+   "en": "muscle tissue",
+   "uz": "muskul to‘qimasi",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 516"
+  },
+  {
+   "en": "nerve tissue / nervous tissue",
+   "uz": "nerv to‘qimasi / asab to‘qimasi",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 516, 541"
+  },
+  {
+   "en": "epithelial tissue / epithelium",
+   "uz": "epiteliy to‘qimasi / epiteliy",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 516, 519"
+  },
+  {
+   "en": "goblet cells",
+   "uz": "qadahsimon hujayralar",
+   "izoh": "shilimshiq ishlab chiqaruvchi hujayralar",
+   "joy": "33-bob: Hujayra jamoalari, 530"
+  },
+  {
+   "en": "fluid-based / skeletal / fibrous connective tissue",
+   "uz": "suyuq / skelet / tolali biriktiruvchi to‘qima",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 533"
+  },
+  {
+   "en": "cardiac muscle tissue",
+   "uz": "yurak muskul to‘qimasi",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 536"
+  },
+  {
+   "en": "bronchial tree",
+   "uz": "bronxial daraxt",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 536"
+  },
+  {
+   "en": "muscle syncytium",
+   "uz": "muskul sinsitiysi",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 537"
+  },
+  {
+   "en": "glial cells",
+   "uz": "gliya hujayralari",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 542"
+  },
+  {
+   "en": "myelin",
+   "uz": "miyelin",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 542"
+  },
+  {
+   "en": "microglia / astrocytes / oligodendrocytes",
+   "uz": "mikrogliya / astrotsitlar / oligodendrotsitlar",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 544"
+  },
+  {
+   "en": "depolarize",
+   "uz": "depolyarizatsiyalamoq",
+   "izoh": "",
+   "joy": "33-bob: Hujayra jamoalari, 541"
+  },
+  {
+   "en": "Gene Expression",
+   "uz": "gen ekspressiyasi",
+   "izoh": "O‘ninchi bo‘lim sarlavhasi",
+   "joy": "33-bob: Hujayra jamoalari, 548"
+  }
+ ],
+ "tasdiq_kerak": []
+}

@@ -6760,5 +6760,113 @@
   "izoh": "",
   "joy": "32-bob, 491",
   "holat": "TASDIQLANGAN"
+ },
+ "extracellular polymeric substance (EPS)": {
+  "uz": "hujayradan tashqari polimer modda (EPS)",
+  "izoh": "bioplyonka «yelimi»",
+  "joy": "33-bob: Hujayra jamoalari, 501",
+  "holat": "TASDIQLANGAN"
+ },
+ "planktonic state / biofilm state": {
+  "uz": "planktonik holat / bioplyonka holati",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 502",
+  "holat": "TASDIQLANGAN"
+ },
+ "persisters": {
+  "uz": "persistorlar",
+  "izoh": "bo‘linmaydigan, ammo tinim holatida bo‘lmagan bakteriyalar",
+  "joy": "33-bob: Hujayra jamoalari, 507",
+  "holat": "TASDIQLANGAN"
+ },
+ "dental plaque": {
+  "uz": "tish karashi",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 500",
+  "holat": "TASDIQLANGAN"
+ },
+ "extracellular matrix": {
+  "uz": "hujayradan tashqari matriks",
+  "izoh": "to‘qimalarni birlashtiruvchi modda",
+  "joy": "33-bob: Hujayra jamoalari, 514",
+  "holat": "TASDIQLANGAN"
+ },
+ "muscle tissue": {
+  "uz": "muskul to‘qimasi",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 516",
+  "holat": "TASDIQLANGAN"
+ },
+ "nerve tissue / nervous tissue": {
+  "uz": "nerv to‘qimasi / asab to‘qimasi",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 516, 541",
+  "holat": "TASDIQLANGAN"
+ },
+ "epithelial tissue / epithelium": {
+  "uz": "epiteliy to‘qimasi / epiteliy",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 516, 519",
+  "holat": "TASDIQLANGAN"
+ },
+ "goblet cells": {
+  "uz": "qadahsimon hujayralar",
+  "izoh": "shilimshiq ishlab chiqaruvchi hujayralar",
+  "joy": "33-bob: Hujayra jamoalari, 530",
+  "holat": "TASDIQLANGAN"
+ },
+ "fluid-based / skeletal / fibrous connective tissue": {
+  "uz": "suyuq / skelet / tolali biriktiruvchi to‘qima",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 533",
+  "holat": "TASDIQLANGAN"
+ },
+ "cardiac muscle tissue": {
+  "uz": "yurak muskul to‘qimasi",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 536",
+  "holat": "TASDIQLANGAN"
+ },
+ "bronchial tree": {
+  "uz": "bronxial daraxt",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 536",
+  "holat": "TASDIQLANGAN"
+ },
+ "muscle syncytium": {
+  "uz": "muskul sinsitiysi",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 537",
+  "holat": "TASDIQLANGAN"
+ },
+ "glial cells": {
+  "uz": "gliya hujayralari",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 542",
+  "holat": "TASDIQLANGAN"
+ },
+ "myelin": {
+  "uz": "miyelin",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 542",
+  "holat": "TASDIQLANGAN"
+ },
+ "microglia / astrocytes / oligodendrocytes": {
+  "uz": "mikrogliya / astrotsitlar / oligodendrotsitlar",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 544",
+  "holat": "TASDIQLANGAN"
+ },
+ "depolarize": {
+  "uz": "depolyarizatsiyalamoq",
+  "izoh": "",
+  "joy": "33-bob: Hujayra jamoalari, 541",
+  "holat": "TASDIQLANGAN"
+ },
+ "Gene Expression": {
+  "uz": "gen ekspressiyasi",
+  "izoh": "O‘ninchi bo‘lim sarlavhasi",
+  "joy": "33-bob: Hujayra jamoalari, 548",
+  "holat": "TASDIQLANGAN"
  }
 }
