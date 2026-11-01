@@ -1,0 +1,343 @@
+{
+ "noaniq": [
+  "181: muallif mikrofilament G-aktin va F-aktindan tuzilgan ikki tolaning o‘ralishidan hosil bo‘ladi deydi (ilmiy jihatdan F-aktin G-aktin monomerlaridan tuzilgan); asl ma’no o‘zgartirilmay tarjima qilindi.",
+  "196: «they don’t get copied twice» noaniq; «ikki marta nusxalanmaydi» deb so‘zma-so‘z berildi.",
+  "234: «two liner sections» ehtimol «layer» yoki «linker» xatosi; «ikkita qoplama qism» deb berildi, tekshirilsin.",
+  "237: «Some act like the poles of a tent» egasi aniq emas; «Uning ayrim tolalari» deb berildi.",
+  "Rasmlar (163, 177, 180, 186, 192, 194, 198, 203, 215, 221, 228, 233): ichidagi inglizcha yozuvlar o‘zgartirilmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "motor proteins",
+   "uz": "motor oqsillar",
+   "izoh": "",
+   "joy": "25-bob, 168"
+  },
+  {
+   "en": "kinesins / kinesin class",
+   "uz": "kinezinlar / kinezinlar sinfi",
+   "izoh": "",
+   "joy": "25-bob, 171"
+  },
+  {
+   "en": "dyneins",
+   "uz": "dineinlar",
+   "izoh": "dinein (birlik) lug‘atda bor",
+   "joy": "25-bob, 172"
+  },
+  {
+   "en": "myosins / Myosin II / Myosin V / Myosin XI",
+   "uz": "miozinlar / Miozin II / Miozin V / Miozin XI",
+   "izoh": "",
+   "joy": "25-bob, 173"
+  },
+  {
+   "en": "cytoplasmic streaming",
+   "uz": "sitoplazma oqimi",
+   "izoh": "",
+   "joy": "25-bob, 175"
+  },
+  {
+   "en": "cyclosis",
+   "uz": "sikloz",
+   "izoh": "",
+   "joy": "25-bob, 175"
+  },
+  {
+   "en": "G-actin / F-actin",
+   "uz": "G-aktin / F-aktin",
+   "izoh": "",
+   "joy": "25-bob, 181"
+  },
+  {
+   "en": "muscle contraction",
+   "uz": "muskul qisqarishi",
+   "izoh": "",
+   "joy": "25-bob, 166"
+  },
+  {
+   "en": "filaments / fibers (cytoskeleton)",
+   "uz": "filamentlar / tolalar",
+   "izoh": "",
+   "joy": "25-bob, 164"
+  },
+  {
+   "en": "tetramer",
+   "uz": "tetramer",
+   "izoh": "",
+   "joy": "25-bob, 185"
+  },
+  {
+   "en": "unit length filament (ULF)",
+   "uz": "birlik uzunlikdagi filament (ULF)",
+   "izoh": "",
+   "joy": "25-bob, 185"
+  },
+  {
+   "en": "keratin",
+   "uz": "keratin",
+   "izoh": "",
+   "joy": "25-bob, 187"
+  },
+  {
+   "en": "scaffolding",
+   "uz": "karkas",
+   "izoh": "oraliq filamentlar haqida",
+   "joy": "25-bob, 188"
+  },
+  {
+   "en": "muscular dystrophy",
+   "uz": "muskul distrofiyasi",
+   "izoh": "",
+   "joy": "25-bob, 188"
+  },
+  {
+   "en": "Alexander disease",
+   "uz": "Aleksandr kasalligi",
+   "izoh": "",
+   "joy": "25-bob, 188"
+  },
+  {
+   "en": "vimentin / neurofilament proteins / lamin / desmin",
+   "uz": "vimentin / neyrofilament oqsillari / lamin / desmin",
+   "izoh": "",
+   "joy": "25-bob, 189"
+  },
+  {
+   "en": "connective tissue",
+   "uz": "biriktiruvchi to‘qima",
+   "izoh": "",
+   "joy": "25-bob, 189"
+  },
+  {
+   "en": "centrosome",
+   "uz": "sentrosoma",
+   "izoh": "",
+   "joy": "25-bob, 193"
+  },
+  {
+   "en": "mother centriole / daughter centriole",
+   "uz": "ona sentriola / qiz sentriola",
+   "izoh": "",
+   "joy": "25-bob, 195"
+  },
+  {
+   "en": "triplet (microtubules)",
+   "uz": "triplet",
+   "izoh": "",
+   "joy": "25-bob, 195"
+  },
+  {
+   "en": "microtubule organizing center (MTOC)",
+   "uz": "mikronaychalarni tashkil etuvchi markaz (MTOC)",
+   "izoh": "qisqartma lotincha qoldirildi",
+   "joy": "25-bob, 196"
+  },
+  {
+   "en": "doublets / dynein arms",
+   "uz": "dubletlar / dinein qo‘lchalari",
+   "izoh": "",
+   "joy": "25-bob, 199"
+  },
+  {
+   "en": "heavy chain / light chain",
+   "uz": "og‘ir zanjir / yengil zanjir",
+   "izoh": "",
+   "joy": "25-bob, 202"
+  },
+  {
+   "en": "actin binding site / ATP binding site",
+   "uz": "aktin bog‘lanish markazi / ATF bog‘lanish markazi",
+   "izoh": "",
+   "joy": "25-bob, 202"
+  },
+  {
+   "en": "anterograde / retrograde",
+   "uz": "anterograd / retrograd",
+   "izoh": "",
+   "joy": "25-bob, 206"
+  },
+  {
+   "en": "cell adhesion molecules",
+   "uz": "hujayra adgeziya molekulalari",
+   "izoh": "",
+   "joy": "25-bob, 208"
+  },
+  {
+   "en": "adhesion proteins",
+   "uz": "adgeziya oqsillari",
+   "izoh": "",
+   "joy": "25-bob, 209"
+  },
+  {
+   "en": "selectins / integrins / cadherins",
+   "uz": "selektinlar / integrinlar / kadgerinlar",
+   "izoh": "",
+   "joy": "25-bob, 211"
+  },
+  {
+   "en": "L-selectin / P-selectin / E-selectin",
+   "uz": "L-selektin / P-selektin / E-selektin",
+   "izoh": "",
+   "joy": "25-bob, 212"
+  },
+  {
+   "en": "endothelial cells",
+   "uz": "endoteliy hujayralari",
+   "izoh": "",
+   "joy": "25-bob, 212"
+  },
+  {
+   "en": "leukocytes",
+   "uz": "leykotsitlar",
+   "izoh": "",
+   "joy": "25-bob, 212"
+  },
+  {
+   "en": "intercellular adhesion molecules (ICAMs)",
+   "uz": "hujayralararo adgeziya molekulalari (ICAM)",
+   "izoh": "",
+   "joy": "25-bob, 213"
+  },
+  {
+   "en": "diapedesis",
+   "uz": "diapedez",
+   "izoh": "",
+   "joy": "25-bob, 214"
+  },
+  {
+   "en": "tight junctions",
+   "uz": "zich birikmalar",
+   "izoh": "",
+   "joy": "25-bob, 218"
+  },
+  {
+   "en": "claudins / occludins / tricellulins",
+   "uz": "klaudinlar / okkludinlar / trisellulinlar",
+   "izoh": "",
+   "joy": "25-bob, 222"
+  },
+  {
+   "en": "adaptor proteins",
+   "uz": "adapter oqsillar",
+   "izoh": "",
+   "joy": "25-bob, 222"
+  },
+  {
+   "en": "leaky gut syndrome",
+   "uz": "«o‘tkazuvchan ichak» sindromi",
+   "izoh": "",
+   "joy": "25-bob, 223"
+  },
+  {
+   "en": "food intolerance / malabsorption",
+   "uz": "oziq-ovqatni ko‘tara olmaslik / ozuqa moddalarining yomon so‘rilishi",
+   "izoh": "",
+   "joy": "25-bob, 223"
+  },
+  {
+   "en": "autoimmune diseases",
+   "uz": "autoimmun kasalliklar",
+   "izoh": "",
+   "joy": "25-bob, 223"
+  },
+  {
+   "en": "smooth muscle",
+   "uz": "silliq muskul",
+   "izoh": "",
+   "joy": "25-bob, 225"
+  },
+  {
+   "en": "connexins / connexin protein",
+   "uz": "konneksinlar / konneksin oqsili",
+   "izoh": "",
+   "joy": "25-bob, 227"
+  },
+  {
+   "en": "desmosomes",
+   "uz": "desmosomalar",
+   "izoh": "",
+   "joy": "25-bob, 230"
+  },
+  {
+   "en": "macula adherens",
+   "uz": "macula adherens",
+   "izoh": "lotincha atama o‘zgartirilmadi",
+   "joy": "25-bob, 231"
+  },
+  {
+   "en": "hemidesmosome",
+   "uz": "gemidesmosoma",
+   "izoh": "",
+   "joy": "25-bob, 231"
+  },
+  {
+   "en": "basement membrane",
+   "uz": "bazal membrana",
+   "izoh": "",
+   "joy": "25-bob, 231"
+  },
+  {
+   "en": "linker proteins",
+   "uz": "bog‘lovchi oqsillar",
+   "izoh": "",
+   "joy": "25-bob, 232"
+  },
+  {
+   "en": "desmosome-intermediate filament complexes (DIFC)",
+   "uz": "desmosoma-oraliq filament komplekslari (DIFC)",
+   "izoh": "",
+   "joy": "25-bob, 232"
+  },
+  {
+   "en": "outer dense plaque (ODP) / inner dense plaque",
+   "uz": "tashqi zich plastinka (ODP) / ichki zich plastinka",
+   "izoh": "",
+   "joy": "25-bob, 232"
+  },
+  {
+   "en": "extracellular core region",
+   "uz": "hujayradan tashqari markaziy soha",
+   "izoh": "",
+   "joy": "25-bob, 232"
+  },
+  {
+   "en": "desmocollin / desmoglein",
+   "uz": "desmokollin / desmoglein",
+   "izoh": "",
+   "joy": "25-bob, 234"
+  },
+  {
+   "en": "plakoglobin / plakophilin / desmoplakin",
+   "uz": "plakoglobin / plakofilin / desmoplakin",
+   "izoh": "",
+   "joy": "25-bob, 234"
+  },
+  {
+   "en": "blistering diseases",
+   "uz": "pufakchali kasalliklar",
+   "izoh": "",
+   "joy": "25-bob, 235"
+  },
+  {
+   "en": "pemphigus vulgaris",
+   "uz": "vulgar pemfigus (pemphigus vulgaris)",
+   "izoh": "",
+   "joy": "25-bob, 235"
+  },
+  {
+   "en": "bullous impetigo",
+   "uz": "bullyoz impetigo",
+   "izoh": "",
+   "joy": "25-bob, 235"
+  },
+  {
+   "en": "Staph infection",
+   "uz": "stafilokokk infeksiyasi",
+   "izoh": "",
+   "joy": "25-bob, 235"
+  }
+ ],
+ "tasdiq_kerak": []
+}
