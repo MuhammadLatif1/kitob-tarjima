@@ -1,0 +1,117 @@
+{
+ "noaniq": [
+  "313: aslida «A nucleoside doesn’t have a phosphate sugar» (to‘g‘risi: phosphate group) — aynan «fosfat qandi» deb tarjima qilindi; ATP/GTP «uchta fosfat guruhli nukleozidlar» deyilgan (aslida nukleotidlar) — o‘zgartirilmadi.",
+  "313: aslida «ADP and GTP that have two phosphate groups» — mantiqan GDP (GDF) bo‘lishi kerak; asl matndagidek «ADF va GTF» qoldirildi.",
+  "326: «There are several start codons» — odatda bitta asosiy start kodoni (AUG) bo‘ladi; asldagidek tarjima qilindi.",
+  "327: «50s half and 30s half in eukaryotes» — aslida bu prokariot subbirliklari (eukariotlarda 60S/40S); rRNKning endoplazmatik to‘rga borishi ham noaniq; asldagidek qoldirildi.",
+  "330: «They can also block an action or messenger RNA» — «action of» bo‘lsa kerak; «informatsion RNKning ta’sirini to‘sib qo‘yishi» deb tarjima qilindi.",
+  "309: «This what these two look like» (is tushib qolgan) — tarjimaga ta’sir qilmaydi.",
+  "304, 306, 310, 315, 317, 320, 324, 328: rasmlar ichidagi yozuvlar (DNK/RNK tuzilishi, riboza/dezoksiriboza, fosfodiefir bog‘, 5’-3’ ketma-ketlik, topoizomeraza, RNK shakllari, tRNK) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "codon",
+   "uz": "kodon",
+   "izoh": "start codon / stop codon → start kodoni / stop kodoni",
+   "joy": "28-bob, 308"
+  },
+  {
+   "en": "purine / pyrimidine",
+   "uz": "purin / pirimidin",
+   "izoh": "purin asoslari; pirimidinlar",
+   "joy": "28-bob, 312"
+  },
+  {
+   "en": "5’ end / 3’ end",
+   "uz": "5’ uchi / 3’ uchi",
+   "izoh": "",
+   "joy": "28-bob, 316"
+  },
+  {
+   "en": "polarity (of nucleic acid)",
+   "uz": "qutblilik",
+   "izoh": "ikki uchining bir xil emasligi ma’nosida",
+   "joy": "28-bob, 316"
+  },
+  {
+   "en": "semi-conservative DNA replication",
+   "uz": "DNKning yarim konservativ replikatsiyasi",
+   "izoh": "",
+   "joy": "28-bob, 318"
+  },
+  {
+   "en": "supercoil / supercoiling",
+   "uz": "superspirallanmoq / superspirallanish",
+   "izoh": "",
+   "joy": "28-bob, 319"
+  },
+  {
+   "en": "topoisomerase",
+   "uz": "topoizomeraza",
+   "izoh": "",
+   "joy": "28-bob, 319"
+  },
+  {
+   "en": "heterogeneous strand pair",
+   "uz": "geterogen zanjir jufti",
+   "izoh": "DNK-RNK jufti",
+   "joy": "28-bob, 323"
+  },
+  {
+   "en": "rRNA / tRNA / mRNA",
+   "uz": "rRNK / tRNK / mRNK",
+   "izoh": "qisqartmalar",
+   "joy": "28-bob, 327"
+  },
+  {
+   "en": "introns / exons",
+   "uz": "intronlar / ekzonlar",
+   "izoh": "",
+   "joy": "28-bob, 329"
+  },
+  {
+   "en": "regulatory RNA",
+   "uz": "regulyator RNK",
+   "izoh": "",
+   "joy": "28-bob, 330"
+  },
+  {
+   "en": "antisense RNA (aRNA)",
+   "uz": "antisens RNK (aRNK)",
+   "izoh": "",
+   "joy": "28-bob, 330"
+  },
+  {
+   "en": "small interfering RNA (siRNA)",
+   "uz": "kichik interferensiyalovchi RNK (siRNK)",
+   "izoh": "",
+   "joy": "28-bob, 330"
+  },
+  {
+   "en": "microRNA (miRNA)",
+   "uz": "mikroRNK (miRNK)",
+   "izoh": "",
+   "joy": "28-bob, 330"
+  },
+  {
+   "en": "riboswitches",
+   "uz": "riboswitchlar",
+   "izoh": "xalqaro atama saqlandi",
+   "joy": "28-bob, 330"
+  },
+  {
+   "en": "transfer messenger RNA (tmRNA)",
+   "uz": "transport-informatsion RNK (tmRNK)",
+   "izoh": "",
+   "joy": "28-bob, 331"
+  },
+  {
+   "en": "plastids",
+   "uz": "plastidalar",
+   "izoh": "",
+   "joy": "28-bob, 331"
+  }
+ ],
+ "tasdiq_kerak": []
+}

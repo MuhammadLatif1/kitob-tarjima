@@ -6160,5 +6160,107 @@
   "izoh": "lizosomalar haqida obrazli ifoda",
   "joy": "27-bob: Hujayra ichida hazm qilish, 275",
   "holat": "TASDIQLANGAN"
+ },
+ "codon": {
+  "uz": "kodon",
+  "izoh": "start codon / stop codon → start kodoni / stop kodoni",
+  "joy": "28-bob, 308",
+  "holat": "TASDIQLANGAN"
+ },
+ "purine / pyrimidine": {
+  "uz": "purin / pirimidin",
+  "izoh": "purin asoslari; pirimidinlar",
+  "joy": "28-bob, 312",
+  "holat": "TASDIQLANGAN"
+ },
+ "5’ end / 3’ end": {
+  "uz": "5’ uchi / 3’ uchi",
+  "izoh": "",
+  "joy": "28-bob, 316",
+  "holat": "TASDIQLANGAN"
+ },
+ "polarity (of nucleic acid)": {
+  "uz": "qutblilik",
+  "izoh": "ikki uchining bir xil emasligi ma’nosida",
+  "joy": "28-bob, 316",
+  "holat": "TASDIQLANGAN"
+ },
+ "semi-conservative DNA replication": {
+  "uz": "DNKning yarim konservativ replikatsiyasi",
+  "izoh": "",
+  "joy": "28-bob, 318",
+  "holat": "TASDIQLANGAN"
+ },
+ "supercoil / supercoiling": {
+  "uz": "superspirallanmoq / superspirallanish",
+  "izoh": "",
+  "joy": "28-bob, 319",
+  "holat": "TASDIQLANGAN"
+ },
+ "topoisomerase": {
+  "uz": "topoizomeraza",
+  "izoh": "",
+  "joy": "28-bob, 319",
+  "holat": "TASDIQLANGAN"
+ },
+ "heterogeneous strand pair": {
+  "uz": "geterogen zanjir jufti",
+  "izoh": "DNK-RNK jufti",
+  "joy": "28-bob, 323",
+  "holat": "TASDIQLANGAN"
+ },
+ "rRNA / tRNA / mRNA": {
+  "uz": "rRNK / tRNK / mRNK",
+  "izoh": "qisqartmalar",
+  "joy": "28-bob, 327",
+  "holat": "TASDIQLANGAN"
+ },
+ "introns / exons": {
+  "uz": "intronlar / ekzonlar",
+  "izoh": "",
+  "joy": "28-bob, 329",
+  "holat": "TASDIQLANGAN"
+ },
+ "regulatory RNA": {
+  "uz": "regulyator RNK",
+  "izoh": "",
+  "joy": "28-bob, 330",
+  "holat": "TASDIQLANGAN"
+ },
+ "antisense RNA (aRNA)": {
+  "uz": "antisens RNK (aRNK)",
+  "izoh": "",
+  "joy": "28-bob, 330",
+  "holat": "TASDIQLANGAN"
+ },
+ "small interfering RNA (siRNA)": {
+  "uz": "kichik interferensiyalovchi RNK (siRNK)",
+  "izoh": "",
+  "joy": "28-bob, 330",
+  "holat": "TASDIQLANGAN"
+ },
+ "microRNA (miRNA)": {
+  "uz": "mikroRNK (miRNK)",
+  "izoh": "",
+  "joy": "28-bob, 330",
+  "holat": "TASDIQLANGAN"
+ },
+ "riboswitches": {
+  "uz": "riboswitchlar",
+  "izoh": "xalqaro atama saqlandi",
+  "joy": "28-bob, 330",
+  "holat": "TASDIQLANGAN"
+ },
+ "transfer messenger RNA (tmRNA)": {
+  "uz": "transport-informatsion RNK (tmRNK)",
+  "izoh": "",
+  "joy": "28-bob, 331",
+  "holat": "TASDIQLANGAN"
+ },
+ "plastids": {
+  "uz": "plastidalar",
+  "izoh": "",
+  "joy": "28-bob, 331",
+  "holat": "TASDIQLANGAN"
  }
 }
