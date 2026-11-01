@@ -6868,5 +6868,89 @@
   "izoh": "O‘ninchi bo‘lim sarlavhasi",
   "joy": "33-bob: Hujayra jamoalari, 548",
   "holat": "TASDIQLANGAN"
+ },
+ "central dogma": {
+  "uz": "markaziy dogma",
+  "izoh": "molekulyar biologiyaning markaziy dogmasi",
+  "joy": "Bob 14 (34-bob), 550",
+  "holat": "TASDIQLANGAN"
+ },
+ "transcription": {
+  "uz": "transkripsiya",
+  "izoh": "DNKdan RNK hosil bo‘lishi",
+  "joy": "Bob 14, 554",
+  "holat": "TASDIQLANGAN"
+ },
+ "translation": {
+  "uz": "translyatsiya",
+  "izoh": "mRNKdan oqsil hosil bo‘lishi",
+  "joy": "Bob 14, 555",
+  "holat": "TASDIQLANGAN"
+ },
+ "general / special / unknown transfers": {
+  "uz": "umumiy / maxsus / noma’lum uzatishlar",
+  "izoh": "markaziy dogmadagi axborot uzatish toifalari",
+  "joy": "Bob 14, 559",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleated cells": {
+  "uz": "yadroli hujayralar",
+  "izoh": "",
+  "joy": "Bob 14, 561",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA replication": {
+  "uz": "RNK replikatsiyasi",
+  "izoh": "",
+  "joy": "Bob 14, 569",
+  "holat": "TASDIQLANGAN"
+ },
+ "reverse transcription": {
+  "uz": "teskari transkripsiya",
+  "izoh": "",
+  "joy": "Bob 14, 571",
+  "holat": "TASDIQLANGAN"
+ },
+ "reverse transcriptase": {
+  "uz": "teskari transkriptaza",
+  "izoh": "ferment",
+  "joy": "Bob 14, 571",
+  "holat": "TASDIQLANGAN"
+ },
+ "HIV": {
+  "uz": "OIV",
+  "izoh": "odam immunitet tanqisligi virusi",
+  "joy": "Bob 14, 571",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA transcription": {
+  "uz": "RNK transkripsiyasi",
+  "izoh": "jadval sarlavhasi",
+  "joy": "Bob 14, 582",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA transcript": {
+  "uz": "RNK transkripti",
+  "izoh": "",
+  "joy": "Bob 14, 616",
+  "holat": "TASDIQLANGAN"
+ },
+ "gene regulation": {
+  "uz": "gen regulyatsiyasi",
+  "izoh": "",
+  "joy": "Bob 14, 594",
+  "holat": "TASDIQLANGAN"
+ },
+ "dATP, dTTP, dGTP, dCTP / UTP, CTP": {
+  "uz": "dATF, dTTF, dGTF, dSTF / UTF, STF",
+  "izoh": "ATP → ATF qoidasiga muvofiq",
+  "joy": "Bob 14, 595-596",
+  "holat": "TASDIQLANGAN"
+ },
+ "messenger (mRNA as intermediary)": {
+  "uz": "vositachi",
+  "izoh": "umumiy ma’noda; informatsion RNK atamasi alohida",
+  "joy": "Bob 14, 554",
+  "holat": "TASDIQLANGAN"
  }
 }

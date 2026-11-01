@@ -1,0 +1,98 @@
+{
+ "noaniq": [
+  "554: «shut-ins» (uydan chiqmaydigan odamlar) o‘xshatishi ma’nosi bo‘yicha berildi.",
+  "600: «immediate primer» noaniq ibora (transkripsiyada praymer kerak emas); «darhol mavjud praymer» deb so‘zma-so‘z berildi.",
+  "602: «transcriptase (a kind of DNA helicase)» ilmiy jihatdan shubhali, muallif matni o‘zgarishsiz tarjima qilindi.",
+  "595-596: dATP/dTTP/dGTP/dCTP va ATP/GTP/UTP/CTP oldingi boblar (ATF, GTF, dATF) uslubida dATF, dTTF, dGTF, dSTF va ATF, GTF, UTF, STF deb berildi.",
+  "571: HIV → OIV.",
+  "557, 563, 565, 570, 572: rasmlar (⟦x:1⟧), ichidagi yozuvlar tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "central dogma",
+   "uz": "markaziy dogma",
+   "izoh": "molekulyar biologiyaning markaziy dogmasi",
+   "joy": "Bob 14 (34-bob), 550"
+  },
+  {
+   "en": "transcription",
+   "uz": "transkripsiya",
+   "izoh": "DNKdan RNK hosil bo‘lishi",
+   "joy": "Bob 14, 554"
+  },
+  {
+   "en": "translation",
+   "uz": "translyatsiya",
+   "izoh": "mRNKdan oqsil hosil bo‘lishi",
+   "joy": "Bob 14, 555"
+  },
+  {
+   "en": "general / special / unknown transfers",
+   "uz": "umumiy / maxsus / noma’lum uzatishlar",
+   "izoh": "markaziy dogmadagi axborot uzatish toifalari",
+   "joy": "Bob 14, 559"
+  },
+  {
+   "en": "nucleated cells",
+   "uz": "yadroli hujayralar",
+   "izoh": "",
+   "joy": "Bob 14, 561"
+  },
+  {
+   "en": "RNA replication",
+   "uz": "RNK replikatsiyasi",
+   "izoh": "",
+   "joy": "Bob 14, 569"
+  },
+  {
+   "en": "reverse transcription",
+   "uz": "teskari transkripsiya",
+   "izoh": "",
+   "joy": "Bob 14, 571"
+  },
+  {
+   "en": "reverse transcriptase",
+   "uz": "teskari transkriptaza",
+   "izoh": "ferment",
+   "joy": "Bob 14, 571"
+  },
+  {
+   "en": "HIV",
+   "uz": "OIV",
+   "izoh": "odam immunitet tanqisligi virusi",
+   "joy": "Bob 14, 571"
+  },
+  {
+   "en": "RNA transcription",
+   "uz": "RNK transkripsiyasi",
+   "izoh": "jadval sarlavhasi",
+   "joy": "Bob 14, 582"
+  },
+  {
+   "en": "RNA transcript",
+   "uz": "RNK transkripti",
+   "izoh": "",
+   "joy": "Bob 14, 616"
+  },
+  {
+   "en": "gene regulation",
+   "uz": "gen regulyatsiyasi",
+   "izoh": "",
+   "joy": "Bob 14, 594"
+  },
+  {
+   "en": "dATP, dTTP, dGTP, dCTP / UTP, CTP",
+   "uz": "dATF, dTTF, dGTF, dSTF / UTF, STF",
+   "izoh": "ATP → ATF qoidasiga muvofiq",
+   "joy": "Bob 14, 595-596"
+  },
+  {
+   "en": "messenger (mRNA as intermediary)",
+   "uz": "vositachi",
+   "izoh": "umumiy ma’noda; informatsion RNK atamasi alohida",
+   "joy": "Bob 14, 554"
+  }
+ ],
+ "tasdiq_kerak": []
+}
