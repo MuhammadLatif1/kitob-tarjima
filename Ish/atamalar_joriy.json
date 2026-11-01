@@ -7258,5 +7258,149 @@
   "izoh": "",
   "joy": "35-bob, 703",
   "holat": "TASDIQLANGAN"
+ },
+ "DNA repair": {
+  "uz": "DNK reparatsiyasi",
+  "izoh": "bob sarlavhasi; repair → reparatsiya",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 710-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "recombination / DNA recombination": {
+  "uz": "rekombinatsiya / DNK rekombinatsiyasi",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 710-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "DNA synthesis": {
+  "uz": "DNK sintezi",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 711-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "wobble": {
+  "uz": "tebranuvchan juftlashuv",
+  "izoh": "noto‘g‘ri asos juftlashuvi",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 714-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "strand slippage": {
+  "uz": "zanjir sirpanishi",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 716-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "deletion / insertion": {
+  "uz": "deletsiya / insersiya",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 716-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "mismatch repair": {
+  "uz": "nomuvofiq juftlar reparatsiyasi",
+  "izoh": "mismatched → noto‘g‘ri juftlashgan / nomuvofiq",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 718-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "silent mutation": {
+  "uz": "sokin mutatsiya",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 720-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "depurination": {
+  "uz": "depurinlanish",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 721-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "deamination": {
+  "uz": "dezaminlanish",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 721-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "germline mutations": {
+  "uz": "jinsiy hujayra mutatsiyalari",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 722-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "UV (energy, damage)": {
+  "uz": "UB (energiyasi, shikastlanishi)",
+  "izoh": "ultrabinafsha",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 725-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "pyrimidine dimer": {
+  "uz": "pirimidin dimeri",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 725-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "oncogene": {
+  "uz": "onkogen",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 727-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleotide excision repair": {
+  "uz": "nukleotid eksizion reparatsiyasi",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 728-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "base excision repair": {
+  "uz": "asos eksizion reparatsiyasi",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 733-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "xeroderma pigmentosum (XP)": {
+  "uz": "pigmentli kseroderma (XP)",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 735-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "gamma rays / x-rays": {
+  "uz": "gamma nurlar / rentgen nurlari",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 736-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "chromosome rearrangements": {
+  "uz": "xromosoma qayta tuzilishlari",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 736-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "chromosome crossover": {
+  "uz": "xromosomalar krossingoveri",
+  "izoh": "crossing over → krossingover",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 737-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "recombinases": {
+  "uz": "rekombinazalar",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 739-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "chiasm": {
+  "uz": "xiazma",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 742-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "Holliday junction": {
+  "uz": "Xolliday tuzilmasi",
+  "izoh": "birinchi uchraganda: Xolliday (Holliday) tuzilmasi",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 743-birlik",
+  "holat": "TASDIQLANGAN"
+ },
+ "mutagens": {
+  "uz": "mutagenlar",
+  "izoh": "",
+  "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 747-birlik",
+  "holat": "TASDIQLANGAN"
  }
 }
