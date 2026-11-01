@@ -1,0 +1,84 @@
+{
+ "noaniq": [
+  "811: aslda «an example of in the genetic library» — jumlada so‘z tushib qolgan; «uning namunasini topa olsangiz» deb berildi.",
+  "818: «shoots pieces of DNA onto microscopic particles in the plant cells» — aslda mantiqan noaniq (DNK zarrachalarga qoplanib hujayralarga otiladi); shu ma’noda tarjima qilindi.",
+  "820: aslda «One the cells» — «Once» nazarda tutilgan deb tarjima qilindi.",
+  "807, 819: rasmlar ichidagi yozuvlar (bo‘lsa) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "recombinant DNA technology",
+   "uz": "rekombinant DNK texnologiyasi",
+   "izoh": "",
+   "joy": "38-bob, 803"
+  },
+  {
+   "en": "PCR (polymerase chain reaction)",
+   "uz": "PZR (polimeraza zanjir reaksiyasi)",
+   "izoh": "o‘zbekcha qisqartma PZR",
+   "joy": "38-bob, 813"
+  },
+  {
+   "en": "restriction enzymes",
+   "uz": "restriksiya fermentlari",
+   "izoh": "",
+   "joy": "38-bob, 812"
+  },
+  {
+   "en": "genetic library",
+   "uz": "genetik kutubxona",
+   "izoh": "",
+   "joy": "38-bob, 811"
+  },
+  {
+   "en": "gene gun",
+   "uz": "gen to‘pponchasi",
+   "izoh": "biolistika qurilmasi",
+   "joy": "38-bob, 818"
+  },
+  {
+   "en": "Agrobacterium",
+   "uz": "Agrobacterium",
+   "izoh": "lotincha turkum nomi o‘zgarmaydi",
+   "joy": "38-bob, 818"
+  },
+  {
+   "en": "biofuels",
+   "uz": "bioyoqilg‘ilar",
+   "izoh": "",
+   "joy": "38-bob, 805"
+  },
+  {
+   "en": "invasive species",
+   "uz": "invaziv tur",
+   "izoh": "",
+   "joy": "38-bob, 828"
+  },
+  {
+   "en": "biotic stressors",
+   "uz": "biotik stress omillari",
+   "izoh": "",
+   "joy": "38-bob, 805"
+  },
+  {
+   "en": "kudzu",
+   "uz": "kudzu",
+   "izoh": "Pueraria montana o‘simligi",
+   "joy": "38-bob, 828"
+  },
+  {
+   "en": "vaccine",
+   "uz": "vaksina",
+   "izoh": "",
+   "joy": "38-bob, 826"
+  },
+  {
+   "en": "acre",
+   "uz": "akr",
+   "izoh": "o‘lchov birligi o‘zgartirilmadi",
+   "joy": "38-bob, 828"
+  }
+ ],
+ "tasdiq_kerak": []
+}
