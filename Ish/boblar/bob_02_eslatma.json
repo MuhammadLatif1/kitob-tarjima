@@ -1,0 +1,118 @@
+{
+ "noaniq": [
+  "72: asl matnda «a molecule of magnesium» deyilgan (aslida magniy ioni/atomi); muallif lafzi saqlanib «magniy molekulasi» deb berildi.",
+  "76, 84: rasmlar (⟦x:1⟧) ichidagi yozuvlar tarjima qilinmadi, tekshirilsin."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "thylakoid membranes",
+   "uz": "tilakoid membranalar",
+   "izoh": "",
+   "joy": "22-bob, 68"
+  },
+  {
+   "en": "photon",
+   "uz": "foton",
+   "izoh": "",
+   "joy": "22-bob, 68"
+  },
+  {
+   "en": "photopigments",
+   "uz": "fotopigmentlar",
+   "izoh": "pigmented → pigmentli",
+   "joy": "22-bob, 70"
+  },
+  {
+   "en": "wavelength",
+   "uz": "to‘lqin uzunligi",
+   "izoh": "",
+   "joy": "22-bob, 70"
+  },
+  {
+   "en": "chlorophyll a / chlorophyll b",
+   "uz": "xlorofill a / xlorofill b",
+   "izoh": "chlorophylls c and d → xlorofill c va d",
+   "joy": "22-bob, 71"
+  },
+  {
+   "en": "beta-carotene",
+   "uz": "beta-karotin",
+   "izoh": "",
+   "joy": "22-bob, 71"
+  },
+  {
+   "en": "bacteriochlorophyll",
+   "uz": "bakterioxlorofill",
+   "izoh": "",
+   "joy": "22-bob, 71"
+  },
+  {
+   "en": "porphyrin ring",
+   "uz": "porfirin halqasi",
+   "izoh": "",
+   "joy": "22-bob, 72"
+  },
+  {
+   "en": "heme",
+   "uz": "gem",
+   "izoh": "gemoglobinning gem qismi",
+   "joy": "22-bob, 72"
+  },
+  {
+   "en": "accessory pigments",
+   "uz": "yordamchi pigmentlar",
+   "izoh": "",
+   "joy": "22-bob, 73"
+  },
+  {
+   "en": "excited state",
+   "uz": "qo‘zg‘algan holat",
+   "izoh": "excited electrons → qo‘zg‘algan elektronlar; ground state → asosiy holat",
+   "joy": "22-bob, 74"
+  },
+  {
+   "en": "light reactions",
+   "uz": "yorug‘likka bog‘liq reaksiyalar",
+   "izoh": "23-bob sarlavhasiga mos",
+   "joy": "22-bob, 77"
+  },
+  {
+   "en": "dark reactions",
+   "uz": "qorong‘ilik reaksiyalari",
+   "izoh": "",
+   "joy": "22-bob, 79"
+  },
+  {
+   "en": "reducing molecule",
+   "uz": "qaytaruvchi molekula",
+   "izoh": "NADPH o‘zgarishsiz",
+   "joy": "22-bob, 80"
+  },
+  {
+   "en": "special pair",
+   "uz": "maxsus juftlik",
+   "izoh": "fotosintetik kompleksda",
+   "joy": "22-bob, 83"
+  },
+  {
+   "en": "photosynthetic complex",
+   "uz": "fotosintetik kompleks",
+   "izoh": "",
+   "joy": "22-bob, 83"
+  },
+  {
+   "en": "quinone",
+   "uz": "xinon",
+   "izoh": "",
+   "joy": "22-bob, 83"
+  },
+  {
+   "en": "pool stick",
+   "uz": "bilyard kiyi",
+   "izoh": "pool ball → bilyard shari",
+   "joy": "22-bob, 75"
+  }
+ ],
+ "tasdiq_kerak": []
+}

@@ -5320,5 +5320,113 @@
   "izoh": "",
   "joy": "21-bob (2-fayl), 7",
   "holat": "TASDIQLANGAN"
+ },
+ "thylakoid membranes": {
+  "uz": "tilakoid membranalar",
+  "izoh": "",
+  "joy": "22-bob, 68",
+  "holat": "TASDIQLANGAN"
+ },
+ "photon": {
+  "uz": "foton",
+  "izoh": "",
+  "joy": "22-bob, 68",
+  "holat": "TASDIQLANGAN"
+ },
+ "photopigments": {
+  "uz": "fotopigmentlar",
+  "izoh": "pigmented → pigmentli",
+  "joy": "22-bob, 70",
+  "holat": "TASDIQLANGAN"
+ },
+ "wavelength": {
+  "uz": "to‘lqin uzunligi",
+  "izoh": "",
+  "joy": "22-bob, 70",
+  "holat": "TASDIQLANGAN"
+ },
+ "chlorophyll a / chlorophyll b": {
+  "uz": "xlorofill a / xlorofill b",
+  "izoh": "chlorophylls c and d → xlorofill c va d",
+  "joy": "22-bob, 71",
+  "holat": "TASDIQLANGAN"
+ },
+ "beta-carotene": {
+  "uz": "beta-karotin",
+  "izoh": "",
+  "joy": "22-bob, 71",
+  "holat": "TASDIQLANGAN"
+ },
+ "bacteriochlorophyll": {
+  "uz": "bakterioxlorofill",
+  "izoh": "",
+  "joy": "22-bob, 71",
+  "holat": "TASDIQLANGAN"
+ },
+ "porphyrin ring": {
+  "uz": "porfirin halqasi",
+  "izoh": "",
+  "joy": "22-bob, 72",
+  "holat": "TASDIQLANGAN"
+ },
+ "heme": {
+  "uz": "gem",
+  "izoh": "gemoglobinning gem qismi",
+  "joy": "22-bob, 72",
+  "holat": "TASDIQLANGAN"
+ },
+ "accessory pigments": {
+  "uz": "yordamchi pigmentlar",
+  "izoh": "",
+  "joy": "22-bob, 73",
+  "holat": "TASDIQLANGAN"
+ },
+ "excited state": {
+  "uz": "qo‘zg‘algan holat",
+  "izoh": "excited electrons → qo‘zg‘algan elektronlar; ground state → asosiy holat",
+  "joy": "22-bob, 74",
+  "holat": "TASDIQLANGAN"
+ },
+ "light reactions": {
+  "uz": "yorug‘likka bog‘liq reaksiyalar",
+  "izoh": "23-bob sarlavhasiga mos",
+  "joy": "22-bob, 77",
+  "holat": "TASDIQLANGAN"
+ },
+ "dark reactions": {
+  "uz": "qorong‘ilik reaksiyalari",
+  "izoh": "",
+  "joy": "22-bob, 79",
+  "holat": "TASDIQLANGAN"
+ },
+ "reducing molecule": {
+  "uz": "qaytaruvchi molekula",
+  "izoh": "NADPH o‘zgarishsiz",
+  "joy": "22-bob, 80",
+  "holat": "TASDIQLANGAN"
+ },
+ "special pair": {
+  "uz": "maxsus juftlik",
+  "izoh": "fotosintetik kompleksda",
+  "joy": "22-bob, 83",
+  "holat": "TASDIQLANGAN"
+ },
+ "photosynthetic complex": {
+  "uz": "fotosintetik kompleks",
+  "izoh": "",
+  "joy": "22-bob, 83",
+  "holat": "TASDIQLANGAN"
+ },
+ "quinone": {
+  "uz": "xinon",
+  "izoh": "",
+  "joy": "22-bob, 83",
+  "holat": "TASDIQLANGAN"
+ },
+ "pool stick": {
+  "uz": "bilyard kiyi",
+  "izoh": "pool ball → bilyard shari",
+  "joy": "22-bob, 75",
+  "holat": "TASDIQLANGAN"
  }
 }
