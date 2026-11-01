@@ -6358,5 +6358,83 @@
   "izoh": "",
   "joy": "29-bob, 353",
   "holat": "TASDIQLANGAN"
+ },
+ "cell reproduction": {
+  "uz": "hujayra ko‘payishi",
+  "izoh": "bob sarlavhasi (mundarija bilan bir xil)",
+  "joy": "bob 10, 355",
+  "holat": "TASDIQLANGAN"
+ },
+ "mother cell": {
+  "uz": "ona hujayra",
+  "izoh": "",
+  "joy": "bob 10, 356",
+  "holat": "TASDIQLANGAN"
+ },
+ "gamete cell": {
+  "uz": "gameta hujayra",
+  "izoh": "",
+  "joy": "bob 10, 357",
+  "holat": "TASDIQLANGAN"
+ },
+ "sperm cell / egg cell": {
+  "uz": "spermatozoid / tuxum hujayra",
+  "izoh": "",
+  "joy": "bob 10, 357",
+  "holat": "TASDIQLANGAN"
+ },
+ "genetic recombination": {
+  "uz": "genetik rekombinatsiya",
+  "izoh": "",
+  "joy": "bob 10, 359",
+  "holat": "TASDIQLANGAN"
+ },
+ "asexual reproduction": {
+  "uz": "jinssiz ko‘payish",
+  "izoh": "",
+  "joy": "bob 10, 362",
+  "holat": "TASDIQLANGAN"
+ },
+ "parthenogenesis": {
+  "uz": "partenogenez",
+  "izoh": "",
+  "joy": "bob 10, 366",
+  "holat": "TASDIQLANGAN"
+ },
+ "Key Takeaways:": {
+  "uz": "Asosiy xulosalar:",
+  "izoh": "rukn sarlavhasi",
+  "joy": "bob 10, 366",
+  "holat": "TASDIQLANGAN"
+ },
+ "circular DNA": {
+  "uz": "halqasimon DNK",
+  "izoh": "",
+  "joy": "bob 10, 367",
+  "holat": "TASDIQLANGAN"
+ },
+ "budding / bud": {
+  "uz": "kurtaklanish / kurtak",
+  "izoh": "ko'payish usuli",
+  "joy": "bob 10, 368",
+  "holat": "TASDIQLANGAN"
+ },
+ "spermatogonium / oogonium": {
+  "uz": "spermatogoniy / oogoniy",
+  "izoh": "",
+  "joy": "bob 10, 372",
+  "holat": "TASDIQLANGAN"
+ },
+ "haploid cell": {
+  "uz": "gaploid hujayra",
+  "izoh": "",
+  "joy": "bob 10, 372",
+  "holat": "TASDIQLANGAN"
+ },
+ "segmented filamentous bacteria": {
+  "uz": "segmentli ipsimon bakteriyalar",
+  "izoh": "",
+  "joy": "bob 10, 380",
+  "holat": "TASDIQLANGAN"
  }
 }

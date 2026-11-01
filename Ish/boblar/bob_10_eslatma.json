@@ -1,0 +1,90 @@
+{
+ "noaniq": [
+  "374: 'Binary fission is what prokaryotes like bacteria reproduce' – asl gapda 'how/by which' tushib qolgan; ma'nosi bo'yicha «ko‘payish usuli» deb berildi.",
+  "358: 'the offspring are not diverse enough that some survive' – asl jumla g'aliz; «nasl ulardan ba’zilari omon qolishiga yetarli darajada xilma-xil bo‘lmasa» deb berildi.",
+  "377: 'It is not necessary that they do this, though' – «buning shart emasligini aytish kerak» deb berildi.",
+  "365, 370, 376, 381: rasmlar ichidagi yozuvlar (agar bo'lsa) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "cell reproduction",
+   "uz": "hujayra ko‘payishi",
+   "izoh": "bob sarlavhasi (mundarija bilan bir xil)",
+   "joy": "bob 10, 355"
+  },
+  {
+   "en": "mother cell",
+   "uz": "ona hujayra",
+   "izoh": "",
+   "joy": "bob 10, 356"
+  },
+  {
+   "en": "gamete cell",
+   "uz": "gameta hujayra",
+   "izoh": "",
+   "joy": "bob 10, 357"
+  },
+  {
+   "en": "sperm cell / egg cell",
+   "uz": "spermatozoid / tuxum hujayra",
+   "izoh": "",
+   "joy": "bob 10, 357"
+  },
+  {
+   "en": "genetic recombination",
+   "uz": "genetik rekombinatsiya",
+   "izoh": "",
+   "joy": "bob 10, 359"
+  },
+  {
+   "en": "asexual reproduction",
+   "uz": "jinssiz ko‘payish",
+   "izoh": "",
+   "joy": "bob 10, 362"
+  },
+  {
+   "en": "parthenogenesis",
+   "uz": "partenogenez",
+   "izoh": "",
+   "joy": "bob 10, 366"
+  },
+  {
+   "en": "Key Takeaways:",
+   "uz": "Asosiy xulosalar:",
+   "izoh": "rukn sarlavhasi",
+   "joy": "bob 10, 366"
+  },
+  {
+   "en": "circular DNA",
+   "uz": "halqasimon DNK",
+   "izoh": "",
+   "joy": "bob 10, 367"
+  },
+  {
+   "en": "budding / bud",
+   "uz": "kurtaklanish / kurtak",
+   "izoh": "ko'payish usuli",
+   "joy": "bob 10, 368"
+  },
+  {
+   "en": "spermatogonium / oogonium",
+   "uz": "spermatogoniy / oogoniy",
+   "izoh": "",
+   "joy": "bob 10, 372"
+  },
+  {
+   "en": "haploid cell",
+   "uz": "gaploid hujayra",
+   "izoh": "",
+   "joy": "bob 10, 372"
+  },
+  {
+   "en": "segmented filamentous bacteria",
+   "uz": "segmentli ipsimon bakteriyalar",
+   "izoh": "",
+   "joy": "bob 10, 380"
+  }
+ ],
+ "tasdiq_kerak": []
+}
