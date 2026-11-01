@@ -1,0 +1,168 @@
+{
+ "noaniq": [
+  "275: muallif «The two major organs» deydi; lizosoma va peroksisomalar organoid bo‘lgani uchun lug‘atdagi «organoid» atamasi ishlatildi.",
+  "277: «all lysosomal enzymes can’t get into the lysosomes» «lizosomal fermentlarning birortasi ham lizosomalarga kira olmaydi» deb tushunildi.",
+  "281: muallif endosomalar lizosomalar bilan qo‘shilib, so‘ng Golji apparatiga boradi deydi; biologik jihatdan noaniq, ammo matnga mos tarjima qilindi.",
+  "282: «cell-eating» «hujayraning yutishi» deb berildi; «chew up» kontekstga qarab «chaynab tashlamoq / parchalamoq» deb o‘girildi.",
+  "285: «NADPH-dependent oxidases» «NADPH ga bog‘liq oksidazalar» deb, NADPH asl yozuvida qoldirildi.",
+  "292: oxirgi gap («so it can be put into the chloroplasts and into the Calvin cycle») aslida takroriy; ma’nosi saqlanib ikki gapga bo‘lindi.",
+  "294: muallif lizosoma va peroksisomalarni «vesicles» deb ataydi; lug‘atdagi «pufakcha» saqlandi.",
+  "298: «messengers of that blueprint» «shu chizmaning tashuvchisi» deb berildi.",
+  "278: pH 5.0 asl yozuvida (nuqta bilan) qoldirildi.",
+  "279, 283: rasmlar (⟦x:1⟧). Ichidagi yozuvlar bo‘lsa, tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "Gaucher’s disease",
+   "uz": "Gosher kasalligi",
+   "izoh": "birinchi uchraganda asli qavsda",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 277"
+  },
+  {
+   "en": "I-cell disease",
+   "uz": "I-hujayra kasalligi",
+   "izoh": "birinchi uchraganda asli qavsda",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 277"
+  },
+  {
+   "en": "autophagy",
+   "uz": "autofagiya",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 284"
+  },
+  {
+   "en": "autophagosome",
+   "uz": "autofagosoma",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 284"
+  },
+  {
+   "en": "phagosome",
+   "uz": "fagosoma",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 282"
+  },
+  {
+   "en": "phagolysosome",
+   "uz": "fagolizosoma",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 282"
+  },
+  {
+   "en": "superoxide ions",
+   "uz": "superoksid ionlari",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 285"
+  },
+  {
+   "en": "NADPH oxidase",
+   "uz": "NADPH-oksidaza",
+   "izoh": "NADPH-dependent oxidases → NADPH ga bog‘liq oksidazalar",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 285"
+  },
+  {
+   "en": "catalase",
+   "uz": "katalaza",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 288"
+  },
+  {
+   "en": "fatty acid oxidation",
+   "uz": "yog‘ kislotalarining oksidlanishi",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 289"
+  },
+  {
+   "en": "uric acid",
+   "uz": "siydik kislotasi",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 289"
+  },
+  {
+   "en": "dolichol",
+   "uz": "dolixol",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 290"
+  },
+  {
+   "en": "plasmalogens",
+   "uz": "plazmalogenlar",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 290"
+  },
+  {
+   "en": "glyoxylate cycle",
+   "uz": "glioksilat sikli",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 291"
+  },
+  {
+   "en": "germination",
+   "uz": "unib chiqish",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 291"
+  },
+  {
+   "en": "photorespiration",
+   "uz": "fotonafas",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 292"
+  },
+  {
+   "en": "phosphoglycolate",
+   "uz": "fosfoglikolat",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 292"
+  },
+  {
+   "en": "serine",
+   "uz": "serin",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 292"
+  },
+  {
+   "en": "glycerate",
+   "uz": "glitserat",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 292"
+  },
+  {
+   "en": "phagocytic cell",
+   "uz": "fagotsitlovchi hujayra",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 295"
+  },
+  {
+   "en": "antigen",
+   "uz": "antigen",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 295"
+  },
+  {
+   "en": "genetic material",
+   "uz": "genetik material",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 300"
+  },
+  {
+   "en": "messenger molecules",
+   "uz": "messenjer molekulalar",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 300"
+  },
+  {
+   "en": "transport vesicles",
+   "uz": "transport pufakchalari",
+   "izoh": "",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 280"
+  },
+  {
+   "en": "garbage disposal (cell)",
+   "uz": "chiqindi maydalagich",
+   "izoh": "lizosomalar haqida obrazli ifoda",
+   "joy": "27-bob: Hujayra ichida hazm qilish, 275"
+  }
+ ],
+ "tasdiq_kerak": []
+}
