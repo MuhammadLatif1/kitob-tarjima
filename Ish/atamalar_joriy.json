@@ -5500,5 +5500,89 @@
   "izoh": "",
   "joy": "23-bob, 118",
   "holat": "TASDIQLANGAN"
+ },
+ "Calvin cycle": {
+  "uz": "Kalvin sikli",
+  "izoh": "",
+  "joy": "24-bob, 129",
+  "holat": "TASDIQLANGAN"
+ },
+ "ribulose-1,5-bisphosphate (RuBP)": {
+  "uz": "ribulozo-1,5-bisfosfat (RuBP)",
+  "izoh": "RuBP qisqartmasi o‘zgarmadi",
+  "joy": "24-bob, 133",
+  "holat": "TASDIQLANGAN"
+ },
+ "rubisco": {
+  "uz": "rubisko",
+  "izoh": "Rubisco enzyme complex → rubisko ferment kompleksi",
+  "joy": "24-bob, 134",
+  "holat": "TASDIQLANGAN"
+ },
+ "G3P (glyceraldehyde-3-phosphate)": {
+  "uz": "G3P (glitseraldegid-3-fosfat)",
+  "izoh": "G3P qisqartmasi o‘zgarmadi",
+  "joy": "24-bob, 135",
+  "holat": "TASDIQLANGAN"
+ },
+ "fixed carbon": {
+  "uz": "fiksatsiyalangan uglerod",
+  "izoh": "fix carbon → uglerodni fiksatsiya qilmoq",
+  "joy": "24-bob, 135",
+  "holat": "TASDIQLANGAN"
+ },
+ "leftovers": {
+  "uz": "ortiqcha qoldiqlar",
+  "izoh": "Kalvin siklida qolgan G3P molekulalari",
+  "joy": "24-bob, 136",
+  "holat": "TASDIQLANGAN"
+ },
+ "starch granules": {
+  "uz": "kraxmal donachalari",
+  "izoh": "",
+  "joy": "24-bob, 131",
+  "holat": "TASDIQLANGAN"
+ },
+ "gluconeogenesis": {
+  "uz": "glyukoneogenez",
+  "izoh": "",
+  "joy": "24-bob, 144",
+  "holat": "TASDIQLANGAN"
+ },
+ "intermediates / intermediaries": {
+  "uz": "oraliq mahsulotlar",
+  "izoh": "biokimyoviy yo‘lda",
+  "joy": "24-bob, 146",
+  "holat": "TASDIQLANGAN"
+ },
+ "glycolysis pathway": {
+  "uz": "glikoliz yo‘li",
+  "izoh": "",
+  "joy": "24-bob, 146",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell motility": {
+  "uz": "hujayra harakatchanligi",
+  "izoh": "motility → harakatchanlik",
+  "joy": "Yettinchi bo‘lim, 152",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell digestion": {
+  "uz": "hujayra ichida hazm qilish",
+  "izoh": "mundarijadagi 27-bob nomiga mos",
+  "joy": "Yettinchi bo‘lim, 155",
+  "holat": "TASDIQLANGAN"
+ },
+ "anchoring proteins": {
+  "uz": "langar oqsillar",
+  "izoh": "",
+  "joy": "Yettinchi bo‘lim, 154",
+  "holat": "TASDIQLANGAN"
+ },
+ "inorganic / organic molecule": {
+  "uz": "anorganik / organik molekula",
+  "izoh": "",
+  "joy": "24-bob, 149",
+  "holat": "TASDIQLANGAN"
  }
 }

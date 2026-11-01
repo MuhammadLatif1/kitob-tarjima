@@ -1,7 +1,7 @@
 Fayl: Asl/Biology_Made_Easy_2_qisim.docx (1-qism davomi: 21-40-boblar)
 Boblar: Ish/boblar.json (20 ta: 21-40-boblar), bo'lish tekshirilgan (XATO 0, TEKSHIRING 0).
-Tugagan boblar: 1, 2, 3
-Keyingi: 4-raqamli bob (Chapter 24: Calvin Cycle), birlik 129 dan
+Tugagan boblar: 1, 2, 3, 4
+Keyingi: 5-raqamli bob (Chapter 25: Cytoskeleton), birlik 156 dan
 Eslatma: bob va bo'lim sarlavhalari 1-qism mundarija tarjimasi (Ish/arxiv/Biology_Made_Easy_1_qisim/boblar/bob_00.json, 44-71) bilan aynan bir xil bo'lsin.
 1-qism ish fayllari: Ish/arxiv/Biology_Made_Easy_1_qisim/.
 Atamalar: yangi atamalar agent tomonidan to‘g‘ridan-to‘g‘ri TASDIQLANGAN ga kiritiladi.

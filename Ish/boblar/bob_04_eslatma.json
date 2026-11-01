@@ -1,0 +1,97 @@
+{
+ "noaniq": [
+  "130: «dark reaction segment» → «qorong‘ilik reaksiyalari qismi» deb berildi (atamalar_joriy: dark reactions → qorong‘ilik reaksiyalari).",
+  "131: asl matnda kraxmal donachalari «uglerod fiksatsiyasi jarayonida hosil bo‘lgan glyukoza molekulalaridan» yig‘iladi deyilgan; ma’no saqlangan holda ikki gapga bo‘lindi.",
+  "135: muallif «bitta G3P uchun sikl uch marta aylanadi, glyukoza uchun olti marta» deydi; ilmiy jihatdan ham shunday, asldagidek berildi.",
+  "136: «leftovers» → «ortiqcha qoldiqlar» (muallifning norasmiy ifodasi).",
+  "155: muallif «cell digestion» hujayra nafasi bilan bir xil narsa deydi (ilmiy jihatdan noaniq); asldagidek tarjima qilindi, mazmun o‘zgartirilmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "Calvin cycle",
+   "uz": "Kalvin sikli",
+   "izoh": "",
+   "joy": "24-bob, 129"
+  },
+  {
+   "en": "ribulose-1,5-bisphosphate (RuBP)",
+   "uz": "ribulozo-1,5-bisfosfat (RuBP)",
+   "izoh": "RuBP qisqartmasi o‘zgarmadi",
+   "joy": "24-bob, 133"
+  },
+  {
+   "en": "rubisco",
+   "uz": "rubisko",
+   "izoh": "Rubisco enzyme complex → rubisko ferment kompleksi",
+   "joy": "24-bob, 134"
+  },
+  {
+   "en": "G3P (glyceraldehyde-3-phosphate)",
+   "uz": "G3P (glitseraldegid-3-fosfat)",
+   "izoh": "G3P qisqartmasi o‘zgarmadi",
+   "joy": "24-bob, 135"
+  },
+  {
+   "en": "fixed carbon",
+   "uz": "fiksatsiyalangan uglerod",
+   "izoh": "fix carbon → uglerodni fiksatsiya qilmoq",
+   "joy": "24-bob, 135"
+  },
+  {
+   "en": "leftovers",
+   "uz": "ortiqcha qoldiqlar",
+   "izoh": "Kalvin siklida qolgan G3P molekulalari",
+   "joy": "24-bob, 136"
+  },
+  {
+   "en": "starch granules",
+   "uz": "kraxmal donachalari",
+   "izoh": "",
+   "joy": "24-bob, 131"
+  },
+  {
+   "en": "gluconeogenesis",
+   "uz": "glyukoneogenez",
+   "izoh": "",
+   "joy": "24-bob, 144"
+  },
+  {
+   "en": "intermediates / intermediaries",
+   "uz": "oraliq mahsulotlar",
+   "izoh": "biokimyoviy yo‘lda",
+   "joy": "24-bob, 146"
+  },
+  {
+   "en": "glycolysis pathway",
+   "uz": "glikoliz yo‘li",
+   "izoh": "",
+   "joy": "24-bob, 146"
+  },
+  {
+   "en": "cell motility",
+   "uz": "hujayra harakatchanligi",
+   "izoh": "motility → harakatchanlik",
+   "joy": "Yettinchi bo‘lim, 152"
+  },
+  {
+   "en": "cell digestion",
+   "uz": "hujayra ichida hazm qilish",
+   "izoh": "mundarijadagi 27-bob nomiga mos",
+   "joy": "Yettinchi bo‘lim, 155"
+  },
+  {
+   "en": "anchoring proteins",
+   "uz": "langar oqsillar",
+   "izoh": "",
+   "joy": "Yettinchi bo‘lim, 154"
+  },
+  {
+   "en": "inorganic / organic molecule",
+   "uz": "anorganik / organik molekula",
+   "izoh": "",
+   "joy": "24-bob, 149"
+  }
+ ],
+ "tasdiq_kerak": []
+}
