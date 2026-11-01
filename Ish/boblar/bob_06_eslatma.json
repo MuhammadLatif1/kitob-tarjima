@@ -1,0 +1,109 @@
+{
+ "noaniq": [
+  "244: «The myosins have been studied a lot so far: These are Myosin I, Myosin II, and Myosin V» deganda eng ko‘p o‘rganilgan uchta miozin nazarda tutilgan bo‘lsa kerak; matnga mos tarzda «Hozirgacha miozinlar ko‘p o‘rganilgan: bular Miozin I, Miozin II va Miozin V» deb berildi.",
+  "259: aslida grammatik xato bor («it really does a “head” end»). «has» ma’nosida tushunildi: «ularda haqiqatan ham «bosh» uchi va «dum» uchi bor».",
+  "265: «from which microtubules grow elsewhere in the cell» ikki gapga bo‘lindi: hujayraning boshqa joylarida mikronaychalar sentriolalardan o‘sib chiqadi.",
+  "252: 4.5 o‘nli kasri asl yozuvida (nuqta bilan) qoldirildi.",
+  "247, 250, 254, 264, 266, 269: rasmlar (⟦x:1⟧). Ichidagi yozuvlar bo‘lsa, tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "contractile bundles",
+   "uz": "qisqaruvchi tutamlar",
+   "izoh": "bundle → tutam",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 244"
+  },
+  {
+   "en": "microvilli",
+   "uz": "mikrovorsinkalar",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 245"
+  },
+  {
+   "en": "circumferential belt",
+   "uz": "aylana belbog‘",
+   "izoh": "belt-like structure → belbog‘simon tuzilma",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 246"
+  },
+  {
+   "en": "adherens junctions",
+   "uz": "adgeziv birikmalar",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 246"
+  },
+  {
+   "en": "equator (of dividing cell)",
+   "uz": "ekvator",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 249"
+  },
+  {
+   "en": "contractile ring / purse string",
+   "uz": "qisqaruvchi halqa / «hamyon ipi»",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 249"
+  },
+  {
+   "en": "pseudopodia / pseudopod",
+   "uz": "psevdopodiyalar / psevdopodiya",
+   "izoh": "«false feet» → «soxta oyoqchalar»",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 256"
+  },
+  {
+   "en": "fibroblasts",
+   "uz": "fibroblastlar",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 257"
+  },
+  {
+   "en": "scar tissue",
+   "uz": "chandiq to‘qimasi",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 257"
+  },
+  {
+   "en": "inchworm",
+   "uz": "odimchi qurt",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 258"
+  },
+  {
+   "en": "leading end / lagging end",
+   "uz": "oldingi uchi / orqadagi uchi",
+   "izoh": "«head» / «tail» end → «bosh» / «dum» uchi",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 259-260"
+  },
+  {
+   "en": "axoneme",
+   "uz": "aksonema",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 263"
+  },
+  {
+   "en": "basal body",
+   "uz": "bazal tanacha",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 265"
+  },
+  {
+   "en": "transition zone",
+   "uz": "o‘tish zonasi",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 265"
+  },
+  {
+   "en": "vesicular movement",
+   "uz": "pufakchalar harakati",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 271"
+  },
+  {
+   "en": "motile cells",
+   "uz": "harakatchan hujayralar",
+   "izoh": "",
+   "joy": "26-bob: Hujayralar qanday harakatlanadi, 271"
+  }
+ ],
+ "tasdiq_kerak": []
+}
