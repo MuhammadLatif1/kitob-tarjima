@@ -5176,5 +5176,149 @@
   "izoh": "kichik sarlavha",
   "joy": "20-bob, 1329",
   "holat": "TASDIQLANGAN"
+ },
+ "investment half / investment phase": {
+  "uz": "sarmoya yarmi / sarmoya bosqichi",
+  "izoh": "glikolizning energiya sarflanadigan yarmi; muallifning sarmoya o‘xshatishi saqlandi",
+  "joy": "21-bob (2-fayl), 15",
+  "holat": "TASDIQLANGAN"
+ },
+ "payoff half / payoff phase": {
+  "uz": "daromad yarmi / daromad bosqichi",
+  "izoh": "glikolizning ATF hosil bo‘ladigan yarmi",
+  "joy": "21-bob (2-fayl), 15",
+  "holat": "TASDIQLANGAN"
+ },
+ "anaerobic metabolism": {
+  "uz": "anaerob metabolizm",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 8",
+  "holat": "TASDIQLANGAN"
+ },
+ "isomerization": {
+  "uz": "izomerlanish",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 16",
+  "holat": "TASDIQLANGAN"
+ },
+ "glucose-6-phosphate / fructose 6-phosphate / fructose 1,6-bisphosphate": {
+  "uz": "glyukoza-6-fosfat / fruktoza-6-fosfat / fruktoza-1,6-bisfosfat",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 16",
+  "holat": "TASDIQLANGAN"
+ },
+ "glyceraldehyde 3-phosphate": {
+  "uz": "glitseraldegid-3-fosfat",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 19",
+  "holat": "TASDIQLANGAN"
+ },
+ "pyruvate translocase": {
+  "uz": "piruvat translokaza",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 25",
+  "holat": "TASDIQLANGAN"
+ },
+ "pyruvate dehydrogenase": {
+  "uz": "piruvatdegidrogenaza",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 26",
+  "holat": "TASDIQLANGAN"
+ },
+ "oxaloacetic acid": {
+  "uz": "oksalosirka kislota",
+  "izoh": "oxaloacetate → oksaloatsetat (lug‘atda)",
+  "joy": "21-bob (2-fayl), 30",
+  "holat": "TASDIQLANGAN"
+ },
+ "lactate": {
+  "uz": "laktat",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 39",
+  "holat": "TASDIQLANGAN"
+ },
+ "outer membrane / inner membrane (mitochondrion)": {
+  "uz": "tashqi membrana / ichki membrana",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 41",
+  "holat": "TASDIQLANGAN"
+ },
+ "intermembrane space / intermembranous space": {
+  "uz": "membranalararo bo‘shliq",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 41",
+  "holat": "TASDIQLANGAN"
+ },
+ "matrix (mitochondrial)": {
+  "uz": "matriks (mitoxondriya matriksi)",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 41",
+  "holat": "TASDIQLANGAN"
+ },
+ "porin / porin protein": {
+  "uz": "porin / porin oqsili",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 43",
+  "holat": "TASDIQLANGAN"
+ },
+ "voltage-dependent anion channel (VDAC)": {
+  "uz": "kuchlanishga bog‘liq anion kanali (VDAC)",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 43",
+  "holat": "TASDIQLANGAN"
+ },
+ "electron acceptors": {
+  "uz": "elektron akseptorlari",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 49",
+  "holat": "TASDIQLANGAN"
+ },
+ "electrochemical gradient": {
+  "uz": "elektrokimyoviy gradiyent",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 49",
+  "holat": "TASDIQLANGAN"
+ },
+ "Complex I – Complex IV": {
+  "uz": "Kompleks I – Kompleks IV",
+  "izoh": "rim raqamlari saqlandi",
+  "joy": "21-bob (2-fayl), 51",
+  "holat": "TASDIQLANGAN"
+ },
+ "coenzyme Q": {
+  "uz": "koferment Q",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 53",
+  "holat": "TASDIQLANGAN"
+ },
+ "Carrier C": {
+  "uz": "C tashuvchi",
+  "izoh": "muallif sitoxrom c ni shunday atagan",
+  "joy": "21-bob (2-fayl), 54",
+  "holat": "TASDIQLANGAN"
+ },
+ "final electron acceptor": {
+  "uz": "yakuniy elektron akseptori",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 63",
+  "holat": "TASDIQLANGAN"
+ },
+ "molds": {
+  "uz": "mog‘or zamburug‘lari",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 14",
+  "holat": "TASDIQLANGAN"
+ },
+ "monosodium glutamate": {
+  "uz": "natriy glutamat",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 11",
+  "holat": "TASDIQLANGAN"
+ },
+ "butyl alcohol / acetic acid / gluconic acid / ethanol / acetone": {
+  "uz": "butil spirti / sirka kislotasi / glyukon kislotasi / etanol / aseton",
+  "izoh": "",
+  "joy": "21-bob (2-fayl), 7",
+  "holat": "TASDIQLANGAN"
  }
 }

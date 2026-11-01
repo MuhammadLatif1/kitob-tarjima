@@ -1,0 +1,157 @@
+{
+ "noaniq": [
+  "56: aslida «ATP synthase uses this proton motive force to drive ATP synthase» — ATF-sintaza o‘zini harakatga keltiradi degan takror (muallif xatosi bo‘lishi mumkin); so‘zma-so‘z tarjima qilindi.",
+  "63: aslida «electron transport train» (chain o‘rniga xato) va «intramembranous space» (intermembranous o‘rniga) yozilgan; tarjimada «elektron tashish zanjiri» va «membranalararo bo‘shliq» berildi.",
+  "52, 54, 55: asl matnda membranadan «vodorod atomlari» haydaladi deyilgan (aslida protonlar/vodorod ionlari); muallif lafzi saqlandi.",
+  "38: 2.5 va 1.5 raqamlari asl yozuvida (nuqta bilan) qoldirildi.",
+  "30: «oxaloacetic acid» → «oksalosirka kislota», 34-birlikdagi «oxaloacetate» → «oksaloatsetat» (lug‘atdagidek)."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "investment half / investment phase",
+   "uz": "sarmoya yarmi / sarmoya bosqichi",
+   "izoh": "glikolizning energiya sarflanadigan yarmi; muallifning sarmoya o‘xshatishi saqlandi",
+   "joy": "21-bob (2-fayl), 15"
+  },
+  {
+   "en": "payoff half / payoff phase",
+   "uz": "daromad yarmi / daromad bosqichi",
+   "izoh": "glikolizning ATF hosil bo‘ladigan yarmi",
+   "joy": "21-bob (2-fayl), 15"
+  },
+  {
+   "en": "anaerobic metabolism",
+   "uz": "anaerob metabolizm",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 8"
+  },
+  {
+   "en": "isomerization",
+   "uz": "izomerlanish",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 16"
+  },
+  {
+   "en": "glucose-6-phosphate / fructose 6-phosphate / fructose 1,6-bisphosphate",
+   "uz": "glyukoza-6-fosfat / fruktoza-6-fosfat / fruktoza-1,6-bisfosfat",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 16"
+  },
+  {
+   "en": "glyceraldehyde 3-phosphate",
+   "uz": "glitseraldegid-3-fosfat",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 19"
+  },
+  {
+   "en": "pyruvate translocase",
+   "uz": "piruvat translokaza",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 25"
+  },
+  {
+   "en": "pyruvate dehydrogenase",
+   "uz": "piruvatdegidrogenaza",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 26"
+  },
+  {
+   "en": "oxaloacetic acid",
+   "uz": "oksalosirka kislota",
+   "izoh": "oxaloacetate → oksaloatsetat (lug‘atda)",
+   "joy": "21-bob (2-fayl), 30"
+  },
+  {
+   "en": "lactate",
+   "uz": "laktat",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 39"
+  },
+  {
+   "en": "outer membrane / inner membrane (mitochondrion)",
+   "uz": "tashqi membrana / ichki membrana",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 41"
+  },
+  {
+   "en": "intermembrane space / intermembranous space",
+   "uz": "membranalararo bo‘shliq",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 41"
+  },
+  {
+   "en": "matrix (mitochondrial)",
+   "uz": "matriks (mitoxondriya matriksi)",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 41"
+  },
+  {
+   "en": "porin / porin protein",
+   "uz": "porin / porin oqsili",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 43"
+  },
+  {
+   "en": "voltage-dependent anion channel (VDAC)",
+   "uz": "kuchlanishga bog‘liq anion kanali (VDAC)",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 43"
+  },
+  {
+   "en": "electron acceptors",
+   "uz": "elektron akseptorlari",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 49"
+  },
+  {
+   "en": "electrochemical gradient",
+   "uz": "elektrokimyoviy gradiyent",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 49"
+  },
+  {
+   "en": "Complex I – Complex IV",
+   "uz": "Kompleks I – Kompleks IV",
+   "izoh": "rim raqamlari saqlandi",
+   "joy": "21-bob (2-fayl), 51"
+  },
+  {
+   "en": "coenzyme Q",
+   "uz": "koferment Q",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 53"
+  },
+  {
+   "en": "Carrier C",
+   "uz": "C tashuvchi",
+   "izoh": "muallif sitoxrom c ni shunday atagan",
+   "joy": "21-bob (2-fayl), 54"
+  },
+  {
+   "en": "final electron acceptor",
+   "uz": "yakuniy elektron akseptori",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 63"
+  },
+  {
+   "en": "molds",
+   "uz": "mog‘or zamburug‘lari",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 14"
+  },
+  {
+   "en": "monosodium glutamate",
+   "uz": "natriy glutamat",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 11"
+  },
+  {
+   "en": "butyl alcohol / acetic acid / gluconic acid / ethanol / acetone",
+   "uz": "butil spirti / sirka kislotasi / glyukon kislotasi / etanol / aseton",
+   "izoh": "",
+   "joy": "21-bob (2-fayl), 7"
+  }
+ ],
+ "tasdiq_kerak": []
+}
