@@ -1,0 +1,108 @@
+{
+ "noaniq": [
+  "341: Aslida yetakchi zanjir «3’ dan 5’ yo‘nalishida, replikatsiya vilkasi tomon» deyilgan (matritsa zanjiri yo‘nalishi nazarda tutilgan bo‘lishi mumkin); asl mazmun o‘zgartirilmadi.",
+  "344: Aslida DNK praymaza «RNK polimeraza III deb ham ataladi» deyilgan; ilmiy jihatdan bahsli, lekin muallif fikri saqlandi.",
+  "336: «while the other comes is made anew» asl matndagi tahrir xatosi; ma’nosi bo‘yicha tarjima qilindi.",
+  "339, 342: rasmlar (⟦x:1⟧) ichidagi yozuvlar tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "helicase",
+   "uz": "helikaza",
+   "izoh": "",
+   "joy": "29-bob, 338"
+  },
+  {
+   "en": "replication fork",
+   "uz": "replikatsiya vilkasi",
+   "izoh": "",
+   "joy": "29-bob, 338"
+  },
+  {
+   "en": "template strand",
+   "uz": "matritsa zanjiri",
+   "izoh": "template → matritsa",
+   "joy": "29-bob, 338"
+  },
+  {
+   "en": "base pair",
+   "uz": "asos jufti",
+   "izoh": "",
+   "joy": "29-bob, 338"
+  },
+  {
+   "en": "leading strand / lagging strand",
+   "uz": "yetakchi zanjir / kechikuvchi zanjir",
+   "izoh": "",
+   "joy": "29-bob, 341"
+  },
+  {
+   "en": "Okazaki fragments",
+   "uz": "Okazaki fragmentlari",
+   "izoh": "",
+   "joy": "29-bob, 343"
+  },
+  {
+   "en": "DNA primase / primase",
+   "uz": "DNK praymaza / praymaza",
+   "izoh": "",
+   "joy": "29-bob, 344"
+  },
+  {
+   "en": "RNA polymerase III",
+   "uz": "RNK polimeraza III",
+   "izoh": "",
+   "joy": "29-bob, 344"
+  },
+  {
+   "en": "DNA polymerase",
+   "uz": "DNK polimeraza",
+   "izoh": "",
+   "joy": "29-bob, 344"
+  },
+  {
+   "en": "primer",
+   "uz": "praymer",
+   "izoh": "RNA primer → RNK praymer",
+   "joy": "29-bob, 344"
+  },
+  {
+   "en": "complementary",
+   "uz": "komplementar",
+   "izoh": "",
+   "joy": "29-bob, 344"
+  },
+  {
+   "en": "proofreading function",
+   "uz": "xatolarni tuzatish funksiyasi",
+   "izoh": "",
+   "joy": "29-bob, 345"
+  },
+  {
+   "en": "DNA ligase",
+   "uz": "DNK ligaza",
+   "izoh": "",
+   "joy": "29-bob, 346"
+  },
+  {
+   "en": "tissue",
+   "uz": "to‘qima",
+   "izoh": "",
+   "joy": "29-bob, 354"
+  },
+  {
+   "en": "cell communities",
+   "uz": "hujayra jamoalari",
+   "izoh": "mundarija bilan mos",
+   "joy": "29-bob, 354"
+  },
+  {
+   "en": "epithelial cells",
+   "uz": "epiteliy hujayralari",
+   "izoh": "",
+   "joy": "29-bob, 353"
+  }
+ ],
+ "tasdiq_kerak": []
+}

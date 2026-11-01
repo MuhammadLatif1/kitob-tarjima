@@ -6262,5 +6262,101 @@
   "izoh": "",
   "joy": "28-bob, 331",
   "holat": "TASDIQLANGAN"
+ },
+ "helicase": {
+  "uz": "helikaza",
+  "izoh": "",
+  "joy": "29-bob, 338",
+  "holat": "TASDIQLANGAN"
+ },
+ "replication fork": {
+  "uz": "replikatsiya vilkasi",
+  "izoh": "",
+  "joy": "29-bob, 338",
+  "holat": "TASDIQLANGAN"
+ },
+ "template strand": {
+  "uz": "matritsa zanjiri",
+  "izoh": "template → matritsa",
+  "joy": "29-bob, 338",
+  "holat": "TASDIQLANGAN"
+ },
+ "base pair": {
+  "uz": "asos jufti",
+  "izoh": "",
+  "joy": "29-bob, 338",
+  "holat": "TASDIQLANGAN"
+ },
+ "leading strand / lagging strand": {
+  "uz": "yetakchi zanjir / kechikuvchi zanjir",
+  "izoh": "",
+  "joy": "29-bob, 341",
+  "holat": "TASDIQLANGAN"
+ },
+ "Okazaki fragments": {
+  "uz": "Okazaki fragmentlari",
+  "izoh": "",
+  "joy": "29-bob, 343",
+  "holat": "TASDIQLANGAN"
+ },
+ "DNA primase / primase": {
+  "uz": "DNK praymaza / praymaza",
+  "izoh": "",
+  "joy": "29-bob, 344",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA polymerase III": {
+  "uz": "RNK polimeraza III",
+  "izoh": "",
+  "joy": "29-bob, 344",
+  "holat": "TASDIQLANGAN"
+ },
+ "DNA polymerase": {
+  "uz": "DNK polimeraza",
+  "izoh": "",
+  "joy": "29-bob, 344",
+  "holat": "TASDIQLANGAN"
+ },
+ "primer": {
+  "uz": "praymer",
+  "izoh": "RNA primer → RNK praymer",
+  "joy": "29-bob, 344",
+  "holat": "TASDIQLANGAN"
+ },
+ "complementary": {
+  "uz": "komplementar",
+  "izoh": "",
+  "joy": "29-bob, 344",
+  "holat": "TASDIQLANGAN"
+ },
+ "proofreading function": {
+  "uz": "xatolarni tuzatish funksiyasi",
+  "izoh": "",
+  "joy": "29-bob, 345",
+  "holat": "TASDIQLANGAN"
+ },
+ "DNA ligase": {
+  "uz": "DNK ligaza",
+  "izoh": "",
+  "joy": "29-bob, 346",
+  "holat": "TASDIQLANGAN"
+ },
+ "tissue": {
+  "uz": "to‘qima",
+  "izoh": "",
+  "joy": "29-bob, 354",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell communities": {
+  "uz": "hujayra jamoalari",
+  "izoh": "mundarija bilan mos",
+  "joy": "29-bob, 354",
+  "holat": "TASDIQLANGAN"
+ },
+ "epithelial cells": {
+  "uz": "epiteliy hujayralari",
+  "izoh": "",
+  "joy": "29-bob, 353",
+  "holat": "TASDIQLANGAN"
  }
 }
