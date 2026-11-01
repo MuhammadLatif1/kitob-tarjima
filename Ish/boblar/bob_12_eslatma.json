@@ -1,0 +1,122 @@
+{
+ "noaniq": [
+  "479: asl matnda «at least 84,000,000» va «two pairs to the 23rd power» deyilgan; 2^23 ≈ 8,4 mln (ota-ona birga ≈ 70 trln). Raqam aslidagidek qoldirildi, muallif xatosi bo‘lishi mumkin. «a least» – «at least» xatosi deb tushunildi.",
+  "469: muallif meyoz I dan keyingi hujayralarni «diploid» deydi; ilmiy jihatdan noaniq, lekin aslidagidek tarjima qilindi.",
+  "491: X va Y opa-singil xromatidalarining ajralishi haqidagi bayon ilmiy jihatdan chalkash; aslidagidek o‘girildi.",
+  "476: «X0» (X va nol) aslidagidek qoldirildi."
+ ],
+ "iqtiboslar": [
+  "458: «kamayish» (yunoncha meiosis – diminution) | muallif matni | yo‘q"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "homologous chromosomes",
+   "uz": "gomologik xromosomalar",
+   "izoh": "homolog → gomolog; homologous → gomologik",
+   "joy": "32-bob, 460"
+  },
+  {
+   "en": "autosome",
+   "uz": "autosoma",
+   "izoh": "autosomal diseases → autosom kasalliklar",
+   "joy": "32-bob, 460"
+  },
+  {
+   "en": "non-homologous",
+   "uz": "nogomologik",
+   "izoh": "",
+   "joy": "32-bob, 460"
+  },
+  {
+   "en": "nuclear DNA / mitochondrial DNA",
+   "uz": "yadro DNKsi / mitoxondrial DNK",
+   "izoh": "",
+   "joy": "32-bob, 458"
+  },
+  {
+   "en": "meiosis I / meiosis II",
+   "uz": "meyoz I / meyoz II",
+   "izoh": "prophase I → profaza I",
+   "joy": "32-bob, 459"
+  },
+  {
+   "en": "bivalent",
+   "uz": "bivalent",
+   "izoh": "",
+   "joy": "32-bob, 465"
+  },
+  {
+   "en": "nondisjunction",
+   "uz": "xromosomalarning ajralmasligi",
+   "izoh": "failure of segregation → ajralishidagi nuqson",
+   "joy": "32-bob, 473"
+  },
+  {
+   "en": "trisomy",
+   "uz": "trisomiya",
+   "izoh": "",
+   "joy": "32-bob, 474"
+  },
+  {
+   "en": "Down / Edward / Patau syndrome",
+   "uz": "Daun / Edvards / Patau sindromi",
+   "izoh": "",
+   "joy": "32-bob, 474"
+  },
+  {
+   "en": "Turner / Klinefelter / Jacob’s syndrome",
+   "uz": "Terner / Klaynfelter / Jeykobs sindromi",
+   "izoh": "",
+   "joy": "32-bob, 476"
+  },
+  {
+   "en": "miscarriage",
+   "uz": "homila tushishi",
+   "izoh": "",
+   "joy": "32-bob, 475"
+  },
+  {
+   "en": "identical twins",
+   "uz": "bir tuxumli egizaklar",
+   "izoh": "",
+   "joy": "32-bob, 478"
+  },
+  {
+   "en": "siblings",
+   "uz": "aka-uka va opa-singillar",
+   "izoh": "",
+   "joy": "32-bob, 478"
+  },
+  {
+   "en": "crossover / cross over",
+   "uz": "krossingover / chalkashmoq (o‘rin almashmoq)",
+   "izoh": "",
+   "joy": "32-bob, 478, 479"
+  },
+  {
+   "en": "spermatogenesis / oogenesis",
+   "uz": "spermatogenez / oogenez",
+   "izoh": "",
+   "joy": "32-bob, 485, 487"
+  },
+  {
+   "en": "polar body",
+   "uz": "qutb tanachasi",
+   "izoh": "",
+   "joy": "32-bob, 489"
+  },
+  {
+   "en": "ovum / oocyte",
+   "uz": "tuxum hujayra / oosit",
+   "izoh": "",
+   "joy": "32-bob, 489, 496"
+  },
+  {
+   "en": "primary spermatocyte",
+   "uz": "birlamchi spermatotsit",
+   "izoh": "",
+   "joy": "32-bob, 491"
+  }
+ ],
+ "tasdiq_kerak": []
+}
