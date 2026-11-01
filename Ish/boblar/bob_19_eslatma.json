@@ -1,0 +1,88 @@
+{
+ "noaniq": [
+  "874: aslida «No none knows» — matbaa xatosi, «No one knows» ma’nosida tarjima qilindi.",
+  "868: «Roslin Institute» kam ma’lum nom sifatida birinchi uchraganda qavsda asl yozilishi bilan berildi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "sperm-mediated transfer",
+   "uz": "sperma vositasida gen ko‘chirish",
+   "izoh": "GMO hayvon yaratish usuli",
+   "joy": "39-bob, 847"
+  },
+  {
+   "en": "bioreactor",
+   "uz": "bioreaktor",
+   "izoh": "dori ishlab chiqaruvchi GMO hayvon",
+   "joy": "39-bob, 843"
+  },
+  {
+   "en": "companion animals",
+   "uz": "uy hayvonlari",
+   "izoh": "",
+   "joy": "39-bob, 844"
+  },
+  {
+   "en": "retrovirus",
+   "uz": "retrovirus",
+   "izoh": "",
+   "joy": "39-bob, 854"
+  },
+  {
+   "en": "promoter sequence / terminator sequence",
+   "uz": "promotor ketma-ketligi / terminator ketma-ketligi",
+   "izoh": "",
+   "joy": "39-bob, 858"
+  },
+  {
+   "en": "transgenic",
+   "uz": "transgen",
+   "izoh": "transgen hayvon",
+   "joy": "39-bob, 862"
+  },
+  {
+   "en": "transplant rejection",
+   "uz": "ko‘chirib o‘tkazilgan a’zoni rad etish",
+   "izoh": "kontekstga qarab «rad etish»",
+   "joy": "39-bob, 849"
+  },
+  {
+   "en": "cloning",
+   "uz": "klonlash",
+   "izoh": "«clone → klonlamoq» bilan mos",
+   "joy": "39-bob, 864"
+  },
+  {
+   "en": "totipotent",
+   "uz": "totipotent",
+   "izoh": "",
+   "joy": "39-bob, 866"
+  },
+  {
+   "en": "telomeres",
+   "uz": "telomeralar",
+   "izoh": "",
+   "joy": "39-bob, 869"
+  },
+  {
+   "en": "gene editing",
+   "uz": "gen tahriri",
+   "izoh": "",
+   "joy": "39-bob, 871"
+  },
+  {
+   "en": "CRISPR",
+   "uz": "CRISPR",
+   "izoh": "o‘zgarmaydi",
+   "joy": "39-bob, 872"
+  },
+  {
+   "en": "embryonic cells",
+   "uz": "embrional hujayralar",
+   "izoh": "",
+   "joy": "39-bob, 866"
+  }
+ ],
+ "tasdiq_kerak": []
+}

@@ -7588,5 +7588,83 @@
   "izoh": "o‘lchov birligi o‘zgartirilmadi",
   "joy": "38-bob, 828",
   "holat": "TASDIQLANGAN"
+ },
+ "sperm-mediated transfer": {
+  "uz": "sperma vositasida gen ko‘chirish",
+  "izoh": "GMO hayvon yaratish usuli",
+  "joy": "39-bob, 847",
+  "holat": "TASDIQLANGAN"
+ },
+ "bioreactor": {
+  "uz": "bioreaktor",
+  "izoh": "dori ishlab chiqaruvchi GMO hayvon",
+  "joy": "39-bob, 843",
+  "holat": "TASDIQLANGAN"
+ },
+ "companion animals": {
+  "uz": "uy hayvonlari",
+  "izoh": "",
+  "joy": "39-bob, 844",
+  "holat": "TASDIQLANGAN"
+ },
+ "retrovirus": {
+  "uz": "retrovirus",
+  "izoh": "",
+  "joy": "39-bob, 854",
+  "holat": "TASDIQLANGAN"
+ },
+ "promoter sequence / terminator sequence": {
+  "uz": "promotor ketma-ketligi / terminator ketma-ketligi",
+  "izoh": "",
+  "joy": "39-bob, 858",
+  "holat": "TASDIQLANGAN"
+ },
+ "transgenic": {
+  "uz": "transgen",
+  "izoh": "transgen hayvon",
+  "joy": "39-bob, 862",
+  "holat": "TASDIQLANGAN"
+ },
+ "transplant rejection": {
+  "uz": "ko‘chirib o‘tkazilgan a’zoni rad etish",
+  "izoh": "kontekstga qarab «rad etish»",
+  "joy": "39-bob, 849",
+  "holat": "TASDIQLANGAN"
+ },
+ "cloning": {
+  "uz": "klonlash",
+  "izoh": "«clone → klonlamoq» bilan mos",
+  "joy": "39-bob, 864",
+  "holat": "TASDIQLANGAN"
+ },
+ "totipotent": {
+  "uz": "totipotent",
+  "izoh": "",
+  "joy": "39-bob, 866",
+  "holat": "TASDIQLANGAN"
+ },
+ "telomeres": {
+  "uz": "telomeralar",
+  "izoh": "",
+  "joy": "39-bob, 869",
+  "holat": "TASDIQLANGAN"
+ },
+ "gene editing": {
+  "uz": "gen tahriri",
+  "izoh": "",
+  "joy": "39-bob, 871",
+  "holat": "TASDIQLANGAN"
+ },
+ "CRISPR": {
+  "uz": "CRISPR",
+  "izoh": "o‘zgarmaydi",
+  "joy": "39-bob, 872",
+  "holat": "TASDIQLANGAN"
+ },
+ "embryonic cells": {
+  "uz": "embrional hujayralar",
+  "izoh": "",
+  "joy": "39-bob, 866",
+  "holat": "TASDIQLANGAN"
  }
 }
