@@ -1,0 +1,127 @@
+{
+ "noaniq": [
+  "758: «regulate lactose production» deyilgan, aslida lac operon laktozani o‘zlashtirishni boshqaradi; «laktoza bilan bog‘liq jarayonni boshqarish» deb neytral berildi.",
+  "762: muallif CAP promotorga bevosita bog‘lanib transkripsiyani o‘chiradi deydi; ilmiy jihatdan noaniq, asl ma’no saqlandi.",
+  "771: «chunki unga triptofan aslida kerak emas» — mantiqan «triptofan yetarli bo‘lgani uchun» nazarda tutilgan; asl ma’no saqlandi.",
+  "787: muallif atsetillanish gistonni DNKga yaxshiroq birikadigan qiladi deydi, 796 da esa aksincha (atsetillanish gistonni DNKdan sirg‘alib chiqaradi). Ilmiy jihatdan 796 to‘g‘ri; tarjima aslga sodiq qoldirildi.",
+  "798: «21st» → «21-⟦s1⟧⟦/s1⟧asr» (yuqori indeks juftligi bo‘sh qoldirildi)."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "operon",
+   "uz": "operon",
+   "izoh": "",
+   "joy": "bob 17, 752"
+  },
+  {
+   "en": "activator / repressor / inducer",
+   "uz": "aktivator / repressor / induktor",
+   "izoh": "gen regulyatsiyasi molekulalari",
+   "joy": "bob 17, 753"
+  },
+  {
+   "en": "operator region",
+   "uz": "operator sohasi",
+   "izoh": "",
+   "joy": "bob 17, 755"
+  },
+  {
+   "en": "lac operon / lac repressor",
+   "uz": "lac operon / lac repressor",
+   "izoh": "",
+   "joy": "bob 17, 758"
+  },
+  {
+   "en": "catabolite activator protein (CAP)",
+   "uz": "katabolit aktivator oqsil (CAP)",
+   "izoh": "",
+   "joy": "bob 17, 761"
+  },
+  {
+   "en": "allolactose",
+   "uz": "allolaktoza",
+   "izoh": "",
+   "joy": "bob 17, 764"
+  },
+  {
+   "en": "Trp operon",
+   "uz": "Trp operon",
+   "izoh": "",
+   "joy": "bob 17, 769"
+  },
+  {
+   "en": "tryptophan",
+   "uz": "triptofan",
+   "izoh": "aminokislota",
+   "joy": "bob 17, 769"
+  },
+  {
+   "en": "tryptophan repressor protein",
+   "uz": "triptofan repressor oqsili",
+   "izoh": "",
+   "joy": "bob 17, 771"
+  },
+  {
+   "en": "trpR gene",
+   "uz": "trpR geni",
+   "izoh": "",
+   "joy": "bob 17, 774"
+  },
+  {
+   "en": "general transcription factor",
+   "uz": "umumiy transkripsiya omili",
+   "izoh": "",
+   "joy": "bob 17, 779"
+  },
+  {
+   "en": "enhancer regions",
+   "uz": "enhanser sohalari",
+   "izoh": "",
+   "joy": "bob 17, 782"
+  },
+  {
+   "en": "acetyl side chain",
+   "uz": "atsetil yon zanjiri",
+   "izoh": "",
+   "joy": "bob 17, 787"
+  },
+  {
+   "en": "acetylation / de-acetylate",
+   "uz": "atsetillanish / deatsetillamoq",
+   "izoh": "",
+   "joy": "bob 17, 787"
+  },
+  {
+   "en": "nucleosome remodeling",
+   "uz": "nukleosomalarni qayta tuzish",
+   "izoh": "",
+   "joy": "bob 17, 787"
+  },
+  {
+   "en": "methyl group / methylation / methylate",
+   "uz": "metil guruhi / metillanish / metillamoq",
+   "izoh": "",
+   "joy": "bob 17, 789"
+  },
+  {
+   "en": "epigenetics / epigenetic",
+   "uz": "epigenetika / epigenetik",
+   "izoh": "",
+   "joy": "bob 17, 792"
+  },
+  {
+   "en": "GMO (genetically modified organisms)",
+   "uz": "GMO (genetik modifikatsiyalangan organizmlar)",
+   "izoh": "",
+   "joy": "bob 17, 798"
+  },
+  {
+   "en": "clone",
+   "uz": "klonlamoq",
+   "izoh": "",
+   "joy": "bob 17, 798"
+  }
+ ],
+ "tasdiq_kerak": []
+}

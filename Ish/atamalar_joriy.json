@@ -7402,5 +7402,119 @@
   "izoh": "",
   "joy": "36-bob: DNK reparatsiyasi va rekombinatsiyasi, 747-birlik",
   "holat": "TASDIQLANGAN"
+ },
+ "operon": {
+  "uz": "operon",
+  "izoh": "",
+  "joy": "bob 17, 752",
+  "holat": "TASDIQLANGAN"
+ },
+ "activator / repressor / inducer": {
+  "uz": "aktivator / repressor / induktor",
+  "izoh": "gen regulyatsiyasi molekulalari",
+  "joy": "bob 17, 753",
+  "holat": "TASDIQLANGAN"
+ },
+ "operator region": {
+  "uz": "operator sohasi",
+  "izoh": "",
+  "joy": "bob 17, 755",
+  "holat": "TASDIQLANGAN"
+ },
+ "lac operon / lac repressor": {
+  "uz": "lac operon / lac repressor",
+  "izoh": "",
+  "joy": "bob 17, 758",
+  "holat": "TASDIQLANGAN"
+ },
+ "catabolite activator protein (CAP)": {
+  "uz": "katabolit aktivator oqsil (CAP)",
+  "izoh": "",
+  "joy": "bob 17, 761",
+  "holat": "TASDIQLANGAN"
+ },
+ "allolactose": {
+  "uz": "allolaktoza",
+  "izoh": "",
+  "joy": "bob 17, 764",
+  "holat": "TASDIQLANGAN"
+ },
+ "Trp operon": {
+  "uz": "Trp operon",
+  "izoh": "",
+  "joy": "bob 17, 769",
+  "holat": "TASDIQLANGAN"
+ },
+ "tryptophan": {
+  "uz": "triptofan",
+  "izoh": "aminokislota",
+  "joy": "bob 17, 769",
+  "holat": "TASDIQLANGAN"
+ },
+ "tryptophan repressor protein": {
+  "uz": "triptofan repressor oqsili",
+  "izoh": "",
+  "joy": "bob 17, 771",
+  "holat": "TASDIQLANGAN"
+ },
+ "trpR gene": {
+  "uz": "trpR geni",
+  "izoh": "",
+  "joy": "bob 17, 774",
+  "holat": "TASDIQLANGAN"
+ },
+ "general transcription factor": {
+  "uz": "umumiy transkripsiya omili",
+  "izoh": "",
+  "joy": "bob 17, 779",
+  "holat": "TASDIQLANGAN"
+ },
+ "enhancer regions": {
+  "uz": "enhanser sohalari",
+  "izoh": "",
+  "joy": "bob 17, 782",
+  "holat": "TASDIQLANGAN"
+ },
+ "acetyl side chain": {
+  "uz": "atsetil yon zanjiri",
+  "izoh": "",
+  "joy": "bob 17, 787",
+  "holat": "TASDIQLANGAN"
+ },
+ "acetylation / de-acetylate": {
+  "uz": "atsetillanish / deatsetillamoq",
+  "izoh": "",
+  "joy": "bob 17, 787",
+  "holat": "TASDIQLANGAN"
+ },
+ "nucleosome remodeling": {
+  "uz": "nukleosomalarni qayta tuzish",
+  "izoh": "",
+  "joy": "bob 17, 787",
+  "holat": "TASDIQLANGAN"
+ },
+ "methyl group / methylation / methylate": {
+  "uz": "metil guruhi / metillanish / metillamoq",
+  "izoh": "",
+  "joy": "bob 17, 789",
+  "holat": "TASDIQLANGAN"
+ },
+ "epigenetics / epigenetic": {
+  "uz": "epigenetika / epigenetik",
+  "izoh": "",
+  "joy": "bob 17, 792",
+  "holat": "TASDIQLANGAN"
+ },
+ "GMO (genetically modified organisms)": {
+  "uz": "GMO (genetik modifikatsiyalangan organizmlar)",
+  "izoh": "",
+  "joy": "bob 17, 798",
+  "holat": "TASDIQLANGAN"
+ },
+ "clone": {
+  "uz": "klonlamoq",
+  "izoh": "",
+  "joy": "bob 17, 798",
+  "holat": "TASDIQLANGAN"
  }
 }
