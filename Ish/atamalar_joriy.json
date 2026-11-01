@@ -6436,5 +6436,221 @@
   "izoh": "",
   "joy": "bob 10, 380",
   "holat": "TASDIQLANGAN"
+ },
+ "cell cycle checkpoints": {
+  "uz": "hujayra siklining nazorat nuqtalari",
+  "izoh": "checkpoint → nazorat nuqtasi",
+  "joy": "bob 11, 395",
+  "holat": "TASDIQLANGAN"
+ },
+ "interphase": {
+  "uz": "interfaza",
+  "izoh": "",
+  "joy": "bob 11, 394",
+  "holat": "TASDIQLANGAN"
+ },
+ "mitotic phase / M phase": {
+  "uz": "mitotik faza / M fazasi",
+  "izoh": "",
+  "joy": "bob 11, 394",
+  "holat": "TASDIQLANGAN"
+ },
+ "replication": {
+  "uz": "replikatsiya",
+  "izoh": "DNA replication → DNK replikatsiyasi (lug‘atda bor)",
+  "joy": "bob 11, 394",
+  "holat": "TASDIQLANGAN"
+ },
+ "G0 / G1 / S / G2 phase": {
+  "uz": "G0 / G1 / S / G2 fazasi",
+  "izoh": "Gap 0/1/2 → Gap 0 («0-oraliq») va h.k.",
+  "joy": "bob 11, 397",
+  "holat": "TASDIQLANGAN"
+ },
+ "quiescent": {
+  "uz": "tinim holatidagi",
+  "izoh": "resting phase → tinim fazasi",
+  "joy": "bob 11, 397",
+  "holat": "TASDIQLANGAN"
+ },
+ "post-mitotic cells": {
+  "uz": "postmitotik hujayralar",
+  "izoh": "",
+  "joy": "bob 11, 400",
+  "holat": "TASDIQLANGAN"
+ },
+ "senescent": {
+  "uz": "senessent («qarigan»)",
+  "izoh": "",
+  "joy": "bob 11, 400",
+  "holat": "TASDIQLANGAN"
+ },
+ "G1 / G2 / metaphase checkpoint": {
+  "uz": "G1 / G2 / metafaza nazorat nuqtasi",
+  "izoh": "",
+  "joy": "bob 11, 401",
+  "holat": "TASDIQLANGAN"
+ },
+ "sister chromatids": {
+  "uz": "opa-singil xromatidalar",
+  "izoh": "chromatid → xromatida",
+  "joy": "bob 11, 402",
+  "holat": "TASDIQLANGAN"
+ },
+ "tumor suppressor protein": {
+  "uz": "o‘sma supressori oqsili",
+  "izoh": "",
+  "joy": "bob 11, 406",
+  "holat": "TASDIQLANGAN"
+ },
+ "Li-Fraumeni Syndrome": {
+  "uz": "Li-Fraumeni sindromi",
+  "izoh": "birinchi uchraganda asli qavsda",
+  "joy": "bob 11, 406",
+  "holat": "TASDIQLANGAN"
+ },
+ "karyokinesis": {
+  "uz": "kariokinez",
+  "izoh": "",
+  "joy": "bob 11, 409",
+  "holat": "TASDIQLANGAN"
+ },
+ "prophase / prometaphase / metaphase / anaphase / telophase": {
+  "uz": "profaza / prometafaza / metafaza / anafaza / telofaza",
+  "izoh": "",
+  "joy": "bob 11, 412",
+  "holat": "TASDIQLANGAN"
+ },
+ "mitotic spindle": {
+  "uz": "mitotik duk",
+  "izoh": "spindle → duk",
+  "joy": "bob 11, 413",
+  "holat": "TASDIQLANGAN"
+ },
+ "kinetochore": {
+  "uz": "kinetoxor",
+  "izoh": "",
+  "joy": "bob 11, 414",
+  "holat": "TASDIQLANGAN"
+ },
+ "centromere": {
+  "uz": "sentromera",
+  "izoh": "",
+  "joy": "bob 11, 416",
+  "holat": "TASDIQLANGAN"
+ },
+ "kinetochore microtubules": {
+  "uz": "kinetoxor mikronaychalari",
+  "izoh": "",
+  "joy": "bob 11, 420",
+  "holat": "TASDIQLANGAN"
+ },
+ "aster": {
+  "uz": "aster",
+  "izoh": "",
+  "joy": "bob 11, 420",
+  "holat": "TASDIQLANGAN"
+ },
+ "metaphase plate": {
+  "uz": "metafaza plastinkasi",
+  "izoh": "",
+  "joy": "bob 11, 421",
+  "holat": "TASDIQLANGAN"
+ },
+ "spindle checkpoint": {
+  "uz": "duk nazorat nuqtasi",
+  "izoh": "",
+  "joy": "bob 11, 422",
+  "holat": "TASDIQLANGAN"
+ },
+ "decondense": {
+  "uz": "dekondensatsiyalanmoq",
+  "izoh": "",
+  "joy": "bob 11, 426",
+  "holat": "TASDIQLANGAN"
+ },
+ "actin ring": {
+  "uz": "aktin halqasi",
+  "izoh": "",
+  "joy": "bob 11, 429",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell plate": {
+  "uz": "hujayra plastinkasi",
+  "izoh": "",
+  "joy": "bob 11, 429",
+  "holat": "TASDIQLANGAN"
+ },
+ "cyclins / cyclin-dependent kinases (CDKs)": {
+  "uz": "siklinlar / siklinga bog‘liq kinazalar (CDKlar)",
+  "izoh": "",
+  "joy": "bob 11, 431",
+  "holat": "TASDIQLANGAN"
+ },
+ "pro-mitotic signal": {
+  "uz": "promitotik signal",
+  "izoh": "",
+  "joy": "bob 11, 432",
+  "holat": "TASDIQLANGAN"
+ },
+ "transcription factors": {
+  "uz": "transkripsiya omillari",
+  "izoh": "",
+  "joy": "bob 11, 432",
+  "holat": "TASDIQLANGAN"
+ },
+ "restriction point": {
+  "uz": "restriksiya nuqtasi",
+  "izoh": "",
+  "joy": "bob 11, 436",
+  "holat": "TASDIQLANGAN"
+ },
+ "DNA synthase enzyme": {
+  "uz": "DNK-sintaza fermenti",
+  "izoh": "",
+  "joy": "bob 11, 436",
+  "holat": "TASDIQLANGAN"
+ },
+ "programmed cell death": {
+  "uz": "dasturlashtirilgan hujayra o‘limi",
+  "izoh": "",
+  "joy": "bob 11, 439",
+  "holat": "TASDIQLANGAN"
+ },
+ "cell necrosis": {
+  "uz": "hujayra nekrozi",
+  "izoh": "",
+  "joy": "bob 11, 445",
+  "holat": "TASDIQLANGAN"
+ },
+ "caspases / procaspases": {
+  "uz": "kaspazalar / prokaspazalar",
+  "izoh": "",
+  "joy": "bob 11, 446",
+  "holat": "TASDIQLANGAN"
+ },
+ "proteases": {
+  "uz": "proteazalar",
+  "izoh": "",
+  "joy": "bob 11, 446",
+  "holat": "TASDIQLANGAN"
+ },
+ "aspartic acid": {
+  "uz": "asparagin kislota",
+  "izoh": "",
+  "joy": "bob 11, 446",
+  "holat": "TASDIQLANGAN"
+ },
+ "death receptors": {
+  "uz": "o‘lim retseptorlari",
+  "izoh": "",
+  "joy": "bob 11, 448",
+  "holat": "TASDIQLANGAN"
+ },
+ "innervation": {
+  "uz": "innervatsiya",
+  "izoh": "",
+  "joy": "bob 11, 442",
+  "holat": "TASDIQLANGAN"
  }
 }
