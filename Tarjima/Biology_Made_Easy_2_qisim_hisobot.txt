@@ -1,0 +1,571 @@
+TARJIMA HISOBOTI: Biology_Made_Easy_2_qisim
+
+1) QAMROV
+   Xatboshi: 912, jadval: 1, sahifa osti izohi: 0, rasm: 121 (asl bilan solishtirilgan)
+   Tarjima qilingan birliklar: 791 / 791
+2) NOANIQ JOYLAR
+   [Chapter 21: Steps of Cellular Respiration] 56: aslida «ATP synthase uses this proton motive force to drive ATP synthase» — ATF-sintaza o‘zini harakatga keltiradi degan takror (muallif xatosi bo‘lishi mumkin); so‘zma-so‘z tarjima qilindi.
+   [Chapter 21: Steps of Cellular Respiration] 63: aslida «electron transport train» (chain o‘rniga xato) va «intramembranous space» (intermembranous o‘rniga) yozilgan; tarjimada «elektron tashish zanjiri» va «membranalararo bo‘shliq» berildi.
+   [Chapter 21: Steps of Cellular Respiration] 52, 54, 55: asl matnda membranadan «vodorod atomlari» haydaladi deyilgan (aslida protonlar/vodorod ionlari); muallif lafzi saqlandi.
+   [Chapter 21: Steps of Cellular Respiration] 38: 2.5 va 1.5 raqamlari asl yozuvida (nuqta bilan) qoldirildi.
+   [Chapter 21: Steps of Cellular Respiration] 30: «oxaloacetic acid» → «oksalosirka kislota», 34-birlikdagi «oxaloacetate» → «oksaloatsetat» (lug‘atdagidek).
+   [Chapter 22: Introduction to Photosynthesis] 72: asl matnda «a molecule of magnesium» deyilgan (aslida magniy ioni/atomi); muallif lafzi saqlanib «magniy molekulasi» deb berildi.
+   [Chapter 22: Introduction to Photosynthesis] 76, 84: rasmlar (⟦x:1⟧) ichidagi yozuvlar tarjima qilinmadi, tekshirilsin.
+   [Chapter 23: Light-Dependent Reactions] 119: aslda «NAPD+» deb yozilgan (bosma xatosi); tarjimada NADP+ deb berildi.
+   [Chapter 23: Light-Dependent Reactions] 94: «50,000 calories» asl yozuvida (50,000) qoldirildi; bu yerda kilokaloriya nazarda tutilgan bo‘lishi mumkin, muallif lafzi saqlandi.
+   [Chapter 23: Light-Dependent Reactions] 110: muallif I fotosistemani ham ATF hosil qiladi deb yozgan (aslida I fotosistema NADPH hosil qiladi); muallif lafzi o‘zgartirilmadi.
+   [Chapter 23: Light-Dependent Reactions] 107: rasmdagi I va II fotosistema vazifalari muallif bayonicha berildi (suvni oksidlash odatda II fotosistemaga tegishli, matnda ham shunday).
+   [Chapter 23: Light-Dependent Reactions] 96, 99, 102, 106, 109, 117, 121, 124: rasmlar (⟦x:1⟧); ichidagi yozuvlar (reaksiya tenglamalari, sxema yorliqlari) tarjima qilinmadi.
+   [Chapter 24: Calvin Cycle] 130: «dark reaction segment» → «qorong‘ilik reaksiyalari qismi» deb berildi (atamalar_joriy: dark reactions → qorong‘ilik reaksiyalari).
+   [Chapter 24: Calvin Cycle] 131: asl matnda kraxmal donachalari «uglerod fiksatsiyasi jarayonida hosil bo‘lgan glyukoza molekulalaridan» yig‘iladi deyilgan; ma’no saqlangan holda ikki gapga bo‘lindi.
+   [Chapter 24: Calvin Cycle] 135: muallif «bitta G3P uchun sikl uch marta aylanadi, glyukoza uchun olti marta» deydi; ilmiy jihatdan ham shunday, asldagidek berildi.
+   [Chapter 24: Calvin Cycle] 136: «leftovers» → «ortiqcha qoldiqlar» (muallifning norasmiy ifodasi).
+   [Chapter 24: Calvin Cycle] 155: muallif «cell digestion» hujayra nafasi bilan bir xil narsa deydi (ilmiy jihatdan noaniq); asldagidek tarjima qilindi, mazmun o‘zgartirilmadi.
+   [Chapter 25: Cytoskeleton] 181: muallif mikrofilament G-aktin va F-aktindan tuzilgan ikki tolaning o‘ralishidan hosil bo‘ladi deydi (ilmiy jihatdan F-aktin G-aktin monomerlaridan tuzilgan); asl ma’no o‘zgartirilmay tarjima qilindi.
+   [Chapter 25: Cytoskeleton] 196: «they don’t get copied twice» noaniq; «ikki marta nusxalanmaydi» deb so‘zma-so‘z berildi.
+   [Chapter 25: Cytoskeleton] 234: «two liner sections» ehtimol «layer» yoki «linker» xatosi; «ikkita qoplama qism» deb berildi, tekshirilsin.
+   [Chapter 25: Cytoskeleton] 237: «Some act like the poles of a tent» egasi aniq emas; «Uning ayrim tolalari» deb berildi.
+   [Chapter 25: Cytoskeleton] Rasmlar (163, 177, 180, 186, 192, 194, 198, 203, 215, 221, 228, 233): ichidagi inglizcha yozuvlar o‘zgartirilmadi.
+   [Chapter 26: How Cells Move] 244: «The myosins have been studied a lot so far: These are Myosin I, Myosin II, and Myosin V» deganda eng ko‘p o‘rganilgan uchta miozin nazarda tutilgan bo‘lsa kerak; matnga mos tarzda «Hozirgacha miozinlar ko‘p o‘rganilgan: bular Miozin I, Miozin II va Miozin V» deb berildi.
+   [Chapter 26: How Cells Move] 259: aslida grammatik xato bor («it really does a “head” end»). «has» ma’nosida tushunildi: «ularda haqiqatan ham «bosh» uchi va «dum» uchi bor».
+   [Chapter 26: How Cells Move] 265: «from which microtubules grow elsewhere in the cell» ikki gapga bo‘lindi: hujayraning boshqa joylarida mikronaychalar sentriolalardan o‘sib chiqadi.
+   [Chapter 26: How Cells Move] 252: 4.5 o‘nli kasri asl yozuvida (nuqta bilan) qoldirildi.
+   [Chapter 26: How Cells Move] 247, 250, 254, 264, 266, 269: rasmlar (⟦x:1⟧). Ichidagi yozuvlar bo‘lsa, tarjima qilinmadi.
+   [Chapter 27: Cellular Digestion] 275: muallif «The two major organs» deydi; lizosoma va peroksisomalar organoid bo‘lgani uchun lug‘atdagi «organoid» atamasi ishlatildi.
+   [Chapter 27: Cellular Digestion] 277: «all lysosomal enzymes can’t get into the lysosomes» «lizosomal fermentlarning birortasi ham lizosomalarga kira olmaydi» deb tushunildi.
+   [Chapter 27: Cellular Digestion] 281: muallif endosomalar lizosomalar bilan qo‘shilib, so‘ng Golji apparatiga boradi deydi; biologik jihatdan noaniq, ammo matnga mos tarjima qilindi.
+   [Chapter 27: Cellular Digestion] 282: «cell-eating» «hujayraning yutishi» deb berildi; «chew up» kontekstga qarab «chaynab tashlamoq / parchalamoq» deb o‘girildi.
+   [Chapter 27: Cellular Digestion] 285: «NADPH-dependent oxidases» «NADPH ga bog‘liq oksidazalar» deb, NADPH asl yozuvida qoldirildi.
+   [Chapter 27: Cellular Digestion] 292: oxirgi gap («so it can be put into the chloroplasts and into the Calvin cycle») aslida takroriy; ma’nosi saqlanib ikki gapga bo‘lindi.
+   [Chapter 27: Cellular Digestion] 294: muallif lizosoma va peroksisomalarni «vesicles» deb ataydi; lug‘atdagi «pufakcha» saqlandi.
+   [Chapter 27: Cellular Digestion] 298: «messengers of that blueprint» «shu chizmaning tashuvchisi» deb berildi.
+   [Chapter 27: Cellular Digestion] 278: pH 5.0 asl yozuvida (nuqta bilan) qoldirildi.
+   [Chapter 27: Cellular Digestion] 279, 283: rasmlar (⟦x:1⟧). Ichidagi yozuvlar bo‘lsa, tarjima qilinmadi.
+   [Chapter 28: What is Genetic Material?] 313: aslida «A nucleoside doesn’t have a phosphate sugar» (to‘g‘risi: phosphate group) — aynan «fosfat qandi» deb tarjima qilindi; ATP/GTP «uchta fosfat guruhli nukleozidlar» deyilgan (aslida nukleotidlar) — o‘zgartirilmadi.
+   [Chapter 28: What is Genetic Material?] 313: aslida «ADP and GTP that have two phosphate groups» — mantiqan GDP (GDF) bo‘lishi kerak; asl matndagidek «ADF va GTF» qoldirildi.
+   [Chapter 28: What is Genetic Material?] 326: «There are several start codons» — odatda bitta asosiy start kodoni (AUG) bo‘ladi; asldagidek tarjima qilindi.
+   [Chapter 28: What is Genetic Material?] 327: «50s half and 30s half in eukaryotes» — aslida bu prokariot subbirliklari (eukariotlarda 60S/40S); rRNKning endoplazmatik to‘rga borishi ham noaniq; asldagidek qoldirildi.
+   [Chapter 28: What is Genetic Material?] 330: «They can also block an action or messenger RNA» — «action of» bo‘lsa kerak; «informatsion RNKning ta’sirini to‘sib qo‘yishi» deb tarjima qilindi.
+   [Chapter 28: What is Genetic Material?] 309: «This what these two look like» (is tushib qolgan) — tarjimaga ta’sir qilmaydi.
+   [Chapter 28: What is Genetic Material?] 304, 306, 310, 315, 317, 320, 324, 328: rasmlar ichidagi yozuvlar (DNK/RNK tuzilishi, riboza/dezoksiriboza, fosfodiefir bog‘, 5’-3’ ketma-ketlik, topoizomeraza, RNK shakllari, tRNK) tarjima qilinmadi.
+   [Chapter 29: The Replication of DNA] 341: Aslida yetakchi zanjir «3’ dan 5’ yo‘nalishida, replikatsiya vilkasi tomon» deyilgan (matritsa zanjiri yo‘nalishi nazarda tutilgan bo‘lishi mumkin); asl mazmun o‘zgartirilmadi.
+   [Chapter 29: The Replication of DNA] 344: Aslida DNK praymaza «RNK polimeraza III deb ham ataladi» deyilgan; ilmiy jihatdan bahsli, lekin muallif fikri saqlandi.
+   [Chapter 29: The Replication of DNA] 336: «while the other comes is made anew» asl matndagi tahrir xatosi; ma’nosi bo‘yicha tarjima qilindi.
+   [Chapter 29: The Replication of DNA] 339, 342: rasmlar (⟦x:1⟧) ichidagi yozuvlar tarjima qilinmadi.
+   [Chapter 30: What is Cell Reproduction?] 374: 'Binary fission is what prokaryotes like bacteria reproduce' – asl gapda 'how/by which' tushib qolgan; ma'nosi bo'yicha «ko‘payish usuli» deb berildi.
+   [Chapter 30: What is Cell Reproduction?] 358: 'the offspring are not diverse enough that some survive' – asl jumla g'aliz; «nasl ulardan ba’zilari omon qolishiga yetarli darajada xilma-xil bo‘lmasa» deb berildi.
+   [Chapter 30: What is Cell Reproduction?] 377: 'It is not necessary that they do this, though' – «buning shart emasligini aytish kerak» deb berildi.
+   [Chapter 30: What is Cell Reproduction?] 365, 370, 376, 381: rasmlar ichidagi yozuvlar (agar bo'lsa) tarjima qilinmadi.
+   [Chapter 31: The Cell Cycle and Mitosis] 412: inglizcha mnemonika «pee on the mat» (PMAT) tarjima qilinmay, aslicha qoldirildi; o‘zbekcha atamalar (profaza, metafaza, anafaza, telofaza) ham PMAT harflariga mos keladi.
+   [Chapter 31: The Cell Cycle and Mitosis] 413: asldagi ⟦s2⟧,⟦/s2⟧ ichidagi vergul o‘zbekcha gap tuzilishida keraksiz, belgi juft bo‘sh qoldirildi.
+   [Chapter 31: The Cell Cycle and Mitosis] 405: «until a second G2 checkpoint is passed» – «ikkinchi nazorat nuqtasi – G2 nazorat nuqtasi» deb berildi (sikldagi ikkinchi nazorat nuqtasi ma’nosida).
+   [Chapter 31: The Cell Cycle and Mitosis] 436: «DNA synthase enzyme» asldagicha «DNK-sintaza» deb berildi (odatda DNK-polimeraza deyiladi).
+   [Chapter 31: The Cell Cycle and Mitosis] 400, 401, 405: «Gap 0/1/2» nomlari aslicha qoldirilib, qavsda «0-oraliq» kabi tarjimasi berildi (bolak_tekshir ortiqcha raqam ogohlantirishi shu sababli).
+   [Chapter 31: The Cell Cycle and Mitosis] 393, 403, 411, 415, 418, 428, 434, 443, 450, 452: rasmlar ichidagi yozuvlar (bo‘lsa) tarjima qilinmadi.
+   [Chapter 32: Meiosis] 479: asl matnda «at least 84,000,000» va «two pairs to the 23rd power» deyilgan; 2^23 ≈ 8,4 mln (ota-ona birga ≈ 70 trln). Raqam aslidagidek qoldirildi, muallif xatosi bo‘lishi mumkin. «a least» – «at least» xatosi deb tushunildi.
+   [Chapter 32: Meiosis] 469: muallif meyoz I dan keyingi hujayralarni «diploid» deydi; ilmiy jihatdan noaniq, lekin aslidagidek tarjima qilindi.
+   [Chapter 32: Meiosis] 491: X va Y opa-singil xromatidalarining ajralishi haqidagi bayon ilmiy jihatdan chalkash; aslidagidek o‘girildi.
+   [Chapter 32: Meiosis] 476: «X0» (X va nol) aslidagidek qoldirildi.
+   [Chapter 33: Cell Communities] 500: «pond scum» «hovuz yuzasidagi shilimshiq parda» deb berildi.
+   [Chapter 33: Cell Communities] 519: asl matnda «even blood cells» ham epiteliy to‘qimasidan iborat deyilgan; bu biologik jihatdan noaniq (ehtimol qon tomirlari endoteliysi nazarda tutilgan), ammo muallif fikri o‘zgartirilmay tarjima qilindi.
+   [Chapter 33: Cell Communities] 533: «fluid-based, skeletal, fibrous» «suyuq, skelet va tolali» deb berildi.
+   [Chapter 33: Cell Communities] 541: «nerve tissue» «nerv to‘qimasi», muqobil nomi «nervous tissue» esa farqni saqlash uchun «asab to‘qimasi» deb berildi; 547 da «nervous» «nerv to‘qimalari» deb berildi.
+   [Chapter 33: Cell Communities] 503, 517, 522, 534, 539, 543: rasmlar ichidagi yozuvlar (agar bo‘lsa) tarjima qilinmadi.
+   [Chapter 34: Central Dogma] 554: «shut-ins» (uydan chiqmaydigan odamlar) o‘xshatishi ma’nosi bo‘yicha berildi.
+   [Chapter 34: Central Dogma] 600: «immediate primer» noaniq ibora (transkripsiyada praymer kerak emas); «darhol mavjud praymer» deb so‘zma-so‘z berildi.
+   [Chapter 34: Central Dogma] 602: «transcriptase (a kind of DNA helicase)» ilmiy jihatdan shubhali, muallif matni o‘zgarishsiz tarjima qilindi.
+   [Chapter 34: Central Dogma] 595-596: dATP/dTTP/dGTP/dCTP va ATP/GTP/UTP/CTP oldingi boblar (ATF, GTF, dATF) uslubida dATF, dTTF, dGTF, dSTF va ATF, GTF, UTF, STF deb berildi.
+   [Chapter 34: Central Dogma] 571: HIV → OIV.
+   [Chapter 34: Central Dogma] 557, 563, 565, 570, 572: rasmlar (⟦x:1⟧), ichidagi yozuvlar tarjima qilinmadi.
+   [Chapter 35: Genes Make Proteins Through This Process] 637: aslida subbirliklar «α, β, β, ’ω, σ» deb buzuq yozilgan (apostrof joyi siljigan); tarjimada «α, β, β’, ω, σ» deb tuzatildi. Shuningdek, «oltita subbirlik» deyilgan, ro‘yxatda beshta nom bor (alfa ikkita) — asl matn bo‘yicha qoldirildi.
+   [Chapter 35: Genes Make Proteins Through This Process] 640: muallif TTGACA segmentini Pribnov qutisi deb ataydi; ilmiy jihatdan Pribnov qutisi −10 sohadagi TATAAT, TTGACA esa −35 soha. Muallif matni o‘zgartirilmadi.
+   [Chapter 35: Genes Make Proteins Through This Process] 639: «it “promotes” the transcription process» — promoter/promote so‘z o‘yini o‘zbekchada saqlanmaydi; «boshlab beradi» deb berildi.
+   [Chapter 35: Genes Make Proteins Through This Process] 680: «Think “exit” to remember “exons”» — so‘z o‘yini «ekzon» – «eksport» juftligi bilan almashtirildi (yadrodan chiqish ma’nosi saqlangan).
+   [Chapter 35: Genes Make Proteins Through This Process] 677: FACT qisqartmasi (facilitates chromatin transcription) inglizcha yoyilmasi tarjimada berilmadi, faqat ma’nosi «xromatin transkripsiyasini yengillashtiradi» deb o‘girildi.
+   [Chapter 35: Genes Make Proteins Through This Process] 684: aslida «spicing» (imlo xatosi, «splicing» nazarda tutilgan) — «splaysing» deb tarjima qilindi.
+   [Chapter 35: Genes Make Proteins Through This Process] 678: «1,000» raqami asl yozuvida qoldirildi.
+   [Chapter 35: Genes Make Proteins Through This Process] 697: «tacked to the front end of the amino acid» — aslida polipeptid/oqsil zanjirining boshi nazarda tutilgan bo‘lsa kerak; asldagidek «aminokislotaning oldingi uchi» deb berildi.
+   [Chapter 35: Genes Make Proteins Through This Process] 703: muallif 26S proteasomani endoplazmatik to‘r membranasida joylashgan deydi (aslida u asosan sitozol va yadroda) — muallif matni o‘zgartirilmadi.
+   [Chapter 36: DNA Repair and Recombination] 713: «one mistake per 100 million to one billion base pairs» → «har 100 million – bir milliard asos juftiga bitta xato» deb berildi.
+   [Chapter 36: DNA Repair and Recombination] 718: asl matnda polimerazaning o‘zini o‘zi tekshirishi «mismatch repair» deb atalgan (odatda bu proofreading deyiladi); muallif atamasi saqlandi: «nomuvofiq juftlar reparatsiyasi».
+   [Chapter 36: DNA Repair and Recombination] 727: aslida p53 «onkogen» deb atalgan (ilmiy jihatdan p53 o‘sma supressor geni); muallif fikri o‘zgartirilmadi.
+   [Chapter 36: DNA Repair and Recombination] 735: «This leads to a high risk of sun damage» — mazmunan «quyoshdan shikastlanish xavfini keskin oshiradi» deb berildi.
+   [Chapter 36: DNA Repair and Recombination] 715, 717, 724, 726, 729, 732, 734, 741, 744: rasmlar ichidagi yozuvlar (agar bo‘lsa) tarjima qilinmadi.
+   [Chapter 37: Gene Regulation] 758: «regulate lactose production» deyilgan, aslida lac operon laktozani o‘zlashtirishni boshqaradi; «laktoza bilan bog‘liq jarayonni boshqarish» deb neytral berildi.
+   [Chapter 37: Gene Regulation] 762: muallif CAP promotorga bevosita bog‘lanib transkripsiyani o‘chiradi deydi; ilmiy jihatdan noaniq, asl ma’no saqlandi.
+   [Chapter 37: Gene Regulation] 771: «chunki unga triptofan aslida kerak emas» — mantiqan «triptofan yetarli bo‘lgani uchun» nazarda tutilgan; asl ma’no saqlandi.
+   [Chapter 37: Gene Regulation] 787: muallif atsetillanish gistonni DNKga yaxshiroq birikadigan qiladi deydi, 796 da esa aksincha (atsetillanish gistonni DNKdan sirg‘alib chiqaradi). Ilmiy jihatdan 796 to‘g‘ri; tarjima aslga sodiq qoldirildi.
+   [Chapter 37: Gene Regulation] 798: «21st» → «21-⟦s1⟧⟦/s1⟧asr» (yuqori indeks juftligi bo‘sh qoldirildi).
+   [Chapter 38: Genetic Engineering of Plants] 811: aslda «an example of in the genetic library» — jumlada so‘z tushib qolgan; «uning namunasini topa olsangiz» deb berildi.
+   [Chapter 38: Genetic Engineering of Plants] 818: «shoots pieces of DNA onto microscopic particles in the plant cells» — aslda mantiqan noaniq (DNK zarrachalarga qoplanib hujayralarga otiladi); shu ma’noda tarjima qilindi.
+   [Chapter 38: Genetic Engineering of Plants] 820: aslda «One the cells» — «Once» nazarda tutilgan deb tarjima qilindi.
+   [Chapter 38: Genetic Engineering of Plants] 807, 819: rasmlar ichidagi yozuvlar (bo‘lsa) tarjima qilinmadi.
+   [Chapter 39: Using Genetic Engineering in Animals and Humans] 874: aslida «No none knows» — matbaa xatosi, «No one knows» ma’nosida tarjima qilindi.
+   [Chapter 39: Using Genetic Engineering in Animals and Humans] 868: «Roslin Institute» kam ma’lum nom sifatida birinchi uchraganda qavsda asl yozilishi bilan berildi.
+   [Chapter 40: What is Gene Therapy?] 880: «Alipogene tiparvovec» (Glybera) o‘zbekcha «Alipogen tiparvovek» deb berildi.
+   [Chapter 40: What is Gene Therapy?] 894: «They put the enzyme into bone marrow stem cells» — aslida fermentni emas, genni kiritishgan; muallif lafzi saqlandi.
+   [Chapter 40: What is Gene Therapy?] 904: «1.6 million» raqami asl yozuvida (nuqta bilan) qoldirildi.
+   [Chapter 40: What is Gene Therapy?] 887, 895: rasmlar (⟦x:1⟧) ichidagi yozuvlar tarjima qilinmadi.
+3) IQTIBOSLAR VA SAHIFA OSTI IZOHLARI
+   [Chapter 32: Meiosis] 458: «kamayish» (yunoncha meiosis – diminution) | muallif matni | yo‘q
+4) LUG'ATGA QO'SHILGAN YANGI ATAMALAR
+   investment half / investment phase → sarmoya yarmi / sarmoya bosqichi | glikolizning energiya sarflanadigan yarmi; muallifning sarmoya o‘xshatishi saqlandi | 21-bob (2-fayl), 15
+   payoff half / payoff phase → daromad yarmi / daromad bosqichi | glikolizning ATF hosil bo‘ladigan yarmi | 21-bob (2-fayl), 15
+   anaerobic metabolism → anaerob metabolizm |  | 21-bob (2-fayl), 8
+   isomerization → izomerlanish |  | 21-bob (2-fayl), 16
+   glucose-6-phosphate / fructose 6-phosphate / fructose 1,6-bisphosphate → glyukoza-6-fosfat / fruktoza-6-fosfat / fruktoza-1,6-bisfosfat |  | 21-bob (2-fayl), 16
+   glyceraldehyde 3-phosphate → glitseraldegid-3-fosfat |  | 21-bob (2-fayl), 19
+   pyruvate translocase → piruvat translokaza |  | 21-bob (2-fayl), 25
+   pyruvate dehydrogenase → piruvatdegidrogenaza |  | 21-bob (2-fayl), 26
+   oxaloacetic acid → oksalosirka kislota | oxaloacetate → oksaloatsetat (lug‘atda) | 21-bob (2-fayl), 30
+   lactate → laktat |  | 21-bob (2-fayl), 39
+   outer membrane / inner membrane (mitochondrion) → tashqi membrana / ichki membrana |  | 21-bob (2-fayl), 41
+   intermembrane space / intermembranous space → membranalararo bo‘shliq |  | 21-bob (2-fayl), 41
+   matrix (mitochondrial) → matriks (mitoxondriya matriksi) |  | 21-bob (2-fayl), 41
+   porin / porin protein → porin / porin oqsili |  | 21-bob (2-fayl), 43
+   voltage-dependent anion channel (VDAC) → kuchlanishga bog‘liq anion kanali (VDAC) |  | 21-bob (2-fayl), 43
+   electron acceptors → elektron akseptorlari |  | 21-bob (2-fayl), 49
+   electrochemical gradient → elektrokimyoviy gradiyent |  | 21-bob (2-fayl), 49
+   Complex I – Complex IV → Kompleks I – Kompleks IV | rim raqamlari saqlandi | 21-bob (2-fayl), 51
+   coenzyme Q → koferment Q |  | 21-bob (2-fayl), 53
+   Carrier C → C tashuvchi | muallif sitoxrom c ni shunday atagan | 21-bob (2-fayl), 54
+   final electron acceptor → yakuniy elektron akseptori |  | 21-bob (2-fayl), 63
+   molds → mog‘or zamburug‘lari |  | 21-bob (2-fayl), 14
+   monosodium glutamate → natriy glutamat |  | 21-bob (2-fayl), 11
+   butyl alcohol / acetic acid / gluconic acid / ethanol / acetone → butil spirti / sirka kislotasi / glyukon kislotasi / etanol / aseton |  | 21-bob (2-fayl), 7
+   thylakoid membranes → tilakoid membranalar |  | 22-bob, 68
+   photon → foton |  | 22-bob, 68
+   photopigments → fotopigmentlar | pigmented → pigmentli | 22-bob, 70
+   wavelength → to‘lqin uzunligi |  | 22-bob, 70
+   chlorophyll a / chlorophyll b → xlorofill a / xlorofill b | chlorophylls c and d → xlorofill c va d | 22-bob, 71
+   beta-carotene → beta-karotin |  | 22-bob, 71
+   bacteriochlorophyll → bakterioxlorofill |  | 22-bob, 71
+   porphyrin ring → porfirin halqasi |  | 22-bob, 72
+   heme → gem | gemoglobinning gem qismi | 22-bob, 72
+   accessory pigments → yordamchi pigmentlar |  | 22-bob, 73
+   excited state → qo‘zg‘algan holat | excited electrons → qo‘zg‘algan elektronlar; ground state → asosiy holat | 22-bob, 74
+   light reactions → yorug‘likka bog‘liq reaksiyalar | 23-bob sarlavhasiga mos | 22-bob, 77
+   dark reactions → qorong‘ilik reaksiyalari |  | 22-bob, 79
+   reducing molecule → qaytaruvchi molekula | NADPH o‘zgarishsiz | 22-bob, 80
+   special pair → maxsus juftlik | fotosintetik kompleksda | 22-bob, 83
+   photosynthetic complex → fotosintetik kompleks |  | 22-bob, 83
+   quinone → xinon |  | 22-bob, 83
+   pool stick → bilyard kiyi | pool ball → bilyard shari | 22-bob, 75
+   light-dependent reactions → yorug‘likka bog‘liq reaksiyalar | light reactions bilan bir xil (TASDIQLANGAN atamaga mos) | 23-bob, 89
+   carbon fixation → uglerod fiksatsiyasi |  | 23-bob, 91
+   light absorption → yorug‘likning yutilishi |  | 23-bob, 91
+   leaf starch → barg kraxmali |  | 23-bob, 90
+   primary electron acceptor → birlamchi elektron akseptori |  | 23-bob, 97
+   stroma → stroma | xloroplast stromasi | 23-bob, 103
+   F0F1 complex → F0F1 kompleksi |  | 23-bob, 103
+   photosystem → fotosistema | Photosystem I / II → I fotosistema / II fotosistema | 23-bob, 104
+   antenna-containing pigments → antenna pigmentlar | antenna chlorophylls → antenna xlorofillari | 23-bob, 114
+   reaction center → reaksiya markazi |  | 23-bob, 114
+   light-harvesting complex (LHC) → yorug‘lik yig‘uvchi kompleks (LHC) |  | 23-bob, 115
+   weak reducer → kuchsiz qaytaruvchi |  | 23-bob, 118
+   Calvin cycle → Kalvin sikli |  | 24-bob, 129
+   ribulose-1,5-bisphosphate (RuBP) → ribulozo-1,5-bisfosfat (RuBP) | RuBP qisqartmasi o‘zgarmadi | 24-bob, 133
+   rubisco → rubisko | Rubisco enzyme complex → rubisko ferment kompleksi | 24-bob, 134
+   G3P (glyceraldehyde-3-phosphate) → G3P (glitseraldegid-3-fosfat) | G3P qisqartmasi o‘zgarmadi | 24-bob, 135
+   fixed carbon → fiksatsiyalangan uglerod | fix carbon → uglerodni fiksatsiya qilmoq | 24-bob, 135
+   leftovers → ortiqcha qoldiqlar | Kalvin siklida qolgan G3P molekulalari | 24-bob, 136
+   starch granules → kraxmal donachalari |  | 24-bob, 131
+   gluconeogenesis → glyukoneogenez |  | 24-bob, 144
+   intermediates / intermediaries → oraliq mahsulotlar | biokimyoviy yo‘lda | 24-bob, 146
+   glycolysis pathway → glikoliz yo‘li |  | 24-bob, 146
+   cell motility → hujayra harakatchanligi | motility → harakatchanlik | Yettinchi bo‘lim, 152
+   cell digestion → hujayra ichida hazm qilish | mundarijadagi 27-bob nomiga mos | Yettinchi bo‘lim, 155
+   anchoring proteins → langar oqsillar |  | Yettinchi bo‘lim, 154
+   inorganic / organic molecule → anorganik / organik molekula |  | 24-bob, 149
+   motor proteins → motor oqsillar |  | 25-bob, 168
+   kinesins / kinesin class → kinezinlar / kinezinlar sinfi |  | 25-bob, 171
+   dyneins → dineinlar | dinein (birlik) lug‘atda bor | 25-bob, 172
+   myosins / Myosin II / Myosin V / Myosin XI → miozinlar / Miozin II / Miozin V / Miozin XI |  | 25-bob, 173
+   cytoplasmic streaming → sitoplazma oqimi |  | 25-bob, 175
+   cyclosis → sikloz |  | 25-bob, 175
+   G-actin / F-actin → G-aktin / F-aktin |  | 25-bob, 181
+   muscle contraction → muskul qisqarishi |  | 25-bob, 166
+   filaments / fibers (cytoskeleton) → filamentlar / tolalar |  | 25-bob, 164
+   tetramer → tetramer |  | 25-bob, 185
+   unit length filament (ULF) → birlik uzunlikdagi filament (ULF) |  | 25-bob, 185
+   keratin → keratin |  | 25-bob, 187
+   scaffolding → karkas | oraliq filamentlar haqida | 25-bob, 188
+   muscular dystrophy → muskul distrofiyasi |  | 25-bob, 188
+   Alexander disease → Aleksandr kasalligi |  | 25-bob, 188
+   vimentin / neurofilament proteins / lamin / desmin → vimentin / neyrofilament oqsillari / lamin / desmin |  | 25-bob, 189
+   connective tissue → biriktiruvchi to‘qima |  | 25-bob, 189
+   centrosome → sentrosoma |  | 25-bob, 193
+   mother centriole / daughter centriole → ona sentriola / qiz sentriola |  | 25-bob, 195
+   triplet (microtubules) → triplet |  | 25-bob, 195
+   microtubule organizing center (MTOC) → mikronaychalarni tashkil etuvchi markaz (MTOC) | qisqartma lotincha qoldirildi | 25-bob, 196
+   doublets / dynein arms → dubletlar / dinein qo‘lchalari |  | 25-bob, 199
+   heavy chain / light chain → og‘ir zanjir / yengil zanjir |  | 25-bob, 202
+   actin binding site / ATP binding site → aktin bog‘lanish markazi / ATF bog‘lanish markazi |  | 25-bob, 202
+   anterograde / retrograde → anterograd / retrograd |  | 25-bob, 206
+   cell adhesion molecules → hujayra adgeziya molekulalari |  | 25-bob, 208
+   adhesion proteins → adgeziya oqsillari |  | 25-bob, 209
+   selectins / integrins / cadherins → selektinlar / integrinlar / kadgerinlar |  | 25-bob, 211
+   L-selectin / P-selectin / E-selectin → L-selektin / P-selektin / E-selektin |  | 25-bob, 212
+   endothelial cells → endoteliy hujayralari |  | 25-bob, 212
+   leukocytes → leykotsitlar |  | 25-bob, 212
+   intercellular adhesion molecules (ICAMs) → hujayralararo adgeziya molekulalari (ICAM) |  | 25-bob, 213
+   diapedesis → diapedez |  | 25-bob, 214
+   tight junctions → zich birikmalar |  | 25-bob, 218
+   claudins / occludins / tricellulins → klaudinlar / okkludinlar / trisellulinlar |  | 25-bob, 222
+   adaptor proteins → adapter oqsillar |  | 25-bob, 222
+   leaky gut syndrome → «o‘tkazuvchan ichak» sindromi |  | 25-bob, 223
+   food intolerance / malabsorption → oziq-ovqatni ko‘tara olmaslik / ozuqa moddalarining yomon so‘rilishi |  | 25-bob, 223
+   autoimmune diseases → autoimmun kasalliklar |  | 25-bob, 223
+   smooth muscle → silliq muskul |  | 25-bob, 225
+   connexins / connexin protein → konneksinlar / konneksin oqsili |  | 25-bob, 227
+   desmosomes → desmosomalar |  | 25-bob, 230
+   macula adherens → macula adherens | lotincha atama o‘zgartirilmadi | 25-bob, 231
+   hemidesmosome → gemidesmosoma |  | 25-bob, 231
+   basement membrane → bazal membrana |  | 25-bob, 231
+   linker proteins → bog‘lovchi oqsillar |  | 25-bob, 232
+   desmosome-intermediate filament complexes (DIFC) → desmosoma-oraliq filament komplekslari (DIFC) |  | 25-bob, 232
+   outer dense plaque (ODP) / inner dense plaque → tashqi zich plastinka (ODP) / ichki zich plastinka |  | 25-bob, 232
+   extracellular core region → hujayradan tashqari markaziy soha |  | 25-bob, 232
+   desmocollin / desmoglein → desmokollin / desmoglein |  | 25-bob, 234
+   plakoglobin / plakophilin / desmoplakin → plakoglobin / plakofilin / desmoplakin |  | 25-bob, 234
+   blistering diseases → pufakchali kasalliklar |  | 25-bob, 235
+   pemphigus vulgaris → vulgar pemfigus (pemphigus vulgaris) |  | 25-bob, 235
+   bullous impetigo → bullyoz impetigo |  | 25-bob, 235
+   Staph infection → stafilokokk infeksiyasi |  | 25-bob, 235
+   contractile bundles → qisqaruvchi tutamlar | bundle → tutam | 26-bob: Hujayralar qanday harakatlanadi, 244
+   microvilli → mikrovorsinkalar |  | 26-bob: Hujayralar qanday harakatlanadi, 245
+   circumferential belt → aylana belbog‘ | belt-like structure → belbog‘simon tuzilma | 26-bob: Hujayralar qanday harakatlanadi, 246
+   adherens junctions → adgeziv birikmalar |  | 26-bob: Hujayralar qanday harakatlanadi, 246
+   equator (of dividing cell) → ekvator |  | 26-bob: Hujayralar qanday harakatlanadi, 249
+   contractile ring / purse string → qisqaruvchi halqa / «hamyon ipi» |  | 26-bob: Hujayralar qanday harakatlanadi, 249
+   pseudopodia / pseudopod → psevdopodiyalar / psevdopodiya | «false feet» → «soxta oyoqchalar» | 26-bob: Hujayralar qanday harakatlanadi, 256
+   fibroblasts → fibroblastlar |  | 26-bob: Hujayralar qanday harakatlanadi, 257
+   scar tissue → chandiq to‘qimasi |  | 26-bob: Hujayralar qanday harakatlanadi, 257
+   inchworm → odimchi qurt |  | 26-bob: Hujayralar qanday harakatlanadi, 258
+   leading end / lagging end → oldingi uchi / orqadagi uchi | «head» / «tail» end → «bosh» / «dum» uchi | 26-bob: Hujayralar qanday harakatlanadi, 259-260
+   axoneme → aksonema |  | 26-bob: Hujayralar qanday harakatlanadi, 263
+   basal body → bazal tanacha |  | 26-bob: Hujayralar qanday harakatlanadi, 265
+   transition zone → o‘tish zonasi |  | 26-bob: Hujayralar qanday harakatlanadi, 265
+   vesicular movement → pufakchalar harakati |  | 26-bob: Hujayralar qanday harakatlanadi, 271
+   motile cells → harakatchan hujayralar |  | 26-bob: Hujayralar qanday harakatlanadi, 271
+   Gaucher’s disease → Gosher kasalligi | birinchi uchraganda asli qavsda | 27-bob: Hujayra ichida hazm qilish, 277
+   I-cell disease → I-hujayra kasalligi | birinchi uchraganda asli qavsda | 27-bob: Hujayra ichida hazm qilish, 277
+   autophagy → autofagiya |  | 27-bob: Hujayra ichida hazm qilish, 284
+   autophagosome → autofagosoma |  | 27-bob: Hujayra ichida hazm qilish, 284
+   phagosome → fagosoma |  | 27-bob: Hujayra ichida hazm qilish, 282
+   phagolysosome → fagolizosoma |  | 27-bob: Hujayra ichida hazm qilish, 282
+   superoxide ions → superoksid ionlari |  | 27-bob: Hujayra ichida hazm qilish, 285
+   NADPH oxidase → NADPH-oksidaza | NADPH-dependent oxidases → NADPH ga bog‘liq oksidazalar | 27-bob: Hujayra ichida hazm qilish, 285
+   catalase → katalaza |  | 27-bob: Hujayra ichida hazm qilish, 288
+   fatty acid oxidation → yog‘ kislotalarining oksidlanishi |  | 27-bob: Hujayra ichida hazm qilish, 289
+   uric acid → siydik kislotasi |  | 27-bob: Hujayra ichida hazm qilish, 289
+   dolichol → dolixol |  | 27-bob: Hujayra ichida hazm qilish, 290
+   plasmalogens → plazmalogenlar |  | 27-bob: Hujayra ichida hazm qilish, 290
+   glyoxylate cycle → glioksilat sikli |  | 27-bob: Hujayra ichida hazm qilish, 291
+   germination → unib chiqish |  | 27-bob: Hujayra ichida hazm qilish, 291
+   photorespiration → fotonafas |  | 27-bob: Hujayra ichida hazm qilish, 292
+   phosphoglycolate → fosfoglikolat |  | 27-bob: Hujayra ichida hazm qilish, 292
+   serine → serin |  | 27-bob: Hujayra ichida hazm qilish, 292
+   glycerate → glitserat |  | 27-bob: Hujayra ichida hazm qilish, 292
+   phagocytic cell → fagotsitlovchi hujayra |  | 27-bob: Hujayra ichida hazm qilish, 295
+   antigen → antigen |  | 27-bob: Hujayra ichida hazm qilish, 295
+   genetic material → genetik material |  | 27-bob: Hujayra ichida hazm qilish, 300
+   messenger molecules → messenjer molekulalar |  | 27-bob: Hujayra ichida hazm qilish, 300
+   transport vesicles → transport pufakchalari |  | 27-bob: Hujayra ichida hazm qilish, 280
+   garbage disposal (cell) → chiqindi maydalagich | lizosomalar haqida obrazli ifoda | 27-bob: Hujayra ichida hazm qilish, 275
+   codon → kodon | start codon / stop codon → start kodoni / stop kodoni | 28-bob, 308
+   purine / pyrimidine → purin / pirimidin | purin asoslari; pirimidinlar | 28-bob, 312
+   5’ end / 3’ end → 5’ uchi / 3’ uchi |  | 28-bob, 316
+   polarity (of nucleic acid) → qutblilik | ikki uchining bir xil emasligi ma’nosida | 28-bob, 316
+   semi-conservative DNA replication → DNKning yarim konservativ replikatsiyasi |  | 28-bob, 318
+   supercoil / supercoiling → superspirallanmoq / superspirallanish |  | 28-bob, 319
+   topoisomerase → topoizomeraza |  | 28-bob, 319
+   heterogeneous strand pair → geterogen zanjir jufti | DNK-RNK jufti | 28-bob, 323
+   rRNA / tRNA / mRNA → rRNK / tRNK / mRNK | qisqartmalar | 28-bob, 327
+   introns / exons → intronlar / ekzonlar |  | 28-bob, 329
+   regulatory RNA → regulyator RNK |  | 28-bob, 330
+   antisense RNA (aRNA) → antisens RNK (aRNK) |  | 28-bob, 330
+   small interfering RNA (siRNA) → kichik interferensiyalovchi RNK (siRNK) |  | 28-bob, 330
+   microRNA (miRNA) → mikroRNK (miRNK) |  | 28-bob, 330
+   riboswitches → riboswitchlar | xalqaro atama saqlandi | 28-bob, 330
+   transfer messenger RNA (tmRNA) → transport-informatsion RNK (tmRNK) |  | 28-bob, 331
+   plastids → plastidalar |  | 28-bob, 331
+   helicase → helikaza |  | 29-bob, 338
+   replication fork → replikatsiya vilkasi |  | 29-bob, 338
+   template strand → matritsa zanjiri | template → matritsa | 29-bob, 338
+   base pair → asos jufti |  | 29-bob, 338
+   leading strand / lagging strand → yetakchi zanjir / kechikuvchi zanjir |  | 29-bob, 341
+   Okazaki fragments → Okazaki fragmentlari |  | 29-bob, 343
+   DNA primase / primase → DNK praymaza / praymaza |  | 29-bob, 344
+   RNA polymerase III → RNK polimeraza III |  | 29-bob, 344
+   DNA polymerase → DNK polimeraza |  | 29-bob, 344
+   primer → praymer | RNA primer → RNK praymer | 29-bob, 344
+   complementary → komplementar |  | 29-bob, 344
+   proofreading function → xatolarni tuzatish funksiyasi |  | 29-bob, 345
+   DNA ligase → DNK ligaza |  | 29-bob, 346
+   tissue → to‘qima |  | 29-bob, 354
+   cell communities → hujayra jamoalari | mundarija bilan mos | 29-bob, 354
+   epithelial cells → epiteliy hujayralari |  | 29-bob, 353
+   cell reproduction → hujayra ko‘payishi | bob sarlavhasi (mundarija bilan bir xil) | bob 10, 355
+   mother cell → ona hujayra |  | bob 10, 356
+   gamete cell → gameta hujayra |  | bob 10, 357
+   sperm cell / egg cell → spermatozoid / tuxum hujayra |  | bob 10, 357
+   genetic recombination → genetik rekombinatsiya |  | bob 10, 359
+   asexual reproduction → jinssiz ko‘payish |  | bob 10, 362
+   parthenogenesis → partenogenez |  | bob 10, 366
+   Key Takeaways: → Asosiy xulosalar: | rukn sarlavhasi | bob 10, 366
+   circular DNA → halqasimon DNK |  | bob 10, 367
+   budding / bud → kurtaklanish / kurtak | ko'payish usuli | bob 10, 368
+   spermatogonium / oogonium → spermatogoniy / oogoniy |  | bob 10, 372
+   haploid cell → gaploid hujayra |  | bob 10, 372
+   segmented filamentous bacteria → segmentli ipsimon bakteriyalar |  | bob 10, 380
+   cell cycle checkpoints → hujayra siklining nazorat nuqtalari | checkpoint → nazorat nuqtasi | bob 11, 395
+   interphase → interfaza |  | bob 11, 394
+   mitotic phase / M phase → mitotik faza / M fazasi |  | bob 11, 394
+   replication → replikatsiya | DNA replication → DNK replikatsiyasi (lug‘atda bor) | bob 11, 394
+   G0 / G1 / S / G2 phase → G0 / G1 / S / G2 fazasi | Gap 0/1/2 → Gap 0 («0-oraliq») va h.k. | bob 11, 397
+   quiescent → tinim holatidagi | resting phase → tinim fazasi | bob 11, 397
+   post-mitotic cells → postmitotik hujayralar |  | bob 11, 400
+   senescent → senessent («qarigan») |  | bob 11, 400
+   G1 / G2 / metaphase checkpoint → G1 / G2 / metafaza nazorat nuqtasi |  | bob 11, 401
+   sister chromatids → opa-singil xromatidalar | chromatid → xromatida | bob 11, 402
+   tumor suppressor protein → o‘sma supressori oqsili |  | bob 11, 406
+   Li-Fraumeni Syndrome → Li-Fraumeni sindromi | birinchi uchraganda asli qavsda | bob 11, 406
+   karyokinesis → kariokinez |  | bob 11, 409
+   prophase / prometaphase / metaphase / anaphase / telophase → profaza / prometafaza / metafaza / anafaza / telofaza |  | bob 11, 412
+   mitotic spindle → mitotik duk | spindle → duk | bob 11, 413
+   kinetochore → kinetoxor |  | bob 11, 414
+   centromere → sentromera |  | bob 11, 416
+   kinetochore microtubules → kinetoxor mikronaychalari |  | bob 11, 420
+   aster → aster |  | bob 11, 420
+   metaphase plate → metafaza plastinkasi |  | bob 11, 421
+   spindle checkpoint → duk nazorat nuqtasi |  | bob 11, 422
+   decondense → dekondensatsiyalanmoq |  | bob 11, 426
+   actin ring → aktin halqasi |  | bob 11, 429
+   cell plate → hujayra plastinkasi |  | bob 11, 429
+   cyclins / cyclin-dependent kinases (CDKs) → siklinlar / siklinga bog‘liq kinazalar (CDKlar) |  | bob 11, 431
+   pro-mitotic signal → promitotik signal |  | bob 11, 432
+   transcription factors → transkripsiya omillari |  | bob 11, 432
+   restriction point → restriksiya nuqtasi |  | bob 11, 436
+   DNA synthase enzyme → DNK-sintaza fermenti |  | bob 11, 436
+   programmed cell death → dasturlashtirilgan hujayra o‘limi |  | bob 11, 439
+   cell necrosis → hujayra nekrozi |  | bob 11, 445
+   caspases / procaspases → kaspazalar / prokaspazalar |  | bob 11, 446
+   proteases → proteazalar |  | bob 11, 446
+   aspartic acid → asparagin kislota |  | bob 11, 446
+   death receptors → o‘lim retseptorlari |  | bob 11, 448
+   innervation → innervatsiya |  | bob 11, 442
+   homologous chromosomes → gomologik xromosomalar | homolog → gomolog; homologous → gomologik | 32-bob, 460
+   autosome → autosoma | autosomal diseases → autosom kasalliklar | 32-bob, 460
+   non-homologous → nogomologik |  | 32-bob, 460
+   nuclear DNA / mitochondrial DNA → yadro DNKsi / mitoxondrial DNK |  | 32-bob, 458
+   meiosis I / meiosis II → meyoz I / meyoz II | prophase I → profaza I | 32-bob, 459
+   bivalent → bivalent |  | 32-bob, 465
+   nondisjunction → xromosomalarning ajralmasligi | failure of segregation → ajralishidagi nuqson | 32-bob, 473
+   trisomy → trisomiya |  | 32-bob, 474
+   Down / Edward / Patau syndrome → Daun / Edvards / Patau sindromi |  | 32-bob, 474
+   Turner / Klinefelter / Jacob’s syndrome → Terner / Klaynfelter / Jeykobs sindromi |  | 32-bob, 476
+   miscarriage → homila tushishi |  | 32-bob, 475
+   identical twins → bir tuxumli egizaklar |  | 32-bob, 478
+   siblings → aka-uka va opa-singillar |  | 32-bob, 478
+   crossover / cross over → krossingover / chalkashmoq (o‘rin almashmoq) |  | 32-bob, 478, 479
+   spermatogenesis / oogenesis → spermatogenez / oogenez |  | 32-bob, 485, 487
+   polar body → qutb tanachasi |  | 32-bob, 489
+   ovum / oocyte → tuxum hujayra / oosit |  | 32-bob, 489, 496
+   primary spermatocyte → birlamchi spermatotsit |  | 32-bob, 491
+   extracellular polymeric substance (EPS) → hujayradan tashqari polimer modda (EPS) | bioplyonka «yelimi» | 33-bob: Hujayra jamoalari, 501
+   planktonic state / biofilm state → planktonik holat / bioplyonka holati |  | 33-bob: Hujayra jamoalari, 502
+   persisters → persistorlar | bo‘linmaydigan, ammo tinim holatida bo‘lmagan bakteriyalar | 33-bob: Hujayra jamoalari, 507
+   dental plaque → tish karashi |  | 33-bob: Hujayra jamoalari, 500
+   extracellular matrix → hujayradan tashqari matriks | to‘qimalarni birlashtiruvchi modda | 33-bob: Hujayra jamoalari, 514
+   muscle tissue → muskul to‘qimasi |  | 33-bob: Hujayra jamoalari, 516
+   nerve tissue / nervous tissue → nerv to‘qimasi / asab to‘qimasi |  | 33-bob: Hujayra jamoalari, 516, 541
+   epithelial tissue / epithelium → epiteliy to‘qimasi / epiteliy |  | 33-bob: Hujayra jamoalari, 516, 519
+   goblet cells → qadahsimon hujayralar | shilimshiq ishlab chiqaruvchi hujayralar | 33-bob: Hujayra jamoalari, 530
+   fluid-based / skeletal / fibrous connective tissue → suyuq / skelet / tolali biriktiruvchi to‘qima |  | 33-bob: Hujayra jamoalari, 533
+   cardiac muscle tissue → yurak muskul to‘qimasi |  | 33-bob: Hujayra jamoalari, 536
+   bronchial tree → bronxial daraxt |  | 33-bob: Hujayra jamoalari, 536
+   muscle syncytium → muskul sinsitiysi |  | 33-bob: Hujayra jamoalari, 537
+   glial cells → gliya hujayralari |  | 33-bob: Hujayra jamoalari, 542
+   myelin → miyelin |  | 33-bob: Hujayra jamoalari, 542
+   microglia / astrocytes / oligodendrocytes → mikrogliya / astrotsitlar / oligodendrotsitlar |  | 33-bob: Hujayra jamoalari, 544
+   depolarize → depolyarizatsiyalamoq |  | 33-bob: Hujayra jamoalari, 541
+   Gene Expression → gen ekspressiyasi | O‘ninchi bo‘lim sarlavhasi | 33-bob: Hujayra jamoalari, 548
+   central dogma → markaziy dogma | molekulyar biologiyaning markaziy dogmasi | Bob 14 (34-bob), 550
+   transcription → transkripsiya | DNKdan RNK hosil bo‘lishi | Bob 14, 554
+   translation → translyatsiya | mRNKdan oqsil hosil bo‘lishi | Bob 14, 555
+   general / special / unknown transfers → umumiy / maxsus / noma’lum uzatishlar | markaziy dogmadagi axborot uzatish toifalari | Bob 14, 559
+   nucleated cells → yadroli hujayralar |  | Bob 14, 561
+   RNA replication → RNK replikatsiyasi |  | Bob 14, 569
+   reverse transcription → teskari transkripsiya |  | Bob 14, 571
+   reverse transcriptase → teskari transkriptaza | ferment | Bob 14, 571
+   HIV → OIV | odam immunitet tanqisligi virusi | Bob 14, 571
+   RNA transcription → RNK transkripsiyasi | jadval sarlavhasi | Bob 14, 582
+   RNA transcript → RNK transkripti |  | Bob 14, 616
+   gene regulation → gen regulyatsiyasi |  | Bob 14, 594
+   dATP, dTTP, dGTP, dCTP / UTP, CTP → dATF, dTTF, dGTF, dSTF / UTF, STF | ATP → ATF qoidasiga muvofiq | Bob 14, 595-596
+   messenger (mRNA as intermediary) → vositachi | umumiy ma’noda; informatsion RNK atamasi alohida | Bob 14, 554
+   primary transcript → birlamchi transkript |  | 35-bob, 632
+   initiation / elongation / termination → initsiatsiya / elongatsiya / terminatsiya | transkripsiya va translyatsiya bosqichlari | 35-bob, 636
+   RNA polymerase → RNK polimeraza |  | 35-bob, 637
+   holoenzyme → xoloferment |  | 35-bob, 637
+   core enzyme → kor-ferment | sigma omilsiz RNK polimeraza | 35-bob, 643
+   promoter site / promoter region → promotor uchastkasi / promotor sohasi |  | 35-bob, 639
+   sigma factor → sigma omil | σ omil | 35-bob, 640
+   TTGACA segment / TTGACA box → TTGACA segmenti / TTGACA qutisi |  | 35-bob, 640
+   Pribnow box → Pribnov qutisi |  | 35-bob, 640
+   ribonucleoside-5-triphosphates → ribonukleozid-5-trifosfatlar |  | 35-bob, 643
+   ternary complex → uchlamchi kompleks | DNK matritsasi + RNK polimeraza + RNK | 35-bob, 644
+   transcription bubble → transkripsiya pufagi |  | 35-bob, 644
+   rho protein → rho oqsili | terminatsiya | 35-bob, 647
+   hairpin-like structure → «shpilka»ga o‘xshash tuzilma |  | 35-bob, 647
+   70S unit → 70S birligi |  | 35-bob, 651
+   binding sites (ribosome) / A site / P site / E site → bog‘lanish markazlari / A markaz / P markaz / E markaz |  | 35-bob, 652
+   aminoacyl-tRNA / aminoacyl tRNA binding site → aminoatsil-tRNK / aminoatsil-tRNK bog‘lanish markazi |  | 35-bob, 653
+   peptidyl-tRNA binding site → peptidil-tRNK bog‘lanish markazi |  | 35-bob, 654
+   start codon / stop codon → start kodon / stop kodon |  | 35-bob, 660
+   initiator transfer RNA → initsiator transport RNK |  | 35-bob, 660
+   polypeptide chain / peptide chain → polipeptid zanjiri / peptid zanjiri |  | 35-bob, 634
+   amino acid activation → aminokislota aktivatsiyasi | tRNKni «yuklash» | 35-bob, 661
+   aminoacyl-tRNA synthetase → aminoatsil-tRNK-sintetaza |  | 35-bob, 661
+   release factors (RF-1, RF-2, RF-3) → terminatsiya omillari (RF-1, RF-2, RF-3) |  | 35-bob, 663
+   RNA polymerase I / II → RNK polimeraza I / II | RNK polimeraza III allaqachon lug‘atda | 35-bob, 668
+   pre-mRNA → pre-mRNK |  | 35-bob, 669
+   5S rRNA → 5S rRNK |  | 35-bob, 670
+   TATA box → TATA qutisi |  | 35-bob, 671
+   TFII factors / basal transcription factors → TFII omillari / bazal transkripsiya omillari |  | 35-bob, 672
+   enhancers / silencers → enhanserlar / saylenserlar |  | 35-bob, 674
+   FACT protein → FACT oqsili | facilitates chromatin transcription — xromatin transkripsiyasini yengillashtiradi | 35-bob, 677
+   pre-mRNA tail → pre-mRNK dumi |  | 35-bob, 678
+   5’ cap / 5’ endcap → 5’ kep |  | 35-bob, 681
+   poly-A tail → poli-A dum |  | 35-bob, 681
+   RNA editing / RNA splicing / splicing → RNK tahriri / RNK splaysingi / splaysing |  | 35-bob, 681
+   7-methylguanosine → 7-metilguanozin |  | 35-bob, 683
+   spliceosome → splaysosoma |  | 35-bob, 685
+   40S subunit / 60S subunit → 40S subbirlik / 60S subbirlik |  | 35-bob, 690
+   polysome → polisoma |  | 35-bob, 690
+   charged (tRNA) → zaryadlangan | yuklangan tRNK | 35-bob, 691
+   post-translational protein modification → oqsilning translyatsiyadan keyingi modifikatsiyasi | post-translational modification → translyatsiyadan keyingi modifikatsiya bilan mos | 35-bob, 692
+   protein folding / misfolded protein → oqsilning burmalanishi / noto‘g‘ri burmalangan oqsil |  | 35-bob, 694
+   chaperone proteins → shaperon oqsillar |  | 35-bob, 694
+   cleavage (protein) → kesilish |  | 35-bob, 695
+   side chain addition → yon zanjirlar qo‘shilishi |  | 35-bob, 696
+   signal sequence addition → signal ketma-ketlik qo‘shilishi |  | 35-bob, 697
+   sulfhydryl group → sulfgidril guruhi |  | 35-bob, 698
+   ubiquitin / ubiquitination → ubikvitin / ubikvitinlanish |  | 35-bob, 696, 699
+   ubiquitination proteasome pathway → ubikvitin-proteasoma yo‘li |  | 35-bob, 700
+   E1 / E2 / E3 enzyme → E1 / E2 / E3 fermenti |  | 35-bob, 702
+   26S proteasome → 26S proteasoma |  | 35-bob, 703
+   DNA repair → DNK reparatsiyasi | bob sarlavhasi; repair → reparatsiya | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 710-birlik
+   recombination / DNA recombination → rekombinatsiya / DNK rekombinatsiyasi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 710-birlik
+   DNA synthesis → DNK sintezi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 711-birlik
+   wobble → tebranuvchan juftlashuv | noto‘g‘ri asos juftlashuvi | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 714-birlik
+   strand slippage → zanjir sirpanishi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 716-birlik
+   deletion / insertion → deletsiya / insersiya |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 716-birlik
+   mismatch repair → nomuvofiq juftlar reparatsiyasi | mismatched → noto‘g‘ri juftlashgan / nomuvofiq | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 718-birlik
+   silent mutation → sokin mutatsiya |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 720-birlik
+   depurination → depurinlanish |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 721-birlik
+   deamination → dezaminlanish |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 721-birlik
+   germline mutations → jinsiy hujayra mutatsiyalari |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 722-birlik
+   UV (energy, damage) → UB (energiyasi, shikastlanishi) | ultrabinafsha | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 725-birlik
+   pyrimidine dimer → pirimidin dimeri |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 725-birlik
+   oncogene → onkogen |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 727-birlik
+   nucleotide excision repair → nukleotid eksizion reparatsiyasi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 728-birlik
+   base excision repair → asos eksizion reparatsiyasi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 733-birlik
+   xeroderma pigmentosum (XP) → pigmentli kseroderma (XP) |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 735-birlik
+   gamma rays / x-rays → gamma nurlar / rentgen nurlari |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 736-birlik
+   chromosome rearrangements → xromosoma qayta tuzilishlari |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 736-birlik
+   chromosome crossover → xromosomalar krossingoveri | crossing over → krossingover | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 737-birlik
+   recombinases → rekombinazalar |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 739-birlik
+   chiasm → xiazma |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 742-birlik
+   Holliday junction → Xolliday tuzilmasi | birinchi uchraganda: Xolliday (Holliday) tuzilmasi | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 743-birlik
+   mutagens → mutagenlar |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 747-birlik
+   operon → operon |  | bob 17, 752
+   activator / repressor / inducer → aktivator / repressor / induktor | gen regulyatsiyasi molekulalari | bob 17, 753
+   operator region → operator sohasi |  | bob 17, 755
+   lac operon / lac repressor → lac operon / lac repressor |  | bob 17, 758
+   catabolite activator protein (CAP) → katabolit aktivator oqsil (CAP) |  | bob 17, 761
+   allolactose → allolaktoza |  | bob 17, 764
+   Trp operon → Trp operon |  | bob 17, 769
+   tryptophan → triptofan | aminokislota | bob 17, 769
+   tryptophan repressor protein → triptofan repressor oqsili |  | bob 17, 771
+   trpR gene → trpR geni |  | bob 17, 774
+   general transcription factor → umumiy transkripsiya omili |  | bob 17, 779
+   enhancer regions → enhanser sohalari |  | bob 17, 782
+   acetyl side chain → atsetil yon zanjiri |  | bob 17, 787
+   acetylation / de-acetylate → atsetillanish / deatsetillamoq |  | bob 17, 787
+   nucleosome remodeling → nukleosomalarni qayta tuzish |  | bob 17, 787
+   methyl group / methylation / methylate → metil guruhi / metillanish / metillamoq |  | bob 17, 789
+   epigenetics / epigenetic → epigenetika / epigenetik |  | bob 17, 792
+   GMO (genetically modified organisms) → GMO (genetik modifikatsiyalangan organizmlar) |  | bob 17, 798
+   clone → klonlamoq |  | bob 17, 798
+   recombinant DNA technology → rekombinant DNK texnologiyasi |  | 38-bob, 803
+   PCR (polymerase chain reaction) → PZR (polimeraza zanjir reaksiyasi) | o‘zbekcha qisqartma PZR | 38-bob, 813
+   restriction enzymes → restriksiya fermentlari |  | 38-bob, 812
+   genetic library → genetik kutubxona |  | 38-bob, 811
+   gene gun → gen to‘pponchasi | biolistika qurilmasi | 38-bob, 818
+   Agrobacterium → Agrobacterium | lotincha turkum nomi o‘zgarmaydi | 38-bob, 818
+   biofuels → bioyoqilg‘ilar |  | 38-bob, 805
+   invasive species → invaziv tur |  | 38-bob, 828
+   biotic stressors → biotik stress omillari |  | 38-bob, 805
+   kudzu → kudzu | Pueraria montana o‘simligi | 38-bob, 828
+   vaccine → vaksina |  | 38-bob, 826
+   acre → akr | o‘lchov birligi o‘zgartirilmadi | 38-bob, 828
+   sperm-mediated transfer → sperma vositasida gen ko‘chirish | GMO hayvon yaratish usuli | 39-bob, 847
+   bioreactor → bioreaktor | dori ishlab chiqaruvchi GMO hayvon | 39-bob, 843
+   companion animals → uy hayvonlari |  | 39-bob, 844
+   retrovirus → retrovirus |  | 39-bob, 854
+   promoter sequence / terminator sequence → promotor ketma-ketligi / terminator ketma-ketligi |  | 39-bob, 858
+   transgenic → transgen | transgen hayvon | 39-bob, 862
+   transplant rejection → ko‘chirib o‘tkazilgan a’zoni rad etish | kontekstga qarab «rad etish» | 39-bob, 849
+   cloning → klonlash | «clone → klonlamoq» bilan mos | 39-bob, 864
+   totipotent → totipotent |  | 39-bob, 866
+   telomeres → telomeralar |  | 39-bob, 869
+   gene editing → gen tahriri |  | 39-bob, 871
+   CRISPR → CRISPR | o‘zgarmaydi | 39-bob, 872
+   embryonic cells → embrional hujayralar |  | 39-bob, 866
+   single-gene disorder / disease → bir genli kasallik | monogen kasallik | 40-bob, 879
+   lipoprotein lipase deficiency (LPLD) → lipoproteinlipaza tanqisligi (LPLD) |  | 40-bob, 880
+   Alipogene tiparvovec → alipogen tiparvovek | gen terapiyasi dori vositasi | 40-bob, 880
+   pancreatitis → pankreatit |  | 40-bob, 880
+   autosomal recessive → autosom-retsessiv | autosom-dominant ga mos | 40-bob, 883
+   nano-molecules → nanomolekulalar |  | 40-bob, 886
+   adenovirus → adenovirus |  | 40-bob, 890
+   severe combined immunodeficiency disease (SCID) → og‘ir kombinatsiyalangan immunodefitsit (SCID) |  | 40-bob, 894
+   bone marrow stem cells → suyak iligining ildiz hujayralari | stem cells → ildiz hujayralar | 40-bob, 894
+   epidermolysis bullosa → bullyoz epidermoliz |  | 40-bob, 897
+   skin grafting → teri ko‘chirib o‘tkazish |  | 40-bob, 897
+   leukemia → leykemiya |  | 40-bob, 903
+   enzyme deficiency diseases → ferment yetishmovchiligi kasalliklari |  | 40-bob, 905
+   CONGRATULATIONS! → TABRIKLAYMIZ! | kitob yakunidagi sarlavha | 908
+5) TASDIQ KERAK ATAMALAR
+   Yo'q
+6) RASMLAR VA QO'LDA TEKSHIRISH
+   word/media/ dagi 121 ta rasm o'zgarishsiz qoldi. Rasm ichidagi yozuvlar tarjima qilinmadi.
+   Rasmlar: image1.jpeg, image2.jpeg, image3.jpeg, image4.jpeg, image5.jpeg, image6.jpeg, image7.jpeg, image8.jpeg, image9.jpeg, image10.jpeg, image11.jpeg, image12.jpeg, image13.jpeg, image14.jpeg, image15.jpeg, image16.jpeg, image17.jpeg, image18.jpeg, image19.jpeg, image20.jpeg, image21.jpeg, image22.jpeg, image23.jpeg, image24.jpeg, image25.jpeg, image26.jpeg, image27.jpeg, image28.jpeg, image29.jpeg, image30.jpeg, image31.jpeg, image32.jpeg, image33.jpeg, image34.jpeg, image35.jpeg, image36.jpeg, image37.jpeg, image38.jpeg, image39.jpeg, image40.jpeg, image41.jpeg, image42.jpeg, image43.jpeg, image44.jpeg, image45.jpeg, image46.jpeg, image47.jpeg, image48.jpeg, image49.jpeg, image50.jpeg, image51.jpeg, image52.jpeg, image53.jpeg, image54.jpeg, image55.jpeg, image56.jpeg, image57.jpeg, image58.jpeg, image59.jpeg, image60.jpeg, image61.jpeg, image62.jpeg, image63.jpeg, image64.jpeg, image65.jpeg, image66.jpeg, image67.jpeg, image68.jpeg, image69.jpeg, image70.jpeg, image71.jpeg, image72.jpeg, image73.jpeg, image74.jpeg, image75.jpeg, image76.jpeg, image77.jpeg, image78.jpeg, image79.jpeg, image80.jpeg, image81.jpeg, image82.jpeg, image83.jpeg, image84.jpeg, image85.jpeg, image86.jpeg, image87.jpeg, image88.jpeg, image89.jpeg, image90.jpeg, image91.jpeg, image92.jpeg, image93.jpeg, image94.jpeg, image95.jpeg, image96.jpeg, image97.jpeg, image98.jpeg, image99.jpeg, image100.jpeg, image101.jpeg, image102.jpeg, image103.jpeg, image104.jpeg, image105.jpeg, image106.jpeg, image107.jpeg, image108.jpeg, image109.jpeg, image110.jpeg, image111.jpeg, image112.jpeg, image113.jpeg, image114.jpeg, image115.jpeg, image116.jpeg, image117.jpeg, image118.jpeg, image119.jpeg, image120.jpeg, image121.jpeg
+   Qo'lda: mundarija havolalari ishlashini Word da tekshiring; sahifa raqamlari maydon bo'lsa F9 bilan yangilang.
+7) SIFAT TEKSHIRUVI
+   XATO 0
+   Sahifalar soni (LibreOffice PDF): asl 130, tarjima 137
+8) BOBLARGA BO'LISH
+    1. Chapter 21: Steps of Cellular Respiration (birliklar 1-64)
+    2. Chapter 22: Introduction to Photosynthesis (birliklar 65-88)
+    3. Chapter 23: Light-Dependent Reactions (birliklar 89-128)
+    4. Chapter 24: Calvin Cycle (birliklar 129-155)
+    5. Chapter 25: Cytoskeleton (birliklar 156-239)
+    6. Chapter 26: How Cells Move (birliklar 240-272)
+    7. Chapter 27: Cellular Digestion (birliklar 273-300)
+    8. Chapter 28: What is Genetic Material? (birliklar 301-334)
+    9. Chapter 29: The Replication of DNA (birliklar 335-354)
+   10. Chapter 30: What is Cell Reproduction? (birliklar 355-387)
+   11. Chapter 31: The Cell Cycle and Mitosis (birliklar 388-456)
+   12. Chapter 32: Meiosis (birliklar 457-496)
+   13. Chapter 33: Cell Communities (birliklar 497-549)
+   14. Chapter 34: Central Dogma (birliklar 550-630)
+   15. Chapter 35: Genes Make Proteins Through This Process (birliklar 631-709)
+   16. Chapter 36: DNA Repair and Recombination (birliklar 710-748)
+   17. Chapter 37: Gene Regulation (birliklar 749-799)
+   18. Chapter 38: Genetic Engineering of Plants (birliklar 800-833)
+   19. Chapter 39: Using Genetic Engineering in Animals and Humans (birliklar 834-877)
+   20. Chapter 40: What is Gene Therapy? (birliklar 878-912)
+   Bo'lish tekshiruvi: XATO 0, TEKSHIRING 0

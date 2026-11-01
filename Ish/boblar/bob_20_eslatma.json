@@ -1,0 +1,96 @@
+{
+ "noaniq": [
+  "880: «Alipogene tiparvovec» (Glybera) o‘zbekcha «Alipogen tiparvovek» deb berildi.",
+  "894: «They put the enzyme into bone marrow stem cells» — aslida fermentni emas, genni kiritishgan; muallif lafzi saqlandi.",
+  "904: «1.6 million» raqami asl yozuvida (nuqta bilan) qoldirildi.",
+  "887, 895: rasmlar (⟦x:1⟧) ichidagi yozuvlar tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "single-gene disorder / disease",
+   "uz": "bir genli kasallik",
+   "izoh": "monogen kasallik",
+   "joy": "40-bob, 879"
+  },
+  {
+   "en": "lipoprotein lipase deficiency (LPLD)",
+   "uz": "lipoproteinlipaza tanqisligi (LPLD)",
+   "izoh": "",
+   "joy": "40-bob, 880"
+  },
+  {
+   "en": "Alipogene tiparvovec",
+   "uz": "alipogen tiparvovek",
+   "izoh": "gen terapiyasi dori vositasi",
+   "joy": "40-bob, 880"
+  },
+  {
+   "en": "pancreatitis",
+   "uz": "pankreatit",
+   "izoh": "",
+   "joy": "40-bob, 880"
+  },
+  {
+   "en": "autosomal recessive",
+   "uz": "autosom-retsessiv",
+   "izoh": "autosom-dominant ga mos",
+   "joy": "40-bob, 883"
+  },
+  {
+   "en": "nano-molecules",
+   "uz": "nanomolekulalar",
+   "izoh": "",
+   "joy": "40-bob, 886"
+  },
+  {
+   "en": "adenovirus",
+   "uz": "adenovirus",
+   "izoh": "",
+   "joy": "40-bob, 890"
+  },
+  {
+   "en": "severe combined immunodeficiency disease (SCID)",
+   "uz": "og‘ir kombinatsiyalangan immunodefitsit (SCID)",
+   "izoh": "",
+   "joy": "40-bob, 894"
+  },
+  {
+   "en": "bone marrow stem cells",
+   "uz": "suyak iligining ildiz hujayralari",
+   "izoh": "stem cells → ildiz hujayralar",
+   "joy": "40-bob, 894"
+  },
+  {
+   "en": "epidermolysis bullosa",
+   "uz": "bullyoz epidermoliz",
+   "izoh": "",
+   "joy": "40-bob, 897"
+  },
+  {
+   "en": "skin grafting",
+   "uz": "teri ko‘chirib o‘tkazish",
+   "izoh": "",
+   "joy": "40-bob, 897"
+  },
+  {
+   "en": "leukemia",
+   "uz": "leykemiya",
+   "izoh": "",
+   "joy": "40-bob, 903"
+  },
+  {
+   "en": "enzyme deficiency diseases",
+   "uz": "ferment yetishmovchiligi kasalliklari",
+   "izoh": "",
+   "joy": "40-bob, 905"
+  },
+  {
+   "en": "CONGRATULATIONS!",
+   "uz": "TABRIKLAYMIZ!",
+   "izoh": "kitob yakunidagi sarlavha",
+   "joy": "908"
+  }
+ ],
+ "tasdiq_kerak": []
+}

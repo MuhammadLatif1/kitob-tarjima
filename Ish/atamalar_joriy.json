@@ -241,7 +241,7 @@
  },
  "order": {
   "uz": "turkum",
-  "izoh": "taksonomik daraja; muqobil: tartib (botanikada)",
+  "izoh": "taksonomik daraja; muqobil: tartib (botanikada); ko‘p ma’noli, kontekstga qarab; umumiy ma’noda: tartib, buyurtma; «in order to» — uchun",
   "joy": "1-bob, 131",
   "holat": "TASDIQLANGAN"
  },
@@ -415,7 +415,7 @@
  },
  "population": {
   "uz": "populyatsiya",
-  "izoh": "",
+  "izoh": "ko‘p ma’noli, kontekstga qarab; odamlar haqida: aholi",
   "joy": "2-bob, 159",
   "holat": "TASDIQLANGAN"
  },
@@ -841,7 +841,7 @@
  },
  "offspring": {
   "uz": "nasl",
-  "izoh": "",
+  "izoh": "ko‘p ma’noli, kontekstga qarab; odamlar haqida: farzand(lar)",
   "joy": "3-bob, 238",
   "holat": "TASDIQLANGAN"
  },
@@ -943,7 +943,7 @@
  },
  "generation": {
   "uz": "bo‘g‘in",
-  "izoh": "genetik chatishtirishda (parent generation → ota-ona bo‘g‘ini, F1 generation → F1 bo‘g‘in); umumiy ma’noda «avlod» (from one generation to the next → avloddan avlodga); genus → avlod bilan chalkashmasligi uchun",
+  "izoh": "genetik chatishtirishda (parent generation → ota-ona bo‘g‘ini, F1 generation → F1 bo‘g‘in); umumiy ma’noda «avlod» (from one generation to the next → avloddan avlodga); genus → avlod bilan chalkashmasligi uchun; ko‘p ma’noli, kontekstga qarab",
   "joy": "4-bob, 252, 269",
   "holat": "TASDIQLANGAN"
  },
@@ -1009,7 +1009,7 @@
  },
  "cross": {
   "uz": "chatishtirmoq",
-  "izoh": "chatishtirish",
+  "izoh": "chatishtirish; ko‘p ma’noli, kontekstga qarab; membranadan o‘tish ma’nosida: o‘tmoq",
   "joy": "4-bob, 269",
   "holat": "TASDIQLANGAN"
  },
@@ -1441,7 +1441,7 @@
  },
  "period": {
   "uz": "davr",
-  "izoh": "davriy jadvalda",
+  "izoh": "davriy jadvalda; ko‘p ma’noli, kontekstga qarab; umumiy ma’noda: davr, bosqich",
   "joy": "5-bob, 337",
   "holat": "TASDIQLANGAN"
  },
@@ -1483,7 +1483,7 @@
  },
  "fission": {
   "uz": "yadro bo‘linishi",
-  "izoh": "nuclear power plant → atom elektr stansiyasi",
+  "izoh": "nuclear power plant → atom elektr stansiyasi; ko‘p ma’noli, kontekstga qarab; binary fission → ikkiga bo‘linish",
   "joy": "5-bob, 342",
   "holat": "TASDIQLANGAN"
  },
@@ -3301,7 +3301,7 @@
  },
  "disorder": {
   "uz": "tartibsizlik",
-  "izoh": "entropiya ma’nosida",
+  "izoh": "entropiya ma’nosida; ko‘p ma’noli, kontekstga qarab; kasallik ma’nosida: buzilish, kasallik",
   "joy": "10-bob, 747",
   "holat": "TASDIQLANGAN"
  },
@@ -7665,6 +7665,90 @@
   "uz": "embrional hujayralar",
   "izoh": "",
   "joy": "39-bob, 866",
+  "holat": "TASDIQLANGAN"
+ },
+ "single-gene disorder / disease": {
+  "uz": "bir genli kasallik",
+  "izoh": "monogen kasallik",
+  "joy": "40-bob, 879",
+  "holat": "TASDIQLANGAN"
+ },
+ "lipoprotein lipase deficiency (LPLD)": {
+  "uz": "lipoproteinlipaza tanqisligi (LPLD)",
+  "izoh": "",
+  "joy": "40-bob, 880",
+  "holat": "TASDIQLANGAN"
+ },
+ "Alipogene tiparvovec": {
+  "uz": "alipogen tiparvovek",
+  "izoh": "gen terapiyasi dori vositasi",
+  "joy": "40-bob, 880",
+  "holat": "TASDIQLANGAN"
+ },
+ "pancreatitis": {
+  "uz": "pankreatit",
+  "izoh": "",
+  "joy": "40-bob, 880",
+  "holat": "TASDIQLANGAN"
+ },
+ "autosomal recessive": {
+  "uz": "autosom-retsessiv",
+  "izoh": "autosom-dominant ga mos",
+  "joy": "40-bob, 883",
+  "holat": "TASDIQLANGAN"
+ },
+ "nano-molecules": {
+  "uz": "nanomolekulalar",
+  "izoh": "",
+  "joy": "40-bob, 886",
+  "holat": "TASDIQLANGAN"
+ },
+ "adenovirus": {
+  "uz": "adenovirus",
+  "izoh": "",
+  "joy": "40-bob, 890",
+  "holat": "TASDIQLANGAN"
+ },
+ "severe combined immunodeficiency disease (SCID)": {
+  "uz": "og‘ir kombinatsiyalangan immunodefitsit (SCID)",
+  "izoh": "",
+  "joy": "40-bob, 894",
+  "holat": "TASDIQLANGAN"
+ },
+ "bone marrow stem cells": {
+  "uz": "suyak iligining ildiz hujayralari",
+  "izoh": "stem cells → ildiz hujayralar",
+  "joy": "40-bob, 894",
+  "holat": "TASDIQLANGAN"
+ },
+ "epidermolysis bullosa": {
+  "uz": "bullyoz epidermoliz",
+  "izoh": "",
+  "joy": "40-bob, 897",
+  "holat": "TASDIQLANGAN"
+ },
+ "skin grafting": {
+  "uz": "teri ko‘chirib o‘tkazish",
+  "izoh": "",
+  "joy": "40-bob, 897",
+  "holat": "TASDIQLANGAN"
+ },
+ "leukemia": {
+  "uz": "leykemiya",
+  "izoh": "",
+  "joy": "40-bob, 903",
+  "holat": "TASDIQLANGAN"
+ },
+ "enzyme deficiency diseases": {
+  "uz": "ferment yetishmovchiligi kasalliklari",
+  "izoh": "",
+  "joy": "40-bob, 905",
+  "holat": "TASDIQLANGAN"
+ },
+ "CONGRATULATIONS!": {
+  "uz": "TABRIKLAYMIZ!",
+  "izoh": "kitob yakunidagi sarlavha",
+  "joy": "908",
   "holat": "TASDIQLANGAN"
  }
 }

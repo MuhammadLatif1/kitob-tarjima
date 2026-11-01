@@ -1,6 +1,6 @@
 ATAMALAR LUG'ATI
 Format: inglizcha atama → o'zbekcha tarjima | izoh | birinchi uchragan joy
-Oxirgi yangilanish: Biology_Made_Easy_1_qisim
+Oxirgi yangilanish: Biology_Made_Easy_2_qisim
 
 TASDIQLANGAN
 Biology Made Easy → «Oson biologiya» | kitob nomi (KITOB_HAQIDA.txt) | 0-qism, 1
@@ -43,7 +43,7 @@ binomial nomenclature → binar nomenklatura |  | 1-bob, 126
 species → tur | taksonomik daraja | 1-bob, 127
 genus → avlod | taksonomik daraja; muqobil: turkum (botanikada) | 1-bob, 127
 family → oila | taksonomik daraja | 1-bob, 130
-order → turkum | taksonomik daraja; muqobil: tartib (botanikada) | 1-bob, 131
+order → turkum | taksonomik daraja; muqobil: tartib (botanikada); ko‘p ma’noli, kontekstga qarab; umumiy ma’noda: tartib, buyurtma; «in order to» — uchun | 1-bob, 131
 class → sinf | taksonomik daraja | 1-bob, 132
 phylum → tip | taksonomik daraja; muqobil: bo‘lim (botanikada) | 1-bob, 133
 kingdom → dunyo | taksonomik daraja (Plantae dunyosi) | 1-bob, 134
@@ -72,7 +72,7 @@ animal husbandry → chorvachilik |  | 2-bob, 155
 modern synthesis → zamonaviy sintez | evolyutsiyaning sintetik nazariyasi | 2-bob, 159
 Mendelian genetics → Mendel genetikasi |  | 2-bob, 159
 genetic variation → genetik o‘zgaruvchanlik |  | 2-bob, 159
-population → populyatsiya |  | 2-bob, 159
+population → populyatsiya | ko‘p ma’noli, kontekstga qarab; odamlar haqida: aholi | 2-bob, 159
 molecular clock → molekulyar soat |  | 2-bob, 161
 evolutionary tree → evolyutsion daraxt |  | 2-bob, 161
 reproductive success → reproduktiv muvaffaqiyat |  | 2-bob, 163
@@ -143,7 +143,7 @@ apoptosis → apoptoz |  | 3-bob, 238
 daughter cells → qiz hujayralar |  | 3-bob, 238
 DNA replication → DNK replikatsiyasi |  | 3-bob, 242
 gametes → gametalar |  | 3-bob, 242
-offspring → nasl |  | 3-bob, 238
+offspring → nasl | ko‘p ma’noli, kontekstga qarab; odamlar haqida: farzand(lar) | 3-bob, 238
 algae → suvo‘tlari |  | 3-bob, 205
 Robert Hooke → Robert Guk | ism, birinchi uchraganda asli qavsda | 3-bob, 204
 Anton van Leeuwenhoek → Antoni van Levenguk | ism, birinchi uchraganda asli qavsda | 3-bob, 205
@@ -160,7 +160,7 @@ mutation → mutatsiya |  | 4-bob, 245
 nucleotide → nukleotid |  | 4-bob, 247
 gene → gen |  | 4-bob, 248
 chromosome → xromosoma |  | 4-bob, 248
-generation → bo‘g‘in | genetik chatishtirishda (parent generation → ota-ona bo‘g‘ini, F1 generation → F1 bo‘g‘in); umumiy ma’noda «avlod» (from one generation to the next → avloddan avlodga); genus → avlod bilan chalkashmasligi uchun | 4-bob, 252, 269
+generation → bo‘g‘in | genetik chatishtirishda (parent generation → ota-ona bo‘g‘ini, F1 generation → F1 bo‘g‘in); umumiy ma’noda «avlod» (from one generation to the next → avloddan avlodga); genus → avlod bilan chalkashmasligi uchun; ko‘p ma’noli, kontekstga qarab | 4-bob, 252, 269
 pangenesis → pangenez |  | 4-bob, 253
 dominant trait → dominant belgi |  | 4-bob, 254
 recessive trait → retsessiv belgi | recessive → retsessiv | 4-bob, 254
@@ -171,7 +171,7 @@ embryology → embriologiya |  | 4-bob, 256
 Gregor Mendel → Gregor Mendel | ism | 4-bob, 252
 pea plant → no‘xat o‘simligi | pea pods → no‘xat dukkaklari | 4-bob, 252
 hybrid → duragay | hybridization → duragaylash | 4-bob, 260
-cross → chatishtirmoq | chatishtirish | 4-bob, 269
+cross → chatishtirmoq | chatishtirish; ko‘p ma’noli, kontekstga qarab; membranadan o‘tish ma’nosida: o‘tmoq | 4-bob, 269
 purebred → sof liniyali |  | 4-bob, 269
 allele → allel |  | 4-bob, 265
 Punnett square → Pennet panjarasi | muqobil: Pennet katagi | 4-bob, 270
@@ -243,14 +243,14 @@ Dalton → dalton | birlik nomi, kichik harf bilan | 5-bob, 332
 atomic number → atom raqami | muqobil: tartib raqami | 5-bob, 332
 atomic mass → atom massasi |  | 5-bob, 333
 periodic table of the elements → kimyoviy elementlarning davriy jadvali | qisqa: davriy jadval | 5-bob, 333
-period → davr | davriy jadvalda | 5-bob, 337
+period → davr | davriy jadvalda; ko‘p ma’noli, kontekstga qarab; umumiy ma’noda: davr, bosqich | 5-bob, 337
 noble gases → inert gazlar | muqobil: asil gazlar | 5-bob, 337
 isotope → izotop |  | 5-bob, 338
 radioactivity → radioaktivlik | radioactive → radioaktiv | 5-bob, 338
 protium → protiy | deuterium → deyteriy; tritium → tritiy | 5-bob, 339
 electromagnetic force → elektromagnit kuch |  | 5-bob, 341
 nuclear force → yadro kuchi |  | 5-bob, 341
-fission → yadro bo‘linishi | nuclear power plant → atom elektr stansiyasi | 5-bob, 342
+fission → yadro bo‘linishi | nuclear power plant → atom elektr stansiyasi; ko‘p ma’noli, kontekstga qarab; binary fission → ikkiga bo‘linish | 5-bob, 342
 electronegativity → elektromanfiylik | electronegative → elektromanfiy | 5-bob, 344
 Berkelium → berkliy | element; birinchi uchraganda lotincha qavsda | 5-bob, 347
 half-life → yarim yemirilish davri |  | 5-bob, 347
@@ -553,7 +553,7 @@ diffuse / diffusion → diffuziyalanmoq / diffuziya | Heat/Gas Diffusion → Iss
 enthalpy → entalpiya |  | 10-bob, 743
 endothermic / exothermic → endotermik / ekzotermik |  | 10-bob, 744
 reversible / irreversible → qaytar / qaytmas |  | 10-bob, 745
-disorder → tartibsizlik | entropiya ma’nosida | 10-bob, 747
+disorder → tartibsizlik | entropiya ma’nosida; ko‘p ma’noli, kontekstga qarab; kasallik ma’nosida: buzilish, kasallik | 10-bob, 747
 translational / rotational / vibrational motion → ilgarilanma / aylanma / tebranma harakat |  | 10-bob, 765
 molecular freedoms of motion → molekulaning harakat erkinlik darajalari |  | 10-bob, 765
 equilibrium → muvozanat |  | 10-bob, 769
@@ -866,6 +866,435 @@ flavin adenine dinucleotide (FAD) → flavinadenindinukleotid (FAD) | FADH2 o‘
 final electron receptor → yakuniy elektron akseptori |  | 20-bob, 1372
 cell catabolism → hujayra katabolizmi |  | 20-bob, 1376
 It’s All About the Electrons → Hamma gap elektronlarda | kichik sarlavha | 20-bob, 1329
+investment half / investment phase → sarmoya yarmi / sarmoya bosqichi | glikolizning energiya sarflanadigan yarmi; muallifning sarmoya o‘xshatishi saqlandi | 21-bob (2-fayl), 15
+payoff half / payoff phase → daromad yarmi / daromad bosqichi | glikolizning ATF hosil bo‘ladigan yarmi | 21-bob (2-fayl), 15
+anaerobic metabolism → anaerob metabolizm |  | 21-bob (2-fayl), 8
+isomerization → izomerlanish |  | 21-bob (2-fayl), 16
+glucose-6-phosphate / fructose 6-phosphate / fructose 1,6-bisphosphate → glyukoza-6-fosfat / fruktoza-6-fosfat / fruktoza-1,6-bisfosfat |  | 21-bob (2-fayl), 16
+glyceraldehyde 3-phosphate → glitseraldegid-3-fosfat |  | 21-bob (2-fayl), 19
+pyruvate translocase → piruvat translokaza |  | 21-bob (2-fayl), 25
+pyruvate dehydrogenase → piruvatdegidrogenaza |  | 21-bob (2-fayl), 26
+oxaloacetic acid → oksalosirka kislota | oxaloacetate → oksaloatsetat (lug‘atda) | 21-bob (2-fayl), 30
+lactate → laktat |  | 21-bob (2-fayl), 39
+outer membrane / inner membrane (mitochondrion) → tashqi membrana / ichki membrana |  | 21-bob (2-fayl), 41
+intermembrane space / intermembranous space → membranalararo bo‘shliq |  | 21-bob (2-fayl), 41
+matrix (mitochondrial) → matriks (mitoxondriya matriksi) |  | 21-bob (2-fayl), 41
+porin / porin protein → porin / porin oqsili |  | 21-bob (2-fayl), 43
+voltage-dependent anion channel (VDAC) → kuchlanishga bog‘liq anion kanali (VDAC) |  | 21-bob (2-fayl), 43
+electron acceptors → elektron akseptorlari |  | 21-bob (2-fayl), 49
+electrochemical gradient → elektrokimyoviy gradiyent |  | 21-bob (2-fayl), 49
+Complex I – Complex IV → Kompleks I – Kompleks IV | rim raqamlari saqlandi | 21-bob (2-fayl), 51
+coenzyme Q → koferment Q |  | 21-bob (2-fayl), 53
+Carrier C → C tashuvchi | muallif sitoxrom c ni shunday atagan | 21-bob (2-fayl), 54
+final electron acceptor → yakuniy elektron akseptori |  | 21-bob (2-fayl), 63
+molds → mog‘or zamburug‘lari |  | 21-bob (2-fayl), 14
+monosodium glutamate → natriy glutamat |  | 21-bob (2-fayl), 11
+butyl alcohol / acetic acid / gluconic acid / ethanol / acetone → butil spirti / sirka kislotasi / glyukon kislotasi / etanol / aseton |  | 21-bob (2-fayl), 7
+thylakoid membranes → tilakoid membranalar |  | 22-bob, 68
+photon → foton |  | 22-bob, 68
+photopigments → fotopigmentlar | pigmented → pigmentli | 22-bob, 70
+wavelength → to‘lqin uzunligi |  | 22-bob, 70
+chlorophyll a / chlorophyll b → xlorofill a / xlorofill b | chlorophylls c and d → xlorofill c va d | 22-bob, 71
+beta-carotene → beta-karotin |  | 22-bob, 71
+bacteriochlorophyll → bakterioxlorofill |  | 22-bob, 71
+porphyrin ring → porfirin halqasi |  | 22-bob, 72
+heme → gem | gemoglobinning gem qismi | 22-bob, 72
+accessory pigments → yordamchi pigmentlar |  | 22-bob, 73
+excited state → qo‘zg‘algan holat | excited electrons → qo‘zg‘algan elektronlar; ground state → asosiy holat | 22-bob, 74
+light reactions → yorug‘likka bog‘liq reaksiyalar | 23-bob sarlavhasiga mos | 22-bob, 77
+dark reactions → qorong‘ilik reaksiyalari |  | 22-bob, 79
+reducing molecule → qaytaruvchi molekula | NADPH o‘zgarishsiz | 22-bob, 80
+special pair → maxsus juftlik | fotosintetik kompleksda | 22-bob, 83
+photosynthetic complex → fotosintetik kompleks |  | 22-bob, 83
+quinone → xinon |  | 22-bob, 83
+pool stick → bilyard kiyi | pool ball → bilyard shari | 22-bob, 75
+light-dependent reactions → yorug‘likka bog‘liq reaksiyalar | light reactions bilan bir xil (TASDIQLANGAN atamaga mos) | 23-bob, 89
+carbon fixation → uglerod fiksatsiyasi |  | 23-bob, 91
+light absorption → yorug‘likning yutilishi |  | 23-bob, 91
+leaf starch → barg kraxmali |  | 23-bob, 90
+primary electron acceptor → birlamchi elektron akseptori |  | 23-bob, 97
+stroma → stroma | xloroplast stromasi | 23-bob, 103
+F0F1 complex → F0F1 kompleksi |  | 23-bob, 103
+photosystem → fotosistema | Photosystem I / II → I fotosistema / II fotosistema | 23-bob, 104
+antenna-containing pigments → antenna pigmentlar | antenna chlorophylls → antenna xlorofillari | 23-bob, 114
+reaction center → reaksiya markazi |  | 23-bob, 114
+light-harvesting complex (LHC) → yorug‘lik yig‘uvchi kompleks (LHC) |  | 23-bob, 115
+weak reducer → kuchsiz qaytaruvchi |  | 23-bob, 118
+Calvin cycle → Kalvin sikli |  | 24-bob, 129
+ribulose-1,5-bisphosphate (RuBP) → ribulozo-1,5-bisfosfat (RuBP) | RuBP qisqartmasi o‘zgarmadi | 24-bob, 133
+rubisco → rubisko | Rubisco enzyme complex → rubisko ferment kompleksi | 24-bob, 134
+G3P (glyceraldehyde-3-phosphate) → G3P (glitseraldegid-3-fosfat) | G3P qisqartmasi o‘zgarmadi | 24-bob, 135
+fixed carbon → fiksatsiyalangan uglerod | fix carbon → uglerodni fiksatsiya qilmoq | 24-bob, 135
+leftovers → ortiqcha qoldiqlar | Kalvin siklida qolgan G3P molekulalari | 24-bob, 136
+starch granules → kraxmal donachalari |  | 24-bob, 131
+gluconeogenesis → glyukoneogenez |  | 24-bob, 144
+intermediates / intermediaries → oraliq mahsulotlar | biokimyoviy yo‘lda | 24-bob, 146
+glycolysis pathway → glikoliz yo‘li |  | 24-bob, 146
+cell motility → hujayra harakatchanligi | motility → harakatchanlik | Yettinchi bo‘lim, 152
+cell digestion → hujayra ichida hazm qilish | mundarijadagi 27-bob nomiga mos | Yettinchi bo‘lim, 155
+anchoring proteins → langar oqsillar |  | Yettinchi bo‘lim, 154
+inorganic / organic molecule → anorganik / organik molekula |  | 24-bob, 149
+motor proteins → motor oqsillar |  | 25-bob, 168
+kinesins / kinesin class → kinezinlar / kinezinlar sinfi |  | 25-bob, 171
+dyneins → dineinlar | dinein (birlik) lug‘atda bor | 25-bob, 172
+myosins / Myosin II / Myosin V / Myosin XI → miozinlar / Miozin II / Miozin V / Miozin XI |  | 25-bob, 173
+cytoplasmic streaming → sitoplazma oqimi |  | 25-bob, 175
+cyclosis → sikloz |  | 25-bob, 175
+G-actin / F-actin → G-aktin / F-aktin |  | 25-bob, 181
+muscle contraction → muskul qisqarishi |  | 25-bob, 166
+filaments / fibers (cytoskeleton) → filamentlar / tolalar |  | 25-bob, 164
+tetramer → tetramer |  | 25-bob, 185
+unit length filament (ULF) → birlik uzunlikdagi filament (ULF) |  | 25-bob, 185
+keratin → keratin |  | 25-bob, 187
+scaffolding → karkas | oraliq filamentlar haqida | 25-bob, 188
+muscular dystrophy → muskul distrofiyasi |  | 25-bob, 188
+Alexander disease → Aleksandr kasalligi |  | 25-bob, 188
+vimentin / neurofilament proteins / lamin / desmin → vimentin / neyrofilament oqsillari / lamin / desmin |  | 25-bob, 189
+connective tissue → biriktiruvchi to‘qima |  | 25-bob, 189
+centrosome → sentrosoma |  | 25-bob, 193
+mother centriole / daughter centriole → ona sentriola / qiz sentriola |  | 25-bob, 195
+triplet (microtubules) → triplet |  | 25-bob, 195
+microtubule organizing center (MTOC) → mikronaychalarni tashkil etuvchi markaz (MTOC) | qisqartma lotincha qoldirildi | 25-bob, 196
+doublets / dynein arms → dubletlar / dinein qo‘lchalari |  | 25-bob, 199
+heavy chain / light chain → og‘ir zanjir / yengil zanjir |  | 25-bob, 202
+actin binding site / ATP binding site → aktin bog‘lanish markazi / ATF bog‘lanish markazi |  | 25-bob, 202
+anterograde / retrograde → anterograd / retrograd |  | 25-bob, 206
+cell adhesion molecules → hujayra adgeziya molekulalari |  | 25-bob, 208
+adhesion proteins → adgeziya oqsillari |  | 25-bob, 209
+selectins / integrins / cadherins → selektinlar / integrinlar / kadgerinlar |  | 25-bob, 211
+L-selectin / P-selectin / E-selectin → L-selektin / P-selektin / E-selektin |  | 25-bob, 212
+endothelial cells → endoteliy hujayralari |  | 25-bob, 212
+leukocytes → leykotsitlar |  | 25-bob, 212
+intercellular adhesion molecules (ICAMs) → hujayralararo adgeziya molekulalari (ICAM) |  | 25-bob, 213
+diapedesis → diapedez |  | 25-bob, 214
+tight junctions → zich birikmalar |  | 25-bob, 218
+claudins / occludins / tricellulins → klaudinlar / okkludinlar / trisellulinlar |  | 25-bob, 222
+adaptor proteins → adapter oqsillar |  | 25-bob, 222
+leaky gut syndrome → «o‘tkazuvchan ichak» sindromi |  | 25-bob, 223
+food intolerance / malabsorption → oziq-ovqatni ko‘tara olmaslik / ozuqa moddalarining yomon so‘rilishi |  | 25-bob, 223
+autoimmune diseases → autoimmun kasalliklar |  | 25-bob, 223
+smooth muscle → silliq muskul |  | 25-bob, 225
+connexins / connexin protein → konneksinlar / konneksin oqsili |  | 25-bob, 227
+desmosomes → desmosomalar |  | 25-bob, 230
+macula adherens → macula adherens | lotincha atama o‘zgartirilmadi | 25-bob, 231
+hemidesmosome → gemidesmosoma |  | 25-bob, 231
+basement membrane → bazal membrana |  | 25-bob, 231
+linker proteins → bog‘lovchi oqsillar |  | 25-bob, 232
+desmosome-intermediate filament complexes (DIFC) → desmosoma-oraliq filament komplekslari (DIFC) |  | 25-bob, 232
+outer dense plaque (ODP) / inner dense plaque → tashqi zich plastinka (ODP) / ichki zich plastinka |  | 25-bob, 232
+extracellular core region → hujayradan tashqari markaziy soha |  | 25-bob, 232
+desmocollin / desmoglein → desmokollin / desmoglein |  | 25-bob, 234
+plakoglobin / plakophilin / desmoplakin → plakoglobin / plakofilin / desmoplakin |  | 25-bob, 234
+blistering diseases → pufakchali kasalliklar |  | 25-bob, 235
+pemphigus vulgaris → vulgar pemfigus (pemphigus vulgaris) |  | 25-bob, 235
+bullous impetigo → bullyoz impetigo |  | 25-bob, 235
+Staph infection → stafilokokk infeksiyasi |  | 25-bob, 235
+contractile bundles → qisqaruvchi tutamlar | bundle → tutam | 26-bob: Hujayralar qanday harakatlanadi, 244
+microvilli → mikrovorsinkalar |  | 26-bob: Hujayralar qanday harakatlanadi, 245
+circumferential belt → aylana belbog‘ | belt-like structure → belbog‘simon tuzilma | 26-bob: Hujayralar qanday harakatlanadi, 246
+adherens junctions → adgeziv birikmalar |  | 26-bob: Hujayralar qanday harakatlanadi, 246
+equator (of dividing cell) → ekvator |  | 26-bob: Hujayralar qanday harakatlanadi, 249
+contractile ring / purse string → qisqaruvchi halqa / «hamyon ipi» |  | 26-bob: Hujayralar qanday harakatlanadi, 249
+pseudopodia / pseudopod → psevdopodiyalar / psevdopodiya | «false feet» → «soxta oyoqchalar» | 26-bob: Hujayralar qanday harakatlanadi, 256
+fibroblasts → fibroblastlar |  | 26-bob: Hujayralar qanday harakatlanadi, 257
+scar tissue → chandiq to‘qimasi |  | 26-bob: Hujayralar qanday harakatlanadi, 257
+inchworm → odimchi qurt |  | 26-bob: Hujayralar qanday harakatlanadi, 258
+leading end / lagging end → oldingi uchi / orqadagi uchi | «head» / «tail» end → «bosh» / «dum» uchi | 26-bob: Hujayralar qanday harakatlanadi, 259-260
+axoneme → aksonema |  | 26-bob: Hujayralar qanday harakatlanadi, 263
+basal body → bazal tanacha |  | 26-bob: Hujayralar qanday harakatlanadi, 265
+transition zone → o‘tish zonasi |  | 26-bob: Hujayralar qanday harakatlanadi, 265
+vesicular movement → pufakchalar harakati |  | 26-bob: Hujayralar qanday harakatlanadi, 271
+motile cells → harakatchan hujayralar |  | 26-bob: Hujayralar qanday harakatlanadi, 271
+Gaucher’s disease → Gosher kasalligi | birinchi uchraganda asli qavsda | 27-bob: Hujayra ichida hazm qilish, 277
+I-cell disease → I-hujayra kasalligi | birinchi uchraganda asli qavsda | 27-bob: Hujayra ichida hazm qilish, 277
+autophagy → autofagiya |  | 27-bob: Hujayra ichida hazm qilish, 284
+autophagosome → autofagosoma |  | 27-bob: Hujayra ichida hazm qilish, 284
+phagosome → fagosoma |  | 27-bob: Hujayra ichida hazm qilish, 282
+phagolysosome → fagolizosoma |  | 27-bob: Hujayra ichida hazm qilish, 282
+superoxide ions → superoksid ionlari |  | 27-bob: Hujayra ichida hazm qilish, 285
+NADPH oxidase → NADPH-oksidaza | NADPH-dependent oxidases → NADPH ga bog‘liq oksidazalar | 27-bob: Hujayra ichida hazm qilish, 285
+catalase → katalaza |  | 27-bob: Hujayra ichida hazm qilish, 288
+fatty acid oxidation → yog‘ kislotalarining oksidlanishi |  | 27-bob: Hujayra ichida hazm qilish, 289
+uric acid → siydik kislotasi |  | 27-bob: Hujayra ichida hazm qilish, 289
+dolichol → dolixol |  | 27-bob: Hujayra ichida hazm qilish, 290
+plasmalogens → plazmalogenlar |  | 27-bob: Hujayra ichida hazm qilish, 290
+glyoxylate cycle → glioksilat sikli |  | 27-bob: Hujayra ichida hazm qilish, 291
+germination → unib chiqish |  | 27-bob: Hujayra ichida hazm qilish, 291
+photorespiration → fotonafas |  | 27-bob: Hujayra ichida hazm qilish, 292
+phosphoglycolate → fosfoglikolat |  | 27-bob: Hujayra ichida hazm qilish, 292
+serine → serin |  | 27-bob: Hujayra ichida hazm qilish, 292
+glycerate → glitserat |  | 27-bob: Hujayra ichida hazm qilish, 292
+phagocytic cell → fagotsitlovchi hujayra |  | 27-bob: Hujayra ichida hazm qilish, 295
+antigen → antigen |  | 27-bob: Hujayra ichida hazm qilish, 295
+genetic material → genetik material |  | 27-bob: Hujayra ichida hazm qilish, 300
+messenger molecules → messenjer molekulalar |  | 27-bob: Hujayra ichida hazm qilish, 300
+transport vesicles → transport pufakchalari |  | 27-bob: Hujayra ichida hazm qilish, 280
+garbage disposal (cell) → chiqindi maydalagich | lizosomalar haqida obrazli ifoda | 27-bob: Hujayra ichida hazm qilish, 275
+codon → kodon | start codon / stop codon → start kodoni / stop kodoni | 28-bob, 308
+purine / pyrimidine → purin / pirimidin | purin asoslari; pirimidinlar | 28-bob, 312
+5’ end / 3’ end → 5’ uchi / 3’ uchi |  | 28-bob, 316
+polarity (of nucleic acid) → qutblilik | ikki uchining bir xil emasligi ma’nosida | 28-bob, 316
+semi-conservative DNA replication → DNKning yarim konservativ replikatsiyasi |  | 28-bob, 318
+supercoil / supercoiling → superspirallanmoq / superspirallanish |  | 28-bob, 319
+topoisomerase → topoizomeraza |  | 28-bob, 319
+heterogeneous strand pair → geterogen zanjir jufti | DNK-RNK jufti | 28-bob, 323
+rRNA / tRNA / mRNA → rRNK / tRNK / mRNK | qisqartmalar | 28-bob, 327
+introns / exons → intronlar / ekzonlar |  | 28-bob, 329
+regulatory RNA → regulyator RNK |  | 28-bob, 330
+antisense RNA (aRNA) → antisens RNK (aRNK) |  | 28-bob, 330
+small interfering RNA (siRNA) → kichik interferensiyalovchi RNK (siRNK) |  | 28-bob, 330
+microRNA (miRNA) → mikroRNK (miRNK) |  | 28-bob, 330
+riboswitches → riboswitchlar | xalqaro atama saqlandi | 28-bob, 330
+transfer messenger RNA (tmRNA) → transport-informatsion RNK (tmRNK) |  | 28-bob, 331
+plastids → plastidalar |  | 28-bob, 331
+helicase → helikaza |  | 29-bob, 338
+replication fork → replikatsiya vilkasi |  | 29-bob, 338
+template strand → matritsa zanjiri | template → matritsa | 29-bob, 338
+base pair → asos jufti |  | 29-bob, 338
+leading strand / lagging strand → yetakchi zanjir / kechikuvchi zanjir |  | 29-bob, 341
+Okazaki fragments → Okazaki fragmentlari |  | 29-bob, 343
+DNA primase / primase → DNK praymaza / praymaza |  | 29-bob, 344
+RNA polymerase III → RNK polimeraza III |  | 29-bob, 344
+DNA polymerase → DNK polimeraza |  | 29-bob, 344
+primer → praymer | RNA primer → RNK praymer | 29-bob, 344
+complementary → komplementar |  | 29-bob, 344
+proofreading function → xatolarni tuzatish funksiyasi |  | 29-bob, 345
+DNA ligase → DNK ligaza |  | 29-bob, 346
+tissue → to‘qima |  | 29-bob, 354
+cell communities → hujayra jamoalari | mundarija bilan mos | 29-bob, 354
+epithelial cells → epiteliy hujayralari |  | 29-bob, 353
+cell reproduction → hujayra ko‘payishi | bob sarlavhasi (mundarija bilan bir xil) | bob 10, 355
+mother cell → ona hujayra |  | bob 10, 356
+gamete cell → gameta hujayra |  | bob 10, 357
+sperm cell / egg cell → spermatozoid / tuxum hujayra |  | bob 10, 357
+genetic recombination → genetik rekombinatsiya |  | bob 10, 359
+asexual reproduction → jinssiz ko‘payish |  | bob 10, 362
+parthenogenesis → partenogenez |  | bob 10, 366
+Key Takeaways: → Asosiy xulosalar: | rukn sarlavhasi | bob 10, 366
+circular DNA → halqasimon DNK |  | bob 10, 367
+budding / bud → kurtaklanish / kurtak | ko'payish usuli | bob 10, 368
+spermatogonium / oogonium → spermatogoniy / oogoniy |  | bob 10, 372
+haploid cell → gaploid hujayra |  | bob 10, 372
+segmented filamentous bacteria → segmentli ipsimon bakteriyalar |  | bob 10, 380
+cell cycle checkpoints → hujayra siklining nazorat nuqtalari | checkpoint → nazorat nuqtasi | bob 11, 395
+interphase → interfaza |  | bob 11, 394
+mitotic phase / M phase → mitotik faza / M fazasi |  | bob 11, 394
+replication → replikatsiya | DNA replication → DNK replikatsiyasi (lug‘atda bor) | bob 11, 394
+G0 / G1 / S / G2 phase → G0 / G1 / S / G2 fazasi | Gap 0/1/2 → Gap 0 («0-oraliq») va h.k. | bob 11, 397
+quiescent → tinim holatidagi | resting phase → tinim fazasi | bob 11, 397
+post-mitotic cells → postmitotik hujayralar |  | bob 11, 400
+senescent → senessent («qarigan») |  | bob 11, 400
+G1 / G2 / metaphase checkpoint → G1 / G2 / metafaza nazorat nuqtasi |  | bob 11, 401
+sister chromatids → opa-singil xromatidalar | chromatid → xromatida | bob 11, 402
+tumor suppressor protein → o‘sma supressori oqsili |  | bob 11, 406
+Li-Fraumeni Syndrome → Li-Fraumeni sindromi | birinchi uchraganda asli qavsda | bob 11, 406
+karyokinesis → kariokinez |  | bob 11, 409
+prophase / prometaphase / metaphase / anaphase / telophase → profaza / prometafaza / metafaza / anafaza / telofaza |  | bob 11, 412
+mitotic spindle → mitotik duk | spindle → duk | bob 11, 413
+kinetochore → kinetoxor |  | bob 11, 414
+centromere → sentromera |  | bob 11, 416
+kinetochore microtubules → kinetoxor mikronaychalari |  | bob 11, 420
+aster → aster |  | bob 11, 420
+metaphase plate → metafaza plastinkasi |  | bob 11, 421
+spindle checkpoint → duk nazorat nuqtasi |  | bob 11, 422
+decondense → dekondensatsiyalanmoq |  | bob 11, 426
+actin ring → aktin halqasi |  | bob 11, 429
+cell plate → hujayra plastinkasi |  | bob 11, 429
+cyclins / cyclin-dependent kinases (CDKs) → siklinlar / siklinga bog‘liq kinazalar (CDKlar) |  | bob 11, 431
+pro-mitotic signal → promitotik signal |  | bob 11, 432
+transcription factors → transkripsiya omillari |  | bob 11, 432
+restriction point → restriksiya nuqtasi |  | bob 11, 436
+DNA synthase enzyme → DNK-sintaza fermenti |  | bob 11, 436
+programmed cell death → dasturlashtirilgan hujayra o‘limi |  | bob 11, 439
+cell necrosis → hujayra nekrozi |  | bob 11, 445
+caspases / procaspases → kaspazalar / prokaspazalar |  | bob 11, 446
+proteases → proteazalar |  | bob 11, 446
+aspartic acid → asparagin kislota |  | bob 11, 446
+death receptors → o‘lim retseptorlari |  | bob 11, 448
+innervation → innervatsiya |  | bob 11, 442
+homologous chromosomes → gomologik xromosomalar | homolog → gomolog; homologous → gomologik | 32-bob, 460
+autosome → autosoma | autosomal diseases → autosom kasalliklar | 32-bob, 460
+non-homologous → nogomologik |  | 32-bob, 460
+nuclear DNA / mitochondrial DNA → yadro DNKsi / mitoxondrial DNK |  | 32-bob, 458
+meiosis I / meiosis II → meyoz I / meyoz II | prophase I → profaza I | 32-bob, 459
+bivalent → bivalent |  | 32-bob, 465
+nondisjunction → xromosomalarning ajralmasligi | failure of segregation → ajralishidagi nuqson | 32-bob, 473
+trisomy → trisomiya |  | 32-bob, 474
+Down / Edward / Patau syndrome → Daun / Edvards / Patau sindromi |  | 32-bob, 474
+Turner / Klinefelter / Jacob’s syndrome → Terner / Klaynfelter / Jeykobs sindromi |  | 32-bob, 476
+miscarriage → homila tushishi |  | 32-bob, 475
+identical twins → bir tuxumli egizaklar |  | 32-bob, 478
+siblings → aka-uka va opa-singillar |  | 32-bob, 478
+crossover / cross over → krossingover / chalkashmoq (o‘rin almashmoq) |  | 32-bob, 478, 479
+spermatogenesis / oogenesis → spermatogenez / oogenez |  | 32-bob, 485, 487
+polar body → qutb tanachasi |  | 32-bob, 489
+ovum / oocyte → tuxum hujayra / oosit |  | 32-bob, 489, 496
+primary spermatocyte → birlamchi spermatotsit |  | 32-bob, 491
+extracellular polymeric substance (EPS) → hujayradan tashqari polimer modda (EPS) | bioplyonka «yelimi» | 33-bob: Hujayra jamoalari, 501
+planktonic state / biofilm state → planktonik holat / bioplyonka holati |  | 33-bob: Hujayra jamoalari, 502
+persisters → persistorlar | bo‘linmaydigan, ammo tinim holatida bo‘lmagan bakteriyalar | 33-bob: Hujayra jamoalari, 507
+dental plaque → tish karashi |  | 33-bob: Hujayra jamoalari, 500
+extracellular matrix → hujayradan tashqari matriks | to‘qimalarni birlashtiruvchi modda | 33-bob: Hujayra jamoalari, 514
+muscle tissue → muskul to‘qimasi |  | 33-bob: Hujayra jamoalari, 516
+nerve tissue / nervous tissue → nerv to‘qimasi / asab to‘qimasi |  | 33-bob: Hujayra jamoalari, 516, 541
+epithelial tissue / epithelium → epiteliy to‘qimasi / epiteliy |  | 33-bob: Hujayra jamoalari, 516, 519
+goblet cells → qadahsimon hujayralar | shilimshiq ishlab chiqaruvchi hujayralar | 33-bob: Hujayra jamoalari, 530
+fluid-based / skeletal / fibrous connective tissue → suyuq / skelet / tolali biriktiruvchi to‘qima |  | 33-bob: Hujayra jamoalari, 533
+cardiac muscle tissue → yurak muskul to‘qimasi |  | 33-bob: Hujayra jamoalari, 536
+bronchial tree → bronxial daraxt |  | 33-bob: Hujayra jamoalari, 536
+muscle syncytium → muskul sinsitiysi |  | 33-bob: Hujayra jamoalari, 537
+glial cells → gliya hujayralari |  | 33-bob: Hujayra jamoalari, 542
+myelin → miyelin |  | 33-bob: Hujayra jamoalari, 542
+microglia / astrocytes / oligodendrocytes → mikrogliya / astrotsitlar / oligodendrotsitlar |  | 33-bob: Hujayra jamoalari, 544
+depolarize → depolyarizatsiyalamoq |  | 33-bob: Hujayra jamoalari, 541
+Gene Expression → gen ekspressiyasi | O‘ninchi bo‘lim sarlavhasi | 33-bob: Hujayra jamoalari, 548
+central dogma → markaziy dogma | molekulyar biologiyaning markaziy dogmasi | Bob 14 (34-bob), 550
+transcription → transkripsiya | DNKdan RNK hosil bo‘lishi | Bob 14, 554
+translation → translyatsiya | mRNKdan oqsil hosil bo‘lishi | Bob 14, 555
+general / special / unknown transfers → umumiy / maxsus / noma’lum uzatishlar | markaziy dogmadagi axborot uzatish toifalari | Bob 14, 559
+nucleated cells → yadroli hujayralar |  | Bob 14, 561
+RNA replication → RNK replikatsiyasi |  | Bob 14, 569
+reverse transcription → teskari transkripsiya |  | Bob 14, 571
+reverse transcriptase → teskari transkriptaza | ferment | Bob 14, 571
+HIV → OIV | odam immunitet tanqisligi virusi | Bob 14, 571
+RNA transcription → RNK transkripsiyasi | jadval sarlavhasi | Bob 14, 582
+RNA transcript → RNK transkripti |  | Bob 14, 616
+gene regulation → gen regulyatsiyasi |  | Bob 14, 594
+dATP, dTTP, dGTP, dCTP / UTP, CTP → dATF, dTTF, dGTF, dSTF / UTF, STF | ATP → ATF qoidasiga muvofiq | Bob 14, 595-596
+messenger (mRNA as intermediary) → vositachi | umumiy ma’noda; informatsion RNK atamasi alohida | Bob 14, 554
+primary transcript → birlamchi transkript |  | 35-bob, 632
+initiation / elongation / termination → initsiatsiya / elongatsiya / terminatsiya | transkripsiya va translyatsiya bosqichlari | 35-bob, 636
+RNA polymerase → RNK polimeraza |  | 35-bob, 637
+holoenzyme → xoloferment |  | 35-bob, 637
+core enzyme → kor-ferment | sigma omilsiz RNK polimeraza | 35-bob, 643
+promoter site / promoter region → promotor uchastkasi / promotor sohasi |  | 35-bob, 639
+sigma factor → sigma omil | σ omil | 35-bob, 640
+TTGACA segment / TTGACA box → TTGACA segmenti / TTGACA qutisi |  | 35-bob, 640
+Pribnow box → Pribnov qutisi |  | 35-bob, 640
+ribonucleoside-5-triphosphates → ribonukleozid-5-trifosfatlar |  | 35-bob, 643
+ternary complex → uchlamchi kompleks | DNK matritsasi + RNK polimeraza + RNK | 35-bob, 644
+transcription bubble → transkripsiya pufagi |  | 35-bob, 644
+rho protein → rho oqsili | terminatsiya | 35-bob, 647
+hairpin-like structure → «shpilka»ga o‘xshash tuzilma |  | 35-bob, 647
+70S unit → 70S birligi |  | 35-bob, 651
+binding sites (ribosome) / A site / P site / E site → bog‘lanish markazlari / A markaz / P markaz / E markaz |  | 35-bob, 652
+aminoacyl-tRNA / aminoacyl tRNA binding site → aminoatsil-tRNK / aminoatsil-tRNK bog‘lanish markazi |  | 35-bob, 653
+peptidyl-tRNA binding site → peptidil-tRNK bog‘lanish markazi |  | 35-bob, 654
+start codon / stop codon → start kodon / stop kodon |  | 35-bob, 660
+initiator transfer RNA → initsiator transport RNK |  | 35-bob, 660
+polypeptide chain / peptide chain → polipeptid zanjiri / peptid zanjiri |  | 35-bob, 634
+amino acid activation → aminokislota aktivatsiyasi | tRNKni «yuklash» | 35-bob, 661
+aminoacyl-tRNA synthetase → aminoatsil-tRNK-sintetaza |  | 35-bob, 661
+release factors (RF-1, RF-2, RF-3) → terminatsiya omillari (RF-1, RF-2, RF-3) |  | 35-bob, 663
+RNA polymerase I / II → RNK polimeraza I / II | RNK polimeraza III allaqachon lug‘atda | 35-bob, 668
+pre-mRNA → pre-mRNK |  | 35-bob, 669
+5S rRNA → 5S rRNK |  | 35-bob, 670
+TATA box → TATA qutisi |  | 35-bob, 671
+TFII factors / basal transcription factors → TFII omillari / bazal transkripsiya omillari |  | 35-bob, 672
+enhancers / silencers → enhanserlar / saylenserlar |  | 35-bob, 674
+FACT protein → FACT oqsili | facilitates chromatin transcription — xromatin transkripsiyasini yengillashtiradi | 35-bob, 677
+pre-mRNA tail → pre-mRNK dumi |  | 35-bob, 678
+5’ cap / 5’ endcap → 5’ kep |  | 35-bob, 681
+poly-A tail → poli-A dum |  | 35-bob, 681
+RNA editing / RNA splicing / splicing → RNK tahriri / RNK splaysingi / splaysing |  | 35-bob, 681
+7-methylguanosine → 7-metilguanozin |  | 35-bob, 683
+spliceosome → splaysosoma |  | 35-bob, 685
+40S subunit / 60S subunit → 40S subbirlik / 60S subbirlik |  | 35-bob, 690
+polysome → polisoma |  | 35-bob, 690
+charged (tRNA) → zaryadlangan | yuklangan tRNK | 35-bob, 691
+post-translational protein modification → oqsilning translyatsiyadan keyingi modifikatsiyasi | post-translational modification → translyatsiyadan keyingi modifikatsiya bilan mos | 35-bob, 692
+protein folding / misfolded protein → oqsilning burmalanishi / noto‘g‘ri burmalangan oqsil |  | 35-bob, 694
+chaperone proteins → shaperon oqsillar |  | 35-bob, 694
+cleavage (protein) → kesilish |  | 35-bob, 695
+side chain addition → yon zanjirlar qo‘shilishi |  | 35-bob, 696
+signal sequence addition → signal ketma-ketlik qo‘shilishi |  | 35-bob, 697
+sulfhydryl group → sulfgidril guruhi |  | 35-bob, 698
+ubiquitin / ubiquitination → ubikvitin / ubikvitinlanish |  | 35-bob, 696, 699
+ubiquitination proteasome pathway → ubikvitin-proteasoma yo‘li |  | 35-bob, 700
+E1 / E2 / E3 enzyme → E1 / E2 / E3 fermenti |  | 35-bob, 702
+26S proteasome → 26S proteasoma |  | 35-bob, 703
+DNA repair → DNK reparatsiyasi | bob sarlavhasi; repair → reparatsiya | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 710-birlik
+recombination / DNA recombination → rekombinatsiya / DNK rekombinatsiyasi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 710-birlik
+DNA synthesis → DNK sintezi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 711-birlik
+wobble → tebranuvchan juftlashuv | noto‘g‘ri asos juftlashuvi | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 714-birlik
+strand slippage → zanjir sirpanishi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 716-birlik
+deletion / insertion → deletsiya / insersiya |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 716-birlik
+mismatch repair → nomuvofiq juftlar reparatsiyasi | mismatched → noto‘g‘ri juftlashgan / nomuvofiq | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 718-birlik
+silent mutation → sokin mutatsiya |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 720-birlik
+depurination → depurinlanish |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 721-birlik
+deamination → dezaminlanish |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 721-birlik
+germline mutations → jinsiy hujayra mutatsiyalari |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 722-birlik
+UV (energy, damage) → UB (energiyasi, shikastlanishi) | ultrabinafsha | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 725-birlik
+pyrimidine dimer → pirimidin dimeri |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 725-birlik
+oncogene → onkogen |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 727-birlik
+nucleotide excision repair → nukleotid eksizion reparatsiyasi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 728-birlik
+base excision repair → asos eksizion reparatsiyasi |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 733-birlik
+xeroderma pigmentosum (XP) → pigmentli kseroderma (XP) |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 735-birlik
+gamma rays / x-rays → gamma nurlar / rentgen nurlari |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 736-birlik
+chromosome rearrangements → xromosoma qayta tuzilishlari |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 736-birlik
+chromosome crossover → xromosomalar krossingoveri | crossing over → krossingover | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 737-birlik
+recombinases → rekombinazalar |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 739-birlik
+chiasm → xiazma |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 742-birlik
+Holliday junction → Xolliday tuzilmasi | birinchi uchraganda: Xolliday (Holliday) tuzilmasi | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 743-birlik
+mutagens → mutagenlar |  | 36-bob: DNK reparatsiyasi va rekombinatsiyasi, 747-birlik
+operon → operon |  | bob 17, 752
+activator / repressor / inducer → aktivator / repressor / induktor | gen regulyatsiyasi molekulalari | bob 17, 753
+operator region → operator sohasi |  | bob 17, 755
+lac operon / lac repressor → lac operon / lac repressor |  | bob 17, 758
+catabolite activator protein (CAP) → katabolit aktivator oqsil (CAP) |  | bob 17, 761
+allolactose → allolaktoza |  | bob 17, 764
+Trp operon → Trp operon |  | bob 17, 769
+tryptophan → triptofan | aminokislota | bob 17, 769
+tryptophan repressor protein → triptofan repressor oqsili |  | bob 17, 771
+trpR gene → trpR geni |  | bob 17, 774
+general transcription factor → umumiy transkripsiya omili |  | bob 17, 779
+enhancer regions → enhanser sohalari |  | bob 17, 782
+acetyl side chain → atsetil yon zanjiri |  | bob 17, 787
+acetylation / de-acetylate → atsetillanish / deatsetillamoq |  | bob 17, 787
+nucleosome remodeling → nukleosomalarni qayta tuzish |  | bob 17, 787
+methyl group / methylation / methylate → metil guruhi / metillanish / metillamoq |  | bob 17, 789
+epigenetics / epigenetic → epigenetika / epigenetik |  | bob 17, 792
+GMO (genetically modified organisms) → GMO (genetik modifikatsiyalangan organizmlar) |  | bob 17, 798
+clone → klonlamoq |  | bob 17, 798
+recombinant DNA technology → rekombinant DNK texnologiyasi |  | 38-bob, 803
+PCR (polymerase chain reaction) → PZR (polimeraza zanjir reaksiyasi) | o‘zbekcha qisqartma PZR | 38-bob, 813
+restriction enzymes → restriksiya fermentlari |  | 38-bob, 812
+genetic library → genetik kutubxona |  | 38-bob, 811
+gene gun → gen to‘pponchasi | biolistika qurilmasi | 38-bob, 818
+Agrobacterium → Agrobacterium | lotincha turkum nomi o‘zgarmaydi | 38-bob, 818
+biofuels → bioyoqilg‘ilar |  | 38-bob, 805
+invasive species → invaziv tur |  | 38-bob, 828
+biotic stressors → biotik stress omillari |  | 38-bob, 805
+kudzu → kudzu | Pueraria montana o‘simligi | 38-bob, 828
+vaccine → vaksina |  | 38-bob, 826
+acre → akr | o‘lchov birligi o‘zgartirilmadi | 38-bob, 828
+sperm-mediated transfer → sperma vositasida gen ko‘chirish | GMO hayvon yaratish usuli | 39-bob, 847
+bioreactor → bioreaktor | dori ishlab chiqaruvchi GMO hayvon | 39-bob, 843
+companion animals → uy hayvonlari |  | 39-bob, 844
+retrovirus → retrovirus |  | 39-bob, 854
+promoter sequence / terminator sequence → promotor ketma-ketligi / terminator ketma-ketligi |  | 39-bob, 858
+transgenic → transgen | transgen hayvon | 39-bob, 862
+transplant rejection → ko‘chirib o‘tkazilgan a’zoni rad etish | kontekstga qarab «rad etish» | 39-bob, 849
+cloning → klonlash | «clone → klonlamoq» bilan mos | 39-bob, 864
+totipotent → totipotent |  | 39-bob, 866
+telomeres → telomeralar |  | 39-bob, 869
+gene editing → gen tahriri |  | 39-bob, 871
+CRISPR → CRISPR | o‘zgarmaydi | 39-bob, 872
+embryonic cells → embrional hujayralar |  | 39-bob, 866
+single-gene disorder / disease → bir genli kasallik | monogen kasallik | 40-bob, 879
+lipoprotein lipase deficiency (LPLD) → lipoproteinlipaza tanqisligi (LPLD) |  | 40-bob, 880
+Alipogene tiparvovec → alipogen tiparvovek | gen terapiyasi dori vositasi | 40-bob, 880
+pancreatitis → pankreatit |  | 40-bob, 880
+autosomal recessive → autosom-retsessiv | autosom-dominant ga mos | 40-bob, 883
+nano-molecules → nanomolekulalar |  | 40-bob, 886
+adenovirus → adenovirus |  | 40-bob, 890
+severe combined immunodeficiency disease (SCID) → og‘ir kombinatsiyalangan immunodefitsit (SCID) |  | 40-bob, 894
+bone marrow stem cells → suyak iligining ildiz hujayralari | stem cells → ildiz hujayralar | 40-bob, 894
+epidermolysis bullosa → bullyoz epidermoliz |  | 40-bob, 897
+skin grafting → teri ko‘chirib o‘tkazish |  | 40-bob, 897
+leukemia → leykemiya |  | 40-bob, 903
+enzyme deficiency diseases → ferment yetishmovchiligi kasalliklari |  | 40-bob, 905
+CONGRATULATIONS! → TABRIKLAYMIZ! | kitob yakunidagi sarlavha | 908
 
 TAKLIF
 

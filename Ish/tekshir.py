@@ -43,7 +43,7 @@ def media(z):
 
 
 def inglizcha(s):
-    sozlar = re.findall(r"[A-Za-z]+", s.lower())
+    sozlar = re.findall(r"[A-Za-z‘’ʻʼ'-]+", s.lower())
     if len(sozlar) < 6:
         return False
     return sum(w in INGLIZ for w in sozlar) / len(sozlar) > 0.2
@@ -60,6 +60,8 @@ def lugat_tasdiqlangan():
             bolim = s
         elif bolim == "TASDIQLANGAN" and "→" in s:
             en, rest = s.split("→", 1)
+            if "ko‘p ma’noli" in rest:
+                continue  # kontekstga bog'liq so'z: mexanik tekshirilmaydi
             natija.append((en.strip(), rest.split("|")[0].strip()))
     return natija
 
@@ -165,7 +167,7 @@ def main():
         for en, uzt in tasdiq:
             if atama_bor(en, toza(matn[u])):
                 soz = uzt.strip("«»\"' ").split()[0].strip("«»").lower()
-                soz = re.sub(r"(lar|moq|mak)$", "", soz)
+                soz = re.sub(r"(lar|moq|mak|gan)$", "", soz)
                 ildiz = soz[: max(4, len(soz) - 1)]
                 if ildiz not in t.lower() and en.lower() not in t.lower():
                     xato.append("XATO %s: TASDIQLANGAN atama «%s → %s» ishlatilmagan" % (u, en, uzt))
