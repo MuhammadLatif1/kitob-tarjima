@@ -5428,5 +5428,77 @@
   "izoh": "pool ball → bilyard shari",
   "joy": "22-bob, 75",
   "holat": "TASDIQLANGAN"
+ },
+ "light-dependent reactions": {
+  "uz": "yorug‘likka bog‘liq reaksiyalar",
+  "izoh": "light reactions bilan bir xil (TASDIQLANGAN atamaga mos)",
+  "joy": "23-bob, 89",
+  "holat": "TASDIQLANGAN"
+ },
+ "carbon fixation": {
+  "uz": "uglerod fiksatsiyasi",
+  "izoh": "",
+  "joy": "23-bob, 91",
+  "holat": "TASDIQLANGAN"
+ },
+ "light absorption": {
+  "uz": "yorug‘likning yutilishi",
+  "izoh": "",
+  "joy": "23-bob, 91",
+  "holat": "TASDIQLANGAN"
+ },
+ "leaf starch": {
+  "uz": "barg kraxmali",
+  "izoh": "",
+  "joy": "23-bob, 90",
+  "holat": "TASDIQLANGAN"
+ },
+ "primary electron acceptor": {
+  "uz": "birlamchi elektron akseptori",
+  "izoh": "",
+  "joy": "23-bob, 97",
+  "holat": "TASDIQLANGAN"
+ },
+ "stroma": {
+  "uz": "stroma",
+  "izoh": "xloroplast stromasi",
+  "joy": "23-bob, 103",
+  "holat": "TASDIQLANGAN"
+ },
+ "F0F1 complex": {
+  "uz": "F0F1 kompleksi",
+  "izoh": "",
+  "joy": "23-bob, 103",
+  "holat": "TASDIQLANGAN"
+ },
+ "photosystem": {
+  "uz": "fotosistema",
+  "izoh": "Photosystem I / II → I fotosistema / II fotosistema",
+  "joy": "23-bob, 104",
+  "holat": "TASDIQLANGAN"
+ },
+ "antenna-containing pigments": {
+  "uz": "antenna pigmentlar",
+  "izoh": "antenna chlorophylls → antenna xlorofillari",
+  "joy": "23-bob, 114",
+  "holat": "TASDIQLANGAN"
+ },
+ "reaction center": {
+  "uz": "reaksiya markazi",
+  "izoh": "",
+  "joy": "23-bob, 114",
+  "holat": "TASDIQLANGAN"
+ },
+ "light-harvesting complex (LHC)": {
+  "uz": "yorug‘lik yig‘uvchi kompleks (LHC)",
+  "izoh": "",
+  "joy": "23-bob, 115",
+  "holat": "TASDIQLANGAN"
+ },
+ "weak reducer": {
+  "uz": "kuchsiz qaytaruvchi",
+  "izoh": "",
+  "joy": "23-bob, 118",
+  "holat": "TASDIQLANGAN"
  }
 }

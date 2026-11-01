@@ -1,0 +1,85 @@
+{
+ "noaniq": [
+  "119: aslda «NAPD+» deb yozilgan (bosma xatosi); tarjimada NADP+ deb berildi.",
+  "94: «50,000 calories» asl yozuvida (50,000) qoldirildi; bu yerda kilokaloriya nazarda tutilgan bo‘lishi mumkin, muallif lafzi saqlandi.",
+  "110: muallif I fotosistemani ham ATF hosil qiladi deb yozgan (aslida I fotosistema NADPH hosil qiladi); muallif lafzi o‘zgartirilmadi.",
+  "107: rasmdagi I va II fotosistema vazifalari muallif bayonicha berildi (suvni oksidlash odatda II fotosistemaga tegishli, matnda ham shunday).",
+  "96, 99, 102, 106, 109, 117, 121, 124: rasmlar (⟦x:1⟧); ichidagi yozuvlar (reaksiya tenglamalari, sxema yorliqlari) tarjima qilinmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "light-dependent reactions",
+   "uz": "yorug‘likka bog‘liq reaksiyalar",
+   "izoh": "light reactions bilan bir xil (TASDIQLANGAN atamaga mos)",
+   "joy": "23-bob, 89"
+  },
+  {
+   "en": "carbon fixation",
+   "uz": "uglerod fiksatsiyasi",
+   "izoh": "",
+   "joy": "23-bob, 91"
+  },
+  {
+   "en": "light absorption",
+   "uz": "yorug‘likning yutilishi",
+   "izoh": "",
+   "joy": "23-bob, 91"
+  },
+  {
+   "en": "leaf starch",
+   "uz": "barg kraxmali",
+   "izoh": "",
+   "joy": "23-bob, 90"
+  },
+  {
+   "en": "primary electron acceptor",
+   "uz": "birlamchi elektron akseptori",
+   "izoh": "",
+   "joy": "23-bob, 97"
+  },
+  {
+   "en": "stroma",
+   "uz": "stroma",
+   "izoh": "xloroplast stromasi",
+   "joy": "23-bob, 103"
+  },
+  {
+   "en": "F0F1 complex",
+   "uz": "F0F1 kompleksi",
+   "izoh": "",
+   "joy": "23-bob, 103"
+  },
+  {
+   "en": "photosystem",
+   "uz": "fotosistema",
+   "izoh": "Photosystem I / II → I fotosistema / II fotosistema",
+   "joy": "23-bob, 104"
+  },
+  {
+   "en": "antenna-containing pigments",
+   "uz": "antenna pigmentlar",
+   "izoh": "antenna chlorophylls → antenna xlorofillari",
+   "joy": "23-bob, 114"
+  },
+  {
+   "en": "reaction center",
+   "uz": "reaksiya markazi",
+   "izoh": "",
+   "joy": "23-bob, 114"
+  },
+  {
+   "en": "light-harvesting complex (LHC)",
+   "uz": "yorug‘lik yig‘uvchi kompleks (LHC)",
+   "izoh": "",
+   "joy": "23-bob, 115"
+  },
+  {
+   "en": "weak reducer",
+   "uz": "kuchsiz qaytaruvchi",
+   "izoh": "",
+   "joy": "23-bob, 118"
+  }
+ ],
+ "tasdiq_kerak": []
+}
