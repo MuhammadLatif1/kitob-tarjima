@@ -1,7 +1,7 @@
 Fayl: Asl/Biology_Made_Easy_2_qisim.docx (1-qism davomi: 21-40-boblar)
 Boblar: Ish/boblar.json (20 ta: 21-40-boblar), bo'lish tekshirilgan (XATO 0, TEKSHIRING 0).
-Tugagan boblar: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
-Keyingi: 15-raqamli bob (Chapter 35: Genes Make Proteins Through This Process), birlik 631 dan
+Tugagan boblar: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Keyingi: 16-raqamli bob (Chapter 36: DNA Repair and Recombination), birlik 710 dan
 Eslatma: bob va bo'lim sarlavhalari 1-qism mundarija tarjimasi (Ish/arxiv/Biology_Made_Easy_1_qisim/boblar/bob_00.json, 44-71) bilan aynan bir xil bo'lsin.
 1-qism ish fayllari: Ish/arxiv/Biology_Made_Easy_1_qisim/.
 Atamalar: yangi atamalar agent tomonidan to‘g‘ridan-to‘g‘ri TASDIQLANGAN ga kiritiladi.

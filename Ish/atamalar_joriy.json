@@ -6952,5 +6952,311 @@
   "izoh": "umumiy ma’noda; informatsion RNK atamasi alohida",
   "joy": "Bob 14, 554",
   "holat": "TASDIQLANGAN"
+ },
+ "primary transcript": {
+  "uz": "birlamchi transkript",
+  "izoh": "",
+  "joy": "35-bob, 632",
+  "holat": "TASDIQLANGAN"
+ },
+ "initiation / elongation / termination": {
+  "uz": "initsiatsiya / elongatsiya / terminatsiya",
+  "izoh": "transkripsiya va translyatsiya bosqichlari",
+  "joy": "35-bob, 636",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA polymerase": {
+  "uz": "RNK polimeraza",
+  "izoh": "",
+  "joy": "35-bob, 637",
+  "holat": "TASDIQLANGAN"
+ },
+ "holoenzyme": {
+  "uz": "xoloferment",
+  "izoh": "",
+  "joy": "35-bob, 637",
+  "holat": "TASDIQLANGAN"
+ },
+ "core enzyme": {
+  "uz": "kor-ferment",
+  "izoh": "sigma omilsiz RNK polimeraza",
+  "joy": "35-bob, 643",
+  "holat": "TASDIQLANGAN"
+ },
+ "promoter site / promoter region": {
+  "uz": "promotor uchastkasi / promotor sohasi",
+  "izoh": "",
+  "joy": "35-bob, 639",
+  "holat": "TASDIQLANGAN"
+ },
+ "sigma factor": {
+  "uz": "sigma omil",
+  "izoh": "σ omil",
+  "joy": "35-bob, 640",
+  "holat": "TASDIQLANGAN"
+ },
+ "TTGACA segment / TTGACA box": {
+  "uz": "TTGACA segmenti / TTGACA qutisi",
+  "izoh": "",
+  "joy": "35-bob, 640",
+  "holat": "TASDIQLANGAN"
+ },
+ "Pribnow box": {
+  "uz": "Pribnov qutisi",
+  "izoh": "",
+  "joy": "35-bob, 640",
+  "holat": "TASDIQLANGAN"
+ },
+ "ribonucleoside-5-triphosphates": {
+  "uz": "ribonukleozid-5-trifosfatlar",
+  "izoh": "",
+  "joy": "35-bob, 643",
+  "holat": "TASDIQLANGAN"
+ },
+ "ternary complex": {
+  "uz": "uchlamchi kompleks",
+  "izoh": "DNK matritsasi + RNK polimeraza + RNK",
+  "joy": "35-bob, 644",
+  "holat": "TASDIQLANGAN"
+ },
+ "transcription bubble": {
+  "uz": "transkripsiya pufagi",
+  "izoh": "",
+  "joy": "35-bob, 644",
+  "holat": "TASDIQLANGAN"
+ },
+ "rho protein": {
+  "uz": "rho oqsili",
+  "izoh": "terminatsiya",
+  "joy": "35-bob, 647",
+  "holat": "TASDIQLANGAN"
+ },
+ "hairpin-like structure": {
+  "uz": "«shpilka»ga o‘xshash tuzilma",
+  "izoh": "",
+  "joy": "35-bob, 647",
+  "holat": "TASDIQLANGAN"
+ },
+ "70S unit": {
+  "uz": "70S birligi",
+  "izoh": "",
+  "joy": "35-bob, 651",
+  "holat": "TASDIQLANGAN"
+ },
+ "binding sites (ribosome) / A site / P site / E site": {
+  "uz": "bog‘lanish markazlari / A markaz / P markaz / E markaz",
+  "izoh": "",
+  "joy": "35-bob, 652",
+  "holat": "TASDIQLANGAN"
+ },
+ "aminoacyl-tRNA / aminoacyl tRNA binding site": {
+  "uz": "aminoatsil-tRNK / aminoatsil-tRNK bog‘lanish markazi",
+  "izoh": "",
+  "joy": "35-bob, 653",
+  "holat": "TASDIQLANGAN"
+ },
+ "peptidyl-tRNA binding site": {
+  "uz": "peptidil-tRNK bog‘lanish markazi",
+  "izoh": "",
+  "joy": "35-bob, 654",
+  "holat": "TASDIQLANGAN"
+ },
+ "start codon / stop codon": {
+  "uz": "start kodon / stop kodon",
+  "izoh": "",
+  "joy": "35-bob, 660",
+  "holat": "TASDIQLANGAN"
+ },
+ "initiator transfer RNA": {
+  "uz": "initsiator transport RNK",
+  "izoh": "",
+  "joy": "35-bob, 660",
+  "holat": "TASDIQLANGAN"
+ },
+ "polypeptide chain / peptide chain": {
+  "uz": "polipeptid zanjiri / peptid zanjiri",
+  "izoh": "",
+  "joy": "35-bob, 634",
+  "holat": "TASDIQLANGAN"
+ },
+ "amino acid activation": {
+  "uz": "aminokislota aktivatsiyasi",
+  "izoh": "tRNKni «yuklash»",
+  "joy": "35-bob, 661",
+  "holat": "TASDIQLANGAN"
+ },
+ "aminoacyl-tRNA synthetase": {
+  "uz": "aminoatsil-tRNK-sintetaza",
+  "izoh": "",
+  "joy": "35-bob, 661",
+  "holat": "TASDIQLANGAN"
+ },
+ "release factors (RF-1, RF-2, RF-3)": {
+  "uz": "terminatsiya omillari (RF-1, RF-2, RF-3)",
+  "izoh": "",
+  "joy": "35-bob, 663",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA polymerase I / II": {
+  "uz": "RNK polimeraza I / II",
+  "izoh": "RNK polimeraza III allaqachon lug‘atda",
+  "joy": "35-bob, 668",
+  "holat": "TASDIQLANGAN"
+ },
+ "pre-mRNA": {
+  "uz": "pre-mRNK",
+  "izoh": "",
+  "joy": "35-bob, 669",
+  "holat": "TASDIQLANGAN"
+ },
+ "5S rRNA": {
+  "uz": "5S rRNK",
+  "izoh": "",
+  "joy": "35-bob, 670",
+  "holat": "TASDIQLANGAN"
+ },
+ "TATA box": {
+  "uz": "TATA qutisi",
+  "izoh": "",
+  "joy": "35-bob, 671",
+  "holat": "TASDIQLANGAN"
+ },
+ "TFII factors / basal transcription factors": {
+  "uz": "TFII omillari / bazal transkripsiya omillari",
+  "izoh": "",
+  "joy": "35-bob, 672",
+  "holat": "TASDIQLANGAN"
+ },
+ "enhancers / silencers": {
+  "uz": "enhanserlar / saylenserlar",
+  "izoh": "",
+  "joy": "35-bob, 674",
+  "holat": "TASDIQLANGAN"
+ },
+ "FACT protein": {
+  "uz": "FACT oqsili",
+  "izoh": "facilitates chromatin transcription — xromatin transkripsiyasini yengillashtiradi",
+  "joy": "35-bob, 677",
+  "holat": "TASDIQLANGAN"
+ },
+ "pre-mRNA tail": {
+  "uz": "pre-mRNK dumi",
+  "izoh": "",
+  "joy": "35-bob, 678",
+  "holat": "TASDIQLANGAN"
+ },
+ "5’ cap / 5’ endcap": {
+  "uz": "5’ kep",
+  "izoh": "",
+  "joy": "35-bob, 681",
+  "holat": "TASDIQLANGAN"
+ },
+ "poly-A tail": {
+  "uz": "poli-A dum",
+  "izoh": "",
+  "joy": "35-bob, 681",
+  "holat": "TASDIQLANGAN"
+ },
+ "RNA editing / RNA splicing / splicing": {
+  "uz": "RNK tahriri / RNK splaysingi / splaysing",
+  "izoh": "",
+  "joy": "35-bob, 681",
+  "holat": "TASDIQLANGAN"
+ },
+ "7-methylguanosine": {
+  "uz": "7-metilguanozin",
+  "izoh": "",
+  "joy": "35-bob, 683",
+  "holat": "TASDIQLANGAN"
+ },
+ "spliceosome": {
+  "uz": "splaysosoma",
+  "izoh": "",
+  "joy": "35-bob, 685",
+  "holat": "TASDIQLANGAN"
+ },
+ "40S subunit / 60S subunit": {
+  "uz": "40S subbirlik / 60S subbirlik",
+  "izoh": "",
+  "joy": "35-bob, 690",
+  "holat": "TASDIQLANGAN"
+ },
+ "polysome": {
+  "uz": "polisoma",
+  "izoh": "",
+  "joy": "35-bob, 690",
+  "holat": "TASDIQLANGAN"
+ },
+ "charged (tRNA)": {
+  "uz": "zaryadlangan",
+  "izoh": "yuklangan tRNK",
+  "joy": "35-bob, 691",
+  "holat": "TASDIQLANGAN"
+ },
+ "post-translational protein modification": {
+  "uz": "oqsilning translyatsiyadan keyingi modifikatsiyasi",
+  "izoh": "post-translational modification → translyatsiyadan keyingi modifikatsiya bilan mos",
+  "joy": "35-bob, 692",
+  "holat": "TASDIQLANGAN"
+ },
+ "protein folding / misfolded protein": {
+  "uz": "oqsilning burmalanishi / noto‘g‘ri burmalangan oqsil",
+  "izoh": "",
+  "joy": "35-bob, 694",
+  "holat": "TASDIQLANGAN"
+ },
+ "chaperone proteins": {
+  "uz": "shaperon oqsillar",
+  "izoh": "",
+  "joy": "35-bob, 694",
+  "holat": "TASDIQLANGAN"
+ },
+ "cleavage (protein)": {
+  "uz": "kesilish",
+  "izoh": "",
+  "joy": "35-bob, 695",
+  "holat": "TASDIQLANGAN"
+ },
+ "side chain addition": {
+  "uz": "yon zanjirlar qo‘shilishi",
+  "izoh": "",
+  "joy": "35-bob, 696",
+  "holat": "TASDIQLANGAN"
+ },
+ "signal sequence addition": {
+  "uz": "signal ketma-ketlik qo‘shilishi",
+  "izoh": "",
+  "joy": "35-bob, 697",
+  "holat": "TASDIQLANGAN"
+ },
+ "sulfhydryl group": {
+  "uz": "sulfgidril guruhi",
+  "izoh": "",
+  "joy": "35-bob, 698",
+  "holat": "TASDIQLANGAN"
+ },
+ "ubiquitin / ubiquitination": {
+  "uz": "ubikvitin / ubikvitinlanish",
+  "izoh": "",
+  "joy": "35-bob, 696, 699",
+  "holat": "TASDIQLANGAN"
+ },
+ "ubiquitination proteasome pathway": {
+  "uz": "ubikvitin-proteasoma yo‘li",
+  "izoh": "",
+  "joy": "35-bob, 700",
+  "holat": "TASDIQLANGAN"
+ },
+ "E1 / E2 / E3 enzyme": {
+  "uz": "E1 / E2 / E3 fermenti",
+  "izoh": "",
+  "joy": "35-bob, 702",
+  "holat": "TASDIQLANGAN"
+ },
+ "26S proteasome": {
+  "uz": "26S proteasoma",
+  "izoh": "",
+  "joy": "35-bob, 703",
+  "holat": "TASDIQLANGAN"
  }
 }

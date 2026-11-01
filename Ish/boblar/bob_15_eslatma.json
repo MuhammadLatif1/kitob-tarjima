@@ -1,0 +1,323 @@
+{
+ "noaniq": [
+  "637: aslida subbirliklar «α, β, β, ’ω, σ» deb buzuq yozilgan (apostrof joyi siljigan); tarjimada «α, β, β’, ω, σ» deb tuzatildi. Shuningdek, «oltita subbirlik» deyilgan, ro‘yxatda beshta nom bor (alfa ikkita) — asl matn bo‘yicha qoldirildi.",
+  "640: muallif TTGACA segmentini Pribnov qutisi deb ataydi; ilmiy jihatdan Pribnov qutisi −10 sohadagi TATAAT, TTGACA esa −35 soha. Muallif matni o‘zgartirilmadi.",
+  "639: «it “promotes” the transcription process» — promoter/promote so‘z o‘yini o‘zbekchada saqlanmaydi; «boshlab beradi» deb berildi.",
+  "680: «Think “exit” to remember “exons”» — so‘z o‘yini «ekzon» – «eksport» juftligi bilan almashtirildi (yadrodan chiqish ma’nosi saqlangan).",
+  "677: FACT qisqartmasi (facilitates chromatin transcription) inglizcha yoyilmasi tarjimada berilmadi, faqat ma’nosi «xromatin transkripsiyasini yengillashtiradi» deb o‘girildi.",
+  "684: aslida «spicing» (imlo xatosi, «splicing» nazarda tutilgan) — «splaysing» deb tarjima qilindi.",
+  "678: «1,000» raqami asl yozuvida qoldirildi.",
+  "697: «tacked to the front end of the amino acid» — aslida polipeptid/oqsil zanjirining boshi nazarda tutilgan bo‘lsa kerak; asldagidek «aminokislotaning oldingi uchi» deb berildi.",
+  "703: muallif 26S proteasomani endoplazmatik to‘r membranasida joylashgan deydi (aslida u asosan sitozol va yadroda) — muallif matni o‘zgartirilmadi."
+ ],
+ "iqtiboslar": [],
+ "yangi_atamalar": [
+  {
+   "en": "primary transcript",
+   "uz": "birlamchi transkript",
+   "izoh": "",
+   "joy": "35-bob, 632"
+  },
+  {
+   "en": "initiation / elongation / termination",
+   "uz": "initsiatsiya / elongatsiya / terminatsiya",
+   "izoh": "transkripsiya va translyatsiya bosqichlari",
+   "joy": "35-bob, 636"
+  },
+  {
+   "en": "RNA polymerase",
+   "uz": "RNK polimeraza",
+   "izoh": "",
+   "joy": "35-bob, 637"
+  },
+  {
+   "en": "holoenzyme",
+   "uz": "xoloferment",
+   "izoh": "",
+   "joy": "35-bob, 637"
+  },
+  {
+   "en": "core enzyme",
+   "uz": "kor-ferment",
+   "izoh": "sigma omilsiz RNK polimeraza",
+   "joy": "35-bob, 643"
+  },
+  {
+   "en": "promoter site / promoter region",
+   "uz": "promotor uchastkasi / promotor sohasi",
+   "izoh": "",
+   "joy": "35-bob, 639"
+  },
+  {
+   "en": "sigma factor",
+   "uz": "sigma omil",
+   "izoh": "σ omil",
+   "joy": "35-bob, 640"
+  },
+  {
+   "en": "TTGACA segment / TTGACA box",
+   "uz": "TTGACA segmenti / TTGACA qutisi",
+   "izoh": "",
+   "joy": "35-bob, 640"
+  },
+  {
+   "en": "Pribnow box",
+   "uz": "Pribnov qutisi",
+   "izoh": "",
+   "joy": "35-bob, 640"
+  },
+  {
+   "en": "ribonucleoside-5-triphosphates",
+   "uz": "ribonukleozid-5-trifosfatlar",
+   "izoh": "",
+   "joy": "35-bob, 643"
+  },
+  {
+   "en": "ternary complex",
+   "uz": "uchlamchi kompleks",
+   "izoh": "DNK matritsasi + RNK polimeraza + RNK",
+   "joy": "35-bob, 644"
+  },
+  {
+   "en": "transcription bubble",
+   "uz": "transkripsiya pufagi",
+   "izoh": "",
+   "joy": "35-bob, 644"
+  },
+  {
+   "en": "rho protein",
+   "uz": "rho oqsili",
+   "izoh": "terminatsiya",
+   "joy": "35-bob, 647"
+  },
+  {
+   "en": "hairpin-like structure",
+   "uz": "«shpilka»ga o‘xshash tuzilma",
+   "izoh": "",
+   "joy": "35-bob, 647"
+  },
+  {
+   "en": "70S unit",
+   "uz": "70S birligi",
+   "izoh": "",
+   "joy": "35-bob, 651"
+  },
+  {
+   "en": "binding sites (ribosome) / A site / P site / E site",
+   "uz": "bog‘lanish markazlari / A markaz / P markaz / E markaz",
+   "izoh": "",
+   "joy": "35-bob, 652"
+  },
+  {
+   "en": "aminoacyl-tRNA / aminoacyl tRNA binding site",
+   "uz": "aminoatsil-tRNK / aminoatsil-tRNK bog‘lanish markazi",
+   "izoh": "",
+   "joy": "35-bob, 653"
+  },
+  {
+   "en": "peptidyl-tRNA binding site",
+   "uz": "peptidil-tRNK bog‘lanish markazi",
+   "izoh": "",
+   "joy": "35-bob, 654"
+  },
+  {
+   "en": "start codon / stop codon",
+   "uz": "start kodon / stop kodon",
+   "izoh": "",
+   "joy": "35-bob, 660"
+  },
+  {
+   "en": "initiator transfer RNA",
+   "uz": "initsiator transport RNK",
+   "izoh": "",
+   "joy": "35-bob, 660"
+  },
+  {
+   "en": "polypeptide chain / peptide chain",
+   "uz": "polipeptid zanjiri / peptid zanjiri",
+   "izoh": "",
+   "joy": "35-bob, 634"
+  },
+  {
+   "en": "amino acid activation",
+   "uz": "aminokislota aktivatsiyasi",
+   "izoh": "tRNKni «yuklash»",
+   "joy": "35-bob, 661"
+  },
+  {
+   "en": "aminoacyl-tRNA synthetase",
+   "uz": "aminoatsil-tRNK-sintetaza",
+   "izoh": "",
+   "joy": "35-bob, 661"
+  },
+  {
+   "en": "release factors (RF-1, RF-2, RF-3)",
+   "uz": "terminatsiya omillari (RF-1, RF-2, RF-3)",
+   "izoh": "",
+   "joy": "35-bob, 663"
+  },
+  {
+   "en": "RNA polymerase I / II",
+   "uz": "RNK polimeraza I / II",
+   "izoh": "RNK polimeraza III allaqachon lug‘atda",
+   "joy": "35-bob, 668"
+  },
+  {
+   "en": "pre-mRNA",
+   "uz": "pre-mRNK",
+   "izoh": "",
+   "joy": "35-bob, 669"
+  },
+  {
+   "en": "5S rRNA",
+   "uz": "5S rRNK",
+   "izoh": "",
+   "joy": "35-bob, 670"
+  },
+  {
+   "en": "TATA box",
+   "uz": "TATA qutisi",
+   "izoh": "",
+   "joy": "35-bob, 671"
+  },
+  {
+   "en": "TFII factors / basal transcription factors",
+   "uz": "TFII omillari / bazal transkripsiya omillari",
+   "izoh": "",
+   "joy": "35-bob, 672"
+  },
+  {
+   "en": "enhancers / silencers",
+   "uz": "enhanserlar / saylenserlar",
+   "izoh": "",
+   "joy": "35-bob, 674"
+  },
+  {
+   "en": "FACT protein",
+   "uz": "FACT oqsili",
+   "izoh": "facilitates chromatin transcription — xromatin transkripsiyasini yengillashtiradi",
+   "joy": "35-bob, 677"
+  },
+  {
+   "en": "pre-mRNA tail",
+   "uz": "pre-mRNK dumi",
+   "izoh": "",
+   "joy": "35-bob, 678"
+  },
+  {
+   "en": "5’ cap / 5’ endcap",
+   "uz": "5’ kep",
+   "izoh": "",
+   "joy": "35-bob, 681"
+  },
+  {
+   "en": "poly-A tail",
+   "uz": "poli-A dum",
+   "izoh": "",
+   "joy": "35-bob, 681"
+  },
+  {
+   "en": "RNA editing / RNA splicing / splicing",
+   "uz": "RNK tahriri / RNK splaysingi / splaysing",
+   "izoh": "",
+   "joy": "35-bob, 681"
+  },
+  {
+   "en": "7-methylguanosine",
+   "uz": "7-metilguanozin",
+   "izoh": "",
+   "joy": "35-bob, 683"
+  },
+  {
+   "en": "spliceosome",
+   "uz": "splaysosoma",
+   "izoh": "",
+   "joy": "35-bob, 685"
+  },
+  {
+   "en": "40S subunit / 60S subunit",
+   "uz": "40S subbirlik / 60S subbirlik",
+   "izoh": "",
+   "joy": "35-bob, 690"
+  },
+  {
+   "en": "polysome",
+   "uz": "polisoma",
+   "izoh": "",
+   "joy": "35-bob, 690"
+  },
+  {
+   "en": "charged (tRNA)",
+   "uz": "zaryadlangan",
+   "izoh": "yuklangan tRNK",
+   "joy": "35-bob, 691"
+  },
+  {
+   "en": "post-translational protein modification",
+   "uz": "oqsilning translyatsiyadan keyingi modifikatsiyasi",
+   "izoh": "post-translational modification → translyatsiyadan keyingi modifikatsiya bilan mos",
+   "joy": "35-bob, 692"
+  },
+  {
+   "en": "protein folding / misfolded protein",
+   "uz": "oqsilning burmalanishi / noto‘g‘ri burmalangan oqsil",
+   "izoh": "",
+   "joy": "35-bob, 694"
+  },
+  {
+   "en": "chaperone proteins",
+   "uz": "shaperon oqsillar",
+   "izoh": "",
+   "joy": "35-bob, 694"
+  },
+  {
+   "en": "cleavage (protein)",
+   "uz": "kesilish",
+   "izoh": "",
+   "joy": "35-bob, 695"
+  },
+  {
+   "en": "side chain addition",
+   "uz": "yon zanjirlar qo‘shilishi",
+   "izoh": "",
+   "joy": "35-bob, 696"
+  },
+  {
+   "en": "signal sequence addition",
+   "uz": "signal ketma-ketlik qo‘shilishi",
+   "izoh": "",
+   "joy": "35-bob, 697"
+  },
+  {
+   "en": "sulfhydryl group",
+   "uz": "sulfgidril guruhi",
+   "izoh": "",
+   "joy": "35-bob, 698"
+  },
+  {
+   "en": "ubiquitin / ubiquitination",
+   "uz": "ubikvitin / ubikvitinlanish",
+   "izoh": "",
+   "joy": "35-bob, 696, 699"
+  },
+  {
+   "en": "ubiquitination proteasome pathway",
+   "uz": "ubikvitin-proteasoma yo‘li",
+   "izoh": "",
+   "joy": "35-bob, 700"
+  },
+  {
+   "en": "E1 / E2 / E3 enzyme",
+   "uz": "E1 / E2 / E3 fermenti",
+   "izoh": "",
+   "joy": "35-bob, 702"
+  },
+  {
+   "en": "26S proteasome",
+   "uz": "26S proteasoma",
+   "izoh": "",
+   "joy": "35-bob, 703"
+  }
+ ],
+ "tasdiq_kerak": []
+}
