@@ -7,10 +7,10 @@ Fayl: Asl/Frikonomika.docx
 Tarjima tili: ruschadan o'zbekchaga
 
 USLUB TALABLARI
-Alifbo: [lotin]
+Alifbo: lotin
 Imlo: amaldagi lotin yozuvidagi o'zbek imlo qoidalari
-Apostrof turi: [o‘ g‘ uchun ‘ (U+2018), tutuq belgisi uchun ’ (U+2019)]
-Murojaat shakli: [«вы» → siz, «ты» → sen]
-Iqtibos qo'shtirnog'i: [«...»]
-Kitob nomi o'zbekcha: [Frikonomika]
+Apostrof turi: o‘ g‘ uchun ‘ (U+2018), tutuq belgisi uchun ’ (U+2019)
+Murojaat shakli: «вы» → siz, «ты» → sen
+Iqtibos qo'shtirnog'i: «...»
+Kitob nomi o'zbekcha: Frikonomika
 Qo'shimcha talablar: Yo'q

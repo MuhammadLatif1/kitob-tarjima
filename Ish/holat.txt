@@ -1,0 +1,4 @@
+HOLAT: Frikonomika (Asl/Frikonomika.docx)
+Boblar: 0-12 (Ish/boblar.json)
+Tugagan boblar: 
+Keyingi: 0-raqamli bob, birlik 1 dan
