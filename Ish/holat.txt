@@ -1,4 +1,4 @@
 HOLAT: Frikonomika (Asl/Frikonomika.docx)
 Boblar: 0-12 (Ish/boblar.json)
-Tugagan boblar: 0, 1, 2, 3, 4
-Keyingi: 5-raqamli bob (2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?), birlik 482 dan
+Tugagan boblar: 0, 1, 2, 3, 4, 5
+Keyingi: 6-raqamli bob (3 Почему торговцы наркотиками продолжают жить со своими родителями?), birlik 656 dan
