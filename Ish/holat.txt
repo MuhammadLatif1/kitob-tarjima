@@ -1,4 +1,4 @@
 HOLAT: Frikonomika (Asl/Frikonomika.docx)
 Boblar: 0-12 (Ish/boblar.json)
-Tugagan boblar: 0, 1, 2, 3
-Keyingi: 4-raqamli bob (1 Что общего между школьными учителями и борцами сумо?), birlik 181 dan
+Tugagan boblar: 0, 1, 2, 3, 4
+Keyingi: 5-raqamli bob (2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?), birlik 482 dan

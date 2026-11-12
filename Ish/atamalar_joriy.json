@@ -346,5 +346,191 @@
   "izoh": "Markaziy razvedka boshqarmasi qisqartmasi",
   "joy": "3-bob, 179",
   "holat": "TASDIQLANGAN"
+ },
+ "побуждение": {
+  "uz": "undov",
+  "izoh": "стимул (rag‘bat) dan farqlash uchun",
+  "joy": "4-bob, 182",
+  "holat": "TASDIQLANGAN"
+ },
+ "экономический / социальный / моральный стимул": {
+  "uz": "iqtisodiy / ijtimoiy / axloqiy rag‘bat",
+  "izoh": "",
+  "joy": "4-bob, 191",
+  "holat": "TASDIQLANGAN"
+ },
+ "итоговый тест (тестирование)": {
+  "uz": "yakuniy test",
+  "izoh": "high-stakes testing",
+  "joy": "4-bob, 270",
+  "holat": "TASDIQLANGAN"
+ },
+ "алгоритм мошенничества": {
+  "uz": "firibgarlik algoritmi",
+  "izoh": "",
+  "joy": "4-bob, 329",
+  "holat": "TASDIQLANGAN"
+ },
+ "общественные школы Чикаго": {
+  "uz": "Chikago davlat maktablari",
+  "izoh": "Chicago Public Schools",
+  "joy": "4-bob, 269",
+  "holat": "TASDIQLANGAN"
+ },
+ "коэффициент возвратности (возврата)": {
+  "uz": "qaytim koeffitsiyenti",
+  "izoh": "Feldmanning bublik to‘lovlari",
+  "joy": "4-bob, 459",
+  "holat": "TASDIQLANGAN"
+ },
+ "преступления «белых воротничков»": {
+  "uz": "«oq yoqalilar» jinoyatlari",
+  "izoh": "white-collar crime",
+  "joy": "4-bob, 463",
+  "holat": "TASDIQLANGAN"
+ },
+ "сумоист": {
+  "uz": "sumochi",
+  "izoh": "борец сумо → sumo kurashchisi",
+  "joy": "4-bob, 422",
+  "holat": "TASDIQLANGAN"
+ },
+ "промоутер (в сумо)": {
+  "uz": "promouter",
+  "izoh": "",
+  "joy": "4-bob, 443",
+  "holat": "TASDIQLANGAN"
+ },
+ "контрольная группа": {
+  "uz": "nazorat guruhi",
+  "izoh": "",
+  "joy": "4-bob, 387",
+  "holat": "TASDIQLANGAN"
+ },
+ "Пол Фельдман": {
+  "uz": "Pol Feldman (Paul Feldman)",
+  "izoh": "",
+  "joy": "4-bob, 183",
+  "holat": "TASDIQLANGAN"
+ },
+ "Мануэль Айснер": {
+  "uz": "Manuel Ayzner (Manuel Eisner)",
+  "izoh": "",
+  "joy": "4-bob, 194",
+  "holat": "TASDIQLANGAN"
+ },
+ "Милтон Фридман": {
+  "uz": "Milton Fridman",
+  "izoh": "",
+  "joy": "4-bob, 190",
+  "holat": "TASDIQLANGAN"
+ },
+ "Эстер Принн": {
+  "uz": "Ester Prinn (Hester Prynne)",
+  "izoh": "",
+  "joy": "4-bob, 193",
+  "holat": "TASDIQLANGAN"
+ },
+ "Н. Хоторн, «Алая буква»": {
+  "uz": "N. Xotorn (N. Hawthorne), «Qirmizi harf» (The Scarlet Letter)",
+  "izoh": "",
+  "joy": "4-bob, 193",
+  "holat": "TASDIQLANGAN"
+ },
+ "У. К. Филдс": {
+  "uz": "U. K. Filds (W. C. Fields)",
+  "izoh": "",
+  "joy": "4-bob, 261",
+  "holat": "TASDIQLANGAN"
+ },
+ "Ни одного отстающего ребенка": {
+  "uz": "«Birorta ham bola ortda qolmasin» (No Child Left Behind)",
+  "izoh": "qonun",
+  "joy": "4-bob, 271",
+  "holat": "TASDIQLANGAN"
+ },
+ "Тест основных умений и навыков штата Айовы (ITBS)": {
+  "uz": "Ayova shtatining asosiy ko‘nikma va malakalar testi (ITBS)",
+  "izoh": "",
+  "joy": "4-bob, 272",
+  "holat": "TASDIQLANGAN"
+ },
+ "Арни Дункан": {
+  "uz": "Arni Dunkan (Arne Duncan)",
+  "izoh": "",
+  "joy": "4-bob, 384",
+  "holat": "TASDIQLANGAN"
+ },
+ "Университет Джорджии": {
+  "uz": "Jorjiya universiteti",
+  "izoh": "",
+  "joy": "4-bob, 393",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джим Хэррик младший / старший": {
+  "uz": "kichik / katta Jim Xerrik (Jim Harrick Jr.)",
+  "izoh": "",
+  "joy": "4-bob, 412",
+  "holat": "TASDIQLANGAN"
+ },
+ "Алимжан Токтахунов": {
+  "uz": "Alimjon To‘xtaxunov (Alimzhan Tokhtakhounov)",
+  "izoh": "",
+  "joy": "4-bob, 419",
+  "holat": "TASDIQLANGAN"
+ },
+ "Марк Грейс": {
+  "uz": "Mark Greys (Mark Grace)",
+  "izoh": "",
+  "joy": "4-bob, 420",
+  "holat": "TASDIQLANGAN"
+ },
+ "Терри Мэллой; фильм «В порту»": {
+  "uz": "Terri Mellou (Terry Malloy); «Portda» (On the Waterfront)",
+  "izoh": "",
+  "joy": "4-bob, 420",
+  "holat": "TASDIQLANGAN"
+ },
+ "макуучи, джурио": {
+  "uz": "makuuchi, juryo",
+  "izoh": "sumo divizionlari (kursiv)",
+  "joy": "4-bob, 423",
+  "holat": "TASDIQLANGAN"
+ },
+ "якудза": {
+  "uz": "yakudza",
+  "izoh": "",
+  "joy": "4-bob, 452",
+  "holat": "TASDIQLANGAN"
+ },
+ "Митцуру Мийаке": {
+  "uz": "Mitsuru Miyake (Mitsuru Miyake)",
+  "izoh": "",
+  "joy": "4-bob, 452",
+  "holat": "TASDIQLANGAN"
+ },
+ "Ричард Талер": {
+  "uz": "Richard Taler (Richard Thaler)",
+  "izoh": "",
+  "joy": "4-bob, 467",
+  "holat": "TASDIQLANGAN"
+ },
+ "Колин Ф. Камерер": {
+  "uz": "Kolin F. Kamerer (Colin F. Camerer)",
+  "izoh": "",
+  "joy": "4-bob, 480",
+  "holat": "TASDIQLANGAN"
+ },
+ "Калифорнийский институт технологий": {
+  "uz": "Kaliforniya texnologiya instituti",
+  "izoh": "",
+  "joy": "4-bob, 480",
+  "holat": "TASDIQLANGAN"
+ },
+ "Кольцо Гига; Глаукон": {
+  "uz": "Gig (Gyges) uzugi; Glavkon (Glaucon)",
+  "izoh": "Platon, «Davlat»",
+  "joy": "4-bob, 477",
+  "holat": "TASDIQLANGAN"
  }
 }
