@@ -1,0 +1,43 @@
+{
+ "noaniq": [
+  "97: asl matnda «Эмертия Сен» — o‘zbekchada o‘rnashgan shakli Amartya Sen deb berildi.",
+  "119, 120, 121: asl matnda «Джейн Рои» / «Рои против Уэйда» (inglizcha Roe) — Jeyn Rou (Jane Roe), «Rou Ueydga qarshi» deb berildi.",
+  "127: asl matnda «агент обычно имеет получает» (ortiqcha so‘z) va aralash qo‘shtirnoq (\"...”) — tarjimada «...» bilan to‘g‘rilandi.",
+  "92, 109, 110, 129, 159: «криминалист» bu yerda kriminolog (criminologist) ma’nosida — «kriminolog» deb berildi.",
+  "134: «торговля недвижимостью как раз является достоянием гласности» (является kursivda) — kursiv «haqiqatan ham» so‘ziga ko‘chirildi.",
+  "144: «темные лошадки» → «qora otlar» (dark horse).",
+  "153: ⟦s1⟧Слабое звено⟦/s1⟧ — teleo‘yin «The Weakest Link»; ⟦s1⟧Zaif bo‘g‘in⟦/s1⟧ (The Weakest Link) deb berildi.",
+  "158: «Джонни Кокаиновое зерно» (inglizcha aslida «Johnny Appleseed of crack») — «Jonni Kokain Urug‘i» laqabi deb berildi.",
+  "163: Xeylbroner kitobi ruschada «Философы мира», asl nomi «The Worldly Philosophers» — «Dunyoviy faylasuflar» deb berildi.",
+  "174, 175: «а/я» (abonent qutisi) → «a/q».",
+  "179: «ЦРУ» → «MRB» (Markaziy razvedka boshqarmasi)."
+ ],
+ "iqtiboslar": [
+  "95, 98, 99, 101-103: Levitt, Amartya Sen, R. Nozik va hamkasblar suhbati | New York Times jurnali, 2003-yil 3-avgust (104) | yo‘q",
+  "109: «Jinoyatchilikning navbatdagi to‘lqini...» | J. A. Foks, AQSh bosh prokuroriga hisobot, 1995 (izoh 1.2) | asl lafz tekshirilsin",
+  "110: «Bilamizki, bolalar jinoyatchiligini kamaytirish uchun...» | Prezident Klinton nutqi (izoh 1.3) | asl lafz tekshirilsin",
+  "163: «Smit javob bizning o‘zimizni uchinchi shaxs...» | R. Xeylbroner, «The Worldly Philosophers» | asl lafz tekshirilsin",
+  "178: «Men terrorchilarni tutishga imkon beradigan vositalarni...» | Levitt so‘zlari, New York Times jurnali, 2003-yil 3-avgust (180) | yo‘q",
+  "izoh havolalari: 106 [1], 108 [1.1], 109 [1.2], 110 [1.3], 119 [1.4], 121 [1.5], 126 [2], 132 [2.1], [2.2], 140 [3], 157 [4], 162 [5], 161 [1] (frikonomika) | manba | yo‘q"
+ ],
+ "yangi_atamalar": [
+  {"en": "общепринятая точка зрения", "uz": "umumqabul qilingan fikr", "izoh": "conventional wisdom; расхожее мнение → keng tarqalgan fikr", "joy": "3-bob, 92"},
+  {"en": "криминалист", "uz": "kriminolog", "izoh": "criminologist ma’nosida", "joy": "3-bob, 92"},
+  {"en": "эксперт", "uz": "ekspert", "izoh": "", "joy": "3-bob, 92"},
+  {"en": "суперхищник", "uz": "superyirtqich", "izoh": "superpredator", "joy": "3-bob, 108"},
+  {"en": "Рои против Уэйда", "uz": "Rou Ueydga qarshi", "izoh": "Roe v. Wade sud ishi (kursivda)", "joy": "3-bob, 120"},
+  {"en": "Норма Мак-Корви", "uz": "Norma Makkorvi (Norma McCorvey)", "izoh": "", "joy": "3-bob, 118"},
+  {"en": "Джеймс Алан Фокс", "uz": "Jeyms Alan Foks (James Alan Fox)", "izoh": "", "joy": "3-bob, 109"},
+  {"en": "Роберт Нозик", "uz": "Robert Nozik (Robert Nozick)", "izoh": "", "joy": "3-bob, 100"},
+  {"en": "Эмертия Сен", "uz": "Amartya Sen", "izoh": "", "joy": "3-bob, 97"},
+  {"en": "комиссионные", "uz": "komission haq", "izoh": "", "joy": "3-bob, 127"},
+  {"en": "кривая преступности", "uz": "jinoyatchilik egri chizig‘i", "izoh": "", "joy": "3-bob, 107"},
+  {"en": "Теория нравственных чувств", "uz": "Axloqiy tuyg‘ular nazariyasi (The Theory of Moral Sentiments)", "izoh": "A. Smit kitobi", "joy": "3-bob, 162"},
+  {"en": "Философы мира", "uz": "Dunyoviy faylasuflar (The Worldly Philosophers)", "izoh": "R. Xeylbroner kitobi", "joy": "3-bob, 163"},
+  {"en": "Роберт Хейлбронер", "uz": "Robert Xeylbroner (Robert Heilbroner)", "izoh": "", "joy": "3-bob, 163"},
+  {"en": "Оскар Данило Блэндон", "uz": "Oskar Danilo Blandon (Oscar Danilo Blandón)", "izoh": "laqabi: Jonni Kokain Urug‘i", "joy": "3-bob, 158"},
+  {"en": "Слабое звено", "uz": "Zaif bo‘g‘in (The Weakest Link)", "izoh": "teleo‘yin", "joy": "3-bob, 153"},
+  {"en": "ЦРУ", "uz": "MRB", "izoh": "Markaziy razvedka boshqarmasi qisqartmasi", "joy": "3-bob, 179"}
+ ],
+ "tasdiq_kerak": []
+}

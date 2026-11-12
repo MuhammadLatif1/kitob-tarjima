@@ -1,4 +1,4 @@
 HOLAT: Frikonomika (Asl/Frikonomika.docx)
 Boblar: 0-12 (Ish/boblar.json)
-Tugagan boblar: 0, 1, 2
-Keyingi: 3-raqamli bob (ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем), birlik 90 dan
+Tugagan boblar: 0, 1, 2, 3
+Keyingi: 4-raqamli bob (1 Что общего между школьными учителями и борцами сумо?), birlik 181 dan

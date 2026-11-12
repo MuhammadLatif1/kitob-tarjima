@@ -244,5 +244,107 @@
   "izoh": "",
   "joy": "2-bob, 80",
   "holat": "TASDIQLANGAN"
+ },
+ "общепринятая точка зрения": {
+  "uz": "umumqabul qilingan fikr",
+  "izoh": "conventional wisdom; расхожее мнение → keng tarqalgan fikr",
+  "joy": "3-bob, 92",
+  "holat": "TASDIQLANGAN"
+ },
+ "криминалист": {
+  "uz": "kriminolog",
+  "izoh": "criminologist ma’nosida",
+  "joy": "3-bob, 92",
+  "holat": "TASDIQLANGAN"
+ },
+ "эксперт": {
+  "uz": "ekspert",
+  "izoh": "",
+  "joy": "3-bob, 92",
+  "holat": "TASDIQLANGAN"
+ },
+ "суперхищник": {
+  "uz": "superyirtqich",
+  "izoh": "superpredator",
+  "joy": "3-bob, 108",
+  "holat": "TASDIQLANGAN"
+ },
+ "Рои против Уэйда": {
+  "uz": "Rou Ueydga qarshi",
+  "izoh": "Roe v. Wade sud ishi (kursivda)",
+  "joy": "3-bob, 120",
+  "holat": "TASDIQLANGAN"
+ },
+ "Норма Мак-Корви": {
+  "uz": "Norma Makkorvi (Norma McCorvey)",
+  "izoh": "",
+  "joy": "3-bob, 118",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джеймс Алан Фокс": {
+  "uz": "Jeyms Alan Foks (James Alan Fox)",
+  "izoh": "",
+  "joy": "3-bob, 109",
+  "holat": "TASDIQLANGAN"
+ },
+ "Роберт Нозик": {
+  "uz": "Robert Nozik (Robert Nozick)",
+  "izoh": "",
+  "joy": "3-bob, 100",
+  "holat": "TASDIQLANGAN"
+ },
+ "Эмертия Сен": {
+  "uz": "Amartya Sen",
+  "izoh": "",
+  "joy": "3-bob, 97",
+  "holat": "TASDIQLANGAN"
+ },
+ "комиссионные": {
+  "uz": "komission haq",
+  "izoh": "",
+  "joy": "3-bob, 127",
+  "holat": "TASDIQLANGAN"
+ },
+ "кривая преступности": {
+  "uz": "jinoyatchilik egri chizig‘i",
+  "izoh": "",
+  "joy": "3-bob, 107",
+  "holat": "TASDIQLANGAN"
+ },
+ "Теория нравственных чувств": {
+  "uz": "Axloqiy tuyg‘ular nazariyasi (The Theory of Moral Sentiments)",
+  "izoh": "A. Smit kitobi",
+  "joy": "3-bob, 162",
+  "holat": "TASDIQLANGAN"
+ },
+ "Философы мира": {
+  "uz": "Dunyoviy faylasuflar (The Worldly Philosophers)",
+  "izoh": "R. Xeylbroner kitobi",
+  "joy": "3-bob, 163",
+  "holat": "TASDIQLANGAN"
+ },
+ "Роберт Хейлбронер": {
+  "uz": "Robert Xeylbroner (Robert Heilbroner)",
+  "izoh": "",
+  "joy": "3-bob, 163",
+  "holat": "TASDIQLANGAN"
+ },
+ "Оскар Данило Блэндон": {
+  "uz": "Oskar Danilo Blandon (Oscar Danilo Blandón)",
+  "izoh": "laqabi: Jonni Kokain Urug‘i",
+  "joy": "3-bob, 158",
+  "holat": "TASDIQLANGAN"
+ },
+ "Слабое звено": {
+  "uz": "Zaif bo‘g‘in (The Weakest Link)",
+  "izoh": "teleo‘yin",
+  "joy": "3-bob, 153",
+  "holat": "TASDIQLANGAN"
+ },
+ "ЦРУ": {
+  "uz": "MRB",
+  "izoh": "Markaziy razvedka boshqarmasi qisqartmasi",
+  "joy": "3-bob, 179",
+  "holat": "TASDIQLANGAN"
  }
 }
