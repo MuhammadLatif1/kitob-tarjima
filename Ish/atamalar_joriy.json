@@ -1138,5 +1138,185 @@
   "izoh": "oldingi boblarga muvofiq",
   "joy": "7-bob, 968",
   "holat": "TASDIQLANGAN"
+ },
+ "эксперт по воспитанию": {
+  "uz": "tarbiya bo‘yicha ekspert",
+  "izoh": "",
+  "joy": "8-bob, 976",
+  "holat": "TASDIQLANGAN"
+ },
+ "родительское мастерство / искусство": {
+  "uz": "ota-onalik mahorati / san’ati",
+  "izoh": "",
+  "joy": "8-bob, 976",
+  "holat": "TASDIQLANGAN"
+ },
+ "навязчивые (чрезмерно заботливые) родители": {
+  "uz": "haddan tashqari g‘amxo‘r ota-onalar",
+  "izoh": "чрезмерно опекающие → haddan tashqari ehtiyot qiladigan",
+  "joy": "8-bob, 973",
+  "holat": "TASDIQLANGAN"
+ },
+ "природа и воспитание": {
+  "uz": "tabiat va tarbiya",
+  "izoh": "nature vs. nurture",
+  "joy": "8-bob, 973",
+  "holat": "TASDIQLANGAN"
+ },
+ "Риск = Опасность + Беспокойство": {
+  "uz": "Xavf = Xatar + Tashvish",
+  "izoh": "P. Sendmen formulasi; риск → xavf, опасность → xatar, беспокойство → tashvish",
+  "joy": "8-bob, 990",
+  "holat": "TASDIQLANGAN"
+ },
+ "фактор страха; фактор контроля": {
+  "uz": "dahshat omili; nazorat omili",
+  "izoh": "",
+  "joy": "8-bob, 989",
+  "holat": "TASDIQLANGAN"
+ },
+ "Питер Сэндмен": {
+  "uz": "Piter Sendmen (Peter Sandman)",
+  "izoh": "",
+  "joy": "8-bob, 983",
+  "holat": "TASDIQLANGAN"
+ },
+ "Энн Хальберт; «Воспитание Америки…»": {
+  "uz": "Enn Xalbert (Ann Hulbert); Amerikani tarbiyalash: ekspertlar, ota-onalar va bolalar haqidagi maslahatlar asri (Raising America…)",
+  "izoh": "kitob nomi kursivda",
+  "joy": "8-bob, 977",
+  "holat": "TASDIQLANGAN"
+ },
+ "Гэри Эццо; «Детская мудрость»": {
+  "uz": "Geri Ezzo (Gary Ezzo); Go‘dak donoligi (Babywise)",
+  "izoh": "",
+  "joy": "8-bob, 977",
+  "holat": "TASDIQLANGAN"
+ },
+ "Т. Берри Брэйзлтон": {
+  "uz": "T. Berri Breyzlton (T. Berry Brazelton)",
+  "izoh": "",
+  "joy": "8-bob, 977",
+  "holat": "TASDIQLANGAN"
+ },
+ "Л. Эмметт Холт": {
+  "uz": "L. Emmett Xolt (L. Emmett Holt)",
+  "izoh": "",
+  "joy": "8-bob, 977",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джудит Рич Харрис; «Воспитательная ложь»": {
+  "uz": "Judit Rich Xarris (Judith Rich Harris); Tarbiya haqidagi yolg‘on (The Nurture Assumption)",
+  "izoh": "",
+  "joy": "8-bob, 1000",
+  "holat": "TASDIQLANGAN"
+ },
+ "Стивен Пинкер; «Чистый лист»": {
+  "uz": "Stiven Pinker (Steven Pinker); Toza varaq (Blank Slate)",
+  "izoh": "",
+  "joy": "8-bob, 1002",
+  "holat": "TASDIQLANGAN"
+ },
+ "общественные школы Чикаго (ОШЧ)": {
+  "uz": "Chikago davlat maktablari (ChDM)",
+  "izoh": "qisqartma 8-bobda kiritildi",
+  "joy": "8-bob, 1013",
+  "holat": "TASDIQLANGAN"
+ },
+ "Браун против Совета по образованию (г. Топека); Оливер Браун": {
+  "uz": "Braun Topeka shahar ta’lim kengashiga qarshi; Oliver Braun (Oliver Brown)",
+  "izoh": "sud ishi kursivda",
+  "joy": "8-bob, 1013",
+  "holat": "TASDIQLANGAN"
+ },
+ "выбор школы; школьная лотерея": {
+  "uz": "maktab tanlash; maktab lotereyasi",
+  "izoh": "",
+  "joy": "8-bob, 1012",
+  "holat": "TASDIQLANGAN"
+ },
+ "Ричард П. Миллс": {
+  "uz": "Richard P. Mills (Richard P. Mills)",
+  "izoh": "",
+  "joy": "8-bob, 1021",
+  "holat": "TASDIQLANGAN"
+ },
+ "разрыв (в результатах тестов) между белыми и черными": {
+  "uz": "oq tanlilar va qora tanlilar o‘rtasidagi (test natijalaridagi) farq",
+  "izoh": "",
+  "joy": "8-bob, 1022",
+  "holat": "TASDIQLANGAN"
+ },
+ "Роланд Фрайер младший; «белое поведение»": {
+  "uz": "kichik Roland Frayer (Roland Fryer Jr.); «oq tanlilarcha xulq-atvor»",
+  "izoh": "",
+  "joy": "8-bob, 1024",
+  "holat": "TASDIQLANGAN"
+ },
+ "Карим Абдул-Джаббар (Лью Эльсиндор)": {
+  "uz": "Karim Abdul-Jabbor (Kareem Abdul-Jabbar), Lyu Alsindor (Lew Alcindor)",
+  "izoh": "",
+  "joy": "8-bob, 1024",
+  "holat": "TASDIQLANGAN"
+ },
+ "Продольное исследование раннего детства (ECLS)": {
+  "uz": "Erta bolalikni bo‘ylama tadqiq etish (ECLS)",
+  "izoh": "ECLS lotincha, kursivda",
+  "joy": "8-bob, 1027",
+  "holat": "TASDIQLANGAN"
+ },
+ "регрессивный (регрессионный) анализ": {
+  "uz": "regressiya tahlili",
+  "izoh": "regression analysis",
+  "joy": "8-bob, 1030",
+  "holat": "TASDIQLANGAN"
+ },
+ "корреляция (статистический термин); переменная": {
+  "uz": "korrelyatsiya; o‘zgaruvchi",
+  "izoh": "положительная/отрицательная → ijobiy/salbiy korrelyatsiya; umumiy ma’noda «взаимосвязь» → o‘zaro bog‘liqlik",
+  "joy": "8-bob, 1031",
+  "holat": "TASDIQLANGAN"
+ },
+ "Ассоциация родителей и преподавателей (PTA)": {
+  "uz": "Ota-onalar va o‘qituvchilar assotsiatsiyasi (PTA)",
+  "izoh": "kursivda; РТА kirillcha yozilgan, lotincha PTA",
+  "joy": "8-bob, 1043",
+  "holat": "TASDIQLANGAN"
+ },
+ "Head Start": {
+  "uz": "Head Start",
+  "izoh": "federal maktabgacha tarbiya dasturi; lotincha o‘zgarishsiz, qo‘shimcha «dasturi» so‘zi orqali",
+  "joy": "8-bob, 1057",
+  "holat": "TASDIQLANGAN"
+ },
+ "Имеет значение / Не имеет значения": {
+  "uz": "Ahamiyatga ega / Ahamiyatga ega emas",
+  "izoh": "ECLS omillari juftliklari",
+  "joy": "8-bob, 1092",
+  "holat": "TASDIQLANGAN"
+ },
+ "Род Благоевич": {
+  "uz": "Rod Blagoyevich (Rod Blagojevich)",
+  "izoh": "Illinoys gubernatori",
+  "joy": "8-bob, 1137",
+  "holat": "TASDIQLANGAN"
+ },
+ "Брюс Сэкердот": {
+  "uz": "Bryus Sakerdot (Bruce Sacerdote)",
+  "izoh": "",
+  "joy": "8-bob, 1166",
+  "holat": "TASDIQLANGAN"
+ },
+ "Молли, Эми, Имани; Исайя, Эмили, Рики": {
+  "uz": "Molli, Emi, Imani; Isayya, Emili, Riki",
+  "izoh": "misoldagi bolalar ismlari",
+  "joy": "8-bob, 981, 1135",
+  "holat": "TASDIQLANGAN"
+ },
+ "Дайтона-Бич": {
+  "uz": "Deytona-Bich (Daytona Beach)",
+  "izoh": "",
+  "joy": "8-bob, 1007",
+  "holat": "TASDIQLANGAN"
  }
 }
