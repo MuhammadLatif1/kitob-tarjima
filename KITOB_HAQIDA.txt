@@ -1,16 +1,16 @@
 KITOB HAQIDA
 
-Asl nomi: [kitobning asl nomi]
-Muallif / nashriyot: [muallif, nashriyot, yil]
-Janr / auditoriya: [masalan: o'quv qo'llanma, talabalar uchun]
-Fayl: [Asl/ papkasidagi fayl nomi]
-Tarjima tili: [masalan: inglizchadan o'zbekchaga / ruschadan o'zbekchaga]
+Asl nomi: Фрикономика (Freakonomics)
+Muallif / nashriyot: Stiven D. Levitt, Stiven J. Dabner; ruscha nashr: «Вильямс» (Williams Publishing)
+Janr / auditoriya: ilmiy-ommabop iqtisod kitobi, keng kitobxonlar uchun
+Fayl: Asl/Frikonomika.docx
+Tarjima tili: ruschadan o'zbekchaga
 
 USLUB TALABLARI
-Alifbo: [lotin / kirill]
-Imlo: [masalan: amaldagi lotin yozuvidagi o'zbek imlo qoidalari]
-Apostrof turi: [o‘ g‘ va tutuq belgisi uchun qaysi belgi: ‘ va ’ / oddiy ' ]
-Murojaat shakli: [siz / sen; masalan: «вы» → siz, «ты» → sen]
-Iqtibos qo'shtirnog'i: [«...» yoki “...”]
-Kitob nomi o'zbekcha: [o'zbekcha nomi yoki tarjima qilinmasin]
-Qo'shimcha talablar: [bo'lsa yozing, bo'lmasa "Yo'q"]
+Alifbo: [lotin]
+Imlo: amaldagi lotin yozuvidagi o'zbek imlo qoidalari
+Apostrof turi: [o‘ g‘ uchun ‘ (U+2018), tutuq belgisi uchun ’ (U+2019)]
+Murojaat shakli: [«вы» → siz, «ты» → sen]
+Iqtibos qo'shtirnog'i: [«...»]
+Kitob nomi o'zbekcha: [Frikonomika]
+Qo'shimcha talablar: Yo'q

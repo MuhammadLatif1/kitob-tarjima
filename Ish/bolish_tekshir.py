@@ -67,7 +67,7 @@ def main():
                 xato.append("XATO: %d-bob nomi mundarijada yo'q: %s" % (b["raqam"], b["nom"]))
         if i + 1 < len(boblar):
             u2, t2 = oxirgi_matn(b)
-            if b["raqam"] != 0 and not TUGATUVCHI.search(t2):
+            if b["raqam"] != 0 and not b.get("oxiri_tekshirildi") and not TUGATUVCHI.search(t2):
                 tek.append("TEKSHIRING: %d-bob oxiri (birlik %s) jumla tugatuvchi belgisiz: …%.60s"
                            % (b["raqam"], u2, t2[-60:]))
         if b["birlik_soni"] < 3:

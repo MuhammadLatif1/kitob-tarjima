@@ -1,0 +1,100 @@
+[
+ {
+  "raqam": 0,
+  "nom": "0-qism (mundarija, annotatsiya, nom varag‘i)",
+  "boshlanish": 1,
+  "tugash": 50,
+  "birlik_soni": 50
+ },
+ {
+  "raqam": 1,
+  "nom": "ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ",
+  "boshlanish": 51,
+  "tugash": 66,
+  "birlik_soni": 16,
+  "oxiri_tekshirildi": "imzo yoki manba qatori; keyingi bob sarlavhadan boshlanadi"
+ },
+ {
+  "raqam": 2,
+  "nom": "ПОЯСНИТЕЛЬНАЯ ЗАПИСКА",
+  "boshlanish": 67,
+  "tugash": 89,
+  "birlik_soni": 23
+ },
+ {
+  "raqam": 3,
+  "nom": "ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем",
+  "boshlanish": 90,
+  "tugash": 180,
+  "birlik_soni": 91,
+  "oxiri_tekshirildi": "imzo yoki manba qatori; keyingi bob sarlavhadan boshlanadi"
+ },
+ {
+  "raqam": 4,
+  "nom": "1 Что общего между школьными учителями и борцами сумо?",
+  "boshlanish": 181,
+  "tugash": 481,
+  "birlik_soni": 301,
+  "oxiri_tekshirildi": "imzo yoki manba qatori; keyingi bob sarlavhadan boshlanadi"
+ },
+ {
+  "raqam": 5,
+  "nom": "2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?",
+  "boshlanish": 482,
+  "tugash": 655,
+  "birlik_soni": 174,
+  "oxiri_tekshirildi": "imzo yoki manba qatori; keyingi bob sarlavhadan boshlanadi"
+ },
+ {
+  "raqam": 6,
+  "nom": "3 Почему торговцы наркотиками продолжают жить со своими родителями?",
+  "boshlanish": 656,
+  "tugash": 813,
+  "birlik_soni": 158,
+  "oxiri_tekshirildi": "imzo yoki manba qatori; keyingi bob sarlavhadan boshlanadi"
+ },
+ {
+  "raqam": 7,
+  "nom": "4 Куда исчезли все преступники?",
+  "boshlanish": 814,
+  "tugash": 970,
+  "birlik_soni": 157,
+  "oxiri_tekshirildi": "imzo yoki manba qatori; keyingi bob sarlavhadan boshlanadi"
+ },
+ {
+  "raqam": 8,
+  "nom": "5 Идеальные родители?..",
+  "boshlanish": 971,
+  "tugash": 1170,
+  "birlik_soni": 200,
+  "oxiri_tekshirildi": "imzo yoki manba qatori; keyingi bob sarlavhadan boshlanadi"
+ },
+ {
+  "raqam": 9,
+  "nom": "6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]",
+  "boshlanish": 1171,
+  "tugash": 1539,
+  "birlik_soni": 369
+ },
+ {
+  "raqam": 10,
+  "nom": "ЭПИЛОГ Два пути в Гарвард",
+  "boshlanish": 1540,
+  "tugash": 1548,
+  "birlik_soni": 9
+ },
+ {
+  "raqam": 11,
+  "nom": "ПРИМЕЧАНИЯ",
+  "boshlanish": 1549,
+  "tugash": 1720,
+  "birlik_soni": 172
+ },
+ {
+  "raqam": 12,
+  "nom": "БЛАГОДАРНОСТИ",
+  "boshlanish": 1721,
+  "tugash": 1753,
+  "birlik_soni": 33
+ }
+]
