@@ -1,0 +1,145 @@
+{
+ "noaniq": [
+  "3, 25, 50: «FRICONOMICS» asl matnda lotincha yozilgan (inglizcha Freakonomics emas), shu holicha qoldirildi.",
+  "45: «notes» sarlavhasi inglizcha edi, «Izohlar» deb tarjima qilindi.",
+  "12, 40: Shekspir iqtibosining o‘zbekcha nashrdagi shakli topilmadi, ruschadan tarjima qilindi."
+ ],
+ "iqtiboslar": [
+  "12, 40: «Nom nima? Atirgulni qanday atasang ham, u baribir atirgul bo‘lib hid taratadi» | U. Shekspir, «Romeo va Julyetta», II parda, 2-ko‘rinish (ruscha B. Pasternak tarjimasidan) | asl lafz tekshirilsin (o‘zbekcha nashrdagi tarjima bilan solishtirish kerak)"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "Фрикономика",
+   "uz": "Frikonomika",
+   "izoh": "kitob nomi",
+   "joy": "0-qism, 3"
+  },
+  {
+   "en": "Мнение экономиста-диссидента о неожиданных связях между событиями и явлениями",
+   "uz": "Dissident iqtisodchining voqea va hodisalar o‘rtasidagi kutilmagan bog‘liqliklar haqidagi fikri",
+   "izoh": "kitob kichik sarlavhasi",
+   "joy": "0-qism, 3"
+  },
+  {
+   "en": "Table of Contents",
+   "uz": "Mundarija",
+   "izoh": "",
+   "joy": "0-qism, 2"
+  },
+  {
+   "en": "Annotation",
+   "uz": "Annotatsiya",
+   "izoh": "",
+   "joy": "0-qism, 21"
+  },
+  {
+   "en": "Предисловие к русскому изданию",
+   "uz": "Ruscha nashrga so‘zboshi",
+   "izoh": "bob sarlavhasi (1-bob)",
+   "joy": "0-qism, 4"
+  },
+  {
+   "en": "Пояснительная записка",
+   "uz": "Tushuntirish xati",
+   "izoh": "bob sarlavhasi (2-bob)",
+   "joy": "0-qism, 5"
+  },
+  {
+   "en": "Введение. Всегда есть что-то, чего мы не знаем",
+   "uz": "Kirish. Biz bilmaydigan nimadir doim bor",
+   "izoh": "bob sarlavhasi (3-bob)",
+   "joy": "0-qism, 6"
+  },
+  {
+   "en": "1 Что общего между школьными учителями и борцами сумо?",
+   "uz": "1 Maktab o‘qituvchilari va sumo kurashchilari o‘rtasida qanday umumiylik bor?",
+   "izoh": "bob sarlavhasi",
+   "joy": "0-qism, 7"
+  },
+  {
+   "en": "2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?",
+   "uz": "2 Ku-kluks-klan va ko‘chmas mulk agentlari o‘rtasida qanday umumiylik bor?",
+   "izoh": "bob sarlavhasi",
+   "joy": "0-qism, 8"
+  },
+  {
+   "en": "3 Почему торговцы наркотиками продолжают жить со своими родителями?",
+   "uz": "3 Nega narkotik sotuvchilar ota-onalari bilan yashashda davom etadi?",
+   "izoh": "bob sarlavhasi",
+   "joy": "0-qism, 9"
+  },
+  {
+   "en": "4 Куда исчезли все преступники?",
+   "uz": "4 Barcha jinoyatchilar qayoqqa g‘oyib bo‘ldi?",
+   "izoh": "bob sarlavhasi",
+   "joy": "0-qism, 10"
+  },
+  {
+   "en": "5 Идеальные родители?..",
+   "uz": "5 Ideal ota-onalar?..",
+   "izoh": "bob sarlavhasi",
+   "joy": "0-qism, 11"
+  },
+  {
+   "en": "6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”",
+   "uz": "6 Ideal ota-onalar, II qism, yoki «Nom nima? Atirgulni qanday atasang ham, u baribir atirgul bo‘lib hid taratadi»",
+   "izoh": "bob sarlavhasi",
+   "joy": "0-qism, 12"
+  },
+  {
+   "en": "Эпилог. Два пути в Гарвард",
+   "uz": "Epilog. Garvardga ikki yo‘l",
+   "izoh": "bob sarlavhasi",
+   "joy": "0-qism, 13"
+  },
+  {
+   "en": "Примечания",
+   "uz": "Izohlar",
+   "izoh": "bo‘lim sarlavhasi (bosh harflarda: IZOHLAR)",
+   "joy": "0-qism, 14"
+  },
+  {
+   "en": "Благодарности",
+   "uz": "Minnatdorchilik",
+   "izoh": "bo‘lim sarlavhasi",
+   "joy": "0-qism, 15"
+  },
+  {
+   "en": "Обложка",
+   "uz": "Muqova",
+   "izoh": "",
+   "joy": "0-qism, 16"
+  },
+  {
+   "en": "торговец наркотиками",
+   "uz": "narkotik sotuvchi",
+   "izoh": "",
+   "joy": "0-qism, 9"
+  },
+  {
+   "en": "агент по торговле (продаже) недвижимостью",
+   "uz": "ko‘chmas mulk agenti",
+   "izoh": "",
+   "joy": "0-qism, 8"
+  },
+  {
+   "en": "борец сумо",
+   "uz": "sumo kurashchisi",
+   "izoh": "",
+   "joy": "0-qism, 7"
+  },
+  {
+   "en": "Стивен Д. Левитт",
+   "uz": "Stiven D. Levitt",
+   "izoh": "muallif",
+   "joy": "0-qism, 22"
+  },
+  {
+   "en": "Стивен Дж. Дабнер",
+   "uz": "Stiven J. Dabner",
+   "izoh": "muallif",
+   "joy": "0-qism, 22"
+  }
+ ],
+ "tasdiq_kerak": []
+}

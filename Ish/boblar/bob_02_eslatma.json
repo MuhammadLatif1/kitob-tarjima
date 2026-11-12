@@ -1,0 +1,65 @@
+{
+ "noaniq": [
+  "85: asl matnda «GeneralMotors» (bo‘sh joysiz) — «General Motors» deb tuzatildi.",
+  "83: «унылая наука» (dismal science, T. Karleyl iborasi) «zerikarli fan» deb berildi; asl matnda qo‘shtirnoqsiz.",
+  "84: «зубры» экономики → iqtisodning «pir»lari.",
+  "80: «доктор философии» (PhD) → «falsafa doktori»."
+ ],
+ "iqtiboslar": [
+  "74: «Uning quloqchinlari zo‘r ekan...» | Levitt so‘zlari, New York Times jurnalidagi maqoladan (2003-yil 3-avgust) | yo‘q",
+  "80: «Iqtisod deb ataladigan fan haqida unchalik ko‘p narsa bilmayman...» | Levitt so‘zlari | yo‘q",
+  "88: «Kitob yozishmi? ... Lekin men buni istamayman», «Faqat Dabner bilan birga urinib ko‘rsak, boshqa gap» | Levitt so‘zlari | yo‘q",
+  "76: izoh havolasi [1] — New York Times jurnali, 2003-yil 3-avgust | manba | yo‘q"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "Медаль Джона Бейтса Кларка",
+   "uz": "Jon Beyts Klark (John Bates Clark) medali",
+   "izoh": "birinchi uchraganda asl yozilishi qavsda",
+   "joy": "2-bob, 79"
+  },
+  {
+   "en": "Университет Чикаго",
+   "uz": "Chikago universiteti",
+   "izoh": "",
+   "joy": "2-bob, 78"
+  },
+  {
+   "en": "Массачусетсский технологический институт",
+   "uz": "Massachusets texnologiya instituti",
+   "izoh": "",
+   "joy": "2-bob, 80"
+  },
+  {
+   "en": "Центральное разведывательное управление",
+   "uz": "Markaziy razvedka boshqarmasi",
+   "izoh": "",
+   "joy": "2-bob, 85"
+  },
+  {
+   "en": "Тур де Франс",
+   "uz": "«Tur de Frans»",
+   "izoh": "",
+   "joy": "2-bob, 85"
+  },
+  {
+   "en": "унылая наука",
+   "uz": "zerikarli fan",
+   "izoh": "dismal science",
+   "joy": "2-bob, 83"
+  },
+  {
+   "en": "бездомный",
+   "uz": "uysiz odam",
+   "izoh": "бродяга → daydi",
+   "joy": "2-bob, 72"
+  },
+  {
+   "en": "эконометрия",
+   "uz": "ekonometrika",
+   "izoh": "",
+   "joy": "2-bob, 80"
+  }
+ ],
+ "tasdiq_kerak": []
+}

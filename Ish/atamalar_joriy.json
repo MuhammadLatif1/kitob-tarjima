@@ -1,1 +1,248 @@
-{}
+{
+ "Фрикономика": {
+  "uz": "Frikonomika",
+  "izoh": "kitob nomi",
+  "joy": "0-qism, 3",
+  "holat": "TASDIQLANGAN"
+ },
+ "Мнение экономиста-диссидента о неожиданных связях между событиями и явлениями": {
+  "uz": "Dissident iqtisodchining voqea va hodisalar o‘rtasidagi kutilmagan bog‘liqliklar haqidagi fikri",
+  "izoh": "kitob kichik sarlavhasi",
+  "joy": "0-qism, 3",
+  "holat": "TASDIQLANGAN"
+ },
+ "Table of Contents": {
+  "uz": "Mundarija",
+  "izoh": "",
+  "joy": "0-qism, 2",
+  "holat": "TASDIQLANGAN"
+ },
+ "Annotation": {
+  "uz": "Annotatsiya",
+  "izoh": "",
+  "joy": "0-qism, 21",
+  "holat": "TASDIQLANGAN"
+ },
+ "Предисловие к русскому изданию": {
+  "uz": "Ruscha nashrga so‘zboshi",
+  "izoh": "bob sarlavhasi (1-bob)",
+  "joy": "0-qism, 4",
+  "holat": "TASDIQLANGAN"
+ },
+ "Пояснительная записка": {
+  "uz": "Tushuntirish xati",
+  "izoh": "bob sarlavhasi (2-bob)",
+  "joy": "0-qism, 5",
+  "holat": "TASDIQLANGAN"
+ },
+ "Введение. Всегда есть что-то, чего мы не знаем": {
+  "uz": "Kirish. Biz bilmaydigan nimadir doim bor",
+  "izoh": "bob sarlavhasi (3-bob)",
+  "joy": "0-qism, 6",
+  "holat": "TASDIQLANGAN"
+ },
+ "1 Что общего между школьными учителями и борцами сумо?": {
+  "uz": "1 Maktab o‘qituvchilari va sumo kurashchilari o‘rtasida qanday umumiylik bor?",
+  "izoh": "bob sarlavhasi",
+  "joy": "0-qism, 7",
+  "holat": "TASDIQLANGAN"
+ },
+ "2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?": {
+  "uz": "2 Ku-kluks-klan va ko‘chmas mulk agentlari o‘rtasida qanday umumiylik bor?",
+  "izoh": "bob sarlavhasi",
+  "joy": "0-qism, 8",
+  "holat": "TASDIQLANGAN"
+ },
+ "3 Почему торговцы наркотиками продолжают жить со своими родителями?": {
+  "uz": "3 Nega narkotik sotuvchilar ota-onalari bilan yashashda davom etadi?",
+  "izoh": "bob sarlavhasi",
+  "joy": "0-qism, 9",
+  "holat": "TASDIQLANGAN"
+ },
+ "4 Куда исчезли все преступники?": {
+  "uz": "4 Barcha jinoyatchilar qayoqqa g‘oyib bo‘ldi?",
+  "izoh": "bob sarlavhasi",
+  "joy": "0-qism, 10",
+  "holat": "TASDIQLANGAN"
+ },
+ "5 Идеальные родители?..": {
+  "uz": "5 Ideal ota-onalar?..",
+  "izoh": "bob sarlavhasi",
+  "joy": "0-qism, 11",
+  "holat": "TASDIQLANGAN"
+ },
+ "6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”": {
+  "uz": "6 Ideal ota-onalar, II qism, yoki «Nom nima? Atirgulni qanday atasang ham, u baribir atirgul bo‘lib hid taratadi»",
+  "izoh": "bob sarlavhasi",
+  "joy": "0-qism, 12",
+  "holat": "TASDIQLANGAN"
+ },
+ "Эпилог. Два пути в Гарвард": {
+  "uz": "Epilog. Garvardga ikki yo‘l",
+  "izoh": "bob sarlavhasi",
+  "joy": "0-qism, 13",
+  "holat": "TASDIQLANGAN"
+ },
+ "Примечания": {
+  "uz": "Izohlar",
+  "izoh": "bo‘lim sarlavhasi (bosh harflarda: IZOHLAR)",
+  "joy": "0-qism, 14",
+  "holat": "TASDIQLANGAN"
+ },
+ "Благодарности": {
+  "uz": "Minnatdorchilik",
+  "izoh": "bo‘lim sarlavhasi",
+  "joy": "0-qism, 15",
+  "holat": "TASDIQLANGAN"
+ },
+ "Обложка": {
+  "uz": "Muqova",
+  "izoh": "",
+  "joy": "0-qism, 16",
+  "holat": "TASDIQLANGAN"
+ },
+ "торговец наркотиками": {
+  "uz": "narkotik sotuvchi",
+  "izoh": "",
+  "joy": "0-qism, 9",
+  "holat": "TASDIQLANGAN"
+ },
+ "агент по торговле (продаже) недвижимостью": {
+  "uz": "ko‘chmas mulk agenti",
+  "izoh": "",
+  "joy": "0-qism, 8",
+  "holat": "TASDIQLANGAN"
+ },
+ "борец сумо": {
+  "uz": "sumo kurashchisi",
+  "izoh": "",
+  "joy": "0-qism, 7",
+  "holat": "TASDIQLANGAN"
+ },
+ "Стивен Д. Левитт": {
+  "uz": "Stiven D. Levitt",
+  "izoh": "muallif",
+  "joy": "0-qism, 22",
+  "holat": "TASDIQLANGAN"
+ },
+ "Стивен Дж. Дабнер": {
+  "uz": "Stiven J. Dabner",
+  "izoh": "muallif",
+  "joy": "0-qism, 22",
+  "holat": "TASDIQLANGAN"
+ },
+ "стимул": {
+  "uz": "rag‘bat",
+  "izoh": "kitobning asosiy tushunchasi (incentive); стимулировать → rag‘batlantirmoq",
+  "joy": "1-bob, 59",
+  "holat": "TASDIQLANGAN"
+ },
+ "экономика (наука)": {
+  "uz": "iqtisod",
+  "izoh": "fan sifatida; xo‘jalik tizimi ma’nosida → iqtisodiyot",
+  "joy": "1-bob, 53",
+  "holat": "TASDIQLANGAN"
+ },
+ "экономика (хозяйство)": {
+  "uz": "iqtisodiyot",
+  "izoh": "xo‘jalik tizimi ma’nosida («новая экономика», «наша экономика»)",
+  "joy": "1-bob, 55",
+  "holat": "TASDIQLANGAN"
+ },
+ "фрикономика": {
+  "uz": "frikonomika",
+  "izoh": "yo‘nalish nomi (kichik harf bilan)",
+  "joy": "1-bob, 57",
+  "holat": "TASDIQLANGAN"
+ },
+ "фрик": {
+  "uz": "frik",
+  "izoh": "",
+  "joy": "1-bob, 54",
+  "holat": "TASDIQLANGAN"
+ },
+ "экономист-диссидент": {
+  "uz": "dissident iqtisodchi",
+  "izoh": "",
+  "joy": "1-bob, 54",
+  "holat": "TASDIQLANGAN"
+ },
+ "поведенческая экономика": {
+  "uz": "xulq-atvor iqtisodiyoti",
+  "izoh": "behavioral economics",
+  "joy": "1-bob, 59",
+  "holat": "TASDIQLANGAN"
+ },
+ "информационная асимметрия": {
+  "uz": "axborot asimmetriyasi",
+  "izoh": "",
+  "joy": "1-bob, 61",
+  "holat": "TASDIQLANGAN"
+ },
+ "мошенничество": {
+  "uz": "firibgarlik",
+  "izoh": "мошенничать → firibgarlik qilmoq",
+  "joy": "1-bob, 62",
+  "holat": "TASDIQLANGAN"
+ },
+ "буриданов осёл": {
+  "uz": "Buridan eshagi",
+  "izoh": "",
+  "joy": "1-bob, 60",
+  "holat": "TASDIQLANGAN"
+ },
+ "кривые спроса и предложения": {
+  "uz": "talab va taklif egri chiziqlari",
+  "izoh": "",
+  "joy": "1-bob, 58",
+  "holat": "TASDIQLANGAN"
+ },
+ "Медаль Джона Бейтса Кларка": {
+  "uz": "Jon Beyts Klark (John Bates Clark) medali",
+  "izoh": "birinchi uchraganda asl yozilishi qavsda",
+  "joy": "2-bob, 79",
+  "holat": "TASDIQLANGAN"
+ },
+ "Университет Чикаго": {
+  "uz": "Chikago universiteti",
+  "izoh": "",
+  "joy": "2-bob, 78",
+  "holat": "TASDIQLANGAN"
+ },
+ "Массачусетсский технологический институт": {
+  "uz": "Massachusets texnologiya instituti",
+  "izoh": "",
+  "joy": "2-bob, 80",
+  "holat": "TASDIQLANGAN"
+ },
+ "Центральное разведывательное управление": {
+  "uz": "Markaziy razvedka boshqarmasi",
+  "izoh": "",
+  "joy": "2-bob, 85",
+  "holat": "TASDIQLANGAN"
+ },
+ "Тур де Франс": {
+  "uz": "«Tur de Frans»",
+  "izoh": "",
+  "joy": "2-bob, 85",
+  "holat": "TASDIQLANGAN"
+ },
+ "унылая наука": {
+  "uz": "zerikarli fan",
+  "izoh": "dismal science",
+  "joy": "2-bob, 83",
+  "holat": "TASDIQLANGAN"
+ },
+ "бездомный": {
+  "uz": "uysiz odam",
+  "izoh": "бродяга → daydi",
+  "joy": "2-bob, 72",
+  "holat": "TASDIQLANGAN"
+ },
+ "эконометрия": {
+  "uz": "ekonometrika",
+  "izoh": "",
+  "joy": "2-bob, 80",
+  "holat": "TASDIQLANGAN"
+ }
+}

@@ -1,4 +1,4 @@
 HOLAT: Frikonomika (Asl/Frikonomika.docx)
 Boblar: 0-12 (Ish/boblar.json)
-Tugagan boblar: 
-Keyingi: 0-raqamli bob, birlik 1 dan
+Tugagan boblar: 0, 1, 2
+Keyingi: 3-raqamli bob (ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем), birlik 90 dan

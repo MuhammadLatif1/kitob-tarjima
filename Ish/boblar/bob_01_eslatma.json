@@ -1,0 +1,81 @@
+{
+ "noaniq": [
+  "56: «выпрыгнуть из коротких штанишек традиционного мышления» obrazi «an’anaviy tafakkurning tor kelib qolgan kiyimidan chiqib ketish» deb berildi.",
+  "60: «При равенстве не уравновешенных стимулами возможностей» ma’nosi biroz noaniq; «Imkoniyatlar teng bo‘lib, rag‘batlar ularni muvozanatlashtirmasa» deb talqin qilindi.",
+  "65: Герман Греф → German Gref."
+ ],
+ "iqtiboslar": [
+  "57: «nima qilish kerak?», «qanday qilish kerak?», «buni nima uchun qilish kerak?», «nega bu shunday?» | muallif (G. Gref) so‘zlari | yo‘q",
+  "62: «kim firibgarlik qiladi?» — «deyarli hamma» | kitob mualliflari so‘zlarining bayoni | yo‘q",
+  "62: Adam Smit fikri (bilvosita bayon, qo‘shtirnoqsiz) | A. Smit, «Axloqiy tuyg‘ular nazariyasi» (The Theory of Moral Sentiments) bo‘lsa kerak | asl lafz tekshirilsin"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "стимул",
+   "uz": "rag‘bat",
+   "izoh": "kitobning asosiy tushunchasi (incentive); стимулировать → rag‘batlantirmoq",
+   "joy": "1-bob, 59"
+  },
+  {
+   "en": "экономика (наука)",
+   "uz": "iqtisod",
+   "izoh": "fan sifatida; xo‘jalik tizimi ma’nosida → iqtisodiyot",
+   "joy": "1-bob, 53"
+  },
+  {
+   "en": "экономика (хозяйство)",
+   "uz": "iqtisodiyot",
+   "izoh": "xo‘jalik tizimi ma’nosida («новая экономика», «наша экономика»)",
+   "joy": "1-bob, 55"
+  },
+  {
+   "en": "фрикономика",
+   "uz": "frikonomika",
+   "izoh": "yo‘nalish nomi (kichik harf bilan)",
+   "joy": "1-bob, 57"
+  },
+  {
+   "en": "фрик",
+   "uz": "frik",
+   "izoh": "",
+   "joy": "1-bob, 54"
+  },
+  {
+   "en": "экономист-диссидент",
+   "uz": "dissident iqtisodchi",
+   "izoh": "",
+   "joy": "1-bob, 54"
+  },
+  {
+   "en": "поведенческая экономика",
+   "uz": "xulq-atvor iqtisodiyoti",
+   "izoh": "behavioral economics",
+   "joy": "1-bob, 59"
+  },
+  {
+   "en": "информационная асимметрия",
+   "uz": "axborot asimmetriyasi",
+   "izoh": "",
+   "joy": "1-bob, 61"
+  },
+  {
+   "en": "мошенничество",
+   "uz": "firibgarlik",
+   "izoh": "мошенничать → firibgarlik qilmoq",
+   "joy": "1-bob, 62"
+  },
+  {
+   "en": "буриданов осёл",
+   "uz": "Buridan eshagi",
+   "izoh": "",
+   "joy": "1-bob, 60"
+  },
+  {
+   "en": "кривые спроса и предложения",
+   "uz": "talab va taklif egri chiziqlari",
+   "izoh": "",
+   "joy": "1-bob, 58"
+  }
+ ],
+ "tasdiq_kerak": []
+}
