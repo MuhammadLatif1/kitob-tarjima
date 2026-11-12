@@ -1,0 +1,16 @@
+KITOB HAQIDA
+
+Asl nomi: [kitobning asl nomi]
+Muallif / nashriyot: [muallif, nashriyot, yil]
+Janr / auditoriya: [masalan: o'quv qo'llanma, talabalar uchun]
+Fayl: [Asl/ papkasidagi fayl nomi]
+Tarjima tili: [masalan: inglizchadan o'zbekchaga / ruschadan o'zbekchaga]
+
+USLUB TALABLARI
+Alifbo: [lotin / kirill]
+Imlo: [masalan: amaldagi lotin yozuvidagi o'zbek imlo qoidalari]
+Apostrof turi: [o‘ g‘ va tutuq belgisi uchun qaysi belgi: ‘ va ’ / oddiy ' ]
+Murojaat shakli: [siz / sen; masalan: «вы» → siz, «ты» → sen]
+Iqtibos qo'shtirnog'i: [«...» yoki “...”]
+Kitob nomi o'zbekcha: [o'zbekcha nomi yoki tarjima qilinmasin]
+Qo'shimcha talablar: [bo'lsa yozing, bo'lmasa "Yo'q"]
