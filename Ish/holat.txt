@@ -1,4 +1,4 @@
 HOLAT: Frikonomika (Asl/Frikonomika.docx)
 Boblar: 0-12 (Ish/boblar.json)
-Tugagan boblar: 0, 1, 2, 3, 4, 5, 6
-Keyingi: 7-raqamli bob (4 Куда исчезли все преступники?), birlik 814 dan
+Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7
+Keyingi: 8-raqamli bob (5 Идеальные родители?..), birlik 971 dan

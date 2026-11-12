@@ -976,5 +976,167 @@
   "izoh": "",
   "joy": "6-bob, 790",
   "holat": "TASDIQLANGAN"
+ },
+ "преступность": {
+  "uz": "jinoyatchilik",
+  "izoh": "уровень преступности → jinoyatchilik darajasi; спад/снижение преступности → jinoyatchilik pasayishi",
+  "joy": "7-bob, 815",
+  "holat": "TASDIQLANGAN"
+ },
+ "тяжкие преступления; особо тяжкие преступления": {
+  "uz": "og‘ir jinoyatlar; o‘ta og‘ir jinoyatlar",
+  "izoh": "насильственные преступления → zo‘ravonlik jinoyatlari",
+  "joy": "7-bob, 826",
+  "holat": "TASDIQLANGAN"
+ },
+ "высшая мера наказания; смертная казнь": {
+  "uz": "oliy jazo; o‘lim jazosi",
+  "izoh": "смертный приговор → o‘lim hukmi",
+  "joy": "7-bob, 816",
+  "holat": "TASDIQLANGAN"
+ },
+ "легализация абортов": {
+  "uz": "abortlarning qonuniylashtirilishi",
+  "izoh": "",
+  "joy": "7-bob, 816",
+  "holat": "TASDIQLANGAN"
+ },
+ "взаимосвязь (корреляция) / причинность": {
+  "uz": "o‘zaro bog‘liqlik (korrelyatsiya) / sababiyat",
+  "izoh": "причинная связь → sababiy bog‘liqlik; причинно-следственная связь → sabab-oqibat bog‘liqligi",
+  "joy": "7-bob, 853",
+  "holat": "TASDIQLANGAN"
+ },
+ "новые стратегии полиции": {
+  "uz": "politsiyaning yangi strategiyalari",
+  "izoh": "3-bobdagi tarjimaga muvofiq",
+  "joy": "7-bob, 835",
+  "holat": "TASDIQLANGAN"
+ },
+ "увеличение численного состава полиции": {
+  "uz": "politsiya shtatining ko‘payishi",
+  "izoh": "",
+  "joy": "7-bob, 842",
+  "holat": "TASDIQLANGAN"
+ },
+ "законы о контроле оружия": {
+  "uz": "qurol nazorati to‘g‘risidagi qonunlar",
+  "izoh": "",
+  "joy": "7-bob, 840",
+  "holat": "TASDIQLANGAN"
+ },
+ "выкуп оружия": {
+  "uz": "qurolni (aholidan) sotib olish",
+  "izoh": "gun buyback",
+  "joy": "7-bob, 845",
+  "holat": "TASDIQLANGAN"
+ },
+ "теория разбитого окна": {
+  "uz": "singan deraza nazariyasi",
+  "izoh": "broken window theory",
+  "joy": "7-bob, 874",
+  "holat": "TASDIQLANGAN"
+ },
+ "непреднамеренная выгода": {
+  "uz": "ko‘zlanmagan foyda",
+  "izoh": "unintended benefit",
+  "joy": "7-bob, 925",
+  "holat": "TASDIQLANGAN"
+ },
+ "Николае Чаушеску; Елена": {
+  "uz": "Nikolae Chaushesku; Yelena",
+  "izoh": "",
+  "joy": "7-bob, 816",
+  "holat": "TASDIQLANGAN"
+ },
+ "Тимишоара; Бухарест": {
+  "uz": "Timishoara; Buxarest",
+  "izoh": "",
+  "joy": "7-bob, 822",
+  "holat": "TASDIQLANGAN"
+ },
+ "Гэри Беккер": {
+  "uz": "Geri Bekker (Gary Becker)",
+  "izoh": "",
+  "joy": "7-bob, 851",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джон Дж. ДиЮлио младший": {
+  "uz": "kichik Jon J. Diyulio (John J. DiIulio Jr.)",
+  "izoh": "",
+  "joy": "7-bob, 853",
+  "holat": "TASDIQLANGAN"
+ },
+ "Исаак Эрлих": {
+  "uz": "Isaak Erlix (Isaac Ehrlich)",
+  "izoh": "",
+  "joy": "7-bob, 857",
+  "holat": "TASDIQLANGAN"
+ },
+ "Хэрри Блэкмун": {
+  "uz": "Garri Blekmun (Harry Blackmun)",
+  "izoh": "",
+  "joy": "7-bob, 858",
+  "holat": "TASDIQLANGAN"
+ },
+ "Уильям (Билл) Брэттон": {
+  "uz": "Uilyam (Bill) Bratton (William Bratton)",
+  "izoh": "",
+  "joy": "7-bob, 873",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джеймс Вильсон (Уилсон); Джордж Келлинг": {
+  "uz": "Jeyms Uilson (James Q. Wilson); Jorj Kelling (George Kelling)",
+  "izoh": "kriminologlar; Uilyam Julius Uilsondan farqli",
+  "joy": "7-bob, 874",
+  "holat": "TASDIQLANGAN"
+ },
+ "CompStat; LexisNexis": {
+  "uz": "CompStat; LexisNexis",
+  "izoh": "lotin yozuvida, kursiv",
+  "joy": "7-bob, 831",
+  "holat": "TASDIQLANGAN"
+ },
+ "Закон Брэйди": {
+  "uz": "Breydi qonuni (Brady Act)",
+  "izoh": "",
+  "joy": "7-bob, 896",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джон Р. Лотт младший; «Больше оружия, меньше преступности»; Мэри Рош": {
+  "uz": "kichik Jon R. Lott (John R. Lott Jr.); Ko‘proq qurol — kamroq jinoyat (More Guns, Less Crime); «Meri Rosh» (Mary Rosh)",
+  "izoh": "kitob nomi kursivda",
+  "joy": "7-bob, 897",
+  "holat": "TASDIQLANGAN"
+ },
+ "Гилберт Честертон": {
+  "uz": "Gilbert Chesterton",
+  "izoh": "",
+  "joy": "7-bob, 925",
+  "holat": "TASDIQLANGAN"
+ },
+ "Энтони Боуза": {
+  "uz": "Entoni Bouza (Anthony Bouza)",
+  "izoh": "",
+  "joy": "7-bob, 926",
+  "holat": "TASDIQLANGAN"
+ },
+ "Д. Гейл Джонсон; Эндрю; Аманда": {
+  "uz": "D. Geyl Jonson (D. Gale Johnson); Endryu; Amanda",
+  "izoh": "Levitt hayotidan",
+  "joy": "7-bob, 965",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джейн Рои": {
+  "uz": "Jeyn Rou",
+  "izoh": "3-bobda Jeyn Rou (Jane Roe) deb berilgan",
+  "joy": "7-bob, 816",
+  "holat": "TASDIQLANGAN"
+ },
+ "бассейн": {
+  "uz": "suzish havzasi",
+  "izoh": "oldingi boblarga muvofiq",
+  "joy": "7-bob, 968",
+  "holat": "TASDIQLANGAN"
  }
 }
