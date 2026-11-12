@@ -796,5 +796,185 @@
   "izoh": "ko‘chmas mulk e’lonlari iborasi",
   "joy": "5-bob, 484",
   "holat": "TASDIQLANGAN"
+ },
+ "крэк": {
+  "uz": "krek",
+  "izoh": "kokain turi (crack); крэковый бум → krek bumi",
+  "joy": "6-bob, 658",
+  "holat": "TASDIQLANGAN"
+ },
+ "банда; наркобанда": {
+  "uz": "to‘da; narkoto‘da",
+  "izoh": "группировка → guruh",
+  "joy": "6-bob, 673",
+  "holat": "TASDIQLANGAN"
+ },
+ "главарь банды": {
+  "uz": "to‘da sardori",
+  "izoh": "",
+  "joy": "6-bob, 704",
+  "holat": "TASDIQLANGAN"
+ },
+ "Черные гангстеры": {
+  "uz": "Qora gangsterlar",
+  "izoh": "Black Gangster Disciples to‘dasi, qo‘shtirnoqda",
+  "joy": "6-bob, 690",
+  "holat": "TASDIQLANGAN"
+ },
+ "совет директоров (банды)": {
+  "uz": "direktorlar kengashi",
+  "izoh": "",
+  "joy": "6-bob, 722",
+  "holat": "TASDIQLANGAN"
+ },
+ "офицер; инфорсер; казначей; курьер": {
+  "uz": "ofitser; enforser; xazinachi; kuryer",
+  "izoh": "to‘da tuzilmasi",
+  "joy": "6-bob, 723",
+  "holat": "TASDIQLANGAN"
+ },
+ "пехотинцы (уличные продавцы)": {
+  "uz": "piyoda askarlar (ko‘cha sotuvchilari)",
+  "izoh": "",
+  "joy": "6-bob, 723",
+  "holat": "TASDIQLANGAN"
+ },
+ "условные (рядовые) члены": {
+  "uz": "shartli (oddiy) a’zolar",
+  "izoh": "",
+  "joy": "6-bob, 723",
+  "holat": "TASDIQLANGAN"
+ },
+ "наркоторговец; наркодилер; пушер": {
+  "uz": "narkotik savdogari / narkotik sotuvchi; narkodiler; pusher",
+  "izoh": "торговец наркотиками → narkotik sotuvchi (tasdiqlangan)",
+  "joy": "6-bob, 674",
+  "holat": "TASDIQLANGAN"
+ },
+ "Садхир Венкатеш": {
+  "uz": "Sudxir Venkatesh (Sudhir Venkatesh)",
+  "izoh": "",
+  "joy": "6-bob, 658",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джей Ти": {
+  "uz": "Jey Ti (J. T.)",
+  "izoh": "to‘da sardori",
+  "joy": "6-bob, 704",
+  "holat": "TASDIQLANGAN"
+ },
+ "Бути": {
+  "uz": "Buti (Booty)",
+  "izoh": "",
+  "joy": "6-bob, 714",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джон Кеннет Гэлбрейт": {
+  "uz": "Jon Kennet Gelbreyt (John Kenneth Galbraith)",
+  "izoh": "",
+  "joy": "6-bob, 663",
+  "holat": "TASDIQLANGAN"
+ },
+ "Митч Снайдер": {
+  "uz": "Mitch Snayder (Mitch Snyder)",
+  "izoh": "",
+  "joy": "6-bob, 665",
+  "holat": "TASDIQLANGAN"
+ },
+ "Джеймс Б. Твитчелл": {
+  "uz": "Jeyms B. Tvitchell (James B. Twitchell)",
+  "izoh": "",
+  "joy": "6-bob, 667",
+  "holat": "TASDIQLANGAN"
+ },
+ "Пол Кругман": {
+  "uz": "Pol Krugman (Paul Krugman)",
+  "izoh": "",
+  "joy": "6-bob, 668",
+  "holat": "TASDIQLANGAN"
+ },
+ "Уильям Джулиус Вильсон (Уилсон)": {
+  "uz": "Uilyam Julius Uilson (William Julius Wilson)",
+  "izoh": "",
+  "joy": "6-bob, 677",
+  "holat": "TASDIQLANGAN"
+ },
+ "Оливер Уэнделл Холмс": {
+  "uz": "Oliver Uendell Xolms (Oliver Wendell Holmes)",
+  "izoh": "",
+  "joy": "6-bob, 717",
+  "holat": "TASDIQLANGAN"
+ },
+ "Общество товарищей (Гарвард)": {
+  "uz": "Hamkasblar jamiyati (Society of Fellows)",
+  "izoh": "kursivda",
+  "joy": "6-bob, 717",
+  "holat": "TASDIQLANGAN"
+ },
+ "Ричард Прайор; «Миллионы Брюстера»": {
+  "uz": "Richard Prayor (Richard Pryor); Bryusterning millionlari (Brewster’s Millions)",
+  "izoh": "film nomi kursivda",
+  "joy": "6-bob, 788",
+  "holat": "TASDIQLANGAN"
+ },
+ "Дженет (жена Левитта)": {
+  "uz": "Jenet (Jeannette)",
+  "izoh": "",
+  "joy": "6-bob, 811",
+  "holat": "TASDIQLANGAN"
+ },
+ "ФБР": {
+  "uz": "FQB",
+  "izoh": "Federal qidiruv byurosi",
+  "joy": "6-bob, 714",
+  "holat": "TASDIQLANGAN"
+ },
+ "Бюро статистики труда": {
+  "uz": "Mehnat statistikasi byurosi",
+  "izoh": "",
+  "joy": "6-bob, 767",
+  "holat": "TASDIQLANGAN"
+ },
+ "Национальное бюро экономических исследований": {
+  "uz": "Milliy iqtisodiy tadqiqotlar byurosi",
+  "izoh": "",
+  "joy": "6-bob, 811",
+  "holat": "TASDIQLANGAN"
+ },
+ "Высшая лига": {
+  "uz": "Oliy liga",
+  "izoh": "",
+  "joy": "6-bob, 771",
+  "holat": "TASDIQLANGAN"
+ },
+ "гламурная профессия": {
+  "uz": "glamur kasb",
+  "izoh": "",
+  "joy": "6-bob, 770",
+  "holat": "TASDIQLANGAN"
+ },
+ "хронический халитоз": {
+  "uz": "surunkali galitoz",
+  "izoh": "",
+  "joy": "6-bob, 667",
+  "holat": "TASDIQLANGAN"
+ },
+ "свободная основа": {
+  "uz": "erkin asos",
+  "izoh": "freebase",
+  "joy": "6-bob, 788",
+  "holat": "TASDIQLANGAN"
+ },
+ "волновой эффект": {
+  "uz": "to‘lqin effekti",
+  "izoh": "ripple effect",
+  "joy": "6-bob, 806",
+  "holat": "TASDIQLANGAN"
+ },
+ "контрас (никарагуанские)": {
+  "uz": "kontralar",
+  "izoh": "",
+  "joy": "6-bob, 790",
+  "holat": "TASDIQLANGAN"
  }
 }
