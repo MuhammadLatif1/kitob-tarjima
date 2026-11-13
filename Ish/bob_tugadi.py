@@ -50,6 +50,10 @@ def main():
         if out.returncode != 0:
             print(out.stderr)
             sys.exit(s + " xato")
+    nom = yukla(ISH / "meta.json")["fayl"].split("/")[-1][:-5]
+    out = subprocess.run([sys.executable, str(ISH / "maydon_tuzat.py"), str(LOYIHA / "Asl" / (nom + ".docx")),
+                          str(LOYIHA / "Tarjima" / (nom + "_uz.docx"))], capture_output=True, text=True)
+    print(out.stdout.strip())
     print("Yangi atamalar: %d. Keyingi: %s" % (n, keyingi["nom"] if keyingi else "yo'q"))
 
 

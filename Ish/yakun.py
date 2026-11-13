@@ -72,8 +72,14 @@ def main():
     h += tek[:i7]
     h += ["2) NOANIQ JOYLAR"] + bob_royxat("noaniq")
     h += ["3) IQTIBOSLAR VA SAHIFA OSTI IZOHLARI"] + bob_royxat("iqtiboslar")
-    h += ["4) LUG'ATGA QO'SHILGAN YANGI ATAMALAR"] + (["   " + q for q in yangi] or ["   Yo'q"])
-    h += ["5) TASDIQ KERAK ATAMALAR"] + (["   " + q for q in b["TAKLIF"]] or ["   Yo'q"])
+    # shu kitob atamalari (qayta ishga tushirilganda ham ro'yxat yo'qolmasin)
+    jk = {k.lower() for k in joriy}
+    kitob = [q for k in BOLIMLAR for q in b[k] if "→" in q and q.split("→")[0].strip().lower() in jk]
+    h += ["4) LUG'ATGA QO'SHILGAN YANGI ATAMALAR"] + (["   " + q for q in kitob] or ["   Yo'q"])
+    tk = bob_royxat("tasdiq_kerak")
+    h += ["5) TASDIQ KERAK ATAMALAR"] + (["   " + q for q in b["TAKLIF"]] or ["   Lug'atda TAKLIF atama yo'q"])
+    if tk != ["   Yo'q"]:
+        h += ["   Tarjimon tanlovlari (tekshirib ko'ring):"] + tk
     h += tek[i7:]
     h += ["8) BOBLARGA BO'LISH"]
     h += ["   %2d. %s (birliklar %d-%d)" % (x["raqam"], x["nom"], x["boshlanish"], x["tugash"]) for x in boblar]

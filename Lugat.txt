@@ -1,8 +1,276 @@
 ATAMALAR LUG'ATI
 Format: asl atama → o'zbekcha tarjima | izoh | birinchi uchragan joy
-Oxirgi yangilanish: -
+Oxirgi yangilanish: Frikonomika
 
 TASDIQLANGAN
+Фрикономика → Frikonomika | kitob nomi | 0-qism, 3
+Мнение экономиста-диссидента о неожиданных связях между событиями и явлениями → Dissident iqtisodchining voqea va hodisalar o‘rtasidagi kutilmagan bog‘liqliklar haqidagi fikri | kitob kichik sarlavhasi | 0-qism, 3
+Table of Contents → Mundarija |  | 0-qism, 2
+Annotation → Annotatsiya |  | 0-qism, 21
+Предисловие к русскому изданию → Ruscha nashrga so‘zboshi | bob sarlavhasi (1-bob) | 0-qism, 4
+Пояснительная записка → Tushuntirish xati | bob sarlavhasi (2-bob) | 0-qism, 5
+Введение. Всегда есть что-то, чего мы не знаем → Kirish. Biz bilmaydigan nimadir doim bor | bob sarlavhasi (3-bob) | 0-qism, 6
+1 Что общего между школьными учителями и борцами сумо? → 1 Maktab o‘qituvchilari va sumo kurashchilari o‘rtasida qanday umumiylik bor? | bob sarlavhasi | 0-qism, 7
+2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью? → 2 Ku-kluks-klan va ko‘chmas mulk agentlari o‘rtasida qanday umumiylik bor? | bob sarlavhasi | 0-qism, 8
+3 Почему торговцы наркотиками продолжают жить со своими родителями? → 3 Nega narkotik sotuvchilar ota-onalari bilan yashashda davom etadi? | bob sarlavhasi | 0-qism, 9
+4 Куда исчезли все преступники? → 4 Barcha jinoyatchilar qayoqqa g‘oyib bo‘ldi? | bob sarlavhasi | 0-qism, 10
+5 Идеальные родители?.. → 5 Ideal ota-onalar?.. | bob sarlavhasi | 0-qism, 11
+6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет” → 6 Ideal ota-onalar, II qism, yoki «Nom nima? Atirgulni qanday atasang ham, u baribir atirgul bo‘lib hid taratadi» | bob sarlavhasi | 0-qism, 12
+Эпилог. Два пути в Гарвард → Epilog. Garvardga ikki yo‘l | bob sarlavhasi | 0-qism, 13
+Примечания → Izohlar | bo‘lim sarlavhasi (bosh harflarda: IZOHLAR) | 0-qism, 14
+Благодарности → Minnatdorchilik | bo‘lim sarlavhasi | 0-qism, 15
+Обложка → Muqova |  | 0-qism, 16
+торговец наркотиками → narkotik sotuvchi |  | 0-qism, 9
+агент по торговле (продаже) недвижимостью → ko‘chmas mulk agenti |  | 0-qism, 8
+борец сумо → sumo kurashchisi |  | 0-qism, 7
+Стивен Д. Левитт → Stiven D. Levitt | muallif | 0-qism, 22
+Стивен Дж. Дабнер → Stiven J. Dabner | muallif | 0-qism, 22
+стимул → rag‘bat | kitobning asosiy tushunchasi (incentive); стимулировать → rag‘batlantirmoq | 1-bob, 59
+экономика (наука) → iqtisod | fan sifatida; xo‘jalik tizimi ma’nosida → iqtisodiyot | 1-bob, 53
+экономика (хозяйство) → iqtisodiyot | xo‘jalik tizimi ma’nosida («новая экономика», «наша экономика») | 1-bob, 55
+фрик → frik |  | 1-bob, 54
+экономист-диссидент → dissident iqtisodchi |  | 1-bob, 54
+поведенческая экономика → xulq-atvor iqtisodiyoti | behavioral economics | 1-bob, 59
+информационная асимметрия → axborot asimmetriyasi |  | 1-bob, 61
+мошенничество → firibgarlik | мошенничать → firibgarlik qilmoq | 1-bob, 62
+буриданов осёл → Buridan eshagi |  | 1-bob, 60
+кривые спроса и предложения → talab va taklif egri chiziqlari |  | 1-bob, 58
+Медаль Джона Бейтса Кларка → Jon Beyts Klark (John Bates Clark) medali | birinchi uchraganda asl yozilishi qavsda | 2-bob, 79
+Университет Чикаго → Chikago universiteti |  | 2-bob, 78
+Массачусетсский технологический институт → Massachusets texnologiya instituti |  | 2-bob, 80
+Центральное разведывательное управление → Markaziy razvedka boshqarmasi |  | 2-bob, 85
+Тур де Франс → «Tur de Frans» |  | 2-bob, 85
+унылая наука → zerikarli fan | dismal science | 2-bob, 83
+бездомный → uysiz odam | бродяга → daydi | 2-bob, 72
+эконометрия → ekonometrika |  | 2-bob, 80
+общепринятая точка зрения → umumqabul qilingan fikr | conventional wisdom; расхожее мнение → keng tarqalgan fikr | 3-bob, 92
+криминалист → kriminolog | criminologist ma’nosida | 3-bob, 92
+эксперт → ekspert |  | 3-bob, 92
+суперхищник → superyirtqich | superpredator | 3-bob, 108
+Рои против Уэйда → Rou Ueydga qarshi | Roe v. Wade sud ishi (kursivda) | 3-bob, 120
+Норма Мак-Корви → Norma Makkorvi (Norma McCorvey) |  | 3-bob, 118
+Джеймс Алан Фокс → Jeyms Alan Foks (James Alan Fox) |  | 3-bob, 109
+Роберт Нозик → Robert Nozik (Robert Nozick) |  | 3-bob, 100
+Эмертия Сен → Amartya Sen |  | 3-bob, 97
+комиссионные → komission haq |  | 3-bob, 127
+кривая преступности → jinoyatchilik egri chizig‘i |  | 3-bob, 107
+Теория нравственных чувств → Axloqiy tuyg‘ular nazariyasi (The Theory of Moral Sentiments) | A. Smit kitobi | 3-bob, 162
+Философы мира → Dunyoviy faylasuflar (The Worldly Philosophers) | R. Xeylbroner kitobi | 3-bob, 163
+Роберт Хейлбронер → Robert Xeylbroner (Robert Heilbroner) |  | 3-bob, 163
+Оскар Данило Блэндон → Oskar Danilo Blandon (Oscar Danilo Blandón) | laqabi: Jonni Kokain Urug‘i | 3-bob, 158
+Слабое звено → Zaif bo‘g‘in (The Weakest Link) | teleo‘yin | 3-bob, 153
+ЦРУ → MRB | Markaziy razvedka boshqarmasi qisqartmasi | 3-bob, 179
+побуждение → undov | стимул (rag‘bat) dan farqlash uchun | 4-bob, 182
+экономический / социальный / моральный стимул → iqtisodiy / ijtimoiy / axloqiy rag‘bat |  | 4-bob, 191
+итоговый тест (тестирование) → yakuniy test | high-stakes testing | 4-bob, 270
+алгоритм мошенничества → firibgarlik algoritmi |  | 4-bob, 329
+общественные школы Чикаго → Chikago davlat maktablari | Chicago Public Schools | 4-bob, 269
+коэффициент возвратности (возврата) → qaytim koeffitsiyenti | Feldmanning bublik to‘lovlari | 4-bob, 459
+преступления «белых воротничков» → «oq yoqalilar» jinoyatlari | white-collar crime | 4-bob, 463
+сумоист → sumochi | борец сумо → sumo kurashchisi | 4-bob, 422
+промоутер (в сумо) → promouter |  | 4-bob, 443
+контрольная группа → nazorat guruhi |  | 4-bob, 387
+Пол Фельдман → Pol Feldman (Paul Feldman) |  | 4-bob, 183
+Мануэль Айснер → Manuel Ayzner (Manuel Eisner) |  | 4-bob, 194
+Милтон Фридман → Milton Fridman |  | 4-bob, 190
+Эстер Принн → Ester Prinn (Hester Prynne) |  | 4-bob, 193
+Н. Хоторн, «Алая буква» → N. Xotorn (N. Hawthorne), «Qirmizi harf» (The Scarlet Letter) |  | 4-bob, 193
+У. К. Филдс → U. K. Filds (W. C. Fields) |  | 4-bob, 261
+Ни одного отстающего ребенка → «Birorta ham bola ortda qolmasin» (No Child Left Behind) | qonun | 4-bob, 271
+Тест основных умений и навыков штата Айовы (ITBS) → Ayova shtatining asosiy ko‘nikma va malakalar testi (ITBS) |  | 4-bob, 272
+Арни Дункан → Arni Dunkan (Arne Duncan) |  | 4-bob, 384
+Университет Джорджии → Jorjiya universiteti |  | 4-bob, 393
+Джим Хэррик младший / старший → kichik / katta Jim Xerrik (Jim Harrick Jr.) |  | 4-bob, 412
+Алимжан Токтахунов → Alimjon To‘xtaxunov (Alimzhan Tokhtakhounov) |  | 4-bob, 419
+Марк Грейс → Mark Greys (Mark Grace) |  | 4-bob, 420
+Терри Мэллой; фильм «В порту» → Terri Mellou (Terry Malloy); «Portda» (On the Waterfront) |  | 4-bob, 420
+макуучи, джурио → makuuchi, juryo | sumo divizionlari (kursiv) | 4-bob, 423
+якудза → yakudza |  | 4-bob, 452
+Митцуру Мийаке → Mitsuru Miyake (Mitsuru Miyake) |  | 4-bob, 452
+Ричард Талер → Richard Taler (Richard Thaler) |  | 4-bob, 467
+Колин Ф. Камерер → Kolin F. Kamerer (Colin F. Camerer) |  | 4-bob, 480
+Калифорнийский институт технологий → Kaliforniya texnologiya instituti |  | 4-bob, 480
+Кольцо Гига; Глаукон → Gig (Gyges) uzugi; Glavkon (Glaucon) | Platon, «Davlat» | 4-bob, 477
+Ку-клукс-клан (Клан, ККК) → Ku-kluks-klan (Klan, KKK) | член Клана → Klan a’zosi; ку-клукс-клановцы → ku-kluks-klanchilar | 5-bob, 482
+суд Линча; линчевание → linch sudi; linch qilish |  | 5-bob, 487
+дискриминация → kamsitish |  | 5-bob, 623
+дискриминация на основе предпочтений → afzalliklarga asoslangan kamsitish | taste-based discrimination | 5-bob, 630
+дискриминация на основе информации → axborotga asoslangan kamsitish | information-based discrimination | 5-bob, 630
+срочное страхование жизни → muddatli hayot sug‘urtasi | term life insurance; пожизненное → umrbod sug‘urta | 5-bob, 558
+информация → axborot | bob mavzusi (asimmetrik axborot); ko‘p ma’noli: oddiy kontekstda «ma’lumot»; данные/сведения → ma’lumot(lar) | 5-bob, 483
+фанатизм; фанатик → mutaassiblik; mutaassib | ханжество → riyokorlik | 5-bob, 496
+Всемирная паутина; Сеть → Butunjahon o‘rgimchak to‘ri; Tarmoq |  | 5-bob, 565
+директор кладбища → qabriston direktori |  | 5-bob, 566
+цветные / черные / белые → rangli tanlilar / qora tanlilar / oq tanlilar |  | 5-bob, 486
+латиноамериканцы → lotinamerikaliklar |  | 5-bob, 629
+сайт знакомств → tanishuv sayti |  | 5-bob, 634
+Реконструкция → Rekonstruksiya davri | AQSh tarixi, 1867—1877 | 5-bob, 486
+Законы Джима Кроу → Jim Krou (Jim Crow) qonunlari |  | 5-bob, 488
+Плесси против Фергюсона; Гомер Плесси → Plessi Fergyusonga qarshi (Plessy v. Ferguson); Xomer Plessi (Homer Plessy) | sud ishi (kursivda) | 5-bob, 488
+Пуласки → Pulaski (Pulaski) | Tennessi shtati | 5-bob, 486
+Д. Гриффит, «Рождение нации», «Человек Клана» → D. Griffit (D. W. Griffith), «Millatning tug‘ilishi», «Klan odami» | film nomlari kursivda, ingliz asli qavsda | 5-bob, 489
+«История американского народа» → Amerika xalqi tarixi (A History of the American People) | V. Vilson kitobi | 5-bob, 489
+Уоррен Г. Хардинг → Uorren G. Harding (Warren G. Harding) |  | 5-bob, 490
+Уилл Роджерс → Uill Rojers (Will Rogers) |  | 5-bob, 490
+Стетсон Кеннеди → Stetson Kennedi (Stetson Kennedy) |  | 5-bob, 494
+Джон Б. Стетсон → Jon B. Stetson (John B. Stetson) |  | 5-bob, 494
+Вуди Гутри; Ричард Райт → Vudi Gutri (Woody Guthrie); Richard Rayt (Richard Wright) |  | 5-bob, 496
+Антиклеветническая лига → Tuhmatga qarshi liga (Anti-Defamation League) |  | 5-bob, 497
+Хмурая сила → Qovoq solish kuchi | Liga kampaniyasi | 5-bob, 497
+Дедди Меншн → Deddi Menshn (Daddy Mention) |  | 5-bob, 497
+Клавалеры; клаверна; Клоран → Klavalerlar; klaverna; Kloran | Klan atamalari | 5-bob, 503
+Великий Титан; Великий Дракон; Верховный Маг → Buyuk Titan; Buyuk Ajdaho; Oliy Sehrgar | Klan unvonlari | 5-bob, 501
+мистер Вычек; мистер Чкэй → mister Siklan; mister Kamen | Klan so‘z o‘yini (Mr. Ayak / Mr. Akai) | 5-bob, 503
+Алабамский институт Таскиджи → Alabamadagi Taskigi instituti (Tuskegee Institute) |  | 5-bob, 513
+«Приключения Супермена» → Supermenning sarguzashtlari | radioshou (kursiv) | 5-bob, 544
+Дэвид Дюк → Devid Dyuk (David Duke) |  | 5-bob, 555
+Вин Крейг Уэйд, «Пылающий крест» → Uin Kreyg Ueyd (Wyn Craig Wade), «Yonayotgan xoch: Amerikadagi Ku-kluks-klan» (The Fiery Cross: The Ku Klux Klan in America) |  | 5-bob, 555
+Луис Д. Брандейс → Luis D. Brandeys (Louis D. Brandeis) |  | 5-bob, 560
+Генри Блоджет; Джек Грабмен; Френк Кваттроун; Сэм Уэксел → Genri Blodjet (Henry Blodget); Jek Grabmen (Jack Grubman); Frenk Kvattroun (Frank Quattrone); Sem Ueksel (Sam Waksal) |  | 5-bob, 568
+Марта Стюарт → Marta Styuart |  | 5-bob, 568
+Дэвид Хиллис → Devid Xillis (David Hillis) |  | 5-bob, 574
+Джон Донохью → Jon Donoxyu (John Donohue) |  | 5-bob, 579
+Трент Лотт → Trent Lott (Trent Lott) |  | 5-bob, 484
+Стром Термонд → Strom Termond (Strom Thurmond) |  | 5-bob, 621
+Али Хортацу; Гюнтер Хитщ; Дэн Ариэли → Ali Hortasu (Ali Hortaçsu); Gyunter Xitsh (Günter Hitsch); Den Arieli (Dan Ariely) |  | 5-bob, 637
+Дэвид Динкинс; Рудольф Джулиани → Devid Dinkins (David Dinkins); Rudolf Juliani |  | 5-bob, 649
+в хорошем состоянии → yaxshi holatda | ko‘chmas mulk e’lonlari iborasi | 5-bob, 484
+крэк → krek | kokain turi (crack); крэковый бум → krek bumi | 6-bob, 658
+банда; наркобанда → to‘da; narkoto‘da | группировка → guruh | 6-bob, 673
+главарь банды → to‘da sardori |  | 6-bob, 704
+Черные гангстеры → Qora gangsterlar | Black Gangster Disciples to‘dasi, qo‘shtirnoqda | 6-bob, 690
+совет директоров (банды) → direktorlar kengashi |  | 6-bob, 722
+офицер; инфорсер; казначей; курьер → ofitser; enforser; xazinachi; kuryer | to‘da tuzilmasi | 6-bob, 723
+пехотинцы (уличные продавцы) → piyoda askarlar (ko‘cha sotuvchilari) |  | 6-bob, 723
+условные (рядовые) члены → shartli (oddiy) a’zolar |  | 6-bob, 723
+наркоторговец; наркодилер; пушер → narkotik savdogari / narkotik sotuvchi; narkodiler; pusher | торговец наркотиками → narkotik sotuvchi (tasdiqlangan) | 6-bob, 674
+Садхир Венкатеш → Sudxir Venkatesh (Sudhir Venkatesh) |  | 6-bob, 658
+Джей Ти → Jey Ti (J. T.) | to‘da sardori | 6-bob, 704
+Бути → Buti (Booty) |  | 6-bob, 714
+Джон Кеннет Гэлбрейт → Jon Kennet Gelbreyt (John Kenneth Galbraith) |  | 6-bob, 663
+Митч Снайдер → Mitch Snayder (Mitch Snyder) |  | 6-bob, 665
+Джеймс Б. Твитчелл → Jeyms B. Tvitchell (James B. Twitchell) |  | 6-bob, 667
+Пол Кругман → Pol Krugman (Paul Krugman) |  | 6-bob, 668
+Уильям Джулиус Вильсон (Уилсон) → Uilyam Julius Uilson (William Julius Wilson) |  | 6-bob, 677
+Оливер Уэнделл Холмс → Oliver Uendell Xolms (Oliver Wendell Holmes) |  | 6-bob, 717
+Общество товарищей (Гарвард) → Hamkasblar jamiyati (Society of Fellows) | kursivda | 6-bob, 717
+Ричард Прайор; «Миллионы Брюстера» → Richard Prayor (Richard Pryor); Bryusterning millionlari (Brewster’s Millions) | film nomi kursivda | 6-bob, 788
+Дженет (жена Левитта) → Jenet (Jeannette) |  | 6-bob, 811
+ФБР → FQB | Federal qidiruv byurosi | 6-bob, 714
+Бюро статистики труда → Mehnat statistikasi byurosi |  | 6-bob, 767
+Национальное бюро экономических исследований → Milliy iqtisodiy tadqiqotlar byurosi |  | 6-bob, 811
+Высшая лига → Oliy liga |  | 6-bob, 771
+гламурная профессия → glamur kasb |  | 6-bob, 770
+хронический халитоз → surunkali galitoz |  | 6-bob, 667
+свободная основа → erkin asos | freebase | 6-bob, 788
+волновой эффект → to‘lqin effekti | ripple effect | 6-bob, 806
+контрас (никарагуанские) → kontralar |  | 6-bob, 790
+преступность → jinoyatchilik | уровень преступности → jinoyatchilik darajasi; спад/снижение преступности → jinoyatchilik pasayishi | 7-bob, 815
+тяжкие преступления; особо тяжкие преступления → og‘ir jinoyatlar; o‘ta og‘ir jinoyatlar | насильственные преступления → zo‘ravonlik jinoyatlari | 7-bob, 826
+высшая мера наказания; смертная казнь → oliy jazo; o‘lim jazosi | смертный приговор → o‘lim hukmi | 7-bob, 816
+легализация абортов → abortlarning qonuniylashtirilishi |  | 7-bob, 816
+взаимосвязь (корреляция) / причинность → o‘zaro bog‘liqlik (korrelyatsiya) / sababiyat | причинная связь → sababiy bog‘liqlik; причинно-следственная связь → sabab-oqibat bog‘liqligi | 7-bob, 853
+новые стратегии полиции → politsiyaning yangi strategiyalari | 3-bobdagi tarjimaga muvofiq | 7-bob, 835
+увеличение численного состава полиции → politsiya shtatining ko‘payishi |  | 7-bob, 842
+законы о контроле оружия → qurol nazorati to‘g‘risidagi qonunlar |  | 7-bob, 840
+выкуп оружия → qurolni (aholidan) sotib olish | gun buyback | 7-bob, 845
+теория разбитого окна → singan deraza nazariyasi | broken window theory | 7-bob, 874
+непреднамеренная выгода → ko‘zlanmagan foyda | unintended benefit | 7-bob, 925
+Николае Чаушеску; Елена → Nikolae Chaushesku; Yelena |  | 7-bob, 816
+Тимишоара; Бухарест → Timishoara; Buxarest |  | 7-bob, 822
+Гэри Беккер → Geri Bekker (Gary Becker) |  | 7-bob, 851
+Джон Дж. ДиЮлио младший → kichik Jon J. Diyulio (John J. DiIulio Jr.) |  | 7-bob, 853
+Исаак Эрлих → Isaak Erlix (Isaac Ehrlich) |  | 7-bob, 857
+Хэрри Блэкмун → Garri Blekmun (Harry Blackmun) |  | 7-bob, 858
+Уильям (Билл) Брэттон → Uilyam (Bill) Bratton (William Bratton) |  | 7-bob, 873
+Джеймс Вильсон (Уилсон); Джордж Келлинг → Jeyms Uilson (James Q. Wilson); Jorj Kelling (George Kelling) | kriminologlar; Uilyam Julius Uilsondan farqli | 7-bob, 874
+CompStat; LexisNexis → CompStat; LexisNexis | lotin yozuvida, kursiv | 7-bob, 831
+Закон Брэйди → Breydi qonuni (Brady Act) |  | 7-bob, 896
+Джон Р. Лотт младший; «Больше оружия, меньше преступности»; Мэри Рош → kichik Jon R. Lott (John R. Lott Jr.); Ko‘proq qurol — kamroq jinoyat (More Guns, Less Crime); «Meri Rosh» (Mary Rosh) | kitob nomi kursivda | 7-bob, 897
+Гилберт Честертон → Gilbert Chesterton |  | 7-bob, 925
+Энтони Боуза → Entoni Bouza (Anthony Bouza) |  | 7-bob, 926
+Д. Гейл Джонсон; Эндрю; Аманда → D. Geyl Jonson (D. Gale Johnson); Endryu; Amanda | Levitt hayotidan | 7-bob, 965
+Джейн Рои → Jeyn Rou | 3-bobda Jeyn Rou (Jane Roe) deb berilgan | 7-bob, 816
+бассейн → suzish havzasi | oldingi boblarga muvofiq | 7-bob, 968
+эксперт по воспитанию → tarbiya bo‘yicha ekspert |  | 8-bob, 976
+родительское мастерство / искусство → ota-onalik mahorati / san’ati |  | 8-bob, 976
+навязчивые (чрезмерно заботливые) родители → haddan tashqari g‘amxo‘r ota-onalar | чрезмерно опекающие → haddan tashqari ehtiyot qiladigan | 8-bob, 973
+природа и воспитание → tabiat va tarbiya | nature vs. nurture | 8-bob, 973
+Риск = Опасность + Беспокойство → Xavf = Xatar + Tashvish | P. Sendmen formulasi; риск → xavf, опасность → xatar, беспокойство → tashvish | 8-bob, 990
+фактор страха; фактор контроля → dahshat omili; nazorat omili |  | 8-bob, 989
+Питер Сэндмен → Piter Sendmen (Peter Sandman) |  | 8-bob, 983
+Энн Хальберт; «Воспитание Америки…» → Enn Xalbert (Ann Hulbert); Amerikani tarbiyalash: ekspertlar, ota-onalar va bolalar haqidagi maslahatlar asri (Raising America…) | kitob nomi kursivda | 8-bob, 977
+Гэри Эццо; «Детская мудрость» → Geri Ezzo (Gary Ezzo); Go‘dak donoligi (Babywise) |  | 8-bob, 977
+Т. Берри Брэйзлтон → T. Berri Breyzlton (T. Berry Brazelton) |  | 8-bob, 977
+Л. Эмметт Холт → L. Emmett Xolt (L. Emmett Holt) |  | 8-bob, 977
+Джудит Рич Харрис; «Воспитательная ложь» → Judit Rich Xarris (Judith Rich Harris); Tarbiya haqidagi yolg‘on (The Nurture Assumption) |  | 8-bob, 1000
+Стивен Пинкер; «Чистый лист» → Stiven Pinker (Steven Pinker); Toza varaq (Blank Slate) |  | 8-bob, 1002
+общественные школы Чикаго (ОШЧ) → Chikago davlat maktablari (ChDM) | qisqartma 8-bobda kiritildi | 8-bob, 1013
+Браун против Совета по образованию (г. Топека); Оливер Браун → Braun Topeka shahar ta’lim kengashiga qarshi; Oliver Braun (Oliver Brown) | sud ishi kursivda | 8-bob, 1013
+выбор школы; школьная лотерея → maktab tanlash; maktab lotereyasi |  | 8-bob, 1012
+Ричард П. Миллс → Richard P. Mills (Richard P. Mills) |  | 8-bob, 1021
+разрыв (в результатах тестов) между белыми и черными → oq tanlilar va qora tanlilar o‘rtasidagi (test natijalaridagi) farq |  | 8-bob, 1022
+Роланд Фрайер младший; «белое поведение» → kichik Roland Frayer (Roland Fryer Jr.); «oq tanlilarcha xulq-atvor» |  | 8-bob, 1024
+Карим Абдул-Джаббар (Лью Эльсиндор) → Karim Abdul-Jabbor (Kareem Abdul-Jabbar), Lyu Alsindor (Lew Alcindor) |  | 8-bob, 1024
+Продольное исследование раннего детства (ECLS) → Erta bolalikni bo‘ylama tadqiq etish (ECLS) | ECLS lotincha, kursivda | 8-bob, 1027
+регрессивный (регрессионный) анализ → regressiya tahlili | regression analysis | 8-bob, 1030
+корреляция (статистический термин); переменная → korrelyatsiya; o‘zgaruvchi | положительная/отрицательная → ijobiy/salbiy korrelyatsiya; umumiy ma’noda «взаимосвязь» → o‘zaro bog‘liqlik | 8-bob, 1031
+Ассоциация родителей и преподавателей (PTA) → Ota-onalar va o‘qituvchilar assotsiatsiyasi (PTA) | kursivda; РТА kirillcha yozilgan, lotincha PTA | 8-bob, 1043
+Head Start → Head Start | federal maktabgacha tarbiya dasturi; lotincha o‘zgarishsiz, qo‘shimcha «dasturi» so‘zi orqali | 8-bob, 1057
+Имеет значение / Не имеет значения → Ahamiyatga ega / Ahamiyatga ega emas | ECLS omillari juftliklari | 8-bob, 1092
+Род Благоевич → Rod Blagoyevich (Rod Blagojevich) | Illinoys gubernatori | 8-bob, 1137
+Брюс Сэкердот → Bryus Sakerdot (Bruce Sacerdote) |  | 8-bob, 1166
+Молли, Эми, Имани; Исайя, Эмили, Рики → Molli, Emi, Imani; Isayya, Emili, Riki | misoldagi bolalar ismlari | 8-bob, 981, 1135
+Дайтона-Бич → Deytona-Bich (Daytona Beach) |  | 8-bob, 1007
+Роберт Лэйн; Победитель (Виннер), Неудачник (Лузер) Лэйн → Robert Leyn (Robert Lane); Vinner (G‘olib), Luzer (Omadsiz) Leyn | keyin G‘olib Leyn, Omadsiz Leyn | 9-bob, 1177
+Темптресс (Искусительница); Кауч (Кушетка) → Temptress (Vasvasachi); Kauch (Divan) |  | 9-bob, 1182
+У. Дэннис Дугган; Олбани; Суд по семейным делам → U. Dennis Duggan (W. Dennis Duggan); Olbani (Albany); Oilaviy ishlar sudi |  | 9-bob, 1182
+Сейнфельд; Футбол в понедельник вечером; Косби → Seynfeld (Seinfeld); Dushanba oqshomidagi futbol; Kosbi | teleko‘rsatuvlar, kursivda | 9-bob, 1173, 1191, 1183
+«черное» / «белое» имя → «qora» / «oq» ism | tipik «qora» ism | 9-bob, 1173
+культурная сегрегация → madaniy segregatsiya |  | 9-bob, 1191
+Черная сила; Черная пантера; Бобби Сил → «Qora kuch»; «Qora pantera»; Bobbi Sil (Bobby Seale) |  | 9-bob, 1195
+ДеШоун Уильямс; Джейк Уильямс → DeShon Uilyams (DeShawn Williams); Jeyk Uilyams (Jake Williams) |  | 9-bob, 1250
+Натали Еременко; Дальтон Конли → Natali Yeremenko (Natalie Jeremijenko); Dalton Konli (Dalton Conley) |  | 9-bob, 1253
+Иссур Данилович; Керк Дуглас; Зелман Мозес; Агентство Уильяма Морриса → Issur Danilovich; Kirk Duglas; Zelman Mozes (Zelman Moses); Uilyam Morris agentligi |  | 9-bob, 1253
+Бритни Спирс; Мэдисон; Авива → Britni Spirs; Medison; Aviva |  | 9-bob, 1173
+резюме; работодатель; собеседование → rezyume; ish beruvchi; suhbat (ishga qabul qilish suhbati) |  | 9-bob, 1249
+мотивация → motivatsiya |  | 9-bob, 1259
+Техасский университет в Арлингтоне → Arlingtondagi Texas universiteti |  | 9-bob, 1189
+Роланд Г. Фрайер младший → kichik Roland G. Frayer | 8-bobdagi kichik Roland Frayer (Roland Fryer Jr.) bilan bir shaxs | 9-bob, 1189
+среднее количество лет образования → o‘qishga sarflangan yillarning o‘rtacha soni | ism ro‘yxatlari kichik sarlavhasi | 9-bob, 1358
+Минимум 100 (10) упоминаний → Kamida 100 (10) marta uchragan | ro‘yxat izohi | 9-bob, 1370
+Мадонна; Ширли Темпл → Madonna; Shirli Templ |  | 9-bob, 1505
+«умное» / «богатое» имя → «aqlli» / «boy» ism |  | 9-bob, 1404, 1539
+Тед Качински; Унабомбер → Ted Kachinski (Ted Kaczynski); «Unabomber» |  | 10-bob, 1548
+См. статью / книгу / работу; См. также → Qarang: ... maqolasi / kitobi / ishi; Shuningdek, qarang: | Izohlar bo‘limidagi bibliografik shakl; с. → b.; от D месяца YYYY года → YYYY-yil D-oy soni | 11-bob, 1557
+Бюро судебной статистики → Sud statistikasi byurosi | Bureau of Justice Statistics | 11-bob, 1558
+Ури Гнизи; Альдо Растичини → Uri Gnizi (Uri Gneezy); Aldo Rustikini (Aldo Rustichini) |  | 11-bob, 1570
+Ричард М. Титмусс → Richard M. Titmus (Richard M. Titmuss) |  | 11-bob, 1573
+Джордж Акерлоф → Jorj Akerlof (George Akerlof) |  | 11-bob, 1590
+Уоллес Карозерс → Uolles Karozers (Wallace Carothers) | neylon ixtirochisi | 11-bob, 1614
+Шомбургский центр исследований черной культуры → Shomburg (Schomburg) qora tanlilar madaniyatini tadqiq etish markazi |  | 11-bob, 1587
+Национальная университетская атлетическая ассоциация → Milliy universitetlararo atletika assotsiatsiyasi | NCAA | 11-bob, 1579
+Общественные школы Окленда → Oklend davlat maktablari | Chikago davlat maktablari bilan bir xil shakl | 11-bob, 1576
+Гити Нашат Беккер → Giti Nashat Bekker (Guity Nashat Becker) |  | 11-bob, 1605
+Кристиан Поп-Элечес → Kristian Pop-Eleches (Cristian Pop-Eleches) |  | 11-bob, 1624
+Уильям Дж. Горта → Uilyam J. Gorta (William J. Gorta) | CompStat yaratuvchilaridan | 11-bob, 1636
+Апелляционный суд штата Нью-Йорк → Nyu-York shtati Apellyatsiya sudi |  | 11-bob, 1631
+Лоуренс Гринфилд → Lourens Grinfild (Lawrence Greenfeld) | Sud statistikasi byurosi direktori | 11-bob, 1651
+Ричард Райордан → Richard Rayordan (Richard Riordan) | Los-Anjelesning sobiq meri | 11-bob, 1703
+Айсис; Тринити → Aysis; Triniti | Rayordan voqeasidagi qizcha va uning onasi | 11-bob, 1703
+Мервин Дималли → Mervin Dimalli (Mervyn Dymally) |  | 11-bob, 1703
+Дуг МакАдам → Dag Makadam (Doug McAdam) | Stenford sotsiologi | 11-bob, 1704
+Стенли Либерсон → Stenli Liberson (Stanley Lieberson) |  | 11-bob, 1715
+Кливленд Кент Эванс → Klivlend Kent Evans (Cleveland Kent Evans) |  | 11-bob, 1716
+Университет Бель-Вью (Небраска) → Bellevyu universiteti (Nebraska) | Bellevue University | 11-bob, 1716
+Университет Центральной Флориды → Markaziy Florida universiteti |  | 11-bob, 1666
+Институт социальных исследований Университета Мичигана → Michigan universiteti Ijtimoiy tadqiqotlar instituti |  | 11-bob, 1696
+Лузер (Неудачник) Лэйн → Luzer (Omadsiz) Leyn | izoh sarlavhasi; 9-bobdagi atamaga mos | 11-bob, 1693
+Шитхед (Дерьмоголовая) → Shithed (Go‘ngkalla) | 9-bobdagi shakl | 11-bob, 1703
+Оранжелло и Лимончелло → Oranjello va Limonjello | 9-bobdagi shakl | 11-bob, 1704
+Примеч. ред. → Muharrir izohi. | sahifa osti izohidagi belgi | 12-bob, 1749
+Пер. (переводчик) → ... tarjimasi | «Пер. Б. Пастернака» → «B. Pasternak tarjimasi» | 12-bob, 1751
+Персональные благодарности → Shaxsiy minnatdorchilik | kichik sarlavha | 12-bob, 1726
 
 TAKLIF
 

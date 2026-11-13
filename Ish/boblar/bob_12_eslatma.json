@@ -1,0 +1,36 @@
+{
+ "noaniq": [
+  "1723: aslida «William Morrorow» deb yozilgan (aftidan, William Morrow nashriyoti nomidagi xato); tarjimada asldagidek qoldirildi.",
+  "1727: «Американское общество адвокатов» — inglizcha aslida, ehtimol, American Bar Foundation; ruscha matnga tayanib «Amerika advokatlar jamiyati» deb berildi. «исследование теории цен» (inglizcha aslida, ehtimol, Price Theory seminari) — «narx nazariyasiga oid tadqiqotlar» deb o‘girildi.",
+  "1730: «бубличный человек» — Pol Feldman haqidagi «What the Bagel Man Saw» maqolasiga ishora; «Bublikchi odam» deb berildi.",
+  "1722-1730: ismlarning lotin asli (Claire Wachtel, Suzanne Gluck, Debbie Stier, Linda Jines, Vera Titunik, Paul Tough va b.) inglizcha nashr asosida qavsda berildi; imlosi tekshirilsin. Avval uchragan nomlar (Stetson Kennedi, Pol Feldman, Sudxir Venkatesh, Arni Dunkan, Roland Frayer, Kolin Kamerer, Jenet, Endryu, Amanda) qavssiz.",
+  "1739: Turbulent Souls va Confessions of a Hero-Worshiper kitob nomlari asldagidek inglizcha qoldirildi (11-bobdagi kabi); asl matnda nomdan keyin nuqta yo‘q edi, tarjimada «muallifi.» bilan gap tugatildi.",
+  "1746: «notes» — bo‘lim texnik belgisi (inglizcha), o‘zgartirilmadi."
+ ],
+ "iqtiboslar": [
+  "1751: 2-izoh — U. Shekspir, «Romeo va Julyetta», B. Pasternak ruscha tarjimasi (6-bob sarlavhasidagi iqtibosga tegishli) | o‘zbekcha nashrdagi lafz bilan solishtirish tavsiya etiladi",
+  "1749: 1-izoh — «Freakonomics» so‘zining kelib chiqishi, muharrir izohi | tekshirish shart emas",
+  "1753: 3-izoh — Chastiti (Pokizalik), Temptress (Vasvasachi) ismlari 9-bobdagi shaklda | tekshirish shart emas"
+ ],
+ "yangi_atamalar": [
+  {
+   "en": "Примеч. ред.",
+   "uz": "Muharrir izohi.",
+   "izoh": "sahifa osti izohidagi belgi",
+   "joy": "12-bob, 1749"
+  },
+  {
+   "en": "Пер. (переводчик)",
+   "uz": "... tarjimasi",
+   "izoh": "«Пер. Б. Пастернака» → «B. Pasternak tarjimasi»",
+   "joy": "12-bob, 1751"
+  },
+  {
+   "en": "Персональные благодарности",
+   "uz": "Shaxsiy minnatdorchilik",
+   "izoh": "kichik sarlavha",
+   "joy": "12-bob, 1726"
+  }
+ ],
+ "tasdiq_kerak": []
+}

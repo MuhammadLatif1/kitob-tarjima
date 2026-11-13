@@ -1,0 +1,594 @@
+TARJIMA HISOBOTI: Frikonomika
+
+1) QAMROV
+   Xatboshi: 1753, jadval: 5, sahifa osti izohi: 0, rasm: 3 (asl bilan solishtirilgan)
+   Tarjima qilingan birliklar: 1459 / 1459
+2) NOANIQ JOYLAR
+   [0-qism (mundarija, annotatsiya, nom varag‘i)] 3, 25, 50: «FRICONOMICS» asl matnda lotincha yozilgan (inglizcha Freakonomics emas), shu holicha qoldirildi.
+   [0-qism (mundarija, annotatsiya, nom varag‘i)] 45: «notes» sarlavhasi inglizcha edi, «Izohlar» deb tarjima qilindi.
+   [0-qism (mundarija, annotatsiya, nom varag‘i)] 12, 40: Shekspir iqtibosining o‘zbekcha nashrdagi shakli topilmadi, ruschadan tarjima qilindi.
+   [ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ] 56: «выпрыгнуть из коротких штанишек традиционного мышления» obrazi «an’anaviy tafakkurning tor kelib qolgan kiyimidan chiqib ketish» deb berildi.
+   [ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ] 60: «При равенстве не уравновешенных стимулами возможностей» ma’nosi biroz noaniq; «Imkoniyatlar teng bo‘lib, rag‘batlar ularni muvozanatlashtirmasa» deb talqin qilindi.
+   [ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ] 65: Герман Греф → German Gref.
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 85: asl matnda «GeneralMotors» (bo‘sh joysiz) — «General Motors» deb tuzatildi.
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 83: «унылая наука» (dismal science, T. Karleyl iborasi) «zerikarli fan» deb berildi; asl matnda qo‘shtirnoqsiz.
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 84: «зубры» экономики → iqtisodning «pir»lari.
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 80: «доктор философии» (PhD) → «falsafa doktori».
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 97: asl matnda «Эмертия Сен» — o‘zbekchada o‘rnashgan shakli Amartya Sen deb berildi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 119, 120, 121: asl matnda «Джейн Рои» / «Рои против Уэйда» (inglizcha Roe) — Jeyn Rou (Jane Roe), «Rou Ueydga qarshi» deb berildi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 127: asl matnda «агент обычно имеет получает» (ortiqcha so‘z) va aralash qo‘shtirnoq ("...”) — tarjimada «...» bilan to‘g‘rilandi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 92, 109, 110, 129, 159: «криминалист» bu yerda kriminolog (criminologist) ma’nosida — «kriminolog» deb berildi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 134: «торговля недвижимостью как раз является достоянием гласности» (является kursivda) — kursiv «haqiqatan ham» so‘ziga ko‘chirildi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 144: «темные лошадки» → «qora otlar» (dark horse).
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 153: ⟦s1⟧Слабое звено⟦/s1⟧ — teleo‘yin «The Weakest Link»; ⟦s1⟧Zaif bo‘g‘in⟦/s1⟧ (The Weakest Link) deb berildi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 158: «Джонни Кокаиновое зерно» (inglizcha aslida «Johnny Appleseed of crack») — «Jonni Kokain Urug‘i» laqabi deb berildi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 163: Xeylbroner kitobi ruschada «Философы мира», asl nomi «The Worldly Philosophers» — «Dunyoviy faylasuflar» deb berildi.
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 174, 175: «а/я» (abonent qutisi) → «a/q».
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 179: «ЦРУ» → «MRB» (Markaziy razvedka boshqarmasi).
+   [1 Что общего между школьными учителями и борцами сумо?] 182, 188, 255: «побуждение» — «undov» deb berildi (стимул → rag‘bat bilan farqlash uchun).
+   [1 Что общего между школьными учителями и борцами сумо?] 193: «Примеч. пер.» → «Tarj. izohi»; 257: «Примеч. ред.» → «Muharr. izohi» (asl matndagi tarjimon/muharrir izohlari, tarjimada saqlandi).
+   [1 Что общего между школьными учителями и борцами сумо?] 204: asl jadvalda «XIII и XVI века» — ehtimol «XIII–XIV» bo‘lishi kerak (keyingi qatorlar XV, XVI asr); asl holicha «XIII va XVI asrlar» deb berildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 207, 211: jadvaldagi «н/д» (нет данных) → «m/y» (ma’lumot yo‘q).
+   [1 Что общего между школьными учителями и борцами сумо?] 276: asl matnda «он предложим» (предложит o‘rniga) imlo xatosi; ⟦s2⟧В⟦/s2⟧ va ⟦s2⟧С⟦/s2⟧ kirill harflari javob variantlari sifatida lotin B va C deb berildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 283, 358: kirill «а» (⟦s1⟧а⟦/s1⟧, 3-а—1—2) lotin a deb berildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 285, 309, 331, 379 va boshqalar: «Класс А / Класс Б» → «A sinf / B sinf».
+   [1 Что общего между школьными учителями и борцами сумо?] 286-307, 310-327, 333-354, 367: javoblar qatorlari (kodlar) o‘zgarishsiz qoldirildi; 296 da asl matnda ortiqcha bo‘shliq bor.
+   [1 Что общего между школьными учителями и борцами сумо?] 356: asl matnda qalin belgilar tinish belgilariga tushgan (⟦s1⟧, ⟦/s1⟧ va ⟦s1⟧. ⟦/s1⟧); tarjimada birinchi juft bo‘sh qoldirildi, ikkinchisi nuqtani o‘raydi.
+   [1 Что общего между школьными учителями и борцами сумо?] 357: asl matnda «рядом пулей» — «рядом нулей» (nollar qatori) xatosi; «bir qator nol» deb berildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 364: asl matnda «Балл б-го класса» (б harfi 6 o‘rniga) — «6-sinf bali» deb berildi (bolak_tekshir ortiqcha raqam 6 haqida ogohlantiradi).
+   [1 Что общего между школьными учителями и борцами сумо?] 397, 401: test variantlari а/б/в/г → a/b/c/d; 401 da asl «в. З» (kirill З harfi 3 o‘rniga) — «c. 3» deb berildi (ortiqcha raqam 3 ogohlantirishi).
+   [1 Что общего между школьными учителями и борцами сумо?] 418: «сеять разумное, доброе, вечное» (N. Nekrasov iborasi) — «ezgu, oqilona va abadiy urug‘ sochishi» deb ma’nosi bilan berildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 419: «известный российский мафиозо Алимжан Токтахунов» — Alimjon To‘xtaxunov (Alimzhan Tokhtakhounov) deb berildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 430, 431, 437, 438: asl matnda «7:7над» bo‘shliqsiz; tarjimada normal yozildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 447: asl matnda «количество побед возвращался» (kelishik xatosi) — ma’no bo‘yicha tarjima qilindi.
+   [1 Что общего между школьными учителями и борцами сумо?] 471, 473: asl matnda «эффекте 9/11"» aralash qo‘shtirnoq — «...» bilan berildi.
+   [1 Что общего между школьными учителями и борцами сумо?] 477: Platon «Республика» — o‘zbekchada odatiy nomi «Davlat» deb berildi; Глаукон → Glavkon (Glaucon), Гиг → Gig (Gyges), Сократ → Suqrot.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 482: bob sarlavhasi mundarijadagi tasdiqlangan tarjima bilan bir xil berildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 488, 568: «Примеч. ред.» → «Muharr. izohi» (oldingi boblardagidek).
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 488: «Плесси против Фергюсона» → ⟦s1⟧Plessi Fergyusonga qarshi⟦/s1⟧ (Plessy v. Ferguson) — «Rou Ueydga qarshi» bilan bir xil andozada; Гомер Плесси → Xomer Plessi (Homer Plessy).
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 492: asl matnda «стометровый крест на вершине горы ..., на котором был изображен легендарный Роберт Ли» — ingliz aslida Robert Li tasviri xochda emas, Stoun-Maunten (Stone Mountain) tog‘ida o‘yilgan; ruscha matn holicha (xochga nisbat berib) tarjima qilindi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 494: asl matnda Mustaqillik deklaratsiyasini imzolagan ikki ajdoddan «biri Konfederatsiya zobiti, ikkinchisi Jon B. Stetson» deyilgan (mantiqan chalkash, ruscha tarjima xatosi bo‘lishi mumkin); holicha berildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 495: asl matnda «Джексонвил-ле» (ortiqcha defis, OCR/terish xatosi) — Jeksonvill deb berildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 486, 500, 502, 507, 492: «ниггер» haqoratli so‘zi «zangi» deb berildi; «итальяшки» → «makaronxo‘rlar», «латиносы» → «latinoslar», «красные» → «qizillar».
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 503: «одной из Скалистых гор» (ingliz aslida Stone Mountain) — «qoyali tog‘lardan birining cho‘qqisida» deb berildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 503, 545, 583: Klan so‘z o‘yini «мистер Вычек» (= «Вы член Клана?») va «мистер Чкэй» (= «Член Клана — это я») o‘zbekcha qisqartma bilan berildi: «mister Siklan» (SIz KLAN a’zosimisiz) va «mister Kamen» (Klan A’zosi MEN). Ingliz aslida Mr. Ayak / Mr. Akai. «клазговор» → «klasuhbat».
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 545: Klan unvonlari asl (inglizcha) shaklga tayanib translit qilindi: Klaliff, Klokard, Kladd, Kligrepp, Klebi, Kledd, Klarogo, Klekster, Klokann; «Главный Надиралыцик Задов» (OCR: «Надиральщик») → «Bosh Ket Yirtuvchi»; Благородный Циклоп → Oliyjanob Siklop, Мучители → Azobchilar, Фурии → Furiyalar, Гидры → Gidralar, Верховный Маг → Oliy Sehrgar, Гении → Jinlar; «Лесная клаверна № 1 Натана Бедфорда» (ingliz aslida Nathan Bedford Forrest nomi — «Лесная» Forrest familiyasining noto‘g‘ri tarjimasi) holicha «Natan Bedford o‘rmon klavernasi № 1» deb berildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 561: «и пряник, и кнут» → «ham shirin kulcha, ham qamchi»; «удар ниже пояса» → «nomardona zarba».
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 566: «Последняя лунка» (golf) → «So‘nggi chuqurcha».
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 570: asl matnda qo‘shtirnoqlar muvozanatsiz («Заклинание дня ... “Гори, гори ясно”» — yopuvchi bitta); tarjimada «...«Yon, yon, lovulla»» deb muvozanatlandi. «результаты могут просто ошеломляющими» (быть tushib qolgan) — ma’no bo‘yicha tarjima qilindi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 573: «мегаватт∘час» belgisi asl holicha saqlandi (megavatt∘soati).
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 579: asl matnda Donoxyu iqtibosining tashqi yopuvchi qo‘shtirnog‘i yo‘q; tarjimada «...»» bilan yopildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 583: asl matnda «еще не надает» — OCR xatosi («не падает»), «hali qulab tushmayotgan» deb tarjima qilindi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 588-613: e’lon atamalari jadvali: Фантастический → Fantastik, Гранит → Granit, Просторный → Keng, Ультрасовременный → Ultrazamonaviy, Лучше не найдете! → Bundan yaxshisini topolmaysiz!, Резьба → O‘ymakorlik, Очаровательный → Maftunkor, Кленовое дерево → Zarang yog‘ochi, Великолепные окрестности → Ajoyib mahalla, Изысканный → Nafis.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 637: asl matnda «Гюнтер Хитщ» (Hitsch, OCR: щ) — Gyunter Xitsh (Günter Hitsch) deb berildi; Хортацу → Ali Hortasu (Ali Hortaçsu).
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 638: asl matnda «на пару сантиметров стройнее» — ingliz aslida bo‘y haqida (taller) bo‘lishi mumkin; ruscha holicha «xushqomatroq» deb berildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 641: asl matnda «размешает» — OCR xatosi («размещает»), «joylagan» deb tarjima qilindi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 643: «палка о двух концах» → «ikki tig‘li qilich»; asl matnda «“эффекта 9/11"» aralash qo‘shtirnoq — «...» bilan berildi.
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 648: «говорим одно, а думаем другое» → «tilimizda boshqa, dilimizda boshqa».
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 654: «Ему предлагали ... а в 2000 году его приглашали стать советником ... у Буша» — Bush (Jorj Bush) ismi asl holicha «Bush» deb berildi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 656: bob sarlavhasi mundarijadagi tasdiqlangan tarjima bilan bir xil berildi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 658, 769, 774: «защитник / полузащитник школьной футбольной команды» (ingliz aslida amerika futboli, high-school quarterback) ruscha holicha «himoyachi / yarim himoyachi» deb berildi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 679-684, 695-702: so‘rovnoma javob variantlari ruscha а–е o‘rniga lotin a–f harflari bilan berildi (ingliz aslidagidek); 695 dagi «от А до Д» → «A dan E gacha».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 689, 706, 712, 759: «ниггер» oldingi boblardagidek «zangi» deb berildi; 706 da «ниггер» / «афроамериканец» / «чернокожий» farqi «zangi» / «afroamerikalik» / «qora tanli» bilan berildi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 690: asl ruscha matnda «Он был черным, а не белым» (Venkatesh hindistonlik; ingliz aslida «he wasn’t black, he wasn’t white» bo‘lishi mumkin) — ruscha holicha tarjima qilindi, tekshirilsin.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 677, 713: asl matnda bir odam «Вильсон» va «Уилсон» deb ikki xil yozilgan — ikkalasi ham Uilyam Julius Uilson (William Julius Wilson) deb bir xillashtirildi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 714, 715, 782, 794: «ФБР» → FQB (Federal qidiruv byurosi).
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 717: «повозка вишневого дерева» (olcha yog‘ochidan arava) ruscha holicha berildi; ingliz aslida mebel (sideboard) bo‘lishi mumkin. «Общество товарищей» → «Hamkasblar jamiyati» (Society of Fellows). «Примеч. ред.» oldingi boblardagidek «Muharr. izohi».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 723: «инфорсер» → «enforser» (transliteratsiya), «пехотинцы» → «piyoda askarlar», «условные, или рядовые, члены» → «shartli, ya’ni oddiy a’zolar».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 726-755: jadvallardagi «долл.» → «doll.», chiziqli qatorlar (729, 740, 754) asl holicha.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 748: asl matnda «работал в офисе» (aslida «работая») — mazmun bo‘yicha tarjima qilindi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 763-764: jadval qatori ikki birlikka bo‘lingan (qavs ichidagi izoh 2,4 raqamidan keyin davom etadi); tarjimada ham shu bo‘linish saqlandi. «1 к 4» → «1 ga 4».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 772: asl ruscha matnda to‘rtinchi omil «необходимость средств для ее выполнения» deb berilgan (ingliz aslida «xizmatlarga talab» bo‘lishi mumkin, 773 da «спрос» haqida gap boradi) — ruscha holicha tarjima qilindi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 785: asl matnda «Е. I. du Pont de Nemours» — birinchi harf kirillcha «Е» (OCR xatosi), lotincha «E» bilan tuzatildi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 786: «вывело класс в широкие народные массы» → «nafislikni keng xalq ommasiga yetkazdi».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 789: krekning ko‘cha nomlari: «скала» → «qoya», «криптонит» → «kriptonit», «порода» → «tog‘ jinsi», «скребок» → «qirg‘ich», «любовь» → «muhabbat»; «треск» → «qarsillash».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 790: «контрас» → «kontralar»; «ЦРУ» → MRB (tasdiqlangan). Blandon va laqabi (Jonni Kokain Urug‘i) 3-bobda (bob_03) asl yozilishi bilan berilgani uchun qavssiz yozildi. 791 da asl matnda «Блендон» (imlo varianti) — Blandon deb bir xillashtirildi.
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 810: asl matnda «ворчалипо» (OCR: bo‘sh joy tushib qolgan, «ворчали по») — mazmun bo‘yicha tarjima qilindi; «идеологом (и консерватизма, и либерализма)» → «mafkurachi (ham konservatizm, ham liberalizm mafkurachisi)».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 811: «законченный чудак» → «chinakam g‘alati odam»; «шепелявит» → «tili chuchuk».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] Kam ma’lum nomlar bu bobda birinchi marta qavsda asl yozilishi bilan berildi: Sudxir Venkatesh (Sudhir Venkatesh), Jon Kennet Gelbreyt (John Kenneth Galbraith), Mitch Snayder (Mitch Snyder), Jeyms B. Tvitchell (James B. Twitchell), Pol Krugman (Paul Krugman), Uilyam Julius Uilson (William Julius Wilson), Jey Ti (J. T.), Buti (Booty), Oliver Uendell Xolms (Oliver Wendell Holmes), Richard Prayor (Richard Pryor), Jenet (Jeannette). Foks, Donoxyu, Blandon, Jim Krou oldingi boblarda berilgani uchun qavssiz.
+   [4 Куда исчезли все преступники?] 814: bob sarlavhasi mundarijadagi tasdiqlangan tarjima bilan bir xil berildi.
+   [4 Куда исчезли все преступники?] 819: asl matnda «неумелым правдением» — yaqqol imlo xatosi (правлением), tarjimada «boshqaruvi» deb berildi.
+   [4 Куда исчезли все преступники?] 830: asl matnda «ставил в туник» — yaqqol imlo xatosi (в тупик), «boshi berk ko‘chaga kiritib qo‘yardi» deb berildi.
+   [4 Куда исчезли все преступники?] 857: asl matnda «Атак как» — OCR/imlo xatosi (А так как), tuzatilgan ma’noda tarjima qilindi. Shu xatboshida ruscha matn «менее 4%» va «только четверть» deganlari bir-biriga zid (ingliz aslida taxminan 1/25); ruscha holicha tarjima qilindi, tekshirilsin.
+   [4 Куда исчезли все преступники?] 826: «их доля среди прочих правонарушений составила целых 80%» — ingliz aslida zo‘ravonlik jinoyatlari 80% ga oshgani aytiladi; ruscha holicha tarjima qilindi, tekshirilsin.
+   [4 Куда исчезли все преступники?] 828: asl matnda «я не будут извиняться» — grammatik xato, ma’nosi bo‘yicha tarjima qilindi.
+   [4 Куда исчезли все преступники?] 853: «В защиту моратория на строительство тюрем» maqolasi nomi o‘zbekchaga tarjima qilindi; ingliz asli (ehtimol W. Nagel, «On Behalf of a Moratorium on Prison Construction», 1977) aniq bo‘lmagani uchun qavsda berilmadi — tekshirilsin.
+   [4 Куда исчезли все преступники?] 874, 905: «Джеймс Вильсон / Уилсон» — kriminolog James Q. Wilson (Uilyam Julius Uilsondan boshqa odam); Jeyms Uilson (James Q. Wilson) deb berildi, ruscha matnda «Q.» yo‘q.
+   [4 Куда исчезли все преступники?] 891: «крутой» / «не крутой» парень → «zo‘r» / «zo‘r bo‘lmagan» yigit.
+   [4 Куда исчезли все преступники?] 897: «писала она/он» (Lottning taxallusi haqidagi kinoya) o‘zbekchada «u» jinssiz bo‘lgani uchun «deb yozardi bu «qiz» (yoki yigit)» deb berildi.
+   [4 Куда исчезли все преступники?] 915: «низкая культура матери» (ingliz aslida onaning past ma’lumoti bo‘lishi mumkin) ruscha holicha «onaning past madaniyati» deb berildi.
+   [4 Куда исчезли все преступники?] 917: «Количество беременных женщин на улицах увеличилось на 30%» (ingliz aslida homiladorliklar soni 30% oshgani) ruscha holicha tarjima qilindi, tekshirilsin.
+   [4 Куда исчезли все преступники?] 924: «повторяет их судьбы» dagi kursivli «их» ma’no aniq bo‘lishi uchun «onalarining» deb berildi (kursiv saqlandi).
+   [4 Куда исчезли все преступники?] 928: «полярные пятнистые совы» (ingliz aslida northern spotted owl) ruscha holicha «qutb dog‘li boyo‘g‘lilari» deb berildi.
+   [4 Куда исчезли все преступники?] 967: Endryuning yuragi haqidagi gap (ruscha: o‘sha qizchaga berilgan) ruscha holicha tarjima qilindi.
+   [4 Куда исчезли все преступники?] 833-845, 930-955: jadval qatorlari ruscha qator bo‘linishiga moslab tarjima qilindi; 834, 838, 844, 845 — oldingi qatorning davomi.
+   [4 Куда исчезли все преступники?] 968-969: «бассейн» oldingi boblardagidek «suzish havzasi» deb berildi.
+   [5 Идеальные родители?..] 971: bob sarlavhasi mundarijadagi tasdiqlangan tarjima bilan bir xil berildi («5 Ideal ota-onalar?..»).
+   [5 Идеальные родители?..] 982: asl matnda «1 к И 000» — yaqqol OCR xatosi (11 000); tarjimada «11 000 dan 1» deb tuzatildi (bolak_tekshir «ortiqcha raqam 11» ogohlantirishi shu sababli).
+   [5 Идеальные родители?..] 976: «пожалеешь розгу — испортишь ребенка; ударишь ребенка — угодишь в тюрьму» maqol-o‘yini «tayoqni ayasang — bolani buzasan, bolani ursang — qamoqqa tushasan» deb berildi.
+   [5 Идеальные родители?..] 1001: «Опять двадцать опять» — asl matnda buzilgan ibora («Опять двадцать пять»), ma’nosi bo‘yicha «Yana o‘sha gap!» deb tarjima qilindi.
+   [5 Идеальные родители?..] 1030-1037 va boshqalar: «регрессивный анализ» (aslida regression analysis) «regressiya tahlili» deb berildi; 1030 dagi psixiatriya haqidagi hazil saqlandi.
+   [5 Идеальные родители?..] 1013, 1042: «Браун против Совета по образованию г. Топека» (Brown v. Board of Education of Topeka) — «Braun Topeka shahar ta’lim kengashiga qarshi» deb, kursivda berildi.
+   [5 Идеальные родители?..] 1013: «ОШЧ» (Chicago Public Schools) qisqartmasi «ChDM» (Chikago davlat maktablari) deb berildi.
+   [5 Идеальные родители?..] 1043, 1045, 1062, 1076, 1124, 1127, 1149: «РТА» asl matnda kirill harflarida; lotincha «PTA» deb yozildi.
+   [5 Идеальные родители?..] 1024: ingliz maqola nomidagi “Acting White” qo‘shtirnog‘i «Acting White» ga almashtirildi.
+   [5 Идеальные родители?..] 1024: Karim Abdul-Jabbor (Kareem Abdul-Jabbar), asl ismi Lyu Alsindor (Lew Alcindor) deb berildi.
+   [5 Идеальные родители?..] 1073-1074, 1092-1093, 1109-1110: asl matnda bir jumla ikki birlikka bo‘lingan; tarjimada ham shu bo‘linishga moslab berildi.
+   [5 Идеальные родители?..] 1156: asl matnda «после его рождения ребенка» — takror (tahrir xatosi), ma’nosi bo‘yicha tarjima qilindi.
+   [5 Идеальные родители?..] 1166: ingliz maqola nomi asl matndagidek «The Nature and Nurture of Economics Outcomes» qoldirildi (asl nomi ehtimol «Economic Outcomes») — tekshirilsin.
+   [5 Идеальные родители?..] 1122: «шлепают» — «dumbasiga urishlarini» deb berildi; «малокультурные» — «madaniyati past».
+   [5 Идеальные родители?..] 1092, 1094 va boshqa juftliklar: «Имеет значение / Не имеет значения» → «Ahamiyatga ega / Ahamiyatga ega emas».
+   [5 Идеальные родители?..] 1106: «маминых школах» → «onalar maktablari».
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1171: bob sarlavhasi mundarijadagi tasdiqlangan tarjima bilan bir xil berildi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1231: asl matnda «б. Дастин» — yaqqol OCR xatosi (6.), tarjimada «6. Dastin» deb tuzatildi (bolak_tekshir «ortiqcha raqam 6» ogohlantirishi shu sababli).
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1182: asl matnda «Темптпресс» — OCR/terish xatosi (1185 da «Темптресс»); ikkala joyda Temptress deb berildi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1250: asl matnda «ДеШоун Уильяме» — OCR xatosi (Уильямс); «DeShon Uilyams» deb berildi. 1258: «мальчик но имени» — «по имени» xatosi, ma’nosi bo‘yicha tarjima qilindi. 1256: «произошла» — «произошло» xatosi, ma’nosi bo‘yicha.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] Ism ro‘yxatlari (1202-1247, 1268-1353): ismlar ingliz asl shakliga tayanib o‘zbekcha transliteratsiya qilindi. O‘zbekchada bir xil yoziladigan imlo variantlari (Katelyn/Caitlin/Kaitlin/Kaitlyn → Keytlin; Katherine/Kathryn → Ketrin; Jazmine/Jasmin/Jazmin/Jasmine → Jazmin/Jasmin) farqlanishi uchun ingliz yozilishi qavsda berildi — bu inglizcha asl ro‘yxatga tayangan taxmin, tekshirilsin.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1235: ruscha «Гюнтер» — inglizcha asl ro‘yxatdagi Hunter ning noto‘g‘ri ruscha berilishi bo‘lsa kerak; «Xanter» deb berildi. 1240: «Маркус» — asl ro‘yxatda ehtimol Marquis; «Markis» deb berildi. 1244: «Ксавье» (Xavier) → «Zeyvier». Tekshirilsin.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1179: «колледж в городе Лафайет, Пенсильвания» — aslida Lafayette College (Easton shahrida) bo‘lishi mumkin; ruscha matndagidek «Lafayet shahridagi kollej» deb berildi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1189: «Национальная футбольная или баскетбольная лига» — Milliy futbol ligasi yoki Milliy basketbol assotsiatsiyasi (NFL/NBA) deb berildi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1173, 1178 va keyin: Winner/Loser ismlari ruscha matndagidek: birinchi marta Vinner (G‘olib), Luzer (Omadsiz), keyin tarjima shakli G‘olib Leyn, Omadsiz Leyn. Temptress (Vasvasachi), Couch → Kauch (Divan), Chastity → Chastiti (Pokizalik), Precious (Bebaho), Shanice (Yog‘du), Shithead → Shithed (Go‘ngkalla) — ruscha matndagi izoh-tarjimalarga mos.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1196: «Юник ... Унику, Унеку и Уники» → Yunik (Unique), Unik, Unek va Uniki (ruscha matn bo‘yicha; inglizcha asl yozilishi tekshirilsin).
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1253: «Примеч. ред.» → «Muharr. izohi» (avvalgi boblardagidek). Bola ismi «Yo Ksing Xeyno Avgustus Ayzner Aleksandr Vayzer Naklz Yeremenko-Konli» transliteratsiya qilindi (inglizcha: Yo Xing Heyno Augustus Eisner Alexander Weiser Knuckles Jeremijenko-Conley).
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1191: «Marlboro.» dagi nuqta kursiv oralig‘idan tashqariga chiqarildi (belgilar soni o‘zgarmagan).
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1262: «ученые имена» — «ilmiy» ismlar (Garvard, Yel, Prinston kabi) deb berildi; talaffuz shakllari sha-Tid, a-Ron-jello, le-Mon-jello kursivda saqlandi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1359-1368, 1376-1385, 1391-1400, 1408-1417, 1425-1434, 1513-1537: ism ro‘yxatlari ruscha shakldan lotinchaga, ingliz asliga tayanib transliteratsiya qilindi. Yozilishi standartdan farq qiladigan yoki o‘zbekchada boshqa ism bilan bir xil chiqadigan ismlarda ingliz yozilishi qavsda berildi (Angel, Haven, Shyanne, Britny, Tiffanie, Ashly, Tabatha, Destiny/Destinee, Brandy/Brandie, Tylor va boshq.) — bu inglizcha asl ro‘yxatga tayangan taxmin, tekshirilsin.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1368: «Брэнни» transliteratsiya qilinib «Brenni» deb berildi; inglizcha asl ro‘yxatda ehtimol Brandi (OCR/tarjima xatosi bo‘lishi mumkin). Tekshirilsin.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1376-1385: o‘nta «Jasmin» shakli ruscha yozilishiga ko‘ra farqlab berildi (Jazmin, Jazmayn, Jazzmin, Jazzmayn, Jasmayn, Jasmina, Jezmin, Jasmin, Jasmin, Jesmin), qavsda taxminiy ingliz asli. 1218-1221 dagi ingliz qavslari bilan ayrim mosliklar (Джасмин/Джезмин/Джесмин) to‘liq mos kelmasligi mumkin — tekshirilsin.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1413: asl matnda «(16.26)» nuqta bilan (boshqalari vergul bilan) — raqam o‘zgartirilmay, asldagidek qoldirildi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1424: kichik sarlavha aslida kichik harflarda (boshqa ro‘yxatlarda bosh harflarda) — asldagidek saqlandi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1428, 1535: «Иона» (Jonah) → Jona (Jonah). 1425: «Дав» (Dov) → Dav (Dov). 1425: «Гуиллаум» → Guillaum (Guillaume).
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1514: «Кэйр» → Keyr; inglizcha asl ro‘yxatda ehtimol Kate (Кэйт) — OCR xatosi bo‘lishi mumkin, tuzatilmadi, tekshirilsin.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1509: «Библия» → Bibliya (oldingi boblardagidek).
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1539: «Победитель или Неудачник» → «G‘olib yoki Omadsiz» (bob boshidagi Leyn aka-ukalari ismlari tarjima shakliga mos).
+   [ЭПИЛОГ Два пути в Гарвард] 1540: sarlavha mundarijadagi tasdiqlangan «Epilog. Garvardga ikki yo‘l» bilan mos (bosh harfli EPILOG, boshqa bob sarlavhalari uslubida).
+   [ЭПИЛОГ Два пути в Гарвард] 1544: «риэлтер» → «ko‘chmas mulk agenti» (tasdiqlangan atama). «внимательнее относится» — asl matndagi imlo xatosi (относиться), ma’nosi bo‘yicha tarjima qilindi.
+   [ЭПИЛОГ Два пути в Гарвард] 1546: «в выбор» — asl matndagi xato (в выборе), ma’nosi bo‘yicha tarjima qilindi.
+   [ЭПИЛОГ Два пути в Гарвард] 1547: «из главы 5» — 5-bob (Ideal ota-onalar?..) degani; ruscha matndagidek «5-bob» qoldirildi. 1545 dagi «предпоследняя глава» — oxiridan oldingi bob (ismlar haqidagi 6-bob).
+   [ЭПИЛОГ Два пути в Гарвард] 1548: Ted Kachinski birinchi uchraganda ingliz yozilishi qavsda berildi (Ted Kaczynski); «Унабомбер» → «Unabomber» qo‘shtirnoqda.
+   [ПРИМЕЧАНИЯ] Umumiy: izoh sarlavhalari (1552, 1555, 1569, 1586, 1603, 1622) bob/bo‘lim nomlarining tasdiqlangan tarjimasi bilan, asldagidek bosh harflarda berildi; «ГЛАВА N.» → «N-BOB.».
+   [ПРИМЕЧАНИЯ] Umumiy bibliografik shakl: «См. статью X (Latin) Title (Journal от D месяца YYYY года)» → «Qarang: Xning (Latin) Title maqolasi (Journal, YYYY-yil D-oy soni)»; «См. также» → «Shuningdek, qarang:»; «с.» → «b.»; «август 1994» → «1994-yil avgust»; «лето/осень» → «yozi/kuzi». Lotin yozuvidagi nomlar, jurnal, nashriyot va shaharlar asl holicha qoldirildi; ruscha nomlar transliteratsiya qilinib, qavsdagi asl inglizcha shakl saqlandi. Formatlash belgilari (⟦s⟧) o‘zbekcha so‘z tartibiga moslab qayta joylandi, soni va muvozanati saqlangan.
+   [ПРИМЕЧАНИЯ] Lotin nomlaridagi « “...” » qo‘shtirnoqlari «...» ga almashtirildi (1560 «Jane Roe», 1570 «W», 1590 «Lemons», 1595 «The Weakest Link», 1605 «Crisis», 1612 «Are We a Family or a Business?»).
+   [ПРИМЕЧАНИЯ] OCR tuzatishlari: 1553 «от З августа» (kirillcha З) → 3-avgust (ortiqcha 3 ogohlantirishi shu sababli); 1574 «E1TC» → EITC (yo‘qolgan 1 ogohlantirishi), «Behanior» → Behavior; 1599 «New York TimesorSl октября» → «New York Times, 1989-yil 31-oktabr» (ortiqcha 31 ogohlantirishi; «от 31» deb taxmin qilindi, tekshirilsin); 1628 «(11уапа Kuziemkoand» → «(Ilyana Kuziemko and» (yo‘qolgan 11 ogohlantirishi).
+   [ПРИМЕЧАНИЯ] OCR tuzatishlari (lotin nomlarida kirill harflari/defislar): 1557 «Zo-glin» → Zoglin, «Dilulio» → DiIulio (1630 ham); 1560 «McCor-vey» → McCorvey, «/ Am Roe» → «I Am Roe»; 1573 kirillcha М, В, К → lotincha M, B, K; 1587 «Стет-сона» → Stetson; 1589 «Lois Brandeis» → Louis Brandeis, «UseIt(New» → «Use It (New»; 1594 «Goodg-ame» → Goodgame; 1604 «Conceptional Wisdom» → Conventional Wisdom; 1606 «James В.» (kirillcha В) → B.; 1614 «Life-time» → Lifetime; 1616 «Through Evidence Is Thin» → Though, «C.I. A.» → C.I.A., kirillcha А → A; 1618 «Williamjulius» → William Julius; 1627 «Stifferjail» → Stiffer Jail; 1633 «Harry А.» (kirillcha) → A.; 1634 «lmplications» → Implications, «Detterence» → Deterrence; 1635 «Guitv» → Guity.
+   [ПРИМЕЧАНИЯ] Tuzatilmay qoldirilgan lotin imlo xatolari (aslda bor, OCR ekanligi aniq emas): 1553 Cheatting, 1571 Reseach, 1577 Standartized, 1588/1574 Jeffry, 1626 Pittsburg Post-Gazzette, 1591 URL (cbnews.com/stonies/.../mai-n6_20626 — aslida cbsnews.com/stories/.../main... bo‘lsa kerak), 1565 «Journal of Political Economics» (Economy bo‘lsa kerak), 1614 «Herms» (Hermes bo‘lsa kerak), 1632 «American Review» (American Economic Review bo‘lsa kerak). Tekshirilsin.
+   [ПРИМЕЧАНИЯ] 1633: «Collins v. Collins» → «Callins v. Collins» (7-bob tarjimasidagi kabi; haqiqiy ish nomi Callins v. Collins). Tekshirilsin.
+   [ПРИМЕЧАНИЯ] 1573: «Уильяма Антона (William E. Upton)» — ruscha ism xato berilgan; inglizcha asl bo‘yicha «Uilyam Apton» deb berildi.
+   [ПРИМЕЧАНИЯ] 1582: «Шерил By Дани (Sheryl Wu Dunn)» — «By» OCR (Ву); «Sheril Vu Dann» deb berildi. «Энтони Шпета (Antony Spaeth)» → Entoni Speyt.
+   [ПРИМЕЧАНИЯ] 1584: «Пиво иа пляже» — OCR (на); «Plyajdagi pivo» (4-bobdagidek).
+   [ПРИМЕЧАНИЯ] 1570: «The “W” Effect of Incentives» lotin nomi asl holicha (qo‘shtirnoq «» ga almashtirildi).
+   [ПРИМЕЧАНИЯ] 1579: «Национальная университетская атлетическая ассоциация» (NCAA) → «Milliy universitetlararo atletika assotsiatsiyasi».
+   [ПРИМЕЧАНИЯ] 1599: «книга Тимура Курана» → Timur Kuran (Timur Kuran); 1598 nomlar 5-bobdagi tasdiqlangan shakllarda (Den Arieli, Gyunter Xitsh, Ali Hortasu).
+   [ПРИМЕЧАНИЯ] 1613: «Статистическое управление при Министерстве труда США» → «AQSh Mehnat vazirligi huzuridagi Statistika boshqarmasi» (ruscha matndagidek; bu Mehnat statistikasi byurosi, BLS).
+   [ПРИМЕЧАНИЯ] 1615: kokain va krekning jargon nomlari ruscha tarjimadagi ma’nosi bo‘yicha o‘zbekchaga o‘girildi yoki transliteratsiya qilindi (kaballo, kain, marafet, mojo, majer, Niv, pyedra, roka, Skotti va h.k.). «мир» — tinchlik (peace) deb taxmin qilindi; inglizcha asl ro‘yxat bilan tekshirilsin. «Большой совет Далласа...» → «Katta Dallas spirtli ichimliklar va giyohvand moddalarni suiiste’mol qilish masalalari bo‘yicha kengashi» (Greater Dallas Council on Alcohol and Drug Abuse).
+   [ПРИМЕЧАНИЯ] 1614: «Теперь тебе конец, старый япошка» → «Endi senga oxirat, qari yapon»; «Нет сноса» (No Run) → «Yirtilmaydi».
+   [ПРИМЕЧАНИЯ] 1636: «афинский период» → «afinalik davr» (7-bobdagi «bizning afinalik davrimiz» ga mos); Uilyam J. Gorta (William J. Gorta) — lotin shakli qavsda qo‘shildi.
+   [ПРИМЕЧАНИЯ] 1627: rus tilidagi tartib (boblar nomi, keyin kitob) o‘zbekcha tartibga o‘zgartirildi: kitob nomi va sahifalar oldin, boblar nomi keyin. 1597, 1618 da ham «X kitobidagi Y bobi» tartibi.
+   [ПРИМЕЧАНИЯ] 1609, 1594, 1601: axborot agentligi/sayt/radio uchun «soni» so‘zi qo‘shilmadi, faqat sana.
+   [ПРИМЕЧАНИЯ] 1641–1720 (davomi): bibliografik shakl va izoh sarlavhalari 1549–1640 dagidek; sarlavhalar 7-, 8-, 9-, 10-boblardagi tegishli joylarning tarjimasiga moslandi (masalan, 1651 «aholining qarishi», 1652 «Ufqda allaqachon bulutlar to‘plangan», 1665 «dog‘li boyo‘g‘li», 1673 «ortiqcha rag‘batlantirish», 1678 «Yana o‘sha gap», 1679 «hayratlanarli», 1684 «oq tanlilarcha xulq-atvor», 1693 «Luzer (Omadsiz) Leyn», 1694 «Vasvasachi», 1703 «Shithed (Go‘ngkalla)», 1704 «Oranjello va Limonjello»). «ГЛАВА 5/6.», «ЭПИЛОГ.» → «5-BOB.», «6-BOB.», «EPILOG.».
+   [ПРИМЕЧАНИЯ] 1669: «ГЛАВА 5. ЧТО ДЕЛАЕТ РОДИТЕЛЕЙ ИДЕАЛЬНЫМИ?» — izohlar bo‘limida bob nomi asosiy matndagidan («Идеальные родители?..») farq qiladi; so‘zma-so‘z «5-BOB. OTA-ONALARNI NIMA IDEAL QILADI?» deb berildi. 1692 da 6-bob nomi tasdiqlangan tarjima bilan (ruscha variantdagi kichik farq — «хоть розой назови ее» — e’tiborga olinmadi).
+   [ПРИМЕЧАНИЯ] OCR tuzatishlari (lotin yozuvida): 1645 «(С. Callahan» kirillcha С → C, «Дзвида» → Devid; 1648 «StanfordLaw» → Stanford Law; 1654 «Р. К. Dagg» kirillcha Р, К → P, K; 1672 «(Т. Berry» kirillcha Т → T; 1697 «And Cteven D. Levitt» → «and Steven D. Levitt»; 1699 «Та r а Ва hrampour» kirillcha harflar → «Ta r a Ba hrampour» (Bahrampour); 1716 «Lincolnwood, III.» → Ill.; 1679 «статью Стивена Линкера» → Pinker; 1678 «Опять двадцать опять» (пять) — asosiy matndagidek «Yana o‘sha gap»; 1709 «Филлис(11,93),Флоренс(14,83),...» qismida bo‘shliqlar qo‘yildi; 1713 «Муста-фа» → Mustafa; 1709 «Люсн» → Lyusi (Люси bo‘lsa kerak), «Идеи» → Iden (Иден/Eden bo‘lsa kerak) — tekshirilsin; 1655 asldagi ochilmagan qavs uchun «(» qo‘shildi.
+   [ПРИМЕЧАНИЯ] Tuzatilmay qoldirilgan lotin xatolari (asl holicha): 1642 «Journal of the American Media Association» (Medical bo‘lsa kerak); 1643 «Adline de Gruyter» (Aldine); 1641 «Steven P. Halbrook» (Stephen P. Halbrook); 1656 «Jonatan Gruber» (Jonathan); 1663 «Robert M. Covers» (Cover's); 1674 «New York Appleton» (ikki nuqta yo‘q); 1679 «Wont» (Won't); 1687/1690 «Bruce Sacerdot», «Economics Outcomes» (Sacerdote, Economic); 1696 «O'Mailey» (O'Malley); 1703 «Diekerson», «Cranddad» (Dickerson, Granddad); 1659 «Pijkko Rasanen» (Pirkko Räsänen); 1676 «Peter Sandmen» (Sandman). Tekshirilsin.
+   [ПРИМЕЧАНИЯ] 1648: Mark Duggan maqolasi bu yerda «More Guns, Less Crime» deb berilgan, 1640 da esa «More Guns, More Crime» (to‘g‘risi shu). Asldagidek qoldirildi — tekshirilsin.
+   [ПРИМЕЧАНИЯ] 1659: ruscha sarlavha «Низкая культура матери» (onaning past madaniyati) — inglizcha manba onaning homiladorlik paytida chekishi haqida; ruscha matndagidek tarjima qilindi (7-bob asosiy matni bilan mos).
+   [ПРИМЕЧАНИЯ] 1666: sarlavhada «31 миллион долларов», 7-bob asosiy matnida esa har bir oila uchun 31 dollar. Raqam asldagidek qoldirildi — tekshirilsin.
+   [ПРИМЕЧАНИЯ] 1650: «Narkotik bilan bog‘liq 25% qotilliklar»; 1650, 1652, 1657, 1645 da «в книге / в издании» tuzilmasi o‘zbekcha tartibga moslandi («X kitobidagi Y bobi», «Y bobi, kitob: X», «X nashridagi Y bo‘limi»).
+   [ПРИМЕЧАНИЯ] 1699: izohdagi «...АЛЕКСАНДР ВАЙСНЕР...» 9-bob asosiy matnidagi shakl bilan («Vayzer», ruscha «Уайзера») moslab «VAYZER» deb berildi — tekshirilsin.
+   [ПРИМЕЧАНИЯ] 1709, 1713 (ismlar ro‘yxati): ismlar ruscha yozuvdan transliteratsiya qilindi; 9-bobda uchragan ismlar o‘sha bobdagi shaklda (Eshli, Medison, Reychel, Zeyvier, Chastiti va h.k.), lotin asli qavsda berilmadi (ruscha matnda yo‘q, ro‘yxat uzun). O‘zbek lotin yozuvida farqi yo‘qolgan juftlar: Дженнифер/Женнифер → Jennifer; Кейт/Кэйт → Keyt; Кейтлинн/Кэйтлинн → Keytlinn. «и» → «va».
+   [ПРИМЕЧАНИЯ] Kam ma’lum nomlarga lotin asli qavsda qo‘shildi (ruscha matnda yo‘q): 1651 Lourens Grinfild (Lawrence Greenfeld), 1703 Richard Rayordan (Richard Riordan), Mervin Dimalli (Mervyn Dymally), 1704 Dag Makadam (Doug McAdam).
+   [ПРИМЕЧАНИЯ] 1703: «Браун против Совета по образованию» — tasdiqlangan atama bo‘yicha «Braun Topeka shahar ta’lim kengashiga qarshi»; «секретарь по вопросам образования Калифорнии» → «Kaliforniya ta’lim kotibi».
+   [ПРИМЕЧАНИЯ] 1671: «предостережение родителям относительно лишения сна» → «ota-onalarni uyqudan mahrum qilish borasidagi ogohlantirishi» (so‘zma-so‘z; 8-bob matnida Ezzo bola bilan birga uxlashdan ogohlantiradi).
+   [БЛАГОДАРНОСТИ] 1723: aslida «William Morrorow» deb yozilgan (aftidan, William Morrow nashriyoti nomidagi xato); tarjimada asldagidek qoldirildi.
+   [БЛАГОДАРНОСТИ] 1727: «Американское общество адвокатов» — inglizcha aslida, ehtimol, American Bar Foundation; ruscha matnga tayanib «Amerika advokatlar jamiyati» deb berildi. «исследование теории цен» (inglizcha aslida, ehtimol, Price Theory seminari) — «narx nazariyasiga oid tadqiqotlar» deb o‘girildi.
+   [БЛАГОДАРНОСТИ] 1730: «бубличный человек» — Pol Feldman haqidagi «What the Bagel Man Saw» maqolasiga ishora; «Bublikchi odam» deb berildi.
+   [БЛАГОДАРНОСТИ] 1722-1730: ismlarning lotin asli (Claire Wachtel, Suzanne Gluck, Debbie Stier, Linda Jines, Vera Titunik, Paul Tough va b.) inglizcha nashr asosida qavsda berildi; imlosi tekshirilsin. Avval uchragan nomlar (Stetson Kennedi, Pol Feldman, Sudxir Venkatesh, Arni Dunkan, Roland Frayer, Kolin Kamerer, Jenet, Endryu, Amanda) qavssiz.
+   [БЛАГОДАРНОСТИ] 1739: Turbulent Souls va Confessions of a Hero-Worshiper kitob nomlari asldagidek inglizcha qoldirildi (11-bobdagi kabi); asl matnda nomdan keyin nuqta yo‘q edi, tarjimada «muallifi.» bilan gap tugatildi.
+   [БЛАГОДАРНОСТИ] 1746: «notes» — bo‘lim texnik belgisi (inglizcha), o‘zgartirilmadi.
+3) IQTIBOSLAR VA SAHIFA OSTI IZOHLARI
+   [0-qism (mundarija, annotatsiya, nom varag‘i)] 12, 40: «Nom nima? Atirgulni qanday atasang ham, u baribir atirgul bo‘lib hid taratadi» | U. Shekspir, «Romeo va Julyetta», II parda, 2-ko‘rinish (ruscha B. Pasternak tarjimasidan) | asl lafz tekshirilsin (o‘zbekcha nashrdagi tarjima bilan solishtirish kerak)
+   [ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ] 57: «nima qilish kerak?», «qanday qilish kerak?», «buni nima uchun qilish kerak?», «nega bu shunday?» | muallif (G. Gref) so‘zlari | yo‘q
+   [ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ] 62: «kim firibgarlik qiladi?» — «deyarli hamma» | kitob mualliflari so‘zlarining bayoni | yo‘q
+   [ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ] 62: Adam Smit fikri (bilvosita bayon, qo‘shtirnoqsiz) | A. Smit, «Axloqiy tuyg‘ular nazariyasi» (The Theory of Moral Sentiments) bo‘lsa kerak | asl lafz tekshirilsin
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 74: «Uning quloqchinlari zo‘r ekan...» | Levitt so‘zlari, New York Times jurnalidagi maqoladan (2003-yil 3-avgust) | yo‘q
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 80: «Iqtisod deb ataladigan fan haqida unchalik ko‘p narsa bilmayman...» | Levitt so‘zlari | yo‘q
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 88: «Kitob yozishmi? ... Lekin men buni istamayman», «Faqat Dabner bilan birga urinib ko‘rsak, boshqa gap» | Levitt so‘zlari | yo‘q
+   [ПОЯСНИТЕЛЬНАЯ ЗАПИСКА] 76: izoh havolasi [1] — New York Times jurnali, 2003-yil 3-avgust | manba | yo‘q
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 95, 98, 99, 101-103: Levitt, Amartya Sen, R. Nozik va hamkasblar suhbati | New York Times jurnali, 2003-yil 3-avgust (104) | yo‘q
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 109: «Jinoyatchilikning navbatdagi to‘lqini...» | J. A. Foks, AQSh bosh prokuroriga hisobot, 1995 (izoh 1.2) | asl lafz tekshirilsin
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 110: «Bilamizki, bolalar jinoyatchiligini kamaytirish uchun...» | Prezident Klinton nutqi (izoh 1.3) | asl lafz tekshirilsin
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 163: «Smit javob bizning o‘zimizni uchinchi shaxs...» | R. Xeylbroner, «The Worldly Philosophers» | asl lafz tekshirilsin
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] 178: «Men terrorchilarni tutishga imkon beradigan vositalarni...» | Levitt so‘zlari, New York Times jurnali, 2003-yil 3-avgust (180) | yo‘q
+   [ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем] izoh havolalari: 106 [1], 108 [1.1], 109 [1.2], 110 [1.3], 119 [1.4], 121 [1.5], 126 [2], 132 [2.1], [2.2], 140 [3], 157 [4], 162 [5], 161 [1] (frikonomika) | manba | yo‘q
+   [1 Что общего между школьными учителями и борцами сумо?] 257: «Bu dunyoda sabab va oqibatlar tartibi shunchalik sirliki...» | Tomas Jefferson (izoh 3) | asl lafz tekshirilsin
+   [1 Что общего между школьными учителями и борцами сумо?] 261: «Ega bo‘lishga arziydigan narsa — bu uning uchun aldovga borishga arziydigan narsadir» | U. K. Filds | asl lafz tekshirilsin
+   [1 Что общего между школьными учителями и борцами сумо?] 420: «Agar aldamayotgan bo‘lsang, demak, urinmayapsan» | Mark Greys | asl lafz tekshirilsin
+   [1 Что общего между школьными учителями и борцами сумо?] 452: «Bu ikki odamning bir kunda va bitta kasalxonada vafot etgani...» | Mitsuru Miyake, sumo jurnali muharriri | asl lafz tekshirilsin
+   [1 Что общего между школьными учителями и борцами сумо?] 469: Feldmanning mijozlarga xati | P. Feldman | asl lafz tekshirilsin
+   [1 Что общего между школьными учителями и борцами сумо?] 476: «Inson qanchalik xudbin bo‘lib ko‘rinmasin...» | Adam Smit, «Axloqiy tuyg‘ular nazariyasi» (The Theory of Moral Sentiments) | asl lafz tekshirilsin
+   [1 Что общего между школьными учителями и борцами сумо?] 480: «Levittni yarim xudo... deb hisoblashadi» | Kolin F. Kamerer, New York Times jurnali, 2003-yil 3-avgust (481) | yo‘q
+   [1 Что общего между школьными учителями и борцами сумо?] izoh havolalari: 187 [1], 253 [2], 256 [1], 257 [3], 258 [4], 266 [5], 269 [6], 276 [6.1], 381 [6.2], 385 [6.3], 416 [7], 418 [8], 448 [8.1], 452 [8.2], 458 [9], 467 [9.1] | manba | yo‘q
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 486: «Kuch va terror bilan ... qullikka yaqin holatga solish» | prezident Uliss S. Grant, Vakillar palatasi oldida, 1872 | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 489: «Nihoyat, u yerda buyuk Ku-kluks-klan ... kurtak yozdi» | Vudro Vilson, «Amerika xalqi tarixi» (A History of the American People), «Millatning tug‘ilishi» filmida keltirilgan | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 490: «Hamma Gitler Mussolinidan nusxa ko‘chirishga urinyapti, deb gapiradi...» | Uill Rojers (Will Rogers), 1933 | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 492: «shunchaki zangilarga urush tugaganini va Klan bozorga qaytganini ko‘rsatib qo‘yish» | Klan a’zosi | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 498: «Bu muammo haqidagi deyarli barcha maqolalar fosh etuvchi emas, sharhlovchi edi...» | Stetson Kennedi | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 500: Kennedi iqtiboslari va Slimning gapi | Stetson Kennedi xotiralari | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 502: Klan varaqasi va savdo chaqirig‘i («Zangilarni yomon ko‘rasizmi? ...») | Klan materiallari, Kennedi bayoni | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 505-510: Klavalerlar qasamyodi | Kennedi bayoni | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 547-553: Klan yig‘ilishidagi suhbat | Kennedi bayoni | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 555: «Klanning Shimolda urushdan keyin qayta tiklanishining oldini olishdagi yagona muhim omil» | Uin Kreyg Ueyd (Wyn Craig Wade), «Yonayotgan xoch: Amerikadagi Ku-kluks-klan» (The Fiery Cross: The Ku Klux Klan in America) | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 560: «Ma’lumki, quyosh nuri ideal dezinfeksiyalovchi vositadir» | Luis D. Brandeys (Louis D. Brandeis), izoh 3 | asl lafz tekshirilsin (inglizcha: «Sunlight is said to be the best of disinfectants»)
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 570-573: Enron xodimlarining yozib olingan suhbatlari (Kevin va Tom) | Enron yozuvlari, izoh 5 | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 574: «Agar siz kardiolog bo‘lsangiz va qandaydir Jo Smit ...» | Devid Xillis (David Hillis), New York Times, izoh 6 | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 579: «Men aynan o‘sha paytda Stenford talabalar shaharchasidan yangi uy sotib olayotgan edim...» | Jon Donoxyu (John Donohue) | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 581: ko‘chmas mulk agenti ayolning K. bilan suhbati | mualliflar bayoni | yo‘q
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 621: «Biz bundan faxrlanamiz ...» | Trent Lott, Strom Termond yubileyi, 2002, izoh 8 | asl lafz tekshirilsin
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] 654-655: «Levitt hamma joyga a’lo darajada mos tushadi...» | New York Times jurnali, 2003-yil 3-avgust | yo‘q
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] izoh havolalari: 554 [1], 558 [2], 560 [3], 562 [4], 573 [5], 574 [6], 576 [7], 617 [7], 621 [8], 624 [9], 630 [9.1], 630 [9.2], 637 [10], 649 [11], 649 [12], 650 [13] | manba | yo‘q
+   [2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью?] matn ichidagi muharrir izohlari: 488 (Jim Krou qonunlari; Plessi Fergyusonga qarshi), 568 (Semyuel Ueksel) | Muharr. izohi | yo‘q
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 663: «Biz haqiqatni qulaylik bilan aralashtirib yuboramiz...»; «juda murakkab, uning asoslarini tushunish esa aqlni toliqtiradi...» | Jon Kennet Gelbreyt (John Kenneth Galbraith), «Farovon jamiyat» (The Affluent Society), izoh 1 | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 667: «Listerin og‘iz bo‘shlig‘i gigiyenasini emas, ko‘proq yomon hidni reklama qilgan» | Jeyms B. Tvitchell (James B. Twitchell), izoh 3 | asl lafz tekshirilsin; reklamadagi «Shunga qaramay u bilan baxtli bo‘la olarmikanman?» | Listerin reklamasi | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 668: «Janob Bush oddiy odamlarga tushunarli tilda gapiradigan...» | Pol Krugman (Paul Krugman), New York Times sharhi, izoh 4 | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 688-694, 705-706, 712, 743, 759, 777, 780: Venkatesh va to‘da a’zolari so‘zlari | Sudxir Venkatesh tadqiqoti (izoh 7) | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 690: «sochlari dumbasigacha tushgan haqiqiy telba muxlis» | Venkateshning o‘z so‘zlari | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 710: «qoralar orasidagi oqdek» | Jey Ti so‘zlari | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 772: «Muayyan ishni ko‘p odamlar qilishni xohlasa va qila olsa, odatda unga kam haq to‘lanadi» | mualliflar ifodasi (mehnat qonuni) | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 803: «qon daryolari» | Jeyms Alan Foks | asl lafz tekshirilsin (inglizcha: «bloodbath»)
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 809: «abortlarni qo‘llab-quvvatlash sifatida ham...»; «kelajakda jinoyatchiga aylanish xavfi eng yuqori bo‘lgan bolalarga...» | Levitt va Jon Donoxyu maqolasi, 2001 | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 811: «Uning yiliga uch martadan ko‘proq sartaroshxonaga borishini istardim...» | Jenet (Jeannette) Levitt; «yer yuzida yashaydigan barcha insonlar orasida eng zaif mavjudot» | Levitt; New York Times jurnali, 2003-yil 3-avgust (813) | asl lafz tekshirilsin
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] 717, 785, 788: muharrir izohlari (Xolms; DuPont; Richard Prayor) to‘liq tarjima qilindi — «Muharr. izohi».
+   [3 Почему торговцы наркотиками продолжают жить со своими родителями?] Sahifa osti/oxirgi izoh havolalari: 1, 2, 3, 4, 5, 6, 7, 7.1, 7.2 (ikki marta), 7.3, 8, 9, 10, 11, 12, 12.1, 13 — o‘z joyida saqlandi.
+   [4 Куда исчезли все преступники?] 818: «Inson homilasi butun jamiyatning mulkidir… dezertirlardir» | N. Chaushesku | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 819: «Qurtlarga qancha ovqat bermang, ular hech qachon qanoat qilmaydi» | Yelena Chaushesku | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 822: «Eng qizig‘i shundaki, bizga qo‘rqmaslikni aynan bolalarimiz o‘rgatdi…» | Timishoaralik professor | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 828: «Men hech qachon ko‘chalarda qon oqadi deb da’vo qilmaganman…» | Jeyms Alan Foks | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 851: «Nima bo‘lganda ham, siyosatchilar… nomutanosib ravishda katta edi» | Geri Bekker | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 853: «Ko‘rinib turibdiki, xavfli jinoyatchilarni qamoqda saqlash…» | kichik Jon J. Diyulio | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 858: «O‘lim jazosini joriy etish tajribasi muvaffaqiyatsiz chiqqanini tan olishni… Bundan buyon men bu o‘lim mashinasini tuzatishga urinmayman» | sudya Garri Blekmun, 1994 (Callins v. Collins ishidagi alohida fikr) | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 897: «Aytishim kerakki, u menga dars bergan eng yaxshi professor edi…» | «Meri Rosh» (Jon R. Lott) | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 905: «Ufqda allaqachon bulutlar to‘plangan… Tayyor turing» | Jeyms Uilson, 1995 | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 911: «Homilador ayolning tanlash huquqini rad etib, Davlat unga yetkazadigan zarar juda aniq…» | Roe v. Wade (1973), sudya Blekmun | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 925: «Bir nechta boshni kesib tashlash shlyapalar tanqisligi muammosini hal qilmaydi» | Gilbert Chesterton | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 926: «Amerika xalqi 1960-yillar oxirida qabul qilgan jinoyatchilikning oldini olishning deyarli yagona samarali usuli» | Entoni Bouza kitobi | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] 969: «Agar sizda o‘qotar qurol bo‘lsa va hovlingizda suzish havzasi bo‘lsa…» | S. Levitt, Chicago Sun-Times | asl lafz tekshirilsin
+   [4 Куда исчезли все преступники?] Sahifa osti izoh havolalari: 1, 1.1, 2, 2.1, 3, 4, 4.1, 4.2, 5, 5.1, 5.2, 6, 6.1, 7, 7.1, 7.2, 8, 8.1–8.9, 9, 9.1, 10, 10.1, 11, 11.1–11.14 — o‘z joyida saqlandi.
+   [5 Идеальные родители?..] 977: Geri Ezzo, L. Emmett Xolt va T. Berri Breyzlton iqtiboslari (Enn Xalbert kitobi orqali) | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 983, 984, 991: Piter Sendmen so‘zlari | New York Times intervyusi, 2004 | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 1001: sharhlovchi iqtibosi («O‘quvchilar hozir, shubhasiz…») | manba nomi ko‘rsatilmagan | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 1002: Stiven Pinker, «Toza varaq» (The Blank Slate) | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 1021: Richard P. Mills, Nyu-York shtati ta’lim amaldori | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 1022: noma’lum tadqiqotchi («Oq tanli va qora tanli o‘quvchilar o‘zlashtirishidagi farqni qisqartirish…») | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 1024: Roland Frayer, «The Economics of “Acting White”» maqolasi va Karim Abdul-Jabbor xotiralari | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 1137: Rod Blagoyevich so‘zlari (2004) | asl lafz tekshirilsin
+   [5 Идеальные родители?..] 1169: Afroamerikaliklar madaniyati haqidagi savol | Levitt, New York Times jurnali, 2003-yil 3-avgust | asl lafz tekshirilsin
+   [5 Идеальные родители?..] Muharrir izohlari (977, 1008, 1013, 1043) «Muharr. izohi» deb, avvalgi boblardagidek berildi.
+   [5 Идеальные родители?..] Sahifa osti izoh havolalari: 1, 1.1–1.4, 2, 3, 4, 4.1, 4.2, 5, 6, 7, 7.1, 8, 8.1, 9, 10, 11, 12, 13 — o‘z joyida saqlandi.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1171: «Nom nima? Atirgulni qanday atasang ham...» | Shekspir, «Romeo va Julyetta» | asl lafz (va o‘zbekcha nashr tarjimasi) tekshirilsin
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1179: Luzer Leyn so‘zlari | asl lafz tekshirilsin
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1183, 1184: sudya U. Dennis Duggan so‘zlari | asl lafz tekshirilsin
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1190, 1192: Roland Frayer so‘zlari | asl lafz tekshirilsin
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] 1197: qora tanli onalarning taxminiy so‘zlari (Frayer talqini) | asl lafz tekshirilsin
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] Sahifa osti izoh havolalari [1]-[12] va [2] (sarlavhada) joyida saqlandi; muharrir izohi 1253 da.
+   [6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]] Sahifa osti izoh havolalari [13] (1404), [14] (1454), [15], [16] (1505) joyida saqlandi.
+   [ПРИМЕЧАНИЯ] 1566: «bunday tavsiya [kuniga sakkiz stakan suv ichish] uchun hech qanday ilmiy asos yo‘q...» | AQSh Tibbiyot instituti hisoboti (R. J. Davis maqolasi orqali, Wall Street Journal, 2004-yil 16-mart) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1587: «Yer yutsin meni! Sizlar, yigitlar, aniq Klandan emassizlar, to‘g‘rimi?» | Stetson Kennedining qo‘shnisi (mualliflar hikoyasi) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1589: «quyosh nuri ideal dezinfeksiyalovchi vositadir» | Luis Brandeys, Other People's Money (1914); 5-bob tarjimasiga mos | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1590: «bunday arzimas mavzudagi ishlarni chop etmaymiz» | Akerlof maqolasini rad etgan jurnallar | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1614: «Now You've Lost, Old Nippon» («Endi senga oxirat, qari yapon»); «No Run» («Yirtilmaydi») | neylon nomi haqidagi mish-mishlar | inglizcha asl saqlangan
+   [ПРИМЕЧАНИЯ] 1626: «ataylab qilingan mubolag‘a» | J. A. Foks (7-bob tarjimasiga mos) | yo‘q
+   [ПРИМЕЧАНИЯ] 1630: «Ko‘rinib turibdiki, kriminologiya doktori bo‘lish kerak…» | kichik Jon J. Diyulio, Policy Review, 1995 (7-bob tarjimasiga mos) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1633: «Bundan buyon men bu o‘lim mashinasini tuzatishga urinmayman» | sudya Garri Blekmun, Callins v. Collins (1994) (7-bob tarjimasiga mos) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1651: «Jinoyatchilik darajasi nega shuncha yillar davomida pasayib borgani ... panjara ortida ekani bilan bog‘liqdir» | Lourens Grinfild, Sud statistikasi byurosi direktori (M. Vald maqolasi orqali, New York Times, 2004-yil 13-sentabr) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1652: «Ufqda allaqachon bulutlar to‘plangan» | Jeyms Q. Uilson, Crime and Public Policy (1995) (7-bob tarjimasiga mos) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1664: «jinoyatchilikning oldini olishning deyarli yagona samarali usuli» | Entoni Bouza, The Police Mystique (1990) (7-bob tarjimasiga mos) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1671, 1672, 1673, 1674: «bolani boshqarish strategiyasi», «interaktiv» bola, «ortiqcha rag‘batlantirish», «bola uchun gimnastika» | G. Ezzo, T. B. Breyzlton, L. E. Xolt (8-bob tarjimasiga mos) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1678: «Yana o‘sha gap» | sharhlovchi (K. Tevris, The New York Times Book Review, 1998) (8-bob tarjimasiga mos) | yo‘q
+   [ПРИМЕЧАНИЯ] 1679: «hayratlanarli» | Stiven Pinker (8-bob tarjimasiga mos) | yo‘q
+   [ПРИМЕЧАНИЯ] 1683: «Oq tanli va qora tanli o‘quvchilar o‘zlashtirishidagi farqni qisqartirish» | K. Jenks va M. Fillips, American Prospect (1998) (8-bob tarjimasiga mos) | asl lafz tekshirilsin
+   [ПРИМЕЧАНИЯ] 1703: «Misr malikasi»; «Bu ahmoq, iflos qiz degani»; «kichkina afroamerikalik qizcha edi. U oq tanli qizcha bilan shunday qilishga jur’at eta olarmidi?»; «Menda shunday taassurot qoldi... u qizimga unchalik aqlli bo‘lib ko‘rinmadi» | Aysis, Richard Rayordan, Mervin Dimalli, Triniti (T. Ratten maqolasi, Los Angeles Times, 2004-yil 10-iyul) | asl lafz tekshirilsin
+   [БЛАГОДАРНОСТИ] 1751: 2-izoh — U. Shekspir, «Romeo va Julyetta», B. Pasternak ruscha tarjimasi (6-bob sarlavhasidagi iqtibosga tegishli) | o‘zbekcha nashrdagi lafz bilan solishtirish tavsiya etiladi
+   [БЛАГОДАРНОСТИ] 1749: 1-izoh — «Freakonomics» so‘zining kelib chiqishi, muharrir izohi | tekshirish shart emas
+   [БЛАГОДАРНОСТИ] 1753: 3-izoh — Chastiti (Pokizalik), Temptress (Vasvasachi) ismlari 9-bobdagi shaklda | tekshirish shart emas
+4) LUG'ATGA QO'SHILGAN YANGI ATAMALAR
+   Фрикономика → Frikonomika | kitob nomi | 0-qism, 3
+   Мнение экономиста-диссидента о неожиданных связях между событиями и явлениями → Dissident iqtisodchining voqea va hodisalar o‘rtasidagi kutilmagan bog‘liqliklar haqidagi fikri | kitob kichik sarlavhasi | 0-qism, 3
+   Table of Contents → Mundarija |  | 0-qism, 2
+   Annotation → Annotatsiya |  | 0-qism, 21
+   Предисловие к русскому изданию → Ruscha nashrga so‘zboshi | bob sarlavhasi (1-bob) | 0-qism, 4
+   Пояснительная записка → Tushuntirish xati | bob sarlavhasi (2-bob) | 0-qism, 5
+   Введение. Всегда есть что-то, чего мы не знаем → Kirish. Biz bilmaydigan nimadir doim bor | bob sarlavhasi (3-bob) | 0-qism, 6
+   1 Что общего между школьными учителями и борцами сумо? → 1 Maktab o‘qituvchilari va sumo kurashchilari o‘rtasida qanday umumiylik bor? | bob sarlavhasi | 0-qism, 7
+   2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью? → 2 Ku-kluks-klan va ko‘chmas mulk agentlari o‘rtasida qanday umumiylik bor? | bob sarlavhasi | 0-qism, 8
+   3 Почему торговцы наркотиками продолжают жить со своими родителями? → 3 Nega narkotik sotuvchilar ota-onalari bilan yashashda davom etadi? | bob sarlavhasi | 0-qism, 9
+   4 Куда исчезли все преступники? → 4 Barcha jinoyatchilar qayoqqa g‘oyib bo‘ldi? | bob sarlavhasi | 0-qism, 10
+   5 Идеальные родители?.. → 5 Ideal ota-onalar?.. | bob sarlavhasi | 0-qism, 11
+   6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет” → 6 Ideal ota-onalar, II qism, yoki «Nom nima? Atirgulni qanday atasang ham, u baribir atirgul bo‘lib hid taratadi» | bob sarlavhasi | 0-qism, 12
+   Эпилог. Два пути в Гарвард → Epilog. Garvardga ikki yo‘l | bob sarlavhasi | 0-qism, 13
+   Примечания → Izohlar | bo‘lim sarlavhasi (bosh harflarda: IZOHLAR) | 0-qism, 14
+   Благодарности → Minnatdorchilik | bo‘lim sarlavhasi | 0-qism, 15
+   Обложка → Muqova |  | 0-qism, 16
+   торговец наркотиками → narkotik sotuvchi |  | 0-qism, 9
+   агент по торговле (продаже) недвижимостью → ko‘chmas mulk agenti |  | 0-qism, 8
+   борец сумо → sumo kurashchisi |  | 0-qism, 7
+   Стивен Д. Левитт → Stiven D. Levitt | muallif | 0-qism, 22
+   Стивен Дж. Дабнер → Stiven J. Dabner | muallif | 0-qism, 22
+   стимул → rag‘bat | kitobning asosiy tushunchasi (incentive); стимулировать → rag‘batlantirmoq | 1-bob, 59
+   экономика (наука) → iqtisod | fan sifatida; xo‘jalik tizimi ma’nosida → iqtisodiyot | 1-bob, 53
+   экономика (хозяйство) → iqtisodiyot | xo‘jalik tizimi ma’nosida («новая экономика», «наша экономика») | 1-bob, 55
+   фрик → frik |  | 1-bob, 54
+   экономист-диссидент → dissident iqtisodchi |  | 1-bob, 54
+   поведенческая экономика → xulq-atvor iqtisodiyoti | behavioral economics | 1-bob, 59
+   информационная асимметрия → axborot asimmetriyasi |  | 1-bob, 61
+   мошенничество → firibgarlik | мошенничать → firibgarlik qilmoq | 1-bob, 62
+   буриданов осёл → Buridan eshagi |  | 1-bob, 60
+   кривые спроса и предложения → talab va taklif egri chiziqlari |  | 1-bob, 58
+   Медаль Джона Бейтса Кларка → Jon Beyts Klark (John Bates Clark) medali | birinchi uchraganda asl yozilishi qavsda | 2-bob, 79
+   Университет Чикаго → Chikago universiteti |  | 2-bob, 78
+   Массачусетсский технологический институт → Massachusets texnologiya instituti |  | 2-bob, 80
+   Центральное разведывательное управление → Markaziy razvedka boshqarmasi |  | 2-bob, 85
+   Тур де Франс → «Tur de Frans» |  | 2-bob, 85
+   унылая наука → zerikarli fan | dismal science | 2-bob, 83
+   бездомный → uysiz odam | бродяга → daydi | 2-bob, 72
+   эконометрия → ekonometrika |  | 2-bob, 80
+   общепринятая точка зрения → umumqabul qilingan fikr | conventional wisdom; расхожее мнение → keng tarqalgan fikr | 3-bob, 92
+   криминалист → kriminolog | criminologist ma’nosida | 3-bob, 92
+   эксперт → ekspert |  | 3-bob, 92
+   суперхищник → superyirtqich | superpredator | 3-bob, 108
+   Рои против Уэйда → Rou Ueydga qarshi | Roe v. Wade sud ishi (kursivda) | 3-bob, 120
+   Норма Мак-Корви → Norma Makkorvi (Norma McCorvey) |  | 3-bob, 118
+   Джеймс Алан Фокс → Jeyms Alan Foks (James Alan Fox) |  | 3-bob, 109
+   Роберт Нозик → Robert Nozik (Robert Nozick) |  | 3-bob, 100
+   Эмертия Сен → Amartya Sen |  | 3-bob, 97
+   комиссионные → komission haq |  | 3-bob, 127
+   кривая преступности → jinoyatchilik egri chizig‘i |  | 3-bob, 107
+   Теория нравственных чувств → Axloqiy tuyg‘ular nazariyasi (The Theory of Moral Sentiments) | A. Smit kitobi | 3-bob, 162
+   Философы мира → Dunyoviy faylasuflar (The Worldly Philosophers) | R. Xeylbroner kitobi | 3-bob, 163
+   Роберт Хейлбронер → Robert Xeylbroner (Robert Heilbroner) |  | 3-bob, 163
+   Оскар Данило Блэндон → Oskar Danilo Blandon (Oscar Danilo Blandón) | laqabi: Jonni Kokain Urug‘i | 3-bob, 158
+   Слабое звено → Zaif bo‘g‘in (The Weakest Link) | teleo‘yin | 3-bob, 153
+   ЦРУ → MRB | Markaziy razvedka boshqarmasi qisqartmasi | 3-bob, 179
+   побуждение → undov | стимул (rag‘bat) dan farqlash uchun | 4-bob, 182
+   экономический / социальный / моральный стимул → iqtisodiy / ijtimoiy / axloqiy rag‘bat |  | 4-bob, 191
+   итоговый тест (тестирование) → yakuniy test | high-stakes testing | 4-bob, 270
+   алгоритм мошенничества → firibgarlik algoritmi |  | 4-bob, 329
+   общественные школы Чикаго → Chikago davlat maktablari | Chicago Public Schools | 4-bob, 269
+   коэффициент возвратности (возврата) → qaytim koeffitsiyenti | Feldmanning bublik to‘lovlari | 4-bob, 459
+   преступления «белых воротничков» → «oq yoqalilar» jinoyatlari | white-collar crime | 4-bob, 463
+   сумоист → sumochi | борец сумо → sumo kurashchisi | 4-bob, 422
+   промоутер (в сумо) → promouter |  | 4-bob, 443
+   контрольная группа → nazorat guruhi |  | 4-bob, 387
+   Пол Фельдман → Pol Feldman (Paul Feldman) |  | 4-bob, 183
+   Мануэль Айснер → Manuel Ayzner (Manuel Eisner) |  | 4-bob, 194
+   Милтон Фридман → Milton Fridman |  | 4-bob, 190
+   Эстер Принн → Ester Prinn (Hester Prynne) |  | 4-bob, 193
+   Н. Хоторн, «Алая буква» → N. Xotorn (N. Hawthorne), «Qirmizi harf» (The Scarlet Letter) |  | 4-bob, 193
+   У. К. Филдс → U. K. Filds (W. C. Fields) |  | 4-bob, 261
+   Ни одного отстающего ребенка → «Birorta ham bola ortda qolmasin» (No Child Left Behind) | qonun | 4-bob, 271
+   Тест основных умений и навыков штата Айовы (ITBS) → Ayova shtatining asosiy ko‘nikma va malakalar testi (ITBS) |  | 4-bob, 272
+   Арни Дункан → Arni Dunkan (Arne Duncan) |  | 4-bob, 384
+   Университет Джорджии → Jorjiya universiteti |  | 4-bob, 393
+   Джим Хэррик младший / старший → kichik / katta Jim Xerrik (Jim Harrick Jr.) |  | 4-bob, 412
+   Алимжан Токтахунов → Alimjon To‘xtaxunov (Alimzhan Tokhtakhounov) |  | 4-bob, 419
+   Марк Грейс → Mark Greys (Mark Grace) |  | 4-bob, 420
+   Терри Мэллой; фильм «В порту» → Terri Mellou (Terry Malloy); «Portda» (On the Waterfront) |  | 4-bob, 420
+   макуучи, джурио → makuuchi, juryo | sumo divizionlari (kursiv) | 4-bob, 423
+   якудза → yakudza |  | 4-bob, 452
+   Митцуру Мийаке → Mitsuru Miyake (Mitsuru Miyake) |  | 4-bob, 452
+   Ричард Талер → Richard Taler (Richard Thaler) |  | 4-bob, 467
+   Колин Ф. Камерер → Kolin F. Kamerer (Colin F. Camerer) |  | 4-bob, 480
+   Калифорнийский институт технологий → Kaliforniya texnologiya instituti |  | 4-bob, 480
+   Кольцо Гига; Глаукон → Gig (Gyges) uzugi; Glavkon (Glaucon) | Platon, «Davlat» | 4-bob, 477
+   Ку-клукс-клан (Клан, ККК) → Ku-kluks-klan (Klan, KKK) | член Клана → Klan a’zosi; ку-клукс-клановцы → ku-kluks-klanchilar | 5-bob, 482
+   суд Линча; линчевание → linch sudi; linch qilish |  | 5-bob, 487
+   дискриминация → kamsitish |  | 5-bob, 623
+   дискриминация на основе предпочтений → afzalliklarga asoslangan kamsitish | taste-based discrimination | 5-bob, 630
+   дискриминация на основе информации → axborotga asoslangan kamsitish | information-based discrimination | 5-bob, 630
+   срочное страхование жизни → muddatli hayot sug‘urtasi | term life insurance; пожизненное → umrbod sug‘urta | 5-bob, 558
+   информация → axborot | bob mavzusi (asimmetrik axborot); ko‘p ma’noli: oddiy kontekstda «ma’lumot»; данные/сведения → ma’lumot(lar) | 5-bob, 483
+   фанатизм; фанатик → mutaassiblik; mutaassib | ханжество → riyokorlik | 5-bob, 496
+   Всемирная паутина; Сеть → Butunjahon o‘rgimchak to‘ri; Tarmoq |  | 5-bob, 565
+   директор кладбища → qabriston direktori |  | 5-bob, 566
+   цветные / черные / белые → rangli tanlilar / qora tanlilar / oq tanlilar |  | 5-bob, 486
+   латиноамериканцы → lotinamerikaliklar |  | 5-bob, 629
+   сайт знакомств → tanishuv sayti |  | 5-bob, 634
+   Реконструкция → Rekonstruksiya davri | AQSh tarixi, 1867—1877 | 5-bob, 486
+   Законы Джима Кроу → Jim Krou (Jim Crow) qonunlari |  | 5-bob, 488
+   Плесси против Фергюсона; Гомер Плесси → Plessi Fergyusonga qarshi (Plessy v. Ferguson); Xomer Plessi (Homer Plessy) | sud ishi (kursivda) | 5-bob, 488
+   Пуласки → Pulaski (Pulaski) | Tennessi shtati | 5-bob, 486
+   Д. Гриффит, «Рождение нации», «Человек Клана» → D. Griffit (D. W. Griffith), «Millatning tug‘ilishi», «Klan odami» | film nomlari kursivda, ingliz asli qavsda | 5-bob, 489
+   «История американского народа» → Amerika xalqi tarixi (A History of the American People) | V. Vilson kitobi | 5-bob, 489
+   Уоррен Г. Хардинг → Uorren G. Harding (Warren G. Harding) |  | 5-bob, 490
+   Уилл Роджерс → Uill Rojers (Will Rogers) |  | 5-bob, 490
+   Стетсон Кеннеди → Stetson Kennedi (Stetson Kennedy) |  | 5-bob, 494
+   Джон Б. Стетсон → Jon B. Stetson (John B. Stetson) |  | 5-bob, 494
+   Вуди Гутри; Ричард Райт → Vudi Gutri (Woody Guthrie); Richard Rayt (Richard Wright) |  | 5-bob, 496
+   Антиклеветническая лига → Tuhmatga qarshi liga (Anti-Defamation League) |  | 5-bob, 497
+   Хмурая сила → Qovoq solish kuchi | Liga kampaniyasi | 5-bob, 497
+   Дедди Меншн → Deddi Menshn (Daddy Mention) |  | 5-bob, 497
+   Клавалеры; клаверна; Клоран → Klavalerlar; klaverna; Kloran | Klan atamalari | 5-bob, 503
+   Великий Титан; Великий Дракон; Верховный Маг → Buyuk Titan; Buyuk Ajdaho; Oliy Sehrgar | Klan unvonlari | 5-bob, 501
+   мистер Вычек; мистер Чкэй → mister Siklan; mister Kamen | Klan so‘z o‘yini (Mr. Ayak / Mr. Akai) | 5-bob, 503
+   Алабамский институт Таскиджи → Alabamadagi Taskigi instituti (Tuskegee Institute) |  | 5-bob, 513
+   «Приключения Супермена» → Supermenning sarguzashtlari | radioshou (kursiv) | 5-bob, 544
+   Дэвид Дюк → Devid Dyuk (David Duke) |  | 5-bob, 555
+   Вин Крейг Уэйд, «Пылающий крест» → Uin Kreyg Ueyd (Wyn Craig Wade), «Yonayotgan xoch: Amerikadagi Ku-kluks-klan» (The Fiery Cross: The Ku Klux Klan in America) |  | 5-bob, 555
+   Луис Д. Брандейс → Luis D. Brandeys (Louis D. Brandeis) |  | 5-bob, 560
+   Генри Блоджет; Джек Грабмен; Френк Кваттроун; Сэм Уэксел → Genri Blodjet (Henry Blodget); Jek Grabmen (Jack Grubman); Frenk Kvattroun (Frank Quattrone); Sem Ueksel (Sam Waksal) |  | 5-bob, 568
+   Марта Стюарт → Marta Styuart |  | 5-bob, 568
+   Дэвид Хиллис → Devid Xillis (David Hillis) |  | 5-bob, 574
+   Джон Донохью → Jon Donoxyu (John Donohue) |  | 5-bob, 579
+   Трент Лотт → Trent Lott (Trent Lott) |  | 5-bob, 484
+   Стром Термонд → Strom Termond (Strom Thurmond) |  | 5-bob, 621
+   Али Хортацу; Гюнтер Хитщ; Дэн Ариэли → Ali Hortasu (Ali Hortaçsu); Gyunter Xitsh (Günter Hitsch); Den Arieli (Dan Ariely) |  | 5-bob, 637
+   Дэвид Динкинс; Рудольф Джулиани → Devid Dinkins (David Dinkins); Rudolf Juliani |  | 5-bob, 649
+   в хорошем состоянии → yaxshi holatda | ko‘chmas mulk e’lonlari iborasi | 5-bob, 484
+   крэк → krek | kokain turi (crack); крэковый бум → krek bumi | 6-bob, 658
+   банда; наркобанда → to‘da; narkoto‘da | группировка → guruh | 6-bob, 673
+   главарь банды → to‘da sardori |  | 6-bob, 704
+   Черные гангстеры → Qora gangsterlar | Black Gangster Disciples to‘dasi, qo‘shtirnoqda | 6-bob, 690
+   совет директоров (банды) → direktorlar kengashi |  | 6-bob, 722
+   офицер; инфорсер; казначей; курьер → ofitser; enforser; xazinachi; kuryer | to‘da tuzilmasi | 6-bob, 723
+   пехотинцы (уличные продавцы) → piyoda askarlar (ko‘cha sotuvchilari) |  | 6-bob, 723
+   условные (рядовые) члены → shartli (oddiy) a’zolar |  | 6-bob, 723
+   наркоторговец; наркодилер; пушер → narkotik savdogari / narkotik sotuvchi; narkodiler; pusher | торговец наркотиками → narkotik sotuvchi (tasdiqlangan) | 6-bob, 674
+   Садхир Венкатеш → Sudxir Venkatesh (Sudhir Venkatesh) |  | 6-bob, 658
+   Джей Ти → Jey Ti (J. T.) | to‘da sardori | 6-bob, 704
+   Бути → Buti (Booty) |  | 6-bob, 714
+   Джон Кеннет Гэлбрейт → Jon Kennet Gelbreyt (John Kenneth Galbraith) |  | 6-bob, 663
+   Митч Снайдер → Mitch Snayder (Mitch Snyder) |  | 6-bob, 665
+   Джеймс Б. Твитчелл → Jeyms B. Tvitchell (James B. Twitchell) |  | 6-bob, 667
+   Пол Кругман → Pol Krugman (Paul Krugman) |  | 6-bob, 668
+   Уильям Джулиус Вильсон (Уилсон) → Uilyam Julius Uilson (William Julius Wilson) |  | 6-bob, 677
+   Оливер Уэнделл Холмс → Oliver Uendell Xolms (Oliver Wendell Holmes) |  | 6-bob, 717
+   Общество товарищей (Гарвард) → Hamkasblar jamiyati (Society of Fellows) | kursivda | 6-bob, 717
+   Ричард Прайор; «Миллионы Брюстера» → Richard Prayor (Richard Pryor); Bryusterning millionlari (Brewster’s Millions) | film nomi kursivda | 6-bob, 788
+   Дженет (жена Левитта) → Jenet (Jeannette) |  | 6-bob, 811
+   ФБР → FQB | Federal qidiruv byurosi | 6-bob, 714
+   Бюро статистики труда → Mehnat statistikasi byurosi |  | 6-bob, 767
+   Национальное бюро экономических исследований → Milliy iqtisodiy tadqiqotlar byurosi |  | 6-bob, 811
+   Высшая лига → Oliy liga |  | 6-bob, 771
+   гламурная профессия → glamur kasb |  | 6-bob, 770
+   хронический халитоз → surunkali galitoz |  | 6-bob, 667
+   свободная основа → erkin asos | freebase | 6-bob, 788
+   волновой эффект → to‘lqin effekti | ripple effect | 6-bob, 806
+   контрас (никарагуанские) → kontralar |  | 6-bob, 790
+   преступность → jinoyatchilik | уровень преступности → jinoyatchilik darajasi; спад/снижение преступности → jinoyatchilik pasayishi | 7-bob, 815
+   тяжкие преступления; особо тяжкие преступления → og‘ir jinoyatlar; o‘ta og‘ir jinoyatlar | насильственные преступления → zo‘ravonlik jinoyatlari | 7-bob, 826
+   высшая мера наказания; смертная казнь → oliy jazo; o‘lim jazosi | смертный приговор → o‘lim hukmi | 7-bob, 816
+   легализация абортов → abortlarning qonuniylashtirilishi |  | 7-bob, 816
+   взаимосвязь (корреляция) / причинность → o‘zaro bog‘liqlik (korrelyatsiya) / sababiyat | причинная связь → sababiy bog‘liqlik; причинно-следственная связь → sabab-oqibat bog‘liqligi | 7-bob, 853
+   новые стратегии полиции → politsiyaning yangi strategiyalari | 3-bobdagi tarjimaga muvofiq | 7-bob, 835
+   увеличение численного состава полиции → politsiya shtatining ko‘payishi |  | 7-bob, 842
+   законы о контроле оружия → qurol nazorati to‘g‘risidagi qonunlar |  | 7-bob, 840
+   выкуп оружия → qurolni (aholidan) sotib olish | gun buyback | 7-bob, 845
+   теория разбитого окна → singan deraza nazariyasi | broken window theory | 7-bob, 874
+   непреднамеренная выгода → ko‘zlanmagan foyda | unintended benefit | 7-bob, 925
+   Николае Чаушеску; Елена → Nikolae Chaushesku; Yelena |  | 7-bob, 816
+   Тимишоара; Бухарест → Timishoara; Buxarest |  | 7-bob, 822
+   Гэри Беккер → Geri Bekker (Gary Becker) |  | 7-bob, 851
+   Джон Дж. ДиЮлио младший → kichik Jon J. Diyulio (John J. DiIulio Jr.) |  | 7-bob, 853
+   Исаак Эрлих → Isaak Erlix (Isaac Ehrlich) |  | 7-bob, 857
+   Хэрри Блэкмун → Garri Blekmun (Harry Blackmun) |  | 7-bob, 858
+   Уильям (Билл) Брэттон → Uilyam (Bill) Bratton (William Bratton) |  | 7-bob, 873
+   Джеймс Вильсон (Уилсон); Джордж Келлинг → Jeyms Uilson (James Q. Wilson); Jorj Kelling (George Kelling) | kriminologlar; Uilyam Julius Uilsondan farqli | 7-bob, 874
+   CompStat; LexisNexis → CompStat; LexisNexis | lotin yozuvida, kursiv | 7-bob, 831
+   Закон Брэйди → Breydi qonuni (Brady Act) |  | 7-bob, 896
+   Джон Р. Лотт младший; «Больше оружия, меньше преступности»; Мэри Рош → kichik Jon R. Lott (John R. Lott Jr.); Ko‘proq qurol — kamroq jinoyat (More Guns, Less Crime); «Meri Rosh» (Mary Rosh) | kitob nomi kursivda | 7-bob, 897
+   Гилберт Честертон → Gilbert Chesterton |  | 7-bob, 925
+   Энтони Боуза → Entoni Bouza (Anthony Bouza) |  | 7-bob, 926
+   Д. Гейл Джонсон; Эндрю; Аманда → D. Geyl Jonson (D. Gale Johnson); Endryu; Amanda | Levitt hayotidan | 7-bob, 965
+   Джейн Рои → Jeyn Rou | 3-bobda Jeyn Rou (Jane Roe) deb berilgan | 7-bob, 816
+   бассейн → suzish havzasi | oldingi boblarga muvofiq | 7-bob, 968
+   эксперт по воспитанию → tarbiya bo‘yicha ekspert |  | 8-bob, 976
+   родительское мастерство / искусство → ota-onalik mahorati / san’ati |  | 8-bob, 976
+   навязчивые (чрезмерно заботливые) родители → haddan tashqari g‘amxo‘r ota-onalar | чрезмерно опекающие → haddan tashqari ehtiyot qiladigan | 8-bob, 973
+   природа и воспитание → tabiat va tarbiya | nature vs. nurture | 8-bob, 973
+   Риск = Опасность + Беспокойство → Xavf = Xatar + Tashvish | P. Sendmen formulasi; риск → xavf, опасность → xatar, беспокойство → tashvish | 8-bob, 990
+   фактор страха; фактор контроля → dahshat omili; nazorat omili |  | 8-bob, 989
+   Питер Сэндмен → Piter Sendmen (Peter Sandman) |  | 8-bob, 983
+   Энн Хальберт; «Воспитание Америки…» → Enn Xalbert (Ann Hulbert); Amerikani tarbiyalash: ekspertlar, ota-onalar va bolalar haqidagi maslahatlar asri (Raising America…) | kitob nomi kursivda | 8-bob, 977
+   Гэри Эццо; «Детская мудрость» → Geri Ezzo (Gary Ezzo); Go‘dak donoligi (Babywise) |  | 8-bob, 977
+   Т. Берри Брэйзлтон → T. Berri Breyzlton (T. Berry Brazelton) |  | 8-bob, 977
+   Л. Эмметт Холт → L. Emmett Xolt (L. Emmett Holt) |  | 8-bob, 977
+   Джудит Рич Харрис; «Воспитательная ложь» → Judit Rich Xarris (Judith Rich Harris); Tarbiya haqidagi yolg‘on (The Nurture Assumption) |  | 8-bob, 1000
+   Стивен Пинкер; «Чистый лист» → Stiven Pinker (Steven Pinker); Toza varaq (Blank Slate) |  | 8-bob, 1002
+   общественные школы Чикаго (ОШЧ) → Chikago davlat maktablari (ChDM) | qisqartma 8-bobda kiritildi | 8-bob, 1013
+   Браун против Совета по образованию (г. Топека); Оливер Браун → Braun Topeka shahar ta’lim kengashiga qarshi; Oliver Braun (Oliver Brown) | sud ishi kursivda | 8-bob, 1013
+   выбор школы; школьная лотерея → maktab tanlash; maktab lotereyasi |  | 8-bob, 1012
+   Ричард П. Миллс → Richard P. Mills (Richard P. Mills) |  | 8-bob, 1021
+   разрыв (в результатах тестов) между белыми и черными → oq tanlilar va qora tanlilar o‘rtasidagi (test natijalaridagi) farq |  | 8-bob, 1022
+   Роланд Фрайер младший; «белое поведение» → kichik Roland Frayer (Roland Fryer Jr.); «oq tanlilarcha xulq-atvor» |  | 8-bob, 1024
+   Карим Абдул-Джаббар (Лью Эльсиндор) → Karim Abdul-Jabbor (Kareem Abdul-Jabbar), Lyu Alsindor (Lew Alcindor) |  | 8-bob, 1024
+   Продольное исследование раннего детства (ECLS) → Erta bolalikni bo‘ylama tadqiq etish (ECLS) | ECLS lotincha, kursivda | 8-bob, 1027
+   регрессивный (регрессионный) анализ → regressiya tahlili | regression analysis | 8-bob, 1030
+   корреляция (статистический термин); переменная → korrelyatsiya; o‘zgaruvchi | положительная/отрицательная → ijobiy/salbiy korrelyatsiya; umumiy ma’noda «взаимосвязь» → o‘zaro bog‘liqlik | 8-bob, 1031
+   Ассоциация родителей и преподавателей (PTA) → Ota-onalar va o‘qituvchilar assotsiatsiyasi (PTA) | kursivda; РТА kirillcha yozilgan, lotincha PTA | 8-bob, 1043
+   Head Start → Head Start | federal maktabgacha tarbiya dasturi; lotincha o‘zgarishsiz, qo‘shimcha «dasturi» so‘zi orqali | 8-bob, 1057
+   Имеет значение / Не имеет значения → Ahamiyatga ega / Ahamiyatga ega emas | ECLS omillari juftliklari | 8-bob, 1092
+   Род Благоевич → Rod Blagoyevich (Rod Blagojevich) | Illinoys gubernatori | 8-bob, 1137
+   Брюс Сэкердот → Bryus Sakerdot (Bruce Sacerdote) |  | 8-bob, 1166
+   Молли, Эми, Имани; Исайя, Эмили, Рики → Molli, Emi, Imani; Isayya, Emili, Riki | misoldagi bolalar ismlari | 8-bob, 981, 1135
+   Дайтона-Бич → Deytona-Bich (Daytona Beach) |  | 8-bob, 1007
+   Роберт Лэйн; Победитель (Виннер), Неудачник (Лузер) Лэйн → Robert Leyn (Robert Lane); Vinner (G‘olib), Luzer (Omadsiz) Leyn | keyin G‘olib Leyn, Omadsiz Leyn | 9-bob, 1177
+   Темптресс (Искусительница); Кауч (Кушетка) → Temptress (Vasvasachi); Kauch (Divan) |  | 9-bob, 1182
+   У. Дэннис Дугган; Олбани; Суд по семейным делам → U. Dennis Duggan (W. Dennis Duggan); Olbani (Albany); Oilaviy ishlar sudi |  | 9-bob, 1182
+   Сейнфельд; Футбол в понедельник вечером; Косби → Seynfeld (Seinfeld); Dushanba oqshomidagi futbol; Kosbi | teleko‘rsatuvlar, kursivda | 9-bob, 1173, 1191, 1183
+   «черное» / «белое» имя → «qora» / «oq» ism | tipik «qora» ism | 9-bob, 1173
+   культурная сегрегация → madaniy segregatsiya |  | 9-bob, 1191
+   Черная сила; Черная пантера; Бобби Сил → «Qora kuch»; «Qora pantera»; Bobbi Sil (Bobby Seale) |  | 9-bob, 1195
+   ДеШоун Уильямс; Джейк Уильямс → DeShon Uilyams (DeShawn Williams); Jeyk Uilyams (Jake Williams) |  | 9-bob, 1250
+   Натали Еременко; Дальтон Конли → Natali Yeremenko (Natalie Jeremijenko); Dalton Konli (Dalton Conley) |  | 9-bob, 1253
+   Иссур Данилович; Керк Дуглас; Зелман Мозес; Агентство Уильяма Морриса → Issur Danilovich; Kirk Duglas; Zelman Mozes (Zelman Moses); Uilyam Morris agentligi |  | 9-bob, 1253
+   Бритни Спирс; Мэдисон; Авива → Britni Spirs; Medison; Aviva |  | 9-bob, 1173
+   резюме; работодатель; собеседование → rezyume; ish beruvchi; suhbat (ishga qabul qilish suhbati) |  | 9-bob, 1249
+   мотивация → motivatsiya |  | 9-bob, 1259
+   Техасский университет в Арлингтоне → Arlingtondagi Texas universiteti |  | 9-bob, 1189
+   Роланд Г. Фрайер младший → kichik Roland G. Frayer | 8-bobdagi kichik Roland Frayer (Roland Fryer Jr.) bilan bir shaxs | 9-bob, 1189
+   среднее количество лет образования → o‘qishga sarflangan yillarning o‘rtacha soni | ism ro‘yxatlari kichik sarlavhasi | 9-bob, 1358
+   Минимум 100 (10) упоминаний → Kamida 100 (10) marta uchragan | ro‘yxat izohi | 9-bob, 1370
+   Мадонна; Ширли Темпл → Madonna; Shirli Templ |  | 9-bob, 1505
+   «умное» / «богатое» имя → «aqlli» / «boy» ism |  | 9-bob, 1404, 1539
+   Тед Качински; Унабомбер → Ted Kachinski (Ted Kaczynski); «Unabomber» |  | 10-bob, 1548
+   См. статью / книгу / работу; См. также → Qarang: ... maqolasi / kitobi / ishi; Shuningdek, qarang: | Izohlar bo‘limidagi bibliografik shakl; с. → b.; от D месяца YYYY года → YYYY-yil D-oy soni | 11-bob, 1557
+   Бюро судебной статистики → Sud statistikasi byurosi | Bureau of Justice Statistics | 11-bob, 1558
+   Ури Гнизи; Альдо Растичини → Uri Gnizi (Uri Gneezy); Aldo Rustikini (Aldo Rustichini) |  | 11-bob, 1570
+   Ричард М. Титмусс → Richard M. Titmus (Richard M. Titmuss) |  | 11-bob, 1573
+   Джордж Акерлоф → Jorj Akerlof (George Akerlof) |  | 11-bob, 1590
+   Уоллес Карозерс → Uolles Karozers (Wallace Carothers) | neylon ixtirochisi | 11-bob, 1614
+   Шомбургский центр исследований черной культуры → Shomburg (Schomburg) qora tanlilar madaniyatini tadqiq etish markazi |  | 11-bob, 1587
+   Национальная университетская атлетическая ассоциация → Milliy universitetlararo atletika assotsiatsiyasi | NCAA | 11-bob, 1579
+   Общественные школы Окленда → Oklend davlat maktablari | Chikago davlat maktablari bilan bir xil shakl | 11-bob, 1576
+   Гити Нашат Беккер → Giti Nashat Bekker (Guity Nashat Becker) |  | 11-bob, 1605
+   Кристиан Поп-Элечес → Kristian Pop-Eleches (Cristian Pop-Eleches) |  | 11-bob, 1624
+   Уильям Дж. Горта → Uilyam J. Gorta (William J. Gorta) | CompStat yaratuvchilaridan | 11-bob, 1636
+   Апелляционный суд штата Нью-Йорк → Nyu-York shtati Apellyatsiya sudi |  | 11-bob, 1631
+   Лоуренс Гринфилд → Lourens Grinfild (Lawrence Greenfeld) | Sud statistikasi byurosi direktori | 11-bob, 1651
+   Ричард Райордан → Richard Rayordan (Richard Riordan) | Los-Anjelesning sobiq meri | 11-bob, 1703
+   Айсис; Тринити → Aysis; Triniti | Rayordan voqeasidagi qizcha va uning onasi | 11-bob, 1703
+   Мервин Дималли → Mervin Dimalli (Mervyn Dymally) |  | 11-bob, 1703
+   Дуг МакАдам → Dag Makadam (Doug McAdam) | Stenford sotsiologi | 11-bob, 1704
+   Стенли Либерсон → Stenli Liberson (Stanley Lieberson) |  | 11-bob, 1715
+   Кливленд Кент Эванс → Klivlend Kent Evans (Cleveland Kent Evans) |  | 11-bob, 1716
+   Университет Бель-Вью (Небраска) → Bellevyu universiteti (Nebraska) | Bellevue University | 11-bob, 1716
+   Университет Центральной Флориды → Markaziy Florida universiteti |  | 11-bob, 1666
+   Институт социальных исследований Университета Мичигана → Michigan universiteti Ijtimoiy tadqiqotlar instituti |  | 11-bob, 1696
+   Лузер (Неудачник) Лэйн → Luzer (Omadsiz) Leyn | izoh sarlavhasi; 9-bobdagi atamaga mos | 11-bob, 1693
+   Шитхед (Дерьмоголовая) → Shithed (Go‘ngkalla) | 9-bobdagi shakl | 11-bob, 1703
+   Оранжелло и Лимончелло → Oranjello va Limonjello | 9-bobdagi shakl | 11-bob, 1704
+   Примеч. ред. → Muharrir izohi. | sahifa osti izohidagi belgi | 12-bob, 1749
+   Пер. (переводчик) → ... tarjimasi | «Пер. Б. Пастернака» → «B. Pasternak tarjimasi» | 12-bob, 1751
+   Персональные благодарности → Shaxsiy minnatdorchilik | kichik sarlavha | 12-bob, 1726
+5) TASDIQ KERAK ATAMALAR
+   Lug'atda TAKLIF atama yo'q
+   Tarjimon tanlovlari (tekshirib ko'ring):
+   [ПРИМЕЧАНИЯ] от D месяца YYYY года → «YYYY-yil D-oy soni» (asosiy agent «...-yil ... sanasidagi» shaklini taklif qilgan edi; jurnal nomi qavs boshida turgani uchun «soni» shakli tanlandi)
+6) RASMLAR VA QO'LDA TEKSHIRISH
+   word/media/ dagi 3 ta rasm o'zgarishsiz qoldi. Rasm ichidagi yozuvlar tarjima qilinmadi.
+   Rasmlar: image1.jpeg, image2.jpeg, image3.jpeg
+   Qo'lda: mundarija havolalari ishlashini Word da tekshiring; sahifa raqamlari maydon bo'lsa F9 bilan yangilang.
+7) SIFAT TEKSHIRUVI
+   XATO 0
+   Raqam istisnosi 364: Asl matnda OCR xatosi: «б-го класса» → 6-sinf
+   Raqam istisnosi 401: Asl matnda OCR xatosi: «в. З» → c. 3
+   Raqam istisnosi 982: Asl matnda OCR xatosi: «1 к И 000» → 11 000 dan 1
+   Raqam istisnosi 1231: Asl matnda OCR xatosi: «б. Дастин» → 6. Dastin (ro'yxat raqami)
+   Raqam istisnosi 1553: OCR: kirillcha «З» → 3
+   Raqam istisnosi 1574: OCR: «E1TC» → EITC
+   Raqam istisnosi 1599: OCR: «TimesorSl» = «Times от 31» → 31-oktabr
+   Raqam istisnosi 1628: OCR: «11уапа» → Ilyana
+   Sahifalar soni (LibreOffice PDF): asl 193, tarjima 160. Farq sababi: LibreOffice’dagi Caladea shriftida kirill harflari yo‘q, asl matn kengroq DejaVu shriftida chiqadi; Word’da (Cambria) farq ancha kichik bo‘ladi. Mundarija maydoni Ish/maydon_tuzat.py bilan asl tuzilishga qaytarildi.
+8) BOBLARGA BO'LISH
+    0. 0-qism (mundarija, annotatsiya, nom varag‘i) (birliklar 1-50)
+    1. ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ (birliklar 51-66)
+    2. ПОЯСНИТЕЛЬНАЯ ЗАПИСКА (birliklar 67-89)
+    3. ВВЕДЕНИЕ Всегда есть что-то, чего мы не знаем (birliklar 90-180)
+    4. 1 Что общего между школьными учителями и борцами сумо? (birliklar 181-481)
+    5. 2 Что общего между Ку-клукс-кланом и агентами по торговле недвижимостью? (birliklar 482-655)
+    6. 3 Почему торговцы наркотиками продолжают жить со своими родителями? (birliklar 656-813)
+    7. 4 Куда исчезли все преступники? (birliklar 814-970)
+    8. 5 Идеальные родители?.. (birliklar 971-1170)
+    9. 6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2] (birliklar 1171-1539)
+   10. ЭПИЛОГ Два пути в Гарвард (birliklar 1540-1548)
+   11. ПРИМЕЧАНИЯ (birliklar 1549-1720)
+   12. БЛАГОДАРНОСТИ (birliklar 1721-1753)
+   Bo'lish tekshiruvi: XATO 0, TEKSHIRING 0

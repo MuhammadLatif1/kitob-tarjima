@@ -1,0 +1,18 @@
+1) QAMROV
+   Xatboshi: 1753, jadval: 5, sahifa osti izohi: 0, rasm: 3 (asl bilan solishtirilgan)
+   Tarjima qilingan birliklar: 1459 / 1459
+6) RASMLAR VA QO'LDA TEKSHIRISH
+   word/media/ dagi 3 ta rasm o'zgarishsiz qoldi. Rasm ichidagi yozuvlar tarjima qilinmadi.
+   Rasmlar: image1.jpeg, image2.jpeg, image3.jpeg
+   Qo'lda: mundarija havolalari ishlashini Word da tekshiring; sahifa raqamlari maydon bo'lsa F9 bilan yangilang.
+7) SIFAT TEKSHIRUVI
+   XATO 0
+   Raqam istisnosi 364: Asl matnda OCR xatosi: «б-го класса» → 6-sinf
+   Raqam istisnosi 401: Asl matnda OCR xatosi: «в. З» → c. 3
+   Raqam istisnosi 982: Asl matnda OCR xatosi: «1 к И 000» → 11 000 dan 1
+   Raqam istisnosi 1231: Asl matnda OCR xatosi: «б. Дастин» → 6. Dastin (ro'yxat raqami)
+   Raqam istisnosi 1553: OCR: kirillcha «З» → 3
+   Raqam istisnosi 1574: OCR: «E1TC» → EITC
+   Raqam istisnosi 1599: OCR: «TimesorSl» = «Times от 31» → 31-oktabr
+   Raqam istisnosi 1628: OCR: «11уапа» → Ilyana
+   Sahifalar soni (LibreOffice PDF): asl 193, tarjima 160
