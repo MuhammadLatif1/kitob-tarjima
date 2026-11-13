@@ -1,5 +1,5 @@
 HOLAT: Frikonomika (Asl/Frikonomika.docx)
 Boblar: 0-12 (Ish/boblar.json)
-Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
-Keyingi: 12-raqamli bob (БЛАГОДАРНОСТИ), birlik 1721 dan
+Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 (11-bob qisman)
+Keyingi: 11-bob (ПРИМЕЧАНИЯ), birlik 1641 dan; keyin 12-bob (1721-1753)
 Bob 11 qisman (to‘xtatildi): XATO 0, OGOHLANTIRISH 4. Tayyor: 86/161 birlik (qolgan birinchi: 1641)
