@@ -1,5 +1,4 @@
 HOLAT: Frikonomika (Asl/Frikonomika.docx)
 Boblar: 0-12 (Ish/boblar.json)
-Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8
-Keyingi: 9-raqamli bob (6 Идеальные родители, часть II, или “Что имя? Роза пахнет розой, хоть назови ее, хоть нет”[2]), birlik 1171 dan
-Bob 9 qisman: 1171-1355 tayyor, 1356 dan davom
+Tugagan boblar: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+Keyingi: 10-raqamli bob (ЭПИЛОГ Два пути в Гарвард), birlik 1540 dan

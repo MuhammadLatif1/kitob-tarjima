@@ -12,7 +12,16 @@
   "1196: «Юник ... Унику, Унеку и Уники» → Yunik (Unique), Unik, Unek va Uniki (ruscha matn bo‘yicha; inglizcha asl yozilishi tekshirilsin).",
   "1253: «Примеч. ред.» → «Muharr. izohi» (avvalgi boblardagidek). Bola ismi «Yo Ksing Xeyno Avgustus Ayzner Aleksandr Vayzer Naklz Yeremenko-Konli» transliteratsiya qilindi (inglizcha: Yo Xing Heyno Augustus Eisner Alexander Weiser Knuckles Jeremijenko-Conley).",
   "1191: «Marlboro.» dagi nuqta kursiv oralig‘idan tashqariga chiqarildi (belgilar soni o‘zgarmagan).",
-  "1262: «ученые имена» — «ilmiy» ismlar (Garvard, Yel, Prinston kabi) deb berildi; talaffuz shakllari sha-Tid, a-Ron-jello, le-Mon-jello kursivda saqlandi."
+  "1262: «ученые имена» — «ilmiy» ismlar (Garvard, Yel, Prinston kabi) deb berildi; talaffuz shakllari sha-Tid, a-Ron-jello, le-Mon-jello kursivda saqlandi.",
+  "1359-1368, 1376-1385, 1391-1400, 1408-1417, 1425-1434, 1513-1537: ism ro‘yxatlari ruscha shakldan lotinchaga, ingliz asliga tayanib transliteratsiya qilindi. Yozilishi standartdan farq qiladigan yoki o‘zbekchada boshqa ism bilan bir xil chiqadigan ismlarda ingliz yozilishi qavsda berildi (Angel, Haven, Shyanne, Britny, Tiffanie, Ashly, Tabatha, Destiny/Destinee, Brandy/Brandie, Tylor va boshq.) — bu inglizcha asl ro‘yxatga tayangan taxmin, tekshirilsin.",
+  "1368: «Брэнни» transliteratsiya qilinib «Brenni» deb berildi; inglizcha asl ro‘yxatda ehtimol Brandi (OCR/tarjima xatosi bo‘lishi mumkin). Tekshirilsin.",
+  "1376-1385: o‘nta «Jasmin» shakli ruscha yozilishiga ko‘ra farqlab berildi (Jazmin, Jazmayn, Jazzmin, Jazzmayn, Jasmayn, Jasmina, Jezmin, Jasmin, Jasmin, Jesmin), qavsda taxminiy ingliz asli. 1218-1221 dagi ingliz qavslari bilan ayrim mosliklar (Джасмин/Джезмин/Джесмин) to‘liq mos kelmasligi mumkin — tekshirilsin.",
+  "1413: asl matnda «(16.26)» nuqta bilan (boshqalari vergul bilan) — raqam o‘zgartirilmay, asldagidek qoldirildi.",
+  "1424: kichik sarlavha aslida kichik harflarda (boshqa ro‘yxatlarda bosh harflarda) — asldagidek saqlandi.",
+  "1428, 1535: «Иона» (Jonah) → Jona (Jonah). 1425: «Дав» (Dov) → Dav (Dov). 1425: «Гуиллаум» → Guillaum (Guillaume).",
+  "1514: «Кэйр» → Keyr; inglizcha asl ro‘yxatda ehtimol Kate (Кэйт) — OCR xatosi bo‘lishi mumkin, tuzatilmadi, tekshirilsin.",
+  "1509: «Библия» → Bibliya (oldingi boblardagidek).",
+  "1539: «Победитель или Неудачник» → «G‘olib yoki Omadsiz» (bob boshidagi Leyn aka-ukalari ismlari tarjima shakliga mos)."
  ],
  "iqtiboslar": [
   "1171: «Nom nima? Atirgulni qanday atasang ham...» | Shekspir, «Romeo va Julyetta» | asl lafz (va o‘zbekcha nashr tarjimasi) tekshirilsin",
@@ -20,7 +29,8 @@
   "1183, 1184: sudya U. Dennis Duggan so‘zlari | asl lafz tekshirilsin",
   "1190, 1192: Roland Frayer so‘zlari | asl lafz tekshirilsin",
   "1197: qora tanli onalarning taxminiy so‘zlari (Frayer talqini) | asl lafz tekshirilsin",
-  "Sahifa osti izoh havolalari [1]-[12] va [2] (sarlavhada) joyida saqlandi; muharrir izohi 1253 da."
+  "Sahifa osti izoh havolalari [1]-[12] va [2] (sarlavhada) joyida saqlandi; muharrir izohi 1253 da.",
+  "Sahifa osti izoh havolalari [13] (1404), [14] (1454), [15], [16] (1505) joyida saqlandi."
  ],
  "yangi_atamalar": [
   {
@@ -112,6 +122,30 @@
    "uz": "kichik Roland G. Frayer",
    "izoh": "8-bobdagi kichik Roland Frayer (Roland Fryer Jr.) bilan bir shaxs",
    "joy": "9-bob, 1189"
+  },
+  {
+   "en": "среднее количество лет образования",
+   "uz": "o‘qishga sarflangan yillarning o‘rtacha soni",
+   "izoh": "ism ro‘yxatlari kichik sarlavhasi",
+   "joy": "9-bob, 1358"
+  },
+  {
+   "en": "Минимум 100 (10) упоминаний",
+   "uz": "Kamida 100 (10) marta uchragan",
+   "izoh": "ro‘yxat izohi",
+   "joy": "9-bob, 1370"
+  },
+  {
+   "en": "Мадонна; Ширли Темпл",
+   "uz": "Madonna; Shirli Templ",
+   "izoh": "",
+   "joy": "9-bob, 1505"
+  },
+  {
+   "en": "«умное» / «богатое» имя",
+   "uz": "«aqlli» / «boy» ism",
+   "izoh": "",
+   "joy": "9-bob, 1404, 1539"
   }
  ],
  "tasdiq_kerak": []
